@@ -25,6 +25,25 @@ if (bad.length) {
   process.exit(1);
 }
 
+// 폰으로 찍은 사진은 한 장에 3~8MB다. 그대로 쌓으면 1GB 한도가 금방 찬다.
+const big = [];
+const scan = (dir) => {
+  for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
+    if (f.name === '.git' || f.name === 'node_modules') continue;
+    const p = path.join(dir, f.name);
+    if (f.isDirectory()) scan(p);
+    else if (/\.(png|jpe?g|gif|webp)$/i.test(f.name) && fs.statSync(p).size > 1024 * 1024) {
+      big.push([path.relative(ROOT, p), (fs.statSync(p).size / 1024 / 1024).toFixed(1)]);
+    }
+  }
+};
+scan(ROOT);
+if (big.length) {
+  console.warn('⚠ 1MB가 넘는 이미지가 있습니다 — 블로그 본문 폭(약 700px)에는 과합니다:');
+  big.forEach(([f, mb]) => console.warn(`  - ${f}  ${mb}MB`));
+  console.warn('  폭 1200px 정도로 줄여서 올리는 걸 권합니다. 그대로 올리려면 이어서 진행됩니다.\n');
+}
+
 if (!out('git status --porcelain')) { console.log('바뀐 게 없습니다.'); process.exit(0); }
 
 const msg = process.argv.slice(2).join(' ') || '이미지 추가';
