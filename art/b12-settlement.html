@@ -1,0 +1,85 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .row { display: flex; align-items: stretch; gap: 0; margin-bottom: 18px; }
+  .tag {
+    width: 92px; flex: none; display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700; border-radius: 8px 0 0 8px; color: #fff;
+  }
+  .ok .tag  { background: #2f9e6e; }
+  .bad .tag { background: #d0553f; }
+  .body {
+    flex: 1; border: 1px solid #e3e3e3; border-left: none; border-radius: 0 8px 8px 0;
+    padding: 14px 18px 16px;
+  }
+  .ok .body  { background: #f4fbf7; border-color: #cfe9dd; }
+  .bad .body { background: #fdf5f3; border-color: #f0d3cb; }
+
+  .steps { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .box {
+    border: 1px solid #d8d8d8; background: #fff; border-radius: 7px;
+    padding: 7px 13px; font-size: 14px; font-weight: 600; white-space: nowrap;
+  }
+  .box small { display: block; font-size: 11.5px; font-weight: 500; color: #7a7a7a; margin-top: 1px; }
+  .arrow { color: #b0b0b0; font-size: 15px; }
+  .year {
+    margin-left: 4px; padding: 6px 13px; border-radius: 999px;
+    font-size: 13.5px; font-weight: 700; white-space: nowrap;
+  }
+  .ok .year  { background: #2f9e6e; color: #fff; }
+  .bad .year { background: #d0553f; color: #fff; }
+  .note { font-size: 13px; color: #5c5c5c; }
+
+  .foot {
+    margin-top: 22px; padding-top: 16px; border-top: 1px solid #ececec;
+    font-size: 13.5px; color: #444; line-height: 1.75;
+  }
+  .foot b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>해외주식 양도세는 판 날이 아니라 결제된 날 기준입니다</h1>
+  <p class="sub">같은 12월에 팔았는데 과세 연도가 갈립니다</p>
+
+  <div class="row ok">
+    <div class="tag">올해</div>
+    <div class="body">
+      <div class="steps">
+        <div class="box">12월 넷째 주 매도<small>주문 체결</small></div>
+        <span class="arrow">→</span>
+        <div class="box">연내 결제 완료<small>영업일 기준 +1</small></div>
+        <span class="arrow">→</span>
+        <div class="year">올해 양도차익</div>
+      </div>
+      <p class="note">올해 250만원 공제를 쓰려면 여기까지 끝나야 합니다.</p>
+    </div>
+  </div>
+
+  <div class="row bad">
+    <div class="tag">내년</div>
+    <div class="body">
+      <div class="steps">
+        <div class="box">12월 31일 매도<small>주문 체결</small></div>
+        <span class="arrow">→</span>
+        <div class="box">결제일이 해를 넘김<small>휴장일이 끼면 더 밀림</small></div>
+        <span class="arrow">→</span>
+        <div class="year">내년 양도차익</div>
+      </div>
+      <p class="note">올해 공제 한도는 그대로 날아갑니다. 다시 채울 수 없습니다.</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    연말에는 크리스마스·신정 휴장이 끼어 영업일 계산이 매년 달라집니다.<br />
+    가장 확실한 방법은 거래하는 <b>증권사가 11월쯤 올리는 “양도세 반영 매도 권장일” 공지</b>를 확인하는 것입니다.
+  </div>
+</div>
