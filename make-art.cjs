@@ -9,7 +9,13 @@ const url = require('url');
 
 const ROOT = __dirname;
 const SRC = path.join(ROOT, 'art');
-const CHROME = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+
+// OS별 Chrome 위치. CHROME_PATH로 덮어쓸 수 있다
+const CHROME = process.env.CHROME_PATH || {
+  darwin: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+  win32: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+  linux: '/usr/bin/google-chrome',
+}[process.platform];
 
 // 연·월 폴더로 나눈다 — 파일명이 겹치지 않고 나중에 찾기 쉽다
 const now = new Date();

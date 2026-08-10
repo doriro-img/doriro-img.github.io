@@ -1,0 +1,13 @@
+{
+  "name": "doriro-img",
+  "private": true,
+  "version": "1.0.0",
+  "description": "블로그 이미지 저장소 — 도식 생성과 배포 도구",
+  "scripts": {
+    "art": "node make-art.cjs",
+    "push": "node push.cjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.5.0"
+  }
+}
