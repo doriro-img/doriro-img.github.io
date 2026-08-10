@@ -1,0 +1,79 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .item { display: flex; align-items: center; gap: 14px; margin-bottom: 10px; }
+  .no {
+    width: 26px; height: 26px; flex: none; border-radius: 50%;
+    background: #2f9e6e; color: #fff; font-size: 13px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .item.tax .no { background: #8a8f96; }
+  .box {
+    flex: 1; border: 1px solid #e3e3e3; border-radius: 8px; padding: 12px 16px;
+    display: flex; align-items: baseline; gap: 10px; background: #fafafa;
+  }
+  .item.tax .box { background: #f4f5f7; }
+  .name { font-size: 14.5px; font-weight: 700; width: 128px; flex: none; }
+  .desc { font-size: 13px; color: #6b6b6b; flex: 1; }
+  .val { font-size: 14px; font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+  .sum {
+    margin-top: 16px; padding: 16px 18px; border-radius: 8px;
+    background: #f4fbf7; border: 1px solid #cfe9dd;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .sum span { font-size: 15px; font-weight: 700; }
+  .sum b { font-size: 24px; color: #23805a; }
+  .foot { margin-top: 15px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>전기요금 고지서는 이렇게 만들어집니다</h1>
+  <p class="sub">8월에 400kWh를 쓴 경우</p>
+
+  <div class="item">
+    <div class="no">1</div>
+    <div class="box"><span class="name">기본요금</span><span class="desc">몇 단계에 걸렸느냐로 정해집니다</span><span class="val">1,600원</span></div>
+  </div>
+
+  <div class="item">
+    <div class="no">2</div>
+    <div class="box"><span class="name">전력량요금</span><span class="desc">300kWh는 120원 · 나머지 100kWh는 214.6원</span><span class="val">57,460원</span></div>
+  </div>
+
+  <div class="item">
+    <div class="no">3</div>
+    <div class="box"><span class="name">기후환경요금</span><span class="desc">쓴 만큼 1kWh당 9원</span><span class="val">3,600원</span></div>
+  </div>
+
+  <div class="item">
+    <div class="no">4</div>
+    <div class="box"><span class="name">연료비조정</span><span class="desc">쓴 만큼 1kWh당 5원</span><span class="val">2,000원</span></div>
+  </div>
+
+  <div class="item tax">
+    <div class="no">5</div>
+    <div class="box"><span class="name">부가가치세</span><span class="desc">위 합계의 10%</span><span class="val">6,466원</span></div>
+  </div>
+
+  <div class="item tax">
+    <div class="no">6</div>
+    <div class="box"><span class="name">전력산업기반기금</span><span class="desc">위 합계의 2.7%</span><span class="val">1,745원</span></div>
+  </div>
+
+  <div class="sum">
+    <span>청구금액</span>
+    <b>72,870원</b>
+  </div>
+
+  <p class="foot">주택용 저압 기준 · 10원 미만은 절사됩니다</p>
+</div>

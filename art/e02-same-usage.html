@@ -1,0 +1,80 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .cards { display: flex; gap: 14px; }
+  .card { flex: 1; border: 1px solid #e3e3e3; border-radius: 9px; overflow: hidden; }
+  .card.win { border-color: #cfe9dd; }
+  .card.lose { border-color: #f0d3cb; }
+  .head { padding: 11px 16px; font-size: 14.5px; font-weight: 700; color: #fff; }
+  .win .head { background: #2f9e6e; }
+  .lose .head { background: #d0553f; }
+  .inner { padding: 14px 16px 16px; }
+  .win .inner { background: #f4fbf7; }
+  .lose .inner { background: #fdf5f3; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  td { padding: 5px 0; color: #4a4a4a; }
+  td.n { text-align: right; font-variant-numeric: tabular-nums; color: #1b1b1b; }
+  tr.line td { border-top: 1px solid #e0e0e0; padding-top: 9px; }
+  tr.total td { padding-top: 10px; font-size: 17px; font-weight: 700; }
+  .win tr.total td { color: #23805a; }
+  .lose tr.total td { color: #c1462f; }
+
+  .gap {
+    margin-top: 20px; text-align: center; padding: 16px;
+    border-radius: 8px; background: #fff8ee; border: 1px solid #f0dfc4;
+    font-size: 15px; line-height: 1.6;
+  }
+  .gap b { font-size: 21px; color: #b9741a; }
+  .foot { margin-top: 15px; font-size: 12px; color: #8a8a8a; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>똑같이 400kWh를 썼는데 요금이 다릅니다</h1>
+  <p class="sub">누진 구간이 넓어지는 8월과 원래대로 돌아온 9월</p>
+
+  <div class="cards">
+    <div class="card win">
+      <div class="head">8월 사용분 (하계)</div>
+      <div class="inner">
+        <table>
+          <tr><td>기본요금</td><td class="n">1,600원</td></tr>
+          <tr><td>전력량요금<br /><span style="font-size:11.5px;color:#7a7a7a">300kWh + 100kWh</span></td><td class="n">57,460원</td></tr>
+          <tr><td>기후환경요금</td><td class="n">3,600원</td></tr>
+          <tr><td>연료비조정</td><td class="n">2,000원</td></tr>
+          <tr class="line"><td>부가세 · 전력기금</td><td class="n">8,211원</td></tr>
+          <tr class="total"><td>청구금액</td><td class="n">72,870원</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="card lose">
+      <div class="head">9월 사용분 (기타계절)</div>
+      <div class="inner">
+        <table>
+          <tr><td>기본요금</td><td class="n">1,600원</td></tr>
+          <tr><td>전력량요금<br /><span style="font-size:11.5px;color:#7a7a7a">200kWh + 200kWh</span></td><td class="n">66,920원</td></tr>
+          <tr><td>기후환경요금</td><td class="n">3,600원</td></tr>
+          <tr><td>연료비조정</td><td class="n">2,000원</td></tr>
+          <tr class="line"><td>부가세 · 전력기금</td><td class="n">9,413원</td></tr>
+          <tr class="total"><td>청구금액</td><td class="n">83,530원</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="gap">
+    사용량은 똑같은데 차이가 <b>10,660원</b></div>
+
+  <p class="foot">주택용 저압 기준 · 기본요금 910/1,600/7,300원 · 전력량요금 120.0/214.6/307.3원<br />
+    기후환경요금 9원 · 연료비조정 5원 · 전력산업기반기금 2.7% · 부가세 10% · 10원 미만 절사</p>
+</div>

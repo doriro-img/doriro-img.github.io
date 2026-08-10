@@ -1,0 +1,75 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .row { display: flex; align-items: stretch; margin-bottom: 16px; }
+  .tag {
+    width: 108px; flex: none; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    font-size: 14px; font-weight: 700; border-radius: 8px 0 0 8px; color: #fff;
+  }
+  .tag small { font-size: 11px; font-weight: 500; opacity: .85; margin-top: 2px; }
+  .summer .tag { background: #2f9e6e; }
+  .normal .tag { background: #8a8f96; }
+  .body {
+    flex: 1; border: 1px solid #e3e3e3; border-left: none; border-radius: 0 8px 8px 0;
+    padding: 16px 18px 14px; display: flex; gap: 8px; align-items: stretch;
+  }
+  .summer .body { background: #f4fbf7; border-color: #cfe9dd; }
+  .normal .body { background: #fafafa; }
+
+  .seg { border-radius: 7px; padding: 10px 12px 11px; text-align: center; border: 1px solid #dcdcdc; background: #fff; }
+  .seg b { display: block; font-size: 14.5px; }
+  .seg small { display: block; font-size: 11.5px; color: #7a7a7a; margin-top: 3px; }
+  .s1 { flex: 3; }
+  .s2 { flex: 1.5; }
+  .s3 { flex: 1; }
+  .summer .s1 { border-color: #a9dcc4; background: #eef9f3; }
+  .price { font-size: 12px; color: #2f9e6e; font-weight: 700; margin-top: 4px; display: block; }
+  .normal .price { color: #6b6b6b; }
+
+  .gain {
+    margin-top: 20px; padding: 15px 18px; border-radius: 8px;
+    background: #fff8ee; border: 1px solid #f0dfc4; font-size: 14px; line-height: 1.7;
+  }
+  .gain b { color: #b9741a; }
+  .foot { margin-top: 16px; font-size: 12.5px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>여름에는 누진 구간이 넓어집니다</h1>
+  <p class="sub">7월 1일부터 8월 31일까지 딱 두 달만 적용됩니다</p>
+
+  <div class="row summer">
+    <div class="tag">7~8월<small>하계</small></div>
+    <div class="body">
+      <div class="seg s1"><b>300kWh 까지</b><small>1단계</small><span class="price">120.0원</span></div>
+      <div class="seg s2"><b>301~450kWh</b><small>2단계</small><span class="price">214.6원</span></div>
+      <div class="seg s3"><b>450 초과</b><small>3단계</small><span class="price">307.3원</span></div>
+    </div>
+  </div>
+
+  <div class="row normal">
+    <div class="tag">그 외 달<small>기타계절</small></div>
+    <div class="body">
+      <div class="seg s1"><b>200kWh 까지</b><small>1단계</small><span class="price">120.0원</span></div>
+      <div class="seg s2"><b>201~400kWh</b><small>2단계</small><span class="price">214.6원</span></div>
+      <div class="seg s3"><b>400 초과</b><small>3단계</small><span class="price">307.3원</span></div>
+    </div>
+  </div>
+
+  <div class="gain">
+    단가가 깎이는 게 아니라 <b>싼 단가를 쓸 수 있는 범위가 넓어지는 것</b>입니다.<br />
+    1단계는 <b>100kWh</b>, 2단계는 <b>50kWh</b> 만큼 여유가 생깁니다.
+  </div>
+
+  <p class="foot">전력량요금 기준 · 출처 한국전력공사 주택용 저압</p>
+</div>

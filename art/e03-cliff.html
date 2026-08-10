@@ -1,0 +1,65 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .steps { display: flex; align-items: flex-end; gap: 0; margin-bottom: 22px; }
+  .bar { flex: 1; text-align: center; }
+  .col {
+    margin: 0 6px; border-radius: 7px 7px 0 0; position: relative;
+    display: flex; align-items: flex-start; justify-content: center; padding-top: 10px;
+    font-size: 15px; font-weight: 700; color: #fff;
+  }
+  .b1 { height: 87px; background: #8fbfa9; }
+  .b2 { height: 132px; background: #58a684; }
+  .b3 { height: 155px; background: #2f9e6e; }
+  .b4 { height: 200px; background: #d0553f; }
+  .lab { font-size: 13.5px; font-weight: 700; margin-top: 9px; }
+  .amt { font-size: 12.5px; color: #6b6b6b; margin-top: 2px; }
+
+  .jump {
+    display: flex; align-items: center; gap: 12px;
+    margin-top: 4px; padding: 16px 18px; border-radius: 8px;
+    background: #fdf5f3; border: 1px solid #f0d3cb;
+  }
+  .jump .big { font-size: 24px; font-weight: 700; color: #c1462f; white-space: nowrap; }
+  .jump p { font-size: 14px; line-height: 1.65; color: #3d3d3d; }
+  .jump b { color: #c1462f; }
+
+  .why { margin-top: 16px; font-size: 13.5px; color: #4a4a4a; line-height: 1.75; }
+  .why b { color: #1b1b1b; }
+  .foot { margin-top: 14px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>여름철 마지노선은 450kWh 입니다</h1>
+  <p class="sub">여기를 넘는 순간 3단계로 올라갑니다</p>
+
+  <div class="steps">
+    <div class="bar"><div class="col b1">300</div><div class="lab">300kWh</div><div class="amt">약 47,900원</div></div>
+    <div class="bar"><div class="col b2">400</div><div class="lab">400kWh</div><div class="amt">약 72,870원</div></div>
+    <div class="bar"><div class="col b3">450</div><div class="lab">450kWh</div><div class="amt">약 85,750원</div></div>
+    <div class="bar"><div class="col b4">500</div><div class="lab">500kWh</div><div class="amt">약 110,280원</div></div>
+  </div>
+
+  <div class="jump">
+    <div class="big">+24,530원</div>
+    <p>450kWh에서 500kWh로. <b>딱 50kWh 더 썼을 뿐인데</b> 요금은 2만원 넘게 뜁니다.<br />
+      1kWh당 약 <b>490원</b>인 셈입니다.</p>
+  </div>
+
+  <div class="why">
+    이유는 두 가지가 겹쳐서입니다.<br />
+    <b>기본요금</b>이 1,600원에서 <b>7,300원</b>으로 한 번에 올라가고,
+    넘어간 50kWh에는 3단계 단가 <b>307.3원</b>이 붙습니다.
+  </div>
+
+  <p class="foot">주택용 저압 7~8월 기준 · 부가세와 전력산업기반기금 포함 · 10원 미만 절사</p>
+</div>
