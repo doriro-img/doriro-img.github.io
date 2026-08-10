@@ -1,0 +1,98 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .case { border: 1px solid #e3e3e3; border-radius: 9px; margin-bottom: 14px; overflow: hidden; }
+  .case.lose { border-color: #f0d3cb; }
+  .case.win { border-color: #cfe9dd; }
+  .ch { padding: 10px 16px; font-size: 14px; font-weight: 700; color: #fff; }
+  .lose .ch { background: #d0553f; }
+  .win .ch { background: #2f9e6e; }
+  .cb { padding: 16px; display: flex; align-items: center; gap: 14px; }
+  .lose .cb { background: #fdf5f3; }
+  .win .cb { background: #f4fbf7; }
+
+  .person { flex: 1; border: 1px solid #dcdcdc; background: #fff; border-radius: 8px; padding: 12px 14px; }
+  .person .nm { font-size: 13.5px; font-weight: 700; margin-bottom: 8px; }
+  .bar { height: 15px; border-radius: 999px; background: #ececec; overflow: hidden; margin-bottom: 6px; }
+  .fill { height: 100%; }
+  .win .fill { background: #2f9e6e; }
+  .lose .fill { background: #d0553f; }
+  .person .amt { font-size: 12.5px; color: #6b6b6b; }
+  .person.empty { background: #f7f7f7; border-style: dashed; }
+  .person.empty .amt { color: #a0a0a0; }
+
+  .eq { font-size: 22px; color: #b0b0b0; font-weight: 300; }
+  .sum {
+    width: 152px; flex: none; text-align: center; padding: 12px;
+    border-radius: 8px; font-weight: 700;
+  }
+  .lose .sum { background: #d0553f; color: #fff; }
+  .win .sum { background: #2f9e6e; color: #fff; }
+  .sum small { display: block; font-size: 11.5px; font-weight: 500; opacity: .9; margin-bottom: 3px; }
+  .sum b { font-size: 21px; }
+
+  .note {
+    margin-top: 18px; padding: 16px 18px; border-radius: 8px;
+    background: #fff8ee; border: 1px solid #f0dfc4; font-size: 14px; line-height: 1.75;
+  }
+  .note b { color: #b9741a; }
+  .foot { margin-top: 14px; font-size: 12px; color: #8a8a8a; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>해외주식 양도세 공제는 사람마다 250만원입니다</h1>
+  <p class="sub">부부라면 계좌를 어떻게 나누느냐로 공제 한도가 달라집니다</p>
+
+  <div class="case lose">
+    <div class="ch">한 사람 명의로 몰아둔 경우</div>
+    <div class="cb">
+      <div class="person">
+        <div class="nm">남편</div>
+        <div class="bar"><div class="fill" style="width:100%"></div></div>
+        <div class="amt">250만원 공제 · 꽉 참</div>
+      </div>
+      <div class="person empty">
+        <div class="nm">아내</div>
+        <div class="bar"></div>
+        <div class="amt">계좌가 없어 못 씀</div>
+      </div>
+      <div class="eq">=</div>
+      <div class="sum"><small>한 해 공제 한도</small><b>250만원</b></div>
+    </div>
+  </div>
+
+  <div class="case win">
+    <div class="ch">각자 명의로 나눠둔 경우</div>
+    <div class="cb">
+      <div class="person">
+        <div class="nm">남편</div>
+        <div class="bar"><div class="fill" style="width:100%"></div></div>
+        <div class="amt">250만원 공제</div>
+      </div>
+      <div class="person">
+        <div class="nm">아내</div>
+        <div class="bar"><div class="fill" style="width:100%"></div></div>
+        <div class="amt">250만원 공제</div>
+      </div>
+      <div class="eq">=</div>
+      <div class="sum"><small>한 해 공제 한도</small><b>500만원</b></div>
+    </div>
+  </div>
+
+  <div class="note">
+    양도소득세는 <b>인별로 매기는 세금</b>이라 부부 소득을 합치지 않습니다.<br />
+    각자 250만원까지는 세금이 없으니 <b>둘이 합치면 한 해 500만원</b>입니다.
+  </div>
+
+  <p class="foot">국세청 기준 · 기본공제는 해당 과세기간에 인별로 적용됩니다<br />
+    다만 배우자에게 현금을 옮길 때는 증여재산공제(10년 6억원) 한도를 함께 확인하세요</p>
+</div>
