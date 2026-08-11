@@ -1,0 +1,82 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .row { display: flex; align-items: stretch; margin-bottom: 12px; border-radius: 9px; overflow: hidden; border: 1px solid #cfe9dd; }
+  .badge {
+    width: 118px; flex: none; background: #2f9e6e; color: #fff;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    font-size: 13.5px; font-weight: 700; text-align: center; line-height: 1.35;
+  }
+  .row.two .badge { background: #d0553f; }
+  .row.two { border-color: #f0d3cb; }
+  .row.three .badge { background: #c08a2e; }
+  .row.three { border-color: #f0dfc4; }
+
+  .body { flex: 1; padding: 14px 18px; background: #f4fbf7; }
+  .row.two .body { background: #fdf5f3; }
+  .row.three .body { background: #fffaf1; }
+  .name { font-size: 15.5px; font-weight: 700; margin-bottom: 5px; }
+  .when { font-size: 13px; color: #5c5c5c; line-height: 1.6; }
+
+  .pay { width: 168px; flex: none; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; background: #fff; border-left: 1px solid #e3e3e3; }
+  .pay b { font-size: 21px; color: #23805a; }
+  .row.two .pay b { color: #c1462f; }
+  .row.three .pay b { color: #a5761f; }
+  .pay small { font-size: 11.5px; color: #8a8a8a; margin-top: 3px; }
+
+  .note {
+    margin-top: 18px; padding: 15px 18px; border-radius: 8px;
+    background: #fff8ee; border: 1px solid #f0dfc4; font-size: 14px; line-height: 1.75;
+  }
+  .note b { color: #b9741a; }
+  .foot { margin-top: 13px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>2026년 에너지캐시백은 세 가지로 늘었습니다</h1>
+  <p class="sub">한 번 신청해두면 조건에 맞을 때마다 알아서 붙습니다</p>
+
+  <div class="row">
+    <div class="badge">1<br />기본 절약형</div>
+    <div class="body">
+      <div class="name">전기를 지난해보다 덜 쓰면</div>
+      <p class="when">직전 2개년 같은 달 평균과 비교합니다<br />30%까지만 인정됩니다</p>
+    </div>
+    <div class="pay"><b>최대 120원</b><small>1kWh당</small></div>
+  </div>
+
+  <div class="row two">
+    <div class="badge">2<br />여름 피크</div>
+    <div class="body">
+      <div class="name">평일 오후 5시~8시에 더 아끼면</div>
+      <p class="when">전기가 제일 몰리는 시간대입니다<br />월 1만원까지 받을 수 있습니다</p>
+    </div>
+    <div class="pay"><b>500원</b><small>1kWh당</small></div>
+  </div>
+
+  <div class="row three">
+    <div class="badge">3<br />가을 가전</div>
+    <div class="body">
+      <div class="name">9~10월 주말 낮에 가전을 돌리면</div>
+      <p class="when">오전 11시~오후 2시가 대상입니다<br />전기가 남는 시간대로 옮기는 것입니다</p>
+    </div>
+    <div class="pay"><b>100원</b><small>1kWh당</small></div>
+  </div>
+
+  <div class="note">
+    올해 하반기는 <b>1%만 줄여도</b> 받습니다. 원래는 3% 넘게 줄여야 했어요.<br />
+    현금이 아니라 <b>다음 달 전기요금에서 자동으로 빠집니다.</b>
+  </div>
+
+  <p class="foot">2026년 7~12월 검침분 기준 · 신청 en-ter.co.kr · 구간별 단가는 신청 사이트에서 확인</p>
+</div>

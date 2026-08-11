@@ -1,0 +1,81 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .amts {
+    display: flex; align-items: center; gap: 18px; margin-bottom: 20px;
+    border: 1px solid #cfe9dd; background: #f4fbf7; border-radius: 9px; padding: 20px 24px;
+  }
+  .a { text-align: center; flex: none; }
+  .a .who { font-size: 13px; color: #5c5c5c; margin-bottom: 6px; }
+  .a .m { font-size: 25px; font-weight: 700; color: #23805a; }
+  .a .u { font-size: 11.5px; color: #8a8a8a; margin-top: 3px; }
+  .ramp { flex: 1; }
+  .ramp .bar {
+    height: 16px; border-radius: 999px;
+    background: linear-gradient(90deg, #b7dfcc, #2f9e6e);
+  }
+  .ramp .cap { font-size: 12.5px; color: #6b6b6b; text-align: center; margin-top: 8px; }
+
+  .change { display: flex; gap: 12px; align-items: stretch; margin-bottom: 18px; }
+  .old, .new { flex: 1; border-radius: 9px; padding: 14px 16px; border: 1px solid #e3e3e3; }
+  .old { background: #f7f7f7; }
+  .new { background: #f4fbf7; border-color: #cfe9dd; }
+  .lbl { font-size: 12px; font-weight: 700; margin-bottom: 7px; }
+  .old .lbl { color: #8a8a8a; }
+  .new .lbl { color: #23805a; }
+  .change p { font-size: 13.5px; color: #4a4a4a; line-height: 1.65; }
+  .mid { flex: none; display: flex; align-items: center; color: #b0b0b0; font-size: 19px; }
+
+  .when { border: 1px solid #e3e3e3; border-radius: 9px; overflow: hidden; }
+  .when table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .when td { padding: 11px 18px; border-top: 1px solid #ededed; }
+  .when tr:first-child td { border-top: none; }
+  .when td.k { width: 152px; color: #5c5c5c; background: #fafafa; font-weight: 700; }
+  .foot { margin-top: 14px; font-size: 12px; color: #8a8a8a; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>에너지바우처는 얼마를 주나요</h1>
+  <p class="sub">기초생활수급 가구와 다자녀 가구가 대상입니다</p>
+
+  <div class="amts">
+    <div class="a"><div class="who">1인 세대</div><div class="m">295,200원</div><div class="u">연간</div></div>
+    <div class="ramp">
+      <div class="bar"></div>
+      <p class="cap">세대원이 늘수록 금액도 올라갑니다</p>
+    </div>
+    <div class="a"><div class="who">4인 이상 세대</div><div class="m">701,300원</div><div class="u">연간</div></div>
+  </div>
+
+  <div class="change">
+    <div class="old">
+      <div class="lbl">예전</div>
+      <p>여름 바우처와 겨울 바우처가 따로 있었습니다.<br />여름에 안 쓰면 그냥 날아갔어요.</p>
+    </div>
+    <div class="mid">→</div>
+    <div class="new">
+      <div class="lbl">2026년부터</div>
+      <p>계절 구분이 없어졌습니다.<br />연간 총액을 원하는 때에 몰아서 씁니다.</p>
+    </div>
+  </div>
+
+  <div class="when">
+    <table>
+      <tr><td class="k">신청 기간</td><td>2026년 6월 15일 ~ 12월 31일</td></tr>
+      <tr><td class="k">사용 기한</td><td>2027년 5월 31일까지</td></tr>
+      <tr><td class="k">신청 방법</td><td>주민센터 방문 또는 복지로 온라인 신청</td></tr>
+    </table>
+  </div>
+
+  <p class="foot">2인·3인 세대 금액은 위 두 금액 사이에서 정해집니다<br />
+    정확한 금액과 자격은 주민센터나 복지로에서 확인하세요</p>
+</div>

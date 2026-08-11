@@ -1,0 +1,78 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .flow { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; }
+  .step { flex: 1; border: 1px solid #e3e3e3; border-radius: 9px; padding: 14px 16px; background: #fafafa; }
+  .step .lb { font-size: 12px; color: #8a8a8a; margin-bottom: 5px; }
+  .step .vl { font-size: 20px; font-weight: 700; }
+  .step .ex { font-size: 12px; color: #7a7a7a; margin-top: 4px; }
+  .step.now { background: #f4fbf7; border-color: #cfe9dd; }
+  .step.now .vl { color: #23805a; }
+  .arrow { color: #b0b0b0; font-size: 19px; flex: none; }
+
+  .calc { border: 1px solid #e3e3e3; border-radius: 9px; overflow: hidden; }
+  .calc .hd { background: #f4f4f4; padding: 10px 18px; font-size: 14px; font-weight: 700; }
+  .calc table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .calc td { padding: 11px 18px; border-top: 1px solid #ededed; }
+  .calc td.k { color: #5c5c5c; }
+  .calc td.v { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .calc tr.res td { background: #f4fbf7; font-size: 17px; }
+  .calc tr.res td.v { color: #23805a; font-size: 22px; }
+
+  .note {
+    margin-top: 18px; padding: 15px 18px; border-radius: 8px;
+    background: #fff8ee; border: 1px solid #f0dfc4; font-size: 14px; line-height: 1.75;
+  }
+  .note b { color: #b9741a; }
+  .foot { margin-top: 13px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>캐시백은 이렇게 계산됩니다</h1>
+  <p class="sub">작년과 재작년 같은 달 평균이 400kWh였던 집</p>
+
+  <div class="flow">
+    <div class="step">
+      <div class="lb">비교 기준</div>
+      <div class="vl">400kWh</div>
+      <div class="ex">직전 2개년 같은 달 평균</div>
+    </div>
+    <span class="arrow">→</span>
+    <div class="step now">
+      <div class="lb">올해 쓴 양</div>
+      <div class="vl">360kWh</div>
+      <div class="ex">40kWh 아꼈습니다</div>
+    </div>
+    <span class="arrow">→</span>
+    <div class="step now">
+      <div class="lb">절감률</div>
+      <div class="vl">10%</div>
+      <div class="ex">40 ÷ 400</div>
+    </div>
+  </div>
+
+  <div class="calc">
+    <div class="hd">그래서 얼마를 받나요</div>
+    <table>
+      <tr><td class="k">아낀 사용량</td><td class="v">40kWh</td></tr>
+      <tr><td class="k">절감률 10% 구간 단가</td><td class="v">100원 / kWh</td></tr>
+      <tr class="res"><td class="k">다음 달 요금에서 차감</td><td class="v">4,000원</td></tr>
+    </table>
+  </div>
+
+  <div class="note">
+    절감률이 높을수록 단가도 올라갑니다. <b>30%까지만 인정</b>되니 그 위로는 더 쳐주지 않습니다.<br />
+    이사를 왔거나 기록이 2년치 없으면 비교 기준이 안 잡혀 대상에서 빠질 수 있습니다.
+  </div>
+
+  <p class="foot">2026년 하반기 기준 예시 · 구간별 단가는 신청 사이트 en-ter.co.kr 에서 확인하세요</p>
+</div>

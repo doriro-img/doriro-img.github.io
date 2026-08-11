@@ -13,25 +13,21 @@
 |---|---|---|---|
 | 2026-08-09 | 증권사 앱 수익률의 함정 — 배당 재투자와 리밸런싱이 원금을 부풀립니다 | [posts/2026-08-09-return-trap.txt](posts/2026-08-09-return-trap.txt) | [/90](https://heelovee.tistory.com/90) |
 | 2026-08-09 | 해외주식 양도소득세 250만원 공제. 12월에 언제까지 팔아야 하는지 결제일 기준 정리 | [posts/2026-08-09-capital-gains-tax.txt](posts/2026-08-09-capital-gains-tax.txt) | [/91](https://heelovee.tistory.com/91) |
+| 2026-08-10 | 여름 전기요금 누진세 구간. 450kWh 넘기면 안 되는 이유와 9월 고지서 함정 | [posts/2026-08-10-summer-electricity-tier.txt](posts/2026-08-10-summer-electricity-tier.txt) | [/92](https://heelovee.tistory.com/92) |
+| 2026-08-10 | 부부 공동 자산관리 방법. 해외주식 양도세 공제 500만원 받는 법과 같이 쓰는 자산 장부 | [posts/2026-08-10-couple-asset-ledger.txt](posts/2026-08-10-couple-asset-ledger.txt) | [/93](https://heelovee.tistory.com/93) |
 
 - 첫 글은 제목이 원고와 다르다(발행 시 옛 제목 유지). 검색어를 더 담으려면 원고 제목으로 바꿔도 좋다
 - 양도소득세 글의 세율·공제·신고기한은 2026-08 기준으로 웹 확인함
 
 ## 원고 완성 · 발행 대기
 
-### 1. 여름 전기요금 누진세 구간. 450kWh 넘기면 안 되는 이유와 9월 고지서 함정
-- **원고**: [posts/2026-08-10-summer-electricity-tier.txt](posts/2026-08-10-summer-electricity-tier.txt)
-- **왜 지금**: 8월 고지서 시즌이라 검색이 몰린다. 늦으면 시즌을 놓친다
-- **이미지**: `e01-tier` `e02-same-usage` `e03-cliff` `e04-meter` `e05-bill` (5장 · 신규 도식)
-- **훅**: 같은 400kWh인데 8월 72,870원 / 9월 83,530원. 450→500kWh에서 24,530원 급등
-- 요금 단가는 2026-08-10 웹 확인. 주택용 13분기 연속 동결이라 당분간 유효
-
-### 2. 부부 공동 자산관리 방법. 해외주식 양도세 공제 500만원 받는 법과 같이 쓰는 자산 장부
-- **원고**: [posts/2026-08-10-couple-asset-ledger.txt](posts/2026-08-10-couple-asset-ledger.txt)
-- **왜 지금**: 공유·명의자별 기능이 차별점인데 글이 없었다
-- **이미지**: `f01-excel-pain` `f02-couple-deduction` (신규 도식) + `b03-member` `b05-input` `b09-invite` `b02-trend`
-- **훅**: 양도세 공제 250만원은 인별이라 부부가 각자 받는다. 나눠두면 한 해 500만원
-- 세금 정보가 알맹이라 홍보글로 안 읽힌다. 발행글 `/91`로 내부 링크 걸어둠
+### 1. 에너지캐시백 신청방법. 1%만 아껴도 받는 2026 하반기 전기요금 혜택 총정리
+- **원고**: [posts/2026-08-11-energy-cashback.txt](posts/2026-08-11-energy-cashback.txt)
+- **왜 지금**: 하반기 완화가 12월 검침분까지다. 빠를수록 독자에게 이득이라 클릭이 붙는다
+- **이미지**: `g01-cashback-3set` `g02-cashback-calc` `g05-apply` `g03-which` `g04-voucher` (5장 · 신규 도식)
+- **훅**: 원래 3% 절감해야 받던 걸 올해 하반기는 1%만 줄여도 준다. 여름 피크시간은 500원/kWh
+- `/92`(전기요금 누진세)로 내부 링크. 두 글이 서로 끌어준다
+- 절감률 구간별 전체 단가표는 모든 출처가 이미지로만 제공해 확인 못 했다. "신청 사이트에서 확인"으로 처리함
 
 ## 쓸 수 있는 것 (준비됨)
 

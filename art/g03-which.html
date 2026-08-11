@@ -1,0 +1,69 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .q { display: flex; align-items: stretch; margin-bottom: 12px; border-radius: 9px; overflow: hidden; border: 1px solid #e3e3e3; }
+  .ask {
+    width: 300px; flex: none; padding: 15px 18px; background: #fafafa;
+    display: flex; align-items: center; font-size: 14.5px; font-weight: 700; line-height: 1.5;
+  }
+  .arw { width: 34px; flex: none; display: flex; align-items: center; justify-content: center; color: #b0b0b0; font-size: 17px; background: #fafafa; }
+  .ans { flex: 1; padding: 14px 18px; }
+  .ans .t { font-size: 15px; font-weight: 700; margin-bottom: 4px; }
+  .ans .d { font-size: 13px; color: #5c5c5c; line-height: 1.6; }
+
+  .a1 { background: #f4fbf7; } .a1 .t { color: #23805a; }
+  .a2 { background: #fdf5f3; } .a2 .t { color: #c1462f; }
+  .a3 { background: #fffaf1; } .a3 .t { color: #a5761f; }
+
+  .all {
+    margin-top: 18px; padding: 15px 18px; border-radius: 8px;
+    background: #f4fbf7; border: 1px solid #cfe9dd; font-size: 14px; line-height: 1.75;
+  }
+  .all b { color: #23805a; }
+</style>
+
+<div id="art">
+  <h1>나는 어디에 해당할까요</h1>
+  <p class="sub">셋은 성격이 달라서 겹쳐서 받을 수 있는 것도 있습니다</p>
+
+  <div class="q">
+    <div class="ask">전기를 작년보다 아꼈다</div>
+    <div class="arw">→</div>
+    <div class="ans a1">
+      <div class="t">에너지캐시백</div>
+      <div class="d">누구나 신청 가능합니다. 소득 조건이 없어요<br />다음 달 요금에서 자동으로 빠집니다</div>
+    </div>
+  </div>
+
+  <div class="q">
+    <div class="ask">기초생활수급 가구다<br />또는 다자녀 가구다</div>
+    <div class="arw">→</div>
+    <div class="ans a2">
+      <div class="t">에너지바우처</div>
+      <div class="d">1인 29만원대부터 4인 이상 70만원대까지<br />2026년부터 여름 겨울 구분 없이 씁니다</div>
+    </div>
+  </div>
+
+  <div class="q">
+    <div class="ask">자녀가 3명 이상이다<br />또는 36개월 미만 아기가 있다</div>
+    <div class="arw">→</div>
+    <div class="ans a3">
+      <div class="t">한전 복지할인</div>
+      <div class="d">월 요금의 30%를 깎아줍니다<br />여름철은 한도가 2만원으로 올라갑니다</div>
+    </div>
+  </div>
+
+  <div class="all">
+    <b>캐시백은 소득이나 가구 조건을 안 봅니다.</b> 전기만 덜 쓰면 됩니다.<br />
+    바우처와 복지할인은 자격이 되는 분만 해당하니 본인 조건부터 확인해보세요.
+  </div>
+</div>
