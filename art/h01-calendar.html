@@ -1,0 +1,82 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  table { width: 100%; border-collapse: separate; border-spacing: 5px; }
+  th { font-size: 12.5px; color: #8a8a8a; font-weight: 700; padding-bottom: 4px; }
+  th.sun { color: #d0553f; }
+  th.sat { color: #4a7fb5; }
+  td {
+    height: 62px; border: 1px solid #ececec; border-radius: 8px; background: #fff;
+    vertical-align: top; padding: 7px 9px; font-size: 15px; font-weight: 600; color: #3d3d3d;
+  }
+  td.empty { border: none; background: transparent; }
+  td.sun { color: #d0553f; }
+  td.sat { color: #4a7fb5; }
+  td.hol { background: #f4fbf7; border-color: #a9dcc4; color: #23805a; }
+  td.chu { background: #2f9e6e; border-color: #2f9e6e; color: #fff; }
+  td .tag { display: block; font-size: 11px; font-weight: 700; margin-top: 3px; }
+  td.hol .tag { color: #2f9e6e; }
+  td.chu .tag { color: #fff; opacity: .9; }
+
+  .legend { margin-top: 18px; display: flex; gap: 20px; align-items: center; font-size: 13.5px; color: #4a4a4a; }
+  .legend span { display: flex; align-items: center; gap: 7px; }
+  .dot { width: 13px; height: 13px; border-radius: 4px; }
+  .d1 { background: #2f9e6e; }
+  .d2 { background: #f4fbf7; border: 1px solid #a9dcc4; }
+
+  .note {
+    margin-top: 16px; padding: 15px 18px; border-radius: 8px;
+    background: #fff8ee; border: 1px solid #f0dfc4; font-size: 14.5px; line-height: 1.7;
+  }
+  .note b { color: #b9741a; }
+</style>
+
+<div id="art">
+  <h1>2026년 추석 연휴는 9월 24일부터 27일까지입니다</h1>
+  <p class="sub">추석 당일은 9월 25일 금요일이에요</p>
+
+  <table>
+    <tr>
+      <th class="sun">일</th><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th><th class="sat">토</th>
+    </tr>
+    <tr>
+      <td class="empty"></td><td class="empty"></td>
+      <td>1</td><td>2</td><td>3</td><td>4</td><td class="sat">5</td>
+    </tr>
+    <tr>
+      <td class="sun">6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td class="sat">12</td>
+    </tr>
+    <tr>
+      <td class="sun">13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td class="sat">19</td>
+    </tr>
+    <tr>
+      <td class="sun">20</td><td>21</td><td>22</td><td>23</td>
+      <td class="hol">24<span class="tag">연휴</span></td>
+      <td class="chu">25<span class="tag">추석</span></td>
+      <td class="hol">26<span class="tag">연휴</span></td>
+    </tr>
+    <tr>
+      <td class="hol">27<span class="tag">일요일</span></td><td>28</td><td>29</td><td>30</td>
+      <td class="empty"></td><td class="empty"></td><td class="empty"></td>
+    </tr>
+  </table>
+
+  <div class="legend">
+    <span><i class="dot d1"></i> 추석 당일</span>
+    <span><i class="dot d2"></i> 연휴</span>
+  </div>
+
+  <div class="note">
+    법정 공휴일은 <b>24일 목요일부터 26일 토요일까지 3일</b>입니다.<br />
+    여기에 27일 일요일이 이어져 <b>4일 연속</b>으로 쉽니다.
+  </div>
+</div>

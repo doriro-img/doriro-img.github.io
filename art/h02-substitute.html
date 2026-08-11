@@ -1,0 +1,82 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .rule {
+    padding: 15px 18px; border-radius: 8px; background: #fafafa; border: 1px solid #e3e3e3;
+    font-size: 14.5px; line-height: 1.7; margin-bottom: 20px;
+  }
+  .rule b { color: #1b1b1b; }
+
+  .case { margin-bottom: 14px; border: 1px solid #e3e3e3; border-radius: 9px; overflow: hidden; }
+  .case.no { border-color: #f0d3cb; }
+  .case.yes { border-color: #cfe9dd; }
+  .ch { padding: 10px 16px; font-size: 13.5px; font-weight: 700; color: #fff; }
+  .no .ch { background: #d0553f; }
+  .yes .ch { background: #2f9e6e; }
+  .cb { padding: 16px; display: flex; align-items: center; gap: 8px; }
+  .no .cb { background: #fdf5f3; }
+  .yes .cb { background: #f4fbf7; }
+
+  .day {
+    width: 78px; flex: none; text-align: center; border-radius: 7px;
+    border: 1px solid #dcdcdc; background: #fff; padding: 9px 4px;
+  }
+  .day .w { font-size: 11.5px; color: #8a8a8a; margin-bottom: 3px; }
+  .day .s { font-size: 13.5px; font-weight: 700; }
+  .day.h { background: #eef9f3; border-color: #a9dcc4; }
+  .day.h .s { color: #23805a; }
+  .day.sun-h { background: #fbe7e2; border-color: #e5bcb2; }
+  .day.sun-h .s { color: #c1462f; }
+  .day.plus { background: #2f9e6e; border-color: #2f9e6e; }
+  .day.plus .w, .day.plus .s { color: #fff; }
+
+  .res { margin-left: auto; font-size: 14.5px; font-weight: 700; }
+  .no .res { color: #c1462f; }
+  .yes .res { color: #23805a; }
+
+  .foot { margin-top: 6px; font-size: 12.5px; color: #8a8a8a; line-height: 1.65; }
+</style>
+
+<div id="art">
+  <h1>이번 추석에 대체공휴일이 없는 이유</h1>
+  <p class="sub">연휴가 며칠이냐가 아니라 무슨 요일에 걸치냐가 기준입니다</p>
+
+  <div class="rule">
+    설날과 추석은 <b>연휴가 일요일과 겹칠 때만</b> 대체공휴일이 하루 붙습니다.<br />
+    토요일과 겹치는 건 해당하지 않습니다.
+  </div>
+
+  <div class="case no">
+    <div class="ch">2026년 추석 — 목·금·토</div>
+    <div class="cb">
+      <div class="day h"><div class="w">목</div><div class="s">9/24</div></div>
+      <div class="day h"><div class="w">금</div><div class="s">9/25</div></div>
+      <div class="day h"><div class="w">토</div><div class="s">9/26</div></div>
+      <div class="day"><div class="w">일</div><div class="s">9/27</div></div>
+      <div class="res">일요일과 안 겹침 → 대체공휴일 없음</div>
+    </div>
+  </div>
+
+  <div class="case yes">
+    <div class="ch">겹쳤다면 이렇게 됩니다 (예시)</div>
+    <div class="cb">
+      <div class="day h"><div class="w">토</div><div class="s">연휴</div></div>
+      <div class="day sun-h"><div class="w">일</div><div class="s">연휴</div></div>
+      <div class="day h"><div class="w">월</div><div class="s">연휴</div></div>
+      <div class="day plus"><div class="w">화</div><div class="s">+1일</div></div>
+      <div class="res">일요일과 겹침 → 하루 추가</div>
+    </div>
+  </div>
+
+  <p class="foot">2026년 추석 연휴는 9월 26일이 토요일이라 대체공휴일 조건에 걸리지 않습니다.<br />
+    그래서 연휴가 4일에서 더 늘어나지 않습니다.</p>
+</div>

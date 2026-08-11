@@ -1,0 +1,93 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .line { position: relative; padding-left: 128px; }
+  .line:before {
+    content: ''; position: absolute; left: 111px; top: 8px; bottom: 8px; width: 2px; background: #e3e3e3;
+  }
+  .it { position: relative; margin-bottom: 16px; }
+  .when {
+    position: absolute; left: -128px; width: 100px; text-align: right;
+    font-size: 13px; font-weight: 700; color: #3d3d3d; padding-top: 13px;
+  }
+  .when small { display: block; font-size: 11.5px; font-weight: 500; color: #8a8a8a; margin-top: 2px; }
+  .dot {
+    position: absolute; left: -21px; top: 17px; width: 11px; height: 11px;
+    border-radius: 50%; background: #2f9e6e; border: 2px solid #fff; box-shadow: 0 0 0 2px #cfe9dd;
+  }
+  .it.later .dot { background: #b8c0c8; box-shadow: 0 0 0 2px #e3e7ea; }
+  .box { border: 1px solid #cfe9dd; background: #f4fbf7; border-radius: 8px; padding: 13px 16px; }
+  .it.later .box { border-color: #e3e3e3; background: #fafafa; }
+  .box .t { font-size: 14.5px; font-weight: 700; margin-bottom: 4px; }
+  .box .d { font-size: 13px; color: #5c5c5c; line-height: 1.65; }
+</style>
+
+<div id="art">
+  <h1>추석까지 뭘 언제 하면 되나요</h1>
+  <p class="sub">지금부터 순서대로 챙기면 됩니다</p>
+
+  <div class="line">
+    <div class="it">
+      <div class="when">지금<small>8월 중순</small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">코레일+ 통합회원 전환</div>
+        <div class="d">예매일에 몰리면 늦습니다. 앱 업데이트하고 미리 해두세요.</div>
+      </div>
+    </div>
+
+    <div class="it">
+      <div class="when">지금<small>8월 중순</small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">연차 신청</div>
+        <div class="d">9월 21일부터 23일까지 3일. 남들보다 먼저 올려두는 게 마음이 편합니다.</div>
+      </div>
+    </div>
+
+    <div class="it later">
+      <div class="when">8월 말~9월 초<small>예상</small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">기차표 예매</div>
+        <div class="d">명절 승차권은 보통 연휴 한 달 전쯤 열립니다. 코레일 공지를 확인하세요.</div>
+      </div>
+    </div>
+
+    <div class="it later">
+      <div class="when">9월 초·중순<small></small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">벌초와 성묘</div>
+        <div class="d">연휴에 몰리면 길이 막힙니다. 앞 주말에 다녀오는 집이 많습니다.</div>
+      </div>
+    </div>
+
+    <div class="it later">
+      <div class="when">9월 중순<small></small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">선물 주문</div>
+        <div class="d">연휴 직전에는 택배가 밀립니다. 늦어도 열흘 전에는 시키는 게 안전합니다.</div>
+      </div>
+    </div>
+
+    <div class="it later">
+      <div class="when">9월 24일<small>목요일</small></div>
+      <div class="dot"></div>
+      <div class="box">
+        <div class="t">연휴 시작</div>
+        <div class="d">27일 일요일까지 4일입니다.</div>
+      </div>
+    </div>
+  </div>
+</div>

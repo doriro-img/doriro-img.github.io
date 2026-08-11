@@ -1,0 +1,62 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .plan { border: 1px solid #cfe9dd; border-radius: 9px; overflow: hidden; margin-bottom: 14px; }
+  .ph { background: #2f9e6e; color: #fff; padding: 11px 16px; font-size: 14.5px; font-weight: 700;
+        display: flex; justify-content: space-between; align-items: center; }
+  .ph span { font-size: 13px; font-weight: 500; opacity: .92; }
+  .pb { padding: 16px; background: #f4fbf7; display: flex; gap: 6px; }
+
+  .d { flex: 1; text-align: center; border-radius: 7px; border: 1px solid #dcdcdc; background: #fff; padding: 10px 3px; }
+  .d .w { font-size: 11px; color: #8a8a8a; }
+  .d .n { font-size: 14px; font-weight: 700; margin-top: 2px; }
+  .d .k { font-size: 10.5px; margin-top: 4px; font-weight: 700; }
+  .d.week { background: #eef1f4; border-color: #dde2e8; }
+  .d.week .k { color: #6b7480; }
+  .d.off { background: #fff0d9; border-color: #f0dfc4; }
+  .d.off .k { color: #b9741a; }
+  .d.hol { background: #eef9f3; border-color: #a9dcc4; }
+  .d.hol .k { color: #23805a; }
+  .d.chu { background: #2f9e6e; border-color: #2f9e6e; }
+  .d.chu .w, .d.chu .n, .d.chu .k { color: #fff; }
+
+  .alt { border: 1px solid #e3e3e3; border-radius: 9px; padding: 15px 18px; background: #fafafa; }
+  .alt .t { font-size: 14px; font-weight: 700; margin-bottom: 6px; }
+  .alt p { font-size: 13.5px; color: #4a4a4a; line-height: 1.7; }
+  .alt b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>연차 3일이면 9일을 쉽니다</h1>
+  <p class="sub">추석 앞쪽에 붙이는 게 가장 효율이 좋습니다</p>
+
+  <div class="plan">
+    <div class="ph">9월 19일 토요일 ~ 9월 27일 일요일 <span>연차 3일 사용</span></div>
+    <div class="pb">
+      <div class="d week"><div class="w">토</div><div class="n">19</div><div class="k">주말</div></div>
+      <div class="d week"><div class="w">일</div><div class="n">20</div><div class="k">주말</div></div>
+      <div class="d off"><div class="w">월</div><div class="n">21</div><div class="k">연차</div></div>
+      <div class="d off"><div class="w">화</div><div class="n">22</div><div class="k">연차</div></div>
+      <div class="d off"><div class="w">수</div><div class="n">23</div><div class="k">연차</div></div>
+      <div class="d hol"><div class="w">목</div><div class="n">24</div><div class="k">연휴</div></div>
+      <div class="d chu"><div class="w">금</div><div class="n">25</div><div class="k">추석</div></div>
+      <div class="d hol"><div class="w">토</div><div class="n">26</div><div class="k">연휴</div></div>
+      <div class="d hol"><div class="w">일</div><div class="n">27</div><div class="k">연휴</div></div>
+    </div>
+  </div>
+
+  <div class="alt">
+    <div class="t">뒤쪽에 붙이면요</div>
+    <p>28일 월요일부터 30일 수요일까지 <b>연차 3일</b>을 쓰면 24일부터 30일까지 <b>7일</b>이 됩니다.<br />
+      앞에 붙이는 쪽이 주말 이틀을 더 먹기 때문에 같은 연차로 <b>이틀을 더 법니다.</b></p>
+  </div>
+</div>
