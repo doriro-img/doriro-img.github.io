@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 800px; height: 800px; padding: 70px 64px; background: linear-gradient(160deg,#eef7ea,#d9edcf);
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #223a1e;
+    display: flex; flex-direction: column; justify-content: center; position: relative;
+  }
+  .tag { display: inline-block; align-self: flex-start; background: #fff; color: #3b8a4e;
+    font-size: 22px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px;
+    box-shadow: 0 8px 20px rgba(80,150,90,.16); }
+  h1 { font-size: 60px; line-height: 1.24; letter-spacing: -1.5px; font-weight: 800; }
+  h1 .hl { color: #3b8a4e; }
+  .sub { margin-top: 30px; font-size: 26px; color: #4d6647; font-weight: 600; }
+  .sub b { color: #223a1e; }
+
+  /* 풀 + 낫 일러스트 */
+  .ill { position: absolute; top: 84px; right: 70px; }
+  .foot { position: absolute; bottom: 60px; right: 64px; font-size: 20px; color: #6f8168; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="230" height="170" viewBox="0 0 230 170">
+      <rect x="0" y="140" width="230" height="10" rx="5" fill="#bfe0b3"/>
+      <g stroke="#7cbf82" stroke-width="7" stroke-linecap="round">
+        <line x1="40" y1="140" x2="40" y2="96"/><line x1="66" y1="140" x2="66" y2="82"/>
+        <line x1="92" y1="140" x2="92" y2="102"/><line x1="118" y1="140" x2="118" y2="88"/>
+      </g>
+      <path d="M150 50 q54 6 66 52" fill="none" stroke="#9aa0a6" stroke-width="9" stroke-linecap="round"/>
+      <path d="M216 100 a20 20 0 0 1 -36 12" fill="none" stroke="#c9ccd1" stroke-width="12" stroke-linecap="round"/>
+      <line x1="142" y1="42" x2="164" y2="62" stroke="#6b4f2a" stroke-width="11" stroke-linecap="round"/>
+    </svg>
+  </div>
+
+  <div class="tag">추석 준비</div>
+  <h1>벌초 시기 2026<br /><span class="hl">언제 하는 게 좋을까?</span></h1>
+  <p class="sub">대행 비용 · 성묘 차이 · <b>안전수칙</b></p>
+</div>

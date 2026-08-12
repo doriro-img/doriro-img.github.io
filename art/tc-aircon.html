@@ -1,0 +1,39 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 800px; height: 800px; padding: 70px 64px; background: linear-gradient(160deg,#eaf4fb,#d7ebf6);
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #14343f;
+    display: flex; flex-direction: column; justify-content: center; position: relative;
+  }
+  .tag { display: inline-block; align-self: flex-start; background: #fff; color: #2f7fa8;
+    font-size: 22px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px;
+    box-shadow: 0 8px 20px rgba(60,130,165,.16); }
+  h1 { font-size: 62px; line-height: 1.24; letter-spacing: -1.5px; font-weight: 800; }
+  h1 .hl { color: #2f7fa8; }
+  .sub { margin-top: 30px; font-size: 27px; color: #4a6a76; font-weight: 600; }
+  .sub b { color: #14343f; }
+
+  /* 에어컨 일러스트 */
+  .ac { position: absolute; top: 74px; right: 64px; }
+  .unit { width: 210px; height: 74px; background: #fff; border-radius: 16px; box-shadow: 0 12px 28px rgba(70,120,150,.2); position: relative; }
+  .unit .disp { position: absolute; left: 22px; top: 16px; font-size: 26px; font-weight: 800; color: #3f97c0; }
+  .unit .led { position: absolute; right: 20px; top: 22px; width: 12px; height: 12px; border-radius: 50%; background: #4fbf8b; }
+  .unit .vent { position: absolute; left: 16px; right: 16px; bottom: 14px; height: 10px; background: #dbeaf1; border-radius: 5px; }
+  .breeze { margin: 12px 0 0 44px; }
+  .breeze span { display: block; height: 6px; border-radius: 4px; background: #a9d6ea; margin-bottom: 11px; }
+  .breeze span:nth-child(1){width:150px;} .breeze span:nth-child(2){width:118px;margin-left:20px;} .breeze span:nth-child(3){width:84px;margin-left:40px;}
+</style>
+
+<div id="art">
+  <div class="ac">
+    <div class="unit"><div class="disp">26°</div><div class="led"></div><div class="vent"></div></div>
+    <div class="breeze"><span></span><span></span><span></span></div>
+  </div>
+
+  <div class="tag">여름 전기요금</div>
+  <h1>에어컨 하루 8시간<br /><span class="hl">전기세 얼마?</span></h1>
+  <p class="sub">소비전력 계산법 · <b>인버터 vs 정속형</b></p>
+</div>
