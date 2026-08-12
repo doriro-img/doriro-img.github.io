@@ -1,0 +1,103 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #fbf8f3;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 21px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a7f6b; margin-bottom: 8px; }
+  .same {
+    display: inline-block; background: #fff; border: 1px solid #ece3d3; border-radius: 20px;
+    padding: 7px 16px; font-size: 13.5px; color: #4a4a4a; margin-bottom: 20px;
+  }
+  .same b { color: #c67b1c; }
+
+  .scene { display: flex; align-items: flex-end; gap: 20px; }
+  .house { flex: 1; text-align: center; }
+  .roofwrap { position: relative; height: 250px; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; }
+
+  /* 집 */
+  .home svg { display: block; }
+  .who { margin-top: 12px; font-size: 14px; font-weight: 700; }
+  .base { font-size: 12.5px; color: #8a7f6b; margin-top: 2px; }
+
+  /* 동전 스택 */
+  .coins { display: flex; flex-direction: column-reverse; align-items: center; margin-bottom: 14px; gap: 3px; }
+  .coin { width: 74px; height: 15px; border-radius: 50%; box-shadow: 0 1px 0 rgba(0,0,0,.08); }
+  .g .coin { background: linear-gradient(#a6dcc0, #6cc19a); }
+  .r .coin { background: linear-gradient(#f0b79a, #dd7c5c); }
+  .rate { font-size: 12.5px; color: #6b6b6b; margin-bottom: 6px; }
+  .rate b { color: #1b1b1b; }
+  .money { font-size: 25px; font-weight: 800; }
+  .g .money { color: #2f9e6e; }
+  .r .money { color: #c1462f; }
+  .mcap { font-size: 12px; color: #9a9a9a; margin-top: 1px; }
+
+  .mid { width: 92px; flex-shrink: 0; text-align: center; padding-bottom: 60px; }
+  .mid .x { font-size: 30px; font-weight: 800; color: #c1462f; }
+  .mid .xl { font-size: 12.5px; color: #8a7f6b; margin-top: 2px; }
+
+  .link { margin-top: 20px; background: #fff; border: 1px solid #ece3d3; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #6b5f4b; text-align: center; }
+  .link b { color: #c67b1c; }
+  .foot { margin-top: 12px; font-size: 12px; color: #a79c88; }
+</style>
+
+<div id="art">
+  <h1>같은 에어컨인데 요금이 다른 이유</h1>
+  <p class="sub">에어컨이 쓰는 전기는 '원래 쓰던 양' 위에 얹힙니다</p>
+  <div class="same">에어컨으로 똑같이 <b>월 192kWh</b>를 더 썼는데도—</div>
+
+  <div class="scene">
+    <div class="house g">
+      <div class="roofwrap">
+        <div class="coins">
+          <div class="coin"></div><div class="coin"></div><div class="coin"></div>
+        </div>
+        <div class="rate">1kWh당 <b>120원</b>대 (1단계)</div>
+        <div class="money">약 23,000원</div>
+        <div class="mcap">에어컨 몫 요금</div>
+      </div>
+      <div class="home">
+        <svg width="90" height="72" viewBox="0 0 90 72">
+          <polygon points="45,4 84,34 6,34" fill="#7cbfa0" />
+          <rect x="16" y="34" width="58" height="34" rx="3" fill="#fff" stroke="#d9e5df" />
+          <rect x="34" y="46" width="22" height="22" rx="2" fill="#e9f3ee" stroke="#cfe0d8" />
+        </svg>
+      </div>
+      <div class="who">원래 적게 쓰던 집</div>
+      <div class="base">기본 사용 100kWh</div>
+    </div>
+
+    <div class="mid">
+      <div class="x">2.5배</div>
+      <div class="xl">차이</div>
+    </div>
+
+    <div class="house r">
+      <div class="roofwrap">
+        <div class="coins">
+          <div class="coin"></div><div class="coin"></div><div class="coin"></div><div class="coin"></div>
+          <div class="coin"></div><div class="coin"></div><div class="coin"></div><div class="coin"></div>
+        </div>
+        <div class="rate">1kWh당 <b>307원</b> (3단계)</div>
+        <div class="money">약 59,000원</div>
+        <div class="mcap">에어컨 몫 요금</div>
+      </div>
+      <div class="home">
+        <svg width="90" height="72" viewBox="0 0 90 72">
+          <polygon points="45,4 84,34 6,34" fill="#e0987a" />
+          <rect x="16" y="34" width="58" height="34" rx="3" fill="#fff" stroke="#ecd9d1" />
+          <rect x="34" y="46" width="22" height="22" rx="2" fill="#fbeee8" stroke="#f0d3cb" />
+        </svg>
+      </div>
+      <div class="who">원래 많이 쓰던 집</div>
+      <div class="base">기본 사용 300kWh</div>
+    </div>
+  </div>
+
+  <div class="link">그래서 에어컨만의 문제가 아니에요 · <b>우리집이 지금 몇 단계인지</b>부터 알아야 합니다 → 누진세 구간 글 참고</div>
+  <p class="foot">주택용 저압 하계 단가 기준 · 전력량요금만 계산한 대략치 (기본요금·부가세 등 제외)</p>
+</div>

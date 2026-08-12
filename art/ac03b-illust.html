@@ -1,0 +1,90 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #f4f9fb;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 21px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b7f88; margin-bottom: 22px; }
+
+  .scene { display: flex; align-items: flex-end; gap: 26px; }
+
+  /* 에어컨 일러스트 */
+  .ac-wrap { width: 250px; flex-shrink: 0; padding-bottom: 8px; }
+  .ac {
+    width: 220px; height: 78px; background: #fff; border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(90,140,160,.18); position: relative;
+    border: 1px solid #e3edf1;
+  }
+  .ac .vent { position: absolute; left: 14px; right: 14px; bottom: 12px; height: 8px; background: #dbe8ee; border-radius: 4px; }
+  .ac .led { position: absolute; right: 16px; top: 14px; width: 8px; height: 8px; border-radius: 50%; background: #4fbf8b; }
+  .ac .disp { position: absolute; left: 18px; top: 12px; font-size: 15px; font-weight: 800; color: #4a94b8; }
+  .breeze { margin: 6px 0 0 30px; }
+  .breeze span { display: block; height: 4px; border-radius: 3px; background: #bfe2f0; margin-bottom: 7px; }
+  .breeze span:nth-child(1) { width: 150px; }
+  .breeze span:nth-child(2) { width: 120px; margin-left: 14px; }
+  .breeze span:nth-child(3) { width: 90px; margin-left: 28px; }
+  .ac-cap { margin-top: 14px; font-size: 13px; color: #5a7480; line-height: 1.6; }
+  .ac-cap b { color: #2b6d8c; }
+
+  /* 사용시간별 에너지 기둥 */
+  .bars { flex: 1; display: flex; align-items: flex-end; justify-content: space-around; gap: 18px; }
+  .col { text-align: center; width: 150px; }
+  .glass {
+    width: 66px; margin: 0 auto; border-radius: 12px 12px 8px 8px;
+    background: #e7eef2; position: relative; display: flex; flex-direction: column-reverse;
+    overflow: hidden; border: 1px solid #d5e2e8;
+  }
+  .g4 { height: 92px; }
+  .g8 { height: 150px; }
+  .g12 { height: 210px; }
+  .fill { width: 100%; border-radius: 0; }
+  .f4 { height: 100%; background: linear-gradient(#8fd0b4, #5cb992); }
+  .f8 { height: 100%; background: linear-gradient(#f2c879, #e6a94b); }
+  .f12 { height: 100%; background: linear-gradient(#f0a07f, #d0553f); }
+  .hrs { margin-top: 12px; font-size: 15px; font-weight: 800; }
+  .kwh { margin-top: 3px; font-size: 13px; color: #5a7480; }
+  .kwh b { color: #1b1b1b; font-size: 14px; }
+  .foot { margin-top: 22px; font-size: 12px; color: #8ba2ac; line-height: 1.6; }
+  .foot b { color: #5a7480; }
+</style>
+
+<div id="art">
+  <h1>하루 몇 시간 트느냐로 갈립니다</h1>
+  <p class="sub">스탠드형(1.8kW)을 한 달(30일) 돌렸을 때 더 쓰는 전력량</p>
+
+  <div class="scene">
+    <div class="ac-wrap">
+      <div class="ac">
+        <div class="disp">26°</div>
+        <div class="led"></div>
+        <div class="vent"></div>
+      </div>
+      <div class="breeze"><span></span><span></span><span></span></div>
+      <div class="ac-cap">라벨의 <b>냉방 소비전력</b>에<br />튼 시간만 곱하면 됩니다</div>
+    </div>
+
+    <div class="bars">
+      <div class="col">
+        <div class="glass g4"><div class="fill f4"></div></div>
+        <div class="hrs">4시간</div>
+        <div class="kwh"><b>216</b> kWh</div>
+      </div>
+      <div class="col">
+        <div class="glass g8"><div class="fill f8"></div></div>
+        <div class="hrs">8시간</div>
+        <div class="kwh"><b>432</b> kWh</div>
+      </div>
+      <div class="col">
+        <div class="glass g12"><div class="fill f12"></div></div>
+        <div class="hrs">12시간</div>
+        <div class="kwh"><b>648</b> kWh</div>
+      </div>
+    </div>
+  </div>
+
+  <p class="foot">정격 소비전력 기준 최대치입니다 · 인버터는 실제로 이보다 적게 나와요 · <b>이 사용량이 원래 쓰던 전기에 얹혀 누진 구간을 밀어올립니다</b></p>
+</div>
