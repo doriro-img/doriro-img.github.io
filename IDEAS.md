@@ -16,6 +16,7 @@
 | 2026-08-10 | 여름 전기요금 누진세 구간. 450kWh 넘기면 안 되는 이유와 9월 고지서 함정 | [posts/2026-08-10-summer-electricity-tier.txt](posts/2026-08-10-summer-electricity-tier.txt) | [/92](https://heelovee.tistory.com/92) |
 | 2026-08-10 | 부부 공동 자산관리 방법. 해외주식 양도세 공제 500만원 받는 법과 같이 쓰는 자산 장부 | [posts/2026-08-10-couple-asset-ledger.txt](posts/2026-08-10-couple-asset-ledger.txt) | [/93](https://heelovee.tistory.com/93) |
 | 2026-08-12 | 에어컨 전기요금 계산법. 하루 8시간 틀면 전기세 얼마? 인버터 vs 정속형 | [posts/2026-08-12-aircon-electricity.txt](posts/2026-08-12-aircon-electricity.txt) | 발행 대기 |
+| 2026-08-12 | 벌초 시기 2026. 언제 하는 게 좋을까? 대행 비용과 성묘 차이, 안전수칙까지 | [posts/2026-08-12-beolcho-guide.txt](posts/2026-08-12-beolcho-guide.txt) | 발행 대기 |
 
 - 첫 글은 제목이 원고와 다르다(발행 시 옛 제목 유지). 검색어를 더 담으려면 원고 제목으로 바꿔도 좋다
 - 양도소득세 글의 세율·공제·신고기한은 2026-08 기준으로 웹 확인함
