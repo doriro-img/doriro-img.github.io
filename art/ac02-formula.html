@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .formula {
+    background: #f6f9f7; border: 1px solid #d8e8e0; border-radius: 10px;
+    padding: 22px 24px; margin-bottom: 22px;
+  }
+  .formula .line { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; font-size: 17px; font-weight: 700; }
+  .chip { background: #fff; border: 1px solid #cfe0d8; border-radius: 7px; padding: 8px 14px; }
+  .chip.g { background: #2f9e6e; color: #fff; border-color: #2f9e6e; }
+  .op { color: #7a9a8c; font-size: 18px; }
+  .formula .hint { margin-top: 12px; font-size: 13px; color: #6b6b6b; }
+
+  .ex { display: flex; gap: 16px; }
+  .card { flex: 1; border: 1px solid #e6e6e6; border-radius: 9px; padding: 16px 18px; }
+  .card h3 { font-size: 14.5px; margin-bottom: 10px; }
+  .card .calc { font-size: 13.5px; color: #4a4a4a; line-height: 1.9; }
+  .card .calc b { color: #1b1b1b; }
+  .card .res { margin-top: 10px; padding-top: 10px; border-top: 1px dashed #ddd; font-size: 15px; font-weight: 700; color: #2f9e6e; }
+  .foot { margin-top: 20px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>에어컨 전기요금 계산 공식</h1>
+  <p class="sub">소비전력에 시간만 곱하면 한 달 사용량이 나옵니다</p>
+
+  <div class="formula">
+    <div class="line">
+      <span class="chip">소비전력(kW)</span>
+      <span class="op">×</span>
+      <span class="chip">하루 사용시간</span>
+      <span class="op">×</span>
+      <span class="chip">사용일수</span>
+      <span class="op">=</span>
+      <span class="chip g">한 달 사용량(kWh)</span>
+    </div>
+    <p class="hint">W로 적혀 있으면 1,000으로 나눠 kW로 바꿉니다 (1,800W = 1.8kW)</p>
+  </div>
+
+  <div class="ex">
+    <div class="card">
+      <h3>벽걸이 (0.8kW) · 하루 8시간</h3>
+      <p class="calc">0.8kW × 8시간 × 30일<br />= <b>192kWh</b></p>
+      <p class="res">한 달 약 192kWh 추가</p>
+    </div>
+    <div class="card">
+      <h3>스탠드 (1.8kW) · 하루 8시간</h3>
+      <p class="calc">1.8kW × 8시간 × 30일<br />= <b>432kWh</b></p>
+      <p class="res">한 달 약 432kWh 추가</p>
+    </div>
+  </div>
+
+  <p class="foot">라벨의 정격 소비전력으로 계산한 최대치입니다 · 인버터는 실제로 이보다 적게 나옵니다</p>
+</div>

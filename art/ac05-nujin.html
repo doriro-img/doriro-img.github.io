@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .same { text-align: center; font-size: 14px; color: #4a4a4a; margin-bottom: 18px; }
+  .same b { color: #1b1b1b; }
+
+  .wrap { display: flex; gap: 18px; align-items: stretch; }
+  .card { flex: 1; border-radius: 10px; padding: 18px 20px; border: 1px solid #e6e6e6; }
+  .card.a { background: #f6f9f7; border-color: #d8e8e0; }
+  .card.b { background: #fdf5f3; border-color: #f0d3cb; }
+  .card .who { font-size: 13.5px; color: #6b6b6b; margin-bottom: 6px; }
+  .card .base { font-size: 15px; font-weight: 700; margin-bottom: 14px; }
+  .card .rate { font-size: 13.5px; color: #4a4a4a; line-height: 1.8; }
+  .card .rate b { color: #1b1b1b; }
+  .card .cost { margin-top: 14px; padding-top: 14px; border-top: 1px dashed #ccc; }
+  .card .cost .n { font-size: 26px; font-weight: 800; }
+  .card.a .cost .n { color: #2f9e6e; }
+  .card.b .cost .n { color: #c1462f; }
+  .card .cost .cap { font-size: 12.5px; color: #8a8a8a; margin-top: 2px; }
+
+  .gap { text-align: center; margin: 20px 0 6px; font-size: 15px; }
+  .gap b { color: #c1462f; font-size: 18px; }
+  .link { margin-top: 14px; background: #f4f4f4; border-radius: 8px; padding: 12px 16px; font-size: 13px; color: #555; text-align: center; }
+  .foot { margin-top: 14px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>같은 에어컨인데 요금이 다른 이유</h1>
+  <p class="sub">에어컨이 쓰는 전기는 '원래 쓰던 양' 위에 얹힙니다</p>
+
+  <p class="same">에어컨으로 똑같이 <b>월 192kWh</b>를 더 썼습니다. 그런데—</p>
+
+  <div class="wrap">
+    <div class="card a">
+      <div class="who">원래 전기를 적게 쓰던 집</div>
+      <div class="base">기본 사용 100kWh</div>
+      <div class="rate">에어컨분이 대부분 <b>1단계 구간</b>에 들어감<br />1kWh당 <b>120원</b>대</div>
+      <div class="cost"><div class="n">약 23,000원</div><div class="cap">에어컨 몫 전기요금</div></div>
+    </div>
+    <div class="card b">
+      <div class="who">원래 전기를 많이 쓰던 집</div>
+      <div class="base">기본 사용 300kWh</div>
+      <div class="rate">에어컨분이 <b>3단계 구간</b>으로 넘어감<br />1kWh당 <b>307원</b></div>
+      <div class="cost"><div class="n">약 59,000원</div><div class="cap">에어컨 몫 전기요금</div></div>
+    </div>
+  </div>
+
+  <p class="gap">같은 192kWh인데 <b>2.5배</b> 차이가 납니다</p>
+
+  <div class="link">
+    그래서 에어컨만의 문제가 아닙니다 · 우리집이 몇 단계인지부터 알아야 합니다 → 누진세 구간 글 참고</div>
+
+  <p class="foot">주택용 저압 하계 단가 기준 · 전력량요금만 계산 · 기본요금·부가세 등 제외한 대략치</p>
+</div>

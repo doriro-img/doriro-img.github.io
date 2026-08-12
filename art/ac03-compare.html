@@ -1,0 +1,58 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+  th, td { border: 1px solid #e2e2e2; padding: 12px 10px; text-align: center; }
+  thead th { background: #f4f4f4; font-size: 13.5px; }
+  .type { text-align: left; font-weight: 700; padding-left: 16px; }
+  .type span { display: block; font-size: 12px; color: #8a8a8a; font-weight: 400; margin-top: 2px; }
+  .kwh { font-weight: 700; }
+  .low { color: #2f9e6e; }
+  .mid { color: #c67b1c; }
+  .high { color: #c1462f; }
+  .foot { margin-top: 18px; font-size: 12px; color: #8a8a8a; line-height: 1.7; }
+</style>
+
+<div id="art">
+  <h1>하루 몇 시간 트느냐로 갈립니다</h1>
+  <p class="sub">한 달(30일) 기준으로 에어컨이 더 쓰는 전력량입니다</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>종류</th>
+        <th>하루 4시간</th>
+        <th>하루 8시간</th>
+        <th>하루 12시간</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="type">벽걸이형<span>정격 0.8kW 기준</span></td>
+        <td class="kwh low">96 kWh</td>
+        <td class="kwh mid">192 kWh</td>
+        <td class="kwh high">288 kWh</td>
+      </tr>
+      <tr>
+        <td class="type">스탠드형<span>정격 1.8kW 기준</span></td>
+        <td class="kwh mid">216 kWh</td>
+        <td class="kwh high">432 kWh</td>
+        <td class="kwh high">648 kWh</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="foot">
+    정격 소비전력으로 잡은 최대치입니다 · 인버터 에어컨은 설정온도에 도달하면 출력을 낮춰서 실제로는 이보다 적게 나옵니다<br />
+    문제는 이 사용량이 원래 쓰던 전기에 <b>얹혀서</b> 누진 구간을 밀어올린다는 점입니다
+  </p>
+</div>

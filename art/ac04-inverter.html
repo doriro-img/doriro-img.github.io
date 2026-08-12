@@ -1,0 +1,68 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 26px; }
+
+  .wrap { display: flex; gap: 20px; }
+  .card { flex: 1; border: 1px solid #e6e6e6; border-radius: 10px; padding: 18px 20px 20px; }
+  .card h3 { font-size: 15.5px; margin-bottom: 4px; }
+  .card .tag { font-size: 12.5px; color: #8a8a8a; margin-bottom: 16px; }
+
+  .chart { height: 110px; position: relative; border-bottom: 1.5px solid #ddd; margin-bottom: 8px; }
+  .chart svg { width: 100%; height: 100%; display: block; }
+  .axis { font-size: 11px; color: #9a9a9a; }
+
+  .const .line { stroke: #c1462f; }
+  .inv .line { stroke: #2f9e6e; }
+
+  .desc { font-size: 13.5px; line-height: 1.7; color: #4a4a4a; margin-top: 10px; }
+  .desc b { color: #1b1b1b; }
+  .verdict { margin-top: 22px; text-align: center; background: #f6f9f7; border: 1px solid #d8e8e0; border-radius: 9px; padding: 16px; font-size: 14.5px; line-height: 1.7; color: #2a5f4a; }
+  .verdict b { color: #1b7a4f; }
+  .foot { margin-top: 16px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>껐다 켰다 vs 계속 틀기, 뭐가 이득?</h1>
+  <p class="sub">인버터냐 정속형이냐에 따라 답이 달라집니다</p>
+
+  <div class="wrap">
+    <div class="card const">
+      <h3>정속형 (구형)</h3>
+      <p class="tag">껐다 켜기를 반복합니다</p>
+      <div class="chart">
+        <svg viewBox="0 0 260 110" preserveAspectRatio="none">
+          <polyline class="line" fill="none" stroke-width="3"
+            points="0,90 0,20 40,20 40,90 80,90 80,20 120,20 120,90 160,90 160,20 200,20 200,90 240,90 240,20 260,20" />
+        </svg>
+      </div>
+      <p class="desc">설정온도에 닿으면 <b>완전히 껐다가</b> 다시 확 켭니다. 켤 때마다 정격 전력을 통째로 써요.</p>
+    </div>
+
+    <div class="card inv">
+      <h3>인버터 (요즘 대부분)</h3>
+      <p class="tag">출력을 낮춰 계속 돕니다</p>
+      <div class="chart">
+        <svg viewBox="0 0 260 110" preserveAspectRatio="none">
+          <polyline class="line" fill="none" stroke-width="3"
+            points="0,90 30,15 60,55 100,60 140,58 180,60 220,58 260,60" />
+        </svg>
+      </div>
+      <p class="desc">처음에만 세게 돌리고 <b>온도를 맞춘 뒤엔 살살</b> 돕니다. 계속 트는 게 오히려 덜 나와요.</p>
+    </div>
+  </div>
+
+  <div class="verdict">
+    인버터라면 <b>26도쯤에 맞춰두고 계속 트는 쪽</b>이 이득입니다.<br />
+    잠깐 나갈 때 껐다 켜면 초기 가동 전력이 더 들어요.
+  </div>
+
+  <p class="foot">우리집 에어컨이 인버터인지는 라벨이나 모델명으로 확인 · 2010년대 중반 이후 제품은 대부분 인버터</p>
+</div>

@@ -1,0 +1,64 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .wrap { display: flex; gap: 22px; align-items: stretch; }
+  .label {
+    width: 300px; flex-shrink: 0; border: 2px solid #1b1b1b; border-radius: 8px;
+    overflow: hidden;
+  }
+  .label .top { background: #2f6fb0; color: #fff; padding: 10px 14px; font-size: 14px; font-weight: 700; }
+  .label .grade { text-align: center; padding: 16px 0 10px; font-size: 46px; font-weight: 800; color: #2f9e6e; }
+  .label .gradesub { text-align: center; font-size: 12px; color: #6b6b6b; margin-bottom: 14px; }
+  .label .row { display: flex; justify-content: space-between; padding: 9px 14px; font-size: 13.5px; border-top: 1px solid #eee; }
+  .label .row.hl { background: #fdf4e8; font-weight: 700; }
+  .label .row.hl .v { color: #c67b1c; }
+  .label .k { color: #4a4a4a; }
+  .label .v { font-weight: 700; }
+
+  .note { flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .note .item { margin-bottom: 16px; padding-left: 16px; border-left: 3px solid #e3b877; }
+  .note .item b { color: #1b1b1b; }
+  .note .item p { font-size: 14px; line-height: 1.7; color: #4a4a4a; }
+  .note .big { font-size: 15px; }
+  .foot { margin-top: 20px; font-size: 12px; color: #8a8a8a; }
+</style>
+
+<div id="art">
+  <h1>내 에어컨 소비전력, 라벨에서 찾는 법</h1>
+  <p class="sub">에어컨 옆면 스티커나 에너지소비효율 라벨에 다 적혀 있습니다</p>
+
+  <div class="wrap">
+    <div class="label">
+      <div class="top">에너지소비효율등급</div>
+      <div class="grade">2</div>
+      <div class="gradesub">1등급에 가까울수록 효율이 좋습니다</div>
+      <div class="row"><span class="k">냉방능력</span><span class="v">5,200 W</span></div>
+      <div class="row hl"><span class="k">냉방 소비전력</span><span class="v">1,800 W</span></div>
+      <div class="row"><span class="k">냉방효율 (CSPF)</span><span class="v">4.2 W/W</span></div>
+      <div class="row"><span class="k">월간 소비전력량</span><span class="v">모델별 상이</span></div>
+    </div>
+
+    <div class="note">
+      <div class="item">
+        <p><b>냉방 소비전력</b>이 우리가 볼 숫자입니다.<br />전기를 얼마나 먹는지가 여기 적혀 있어요.</p>
+      </div>
+      <div class="item">
+        <p class="big">위 예시는 <b>1,800W = 1.8kW</b>.<br />스탠드형은 보통 1.5~2.5kW,<br />벽걸이형은 0.7~1.2kW쯤 됩니다.</p>
+      </div>
+      <div class="item">
+        <p><b>냉방능력</b>과 헷갈리지 마세요.<br />냉방능력은 얼마나 시원한지, 소비전력은 전기를 얼마나 쓰는지입니다.</p>
+      </div>
+    </div>
+  </div>
+
+  <p class="foot">모델마다 다릅니다 · 정확한 값은 제품 라벨이나 한국에너지공단 효율관리제도 홈페이지에서 모델명 검색</p>
+</div>
