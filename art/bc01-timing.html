@@ -1,0 +1,75 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 34px; background: #f3f8f1;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 21px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6f8168; margin-bottom: 40px; }
+
+  .track { position: relative; height: 150px; margin: 0 10px; }
+  .line { position: absolute; top: 46px; left: 0; right: 0; height: 4px; background: #d3e2cb; border-radius: 2px; }
+  .band {
+    position: absolute; top: 40px; height: 16px; border-radius: 8px;
+    background: linear-gradient(90deg, #9ed49f, #5cb86f); left: 46%; right: 8%;
+    box-shadow: 0 3px 8px rgba(80,150,90,.25);
+  }
+  .band-lab { position: absolute; top: 8px; left: 60%; font-size: 13px; font-weight: 800; color: #3b8a4e; }
+
+  .node { position: absolute; top: 30px; text-align: center; transform: translateX(-50%); }
+  .dot { width: 34px; height: 34px; border-radius: 50%; margin: 0 auto; display: flex; align-items: center; justify-content: center; background: #fff; border: 3px solid #bcd6b3; }
+  .node.big .dot { width: 42px; height: 42px; border-color: #e6a94b; background: #fff6e8; margin-top: -4px; }
+  .node .date { margin-top: 10px; font-size: 14px; font-weight: 800; }
+  .node .name { font-size: 12.5px; color: #7a8a72; margin-top: 1px; }
+  .node.big .name { color: #c6871f; }
+
+  .ic { width: 18px; height: 18px; }
+  .callout { margin-top: 8px; background: #fff; border: 1px solid #dce8d5; border-radius: 10px; padding: 14px 18px; font-size: 14px; line-height: 1.7; color: #40503a; }
+  .callout b { color: #2f7a3f; }
+  .foot { margin-top: 12px; font-size: 12px; color: #93a389; }
+</style>
+
+<div id="art">
+  <h1>벌초, 언제 하는 게 좋을까?</h1>
+  <p class="sub">2026년은 처서 지나고 백로~추석 직전 주말이 적기입니다</p>
+
+  <div class="track">
+    <div class="line"></div>
+    <div class="band"></div>
+    <div class="band-lab">← 적기 구간 →</div>
+
+    <div class="node" style="left:8%;">
+      <div class="dot">
+        <svg class="ic" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="#e6a94b"/><g stroke="#e6a94b" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/></g></svg>
+      </div>
+      <div class="date">8월 23일</div>
+      <div class="name">처서</div>
+    </div>
+
+    <div class="node" style="left:46%;">
+      <div class="dot">
+        <svg class="ic" viewBox="0 0 24 24"><path d="M6 18 C6 10 12 4 18 5 C18 13 12 19 6 18Z" fill="#7cbf82"/><line x1="6" y1="18" x2="14" y2="10" stroke="#3b8a4e" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </div>
+      <div class="date">9월 8일</div>
+      <div class="name">백로</div>
+    </div>
+
+    <div class="node big" style="left:92%;">
+      <div class="dot">
+        <svg class="ic" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="#f4d58a"/><path d="M12 4 a8 8 0 0 0 0 16 a6 6 0 0 1 0-16Z" fill="#e6a94b"/></svg>
+      </div>
+      <div class="date">9월 25일</div>
+      <div class="name">추석</div>
+    </div>
+  </div>
+
+  <div class="callout">
+    너무 일찍(8월 초) 하면 추석 때 풀이 <b>다시 웃자랍니다.</b><br />
+    실무상 <b>9월 첫째~둘째 주말</b>이 가장 무난해요.
+  </div>
+
+  <p class="foot">절기 날짜 출처: 기상청 · 벌초 적기는 지역·기후 따라 1~2주 차이 날 수 있습니다</p>
+</div>

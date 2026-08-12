@@ -1,0 +1,71 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #fbf9f4;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 21px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a8168; margin-bottom: 26px; }
+
+  .scale { position: relative; height: 20px; margin: 0 4px 6px; font-size: 11.5px; color: #b3a98f; }
+  .scale span { position: absolute; transform: translateX(-50%); }
+
+  .bar-row { margin-bottom: 20px; }
+  .bl { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 7px; }
+  .bl .who { font-size: 15px; font-weight: 800; }
+  .bl .who small { font-size: 12px; color: #a99f86; font-weight: 500; margin-left: 6px; }
+  .bl .rng { font-size: 14px; font-weight: 800; }
+  .rail { position: relative; height: 22px; background: #f0ece2; border-radius: 11px; }
+  .fill { position: absolute; height: 22px; border-radius: 11px; }
+  .f1 { left: 33%; right: 46%; background: linear-gradient(90deg,#8fc9a6,#5cb88a); }
+  .f2 { left: 42%; right: 8%; background: linear-gradient(90deg,#edb97e,#dd8a5c); }
+  .r1 .rng { color: #3f9169; }
+  .r2 .rng { color: #c86a3f; }
+
+  .add { margin-top: 24px; background: #fff; border: 1px solid #ece4d3; border-radius: 12px; padding: 16px 18px; }
+  .add h3 { font-size: 14px; margin-bottom: 12px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { font-size: 12.5px; background: #f7f2e8; border: 1px solid #ece0c9; border-radius: 16px; padding: 6px 12px; color: #7a6f52; }
+  .chip b { color: #c6871f; }
+  .foot { margin-top: 14px; font-size: 12px; color: #ab9f86; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>벌초 대행 비용, 묘 1기당 얼마?</h1>
+  <p class="sub">2025년 기준 시세입니다 (2026년은 비슷하거나 소폭 인상 예상)</p>
+
+  <div class="scale">
+    <span style="left:0%;">0원</span>
+    <span style="left:33%;">8만</span>
+    <span style="left:50%;">12만</span>
+    <span style="left:75%;">18만</span>
+    <span style="left:96%;">20만</span>
+  </div>
+
+  <div class="bar-row r1">
+    <div class="bl"><div class="who">산림조합 · 농협 <small>공공 서비스</small></div><div class="rng">약 8만~13만원</div></div>
+    <div class="rail"><div class="fill f1"></div></div>
+  </div>
+
+  <div class="bar-row r2">
+    <div class="bl"><div class="who">사설 대행업체 <small>수도권·성수기 상단</small></div><div class="rng">약 10만~20만원</div></div>
+    <div class="rail"><div class="fill f2"></div></div>
+  </div>
+
+  <div class="add">
+    <h3>💡 기본가에 더 붙는 항목 (신청 전 꼭 확인)</h3>
+    <div class="chips">
+      <span class="chip">면적 초과 10평당 <b>+1만</b></span>
+      <span class="chip">이동거리 10km당 <b>+1만</b></span>
+      <span class="chip">도보거리 100m당 <b>+1만</b></span>
+      <span class="chip">경사·진입로 장애</span>
+      <span class="chip">폐기물 처리</span>
+      <span class="chip">잔디 보수·조경</span>
+    </div>
+  </div>
+
+  <p class="foot">지역 조합·업체마다 기준이 다릅니다 · 최종가는 유선·실측 후 확정 · "기본가만 보고 신청하면 추가요금으로 오를 수 있어요"</p>
+</div>

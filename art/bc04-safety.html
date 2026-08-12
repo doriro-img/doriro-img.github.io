@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #fbf6f4;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 21px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #9a7f76; margin-bottom: 22px; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .item { background: #fff; border-radius: 12px; padding: 16px 18px; display: flex; gap: 14px; align-items: flex-start; box-shadow: 0 4px 12px rgba(150,90,70,.06); }
+  .ico { width: 46px; height: 46px; border-radius: 12px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .i1 { background: #eaf4ee; } .i2 { background: #fdeee6; } .i3 { background: #fbf3e2; } .i4 { background: #eef1f7; } .i5 { background: #f3eef7; }
+  .tx h3 { font-size: 14.5px; margin-bottom: 4px; }
+  .tx p { font-size: 13px; line-height: 1.6; color: #6a5f5a; }
+  .tx b { color: #c1462f; }
+  .full { grid-column: 1 / 3; }
+  .foot { margin-top: 16px; font-size: 12px; color: #b39a92; }
+</style>
+
+<div id="art">
+  <h1>벌초 안전수칙, 이건 꼭 지키세요</h1>
+  <p class="sub">해마다 예초기 사고와 벌 쏘임 사고가 반복됩니다</p>
+
+  <div class="grid">
+    <div class="item">
+      <div class="ico i1">
+        <svg width="26" height="26" viewBox="0 0 24 24"><path d="M8 3 h8 l3 4 -3 2 v12 h-8 v-12 l-3 -2Z" fill="#5cb88a"/></svg>
+      </div>
+      <div class="tx"><h3>긴소매·긴바지·장화</h3><p>발목까지 덮어 <b>뱀·진드기</b> 차단. 밝은색으로 입기</p></div>
+    </div>
+
+    <div class="item">
+      <div class="ico i2">
+        <svg width="26" height="26" viewBox="0 0 24 24"><circle cx="7" cy="12" r="4" fill="#dd8a5c"/><rect x="10" y="11" width="11" height="2" fill="#dd8a5c"/><line x1="18" y1="8" x2="18" y2="16" stroke="#dd8a5c" stroke-width="2"/></svg>
+      </div>
+      <div class="tx"><h3>예초기 안전거리 15m</h3><p>보호덮개 부착, 작업자끼리 <b>15m 이상</b> 떨어져서</p></div>
+    </div>
+
+    <div class="item">
+      <div class="ico i3">
+        <svg width="26" height="26" viewBox="0 0 24 24"><ellipse cx="12" cy="13" rx="5" ry="7" fill="#e6a94b"/><rect x="9" y="9" width="6" height="2" fill="#6b4f2a"/><rect x="9" y="13" width="6" height="2" fill="#6b4f2a"/><path d="M9 6 l-3 -3 M15 6 l3 -3" stroke="#6b4f2a" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </div>
+      <div class="tx"><h3>벌 쏘임 주의</h3><p>향수·단 음료 자제, 벌집 보면 자세 낮춰 <b>20m 대피</b></p></div>
+    </div>
+
+    <div class="item">
+      <div class="ico i4">
+        <svg width="26" height="26" viewBox="0 0 24 24"><path d="M5 16 q3 -6 8 -5 q5 1 6 -4" fill="none" stroke="#6d84b0" stroke-width="3" stroke-linecap="round"/><circle cx="19" cy="7" r="2" fill="#6d84b0"/></svg>
+      </div>
+      <div class="tx"><h3>뱀 물림 대처</h3><p>물린 곳 심장보다 낮게, 빨지 말고 <b>즉시 병원</b></p></div>
+    </div>
+
+    <div class="item full">
+      <div class="ico i5">
+        <svg width="26" height="26" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="6" ry="7" fill="#9a7cc0"/><g stroke="#6b4f8a" stroke-width="1.6" stroke-linecap="round"><line x1="6" y1="9" x2="3" y2="7"/><line x1="6" y1="15" x2="3" y2="17"/><line x1="18" y1="9" x2="21" y2="7"/><line x1="18" y1="15" x2="21" y2="17"/></g></svg>
+      </div>
+      <div class="tx"><h3>진드기 (SFTS·쯔쯔가무시)</h3><p>기피제 뿌리고 작업 후 <b>바로 샤워·옷 세탁</b>. 며칠 뒤 <b>고열 나면 반드시 진료</b> 받으세요</p></div>
+    </div>
+  </div>
+
+  <p class="foot">출처: 행정안전부·정책브리핑 성묘·벌초 안전수칙</p>
+</div>
