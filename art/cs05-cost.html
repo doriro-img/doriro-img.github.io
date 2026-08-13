@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #fbf7ef;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #3a2e22;
+  }
+  h1 { font-size: 22px; letter-spacing: -0.5px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #a08a6b; margin-bottom: 24px; font-weight: 600; }
+  .scale { position: relative; height: 18px; margin: 0 4px 8px; font-size: 11.5px; color: #bcae92; }
+  .scale span { position: absolute; transform: translateX(-50%); }
+  .bar-row { margin-bottom: 22px; }
+  .bl { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .bl .who { font-size: 15.5px; font-weight: 800; }
+  .bl .who small { font-size: 12px; color: #a99f86; font-weight: 600; margin-left: 6px; }
+  .bl .amt { font-size: 16px; font-weight: 800; }
+  .rail { position: relative; height: 26px; background: #efe7d6; border-radius: 13px; }
+  .fill { position: absolute; left: 0; height: 26px; border-radius: 13px; }
+  .f1 { width: 57%; background: linear-gradient(90deg,#8bc06e,#5a9f52); }
+  .f2 { width: 89%; background: linear-gradient(90deg,#e8a15a,#c0392b); }
+  .r1 .amt { color: #4f8a45; } .r2 .amt { color: #c0392b; }
+  .note { margin-top: 4px; background: #fff; border: 1px solid #efe4cf; border-radius: 12px;
+    padding: 14px 18px; font-size: 13.5px; color: #6a5a45; line-height: 1.7; }
+  .note b { color: #3a2e22; }
+  .foot { margin-top: 12px; font-size: 12px; color: #ab9f86; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>추석 차례상 비용, 차리기 나름이에요</h1>
+  <p class="sub">2025년 추석 · 4인 가족 기준</p>
+
+  <div class="scale">
+    <span style="left:0%;">0원</span>
+    <span style="left:28.5%;">10만</span>
+    <span style="left:57%;">20만</span>
+    <span style="left:85.5%;">30만</span>
+    <span style="left:100%;">35만</span>
+  </div>
+
+  <div class="bar-row r1">
+    <div class="bl"><div class="who">성균관 간소화 <small>표준 품목 · 9가지 안팎</small></div><div class="amt">약 20만원</div></div>
+    <div class="rail"><div class="fill f1"></div></div>
+  </div>
+
+  <div class="bar-row r2">
+    <div class="bl"><div class="who">옛날식 큰 상 <small>28품목 풀세트</small></div><div class="amt">30만원 이상</div></div>
+    <div class="rail"><div class="fill f2"></div></div>
+  </div>
+
+  <div class="note">💡 같은 상이라도 <b>전통시장이 대형마트보다 10~14% 저렴</b>해요. 2025 추석엔 전통시장 19만원대, 대형마트 20만원대였어요</div>
+
+  <p class="foot">출처 : 한국농수산식품유통공사(aT) · 한국물가정보 2025년 추석 조사 · 조사기관과 품목 수에 따라 편차가 큽니다 · 2026년 추석 비용은 9월에 발표돼요 (설은 전년보다 약 4% 올랐어요)</p>
+</div>

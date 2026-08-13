@@ -1,0 +1,110 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 32px 40px 30px; background: #fbf7ef;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #3a2e22;
+  }
+  h1 { font-size: 22px; letter-spacing: -0.5px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #a08a6b; margin-bottom: 18px; font-weight: 600; }
+  .row { display: flex; gap: 22px; align-items: stretch; }
+  .board { flex: 0 0 470px; }
+  .guide { flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 15px; }
+  .step { display: flex; align-items: flex-start; gap: 12px; }
+  .bdg { flex: none; width: 30px; height: 30px; border-radius: 50%; color: #fff; font-weight: 800;
+    font-size: 15px; display: flex; align-items: center; justify-content: center; }
+  .b1 { background: #c88a3a; } .b2 { background: #5a8f4e; } .b3 { background: #c0392b; }
+  .step .tx { font-size: 15.5px; line-height: 1.45; padding-top: 2px; }
+  .step .tx b { font-weight: 800; }
+  .step .tx small { display: block; color: #9a8a72; font-size: 12.5px; font-weight: 600; margin-top: 2px; }
+  .freebox { margin-top: 4px; background: #fdf3ec; border: 1.5px solid #f0d5c8; border-radius: 12px;
+    padding: 13px 16px; font-size: 13.5px; line-height: 1.6; color: #8a5a3b; }
+  .freebox b { color: #c0392b; }
+  .pl { font-size: 12px; fill: #5a4a38; font-weight: 700; font-family: 'Pretendard','Malgun Gothic',sans-serif; }
+  .arw { font-size: 13.5px; fill: #9a8058; font-weight: 800; font-family: 'Pretendard','Malgun Gothic',sans-serif; }
+</style>
+
+<div id="art">
+  <h1>차례상 어디에 뭘 놓나요?</h1>
+  <p class="sub">성균관은 자리를 정하지 않았어요 · 아래는 참고용 배치</p>
+
+  <div class="row">
+    <div class="board">
+      <svg width="470" height="360" viewBox="0 0 470 360">
+        <!-- 신위 -->
+        <text x="235" y="20" text-anchor="middle" class="arw">▲ 신위(지방) 쪽</text>
+        <rect x="196" y="30" width="78" height="18" rx="4" fill="#efe3cf"/>
+        <rect x="226" y="30" width="18" height="18" rx="3" fill="#8a6a45"/>
+        <!-- 상판 (위에서 본 모습) -->
+        <rect x="22" y="58" width="426" height="242" rx="20" fill="#e6c191" stroke="#cb9f66" stroke-width="2.5"/>
+        <line x1="22" y1="140" x2="448" y2="140" stroke="#d3ab77" stroke-width="1.5"/>
+        <line x1="22" y1="222" x2="448" y2="222" stroke="#d3ab77" stroke-width="1.5"/>
+
+        <!-- 줄1: 송편 / 술 -->
+        <g transform="translate(150,100)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <path d="M-16,6 A14 14 0 0 1 12,6 Z" fill="#8bc06e" stroke="#4f8a45" stroke-width="1.3"/>
+          <path d="M-2,2 A12 12 0 0 1 22,2 Z" fill="#f0ead6" stroke="#4f8a45" stroke-width="1.3"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">송편</text>
+        </g>
+        <g transform="translate(330,100)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <ellipse cx="-3" cy="-2" rx="15" ry="12" fill="#e3d3ad" stroke="#c7b183" stroke-width="1.3"/>
+          <path d="M13,-6 q8,-2 9,4" fill="none" stroke="#c7b183" stroke-width="2.5"/>
+          <path d="M8,10 l3,7 h7 l3,-7 z" fill="#f0e8d4" stroke="#c7b183" stroke-width="1.2"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">술잔</text>
+        </g>
+
+        <!-- 줄2: 구이 / 나물 / 김치 -->
+        <g transform="translate(110,182)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <line x1="-18" y1="0" x2="18" y2="0" stroke="#8a5a34" stroke-width="2.5"/>
+          <rect x="-16" y="-7" width="12" height="13" rx="3" fill="#9b5a34"/>
+          <rect x="-2" y="-7" width="9" height="13" rx="3" fill="#6ea84f"/>
+          <rect x="9" y="-7" width="11" height="13" rx="3" fill="#9b5a34"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">구이</text>
+        </g>
+        <g transform="translate(235,182)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <path d="M-17,5 Q-8,-12 0,-3 Q9,-13 17,5 Z" fill="#6ea84f"/>
+          <path d="M-8,2 Q-2,-7 3,-2" fill="none" stroke="#c9a24b" stroke-width="1.5"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">나물</text>
+        </g>
+        <g transform="translate(360,182)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <path d="M-15,4 Q-11,-9 0,-7 Q9,-11 15,4 Z" fill="#c0392b"/>
+          <path d="M-4,-3 Q-1,1 0,3" fill="none" stroke="#f0d9c0" stroke-width="1.4"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">김치</text>
+        </g>
+
+        <!-- 줄3: 과일 -->
+        <g transform="translate(150,262)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <circle cx="0" cy="0" r="15" fill="#d94b3d"/><path d="M0,-15 q4,-3 8,-1" fill="none" stroke="#4f8a45" stroke-width="2.2"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">사과</text>
+        </g>
+        <g transform="translate(235,262)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <circle cx="0" cy="1" r="15" fill="#e3c469"/><path d="M0,-14 v-3" stroke="#7a5a2a" stroke-width="2.2"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">배</text>
+        </g>
+        <g transform="translate(320,262)">
+          <circle r="31" fill="#f3ecdd" stroke="#dccbab" stroke-width="1.5"/>
+          <circle cx="0" cy="1" r="14" fill="#e8862e"/><path d="M-6,-11 h12 M0,-11 v3" stroke="#5a8f4e" stroke-width="2"/>
+          <text x="0" y="47" text-anchor="middle" class="pl">감</text>
+        </g>
+
+        <text x="235" y="345" text-anchor="middle" class="arw">▼ 절하고 서는 쪽</text>
+      </svg>
+    </div>
+
+    <div class="guide">
+      <div class="step"><div class="bdg b1">1</div><div class="tx"><b>신위 쪽 (맨 안쪽)</b><small>송편 · 술잔</small></div></div>
+      <div class="step"><div class="bdg b2">2</div><div class="tx"><b>가운데 줄</b><small>구이 · 나물 · 김치</small></div></div>
+      <div class="step"><div class="bdg b3">3</div><div class="tx"><b>앞쪽 (사람 쪽)</b><small>과일 (사과 · 배 · 감)</small></div></div>
+      <div class="freebox"><b>정해진 자리는 없어요.</b> 성균관도 "가족이 편한 대로 놓으라"고 했어요. 이 그림은 감 잡으시라고 만든 참고용이에요</div>
+    </div>
+  </div>
+</div>

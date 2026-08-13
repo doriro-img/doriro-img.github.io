@@ -1,0 +1,103 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 32px 40px 30px; background: #fbf7ef;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #3a2e22;
+  }
+  h1 { font-size: 22px; letter-spacing: -0.5px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #a08a6b; margin-bottom: 20px; font-weight: 600; }
+
+  .band { display: flex; align-items: center; gap: 10px; margin: 4px 0 14px; }
+  .band .t { font-size: 14.5px; font-weight: 800; }
+  .band .t.a { color: #c0392b; }
+  .band .t.b { color: #9a8a72; }
+  .band .line { flex: 1; height: 1px; background: #e6dcc8; }
+  .band .n { font-size: 12px; font-weight: 700; padding: 3px 11px; border-radius: 14px; }
+  .band .n.a { background: #f7e4de; color: #c0392b; }
+  .band .n.b { background: #eee7d8; color: #9a8a72; }
+
+  .grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 14px; }
+  .cell { background: #fff; border-radius: 16px; padding: 16px 10px 13px; text-align: center;
+    box-shadow: 0 6px 15px rgba(120,95,60,.08); border: 1.5px solid #f0e7d6; }
+  .cell.base { border-color: #f0d5cd; }
+  .cell.plus { background: #f7f2e8; box-shadow: none; border-color: #ece2cd; }
+  .ic { height: 62px; display: flex; align-items: center; justify-content: center; }
+  .nm { margin-top: 7px; font-size: 15.5px; font-weight: 800; }
+  .cell.plus .nm { color: #8a7a60; }
+</style>
+
+<div id="art">
+  <h1>차례상 음식, 기본은 여섯 가지예요</h1>
+  <p class="sub">여기에 세 가지를 더해도 최대 아홉 가지 — 성균관 표준안</p>
+
+  <div class="band"><span class="t a">이것만으로 충분</span><span class="line"></span><span class="n a">기본 6가지</span></div>
+  <div class="grid">
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="46" rx="28" ry="8" fill="#efe6d4"/>
+        <path d="M12,44 A16 16 0 0 1 44,44 Z" fill="#8bc06e" stroke="#4f8a45" stroke-width="1.5"/>
+        <path d="M26,44 A15 15 0 0 1 56,44 Z" fill="#f0ead6" stroke="#4f8a45" stroke-width="1.5"/></svg></div>
+      <div class="nm">송편</div>
+    </div>
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="48" rx="28" ry="8" fill="#efe6d4"/>
+        <path d="M10,46 Q22,14 33,32 Q44,12 56,46 Z" fill="#6ea84f"/>
+        <path d="M22,42 Q28,24 34,34" fill="none" stroke="#c9a24b" stroke-width="2"/></svg></div>
+      <div class="nm">나물</div>
+    </div>
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="48" rx="28" ry="8" fill="#efe6d4"/>
+        <line x1="10" y1="34" x2="56" y2="34" stroke="#8a5a34" stroke-width="3"/>
+        <rect x="12" y="26" width="16" height="16" rx="4" fill="#9b5a34" stroke="#6b3f22"/>
+        <rect x="30" y="26" width="12" height="16" rx="4" fill="#6ea84f" stroke="#4f8a45"/>
+        <rect x="44" y="26" width="14" height="16" rx="4" fill="#9b5a34" stroke="#6b3f22"/></svg></div>
+      <div class="nm">구이</div>
+    </div>
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="48" rx="28" ry="8" fill="#efe6d4"/>
+        <path d="M14,44 Q18,20 34,24 Q46,14 52,44 Z" fill="#c0392b"/>
+        <path d="M26,40 Q30,28 32,26" fill="none" stroke="#f0d9c0" stroke-width="2"/>
+        <path d="M40,40 Q42,28 42,26" fill="none" stroke="#f0d9c0" stroke-width="2"/></svg></div>
+      <div class="nm">김치</div>
+    </div>
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="50" rx="28" ry="7" fill="#efe6d4"/>
+        <circle cx="24" cy="34" r="15" fill="#d94b3d"/><path d="M24,19 q4,-4 8,-2" fill="none" stroke="#4f8a45" stroke-width="2.5"/>
+        <circle cx="44" cy="37" r="13" fill="#e3c469"/><path d="M44,24 v-4" stroke="#7a5a2a" stroke-width="2"/></svg></div>
+      <div class="nm">과일</div>
+    </div>
+    <div class="cell base">
+      <div class="ic"><svg width="66" height="60" viewBox="0 0 66 60"><ellipse cx="33" cy="50" rx="26" ry="7" fill="#efe6d4"/>
+        <ellipse cx="27" cy="32" rx="19" ry="15" fill="#e3d3ad" stroke="#c7b183" stroke-width="1.5"/>
+        <rect x="21" y="13" width="12" height="6" rx="3" fill="#c7b183"/>
+        <path d="M46,26 q9,-3 11,5" fill="none" stroke="#c7b183" stroke-width="3.5"/>
+        <path d="M44,44 l4,8 h8 l4,-8 z" fill="#f0e8d4" stroke="#c7b183" stroke-width="1.3"/></svg></div>
+      <div class="nm">술</div>
+    </div>
+  </div>
+
+  <div class="band" style="margin-top:20px;"><span class="t b">가짓수를 늘린다면</span><span class="line"></span><span class="n b">+ 최대 3가지</span></div>
+  <div class="grid">
+    <div class="cell plus">
+      <div class="ic"><svg width="66" height="56" viewBox="0 0 66 56"><ellipse cx="33" cy="46" rx="26" ry="7" fill="#e7ddc9"/>
+        <path d="M16,42 Q18,22 33,22 Q50,22 50,42 Z" fill="#b06a4a"/>
+        <path d="M24,42 Q26,30 33,30 Q42,30 42,42 Z" fill="#e0a487"/></svg></div>
+      <div class="nm">육류</div>
+    </div>
+    <div class="cell plus">
+      <div class="ic"><svg width="66" height="56" viewBox="0 0 66 56"><ellipse cx="33" cy="46" rx="26" ry="7" fill="#e7ddc9"/>
+        <path d="M14,30 Q30,16 48,30 Q30,44 14,30 Z" fill="#9db4c4"/>
+        <path d="M48,30 l10,-7 0,14 z" fill="#9db4c4"/><circle cx="24" cy="28" r="2.4" fill="#3a2e22"/></svg></div>
+      <div class="nm">생선</div>
+    </div>
+    <div class="cell plus">
+      <div class="ic"><svg width="66" height="56" viewBox="0 0 66 56"><ellipse cx="33" cy="47" rx="24" ry="7" fill="#e7ddc9"/>
+        <rect x="15" y="34" width="36" height="9" fill="#e7d3b0"/>
+        <rect x="15" y="26" width="36" height="9" fill="#c9a26a"/>
+        <rect x="15" y="19" width="36" height="8" fill="#efe0c4"/></svg></div>
+      <div class="nm">떡</div>
+    </div>
+  </div>
+</div>

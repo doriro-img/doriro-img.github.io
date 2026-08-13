@@ -1,0 +1,108 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 32px 40px 26px; background: linear-gradient(170deg,#fbf7ef,#f4ead7);
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #3a2e22;
+  }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 5px; }
+  .sub { font-size: 14px; color: #a08a6b; margin-bottom: 12px; font-weight: 600; }
+  .scene-wrap { display: flex; justify-content: center; }
+  .cap { text-align: center; margin-top: 10px; font-size: 13.5px; color: #7d6c52; line-height: 1.7; }
+  .cap b { color: #c0392b; }
+  .lbl { font-size: 12.5px; fill: #6a5a45; font-weight: 700; font-family: 'Pretendard','Malgun Gothic',sans-serif; }
+</style>
+
+<div id="art">
+  <h1>성균관 표준안, 이렇게 차리면 됩니다</h1>
+  <p class="sub">기본 여섯 가지면 충분 · 전 없이 · 단출하게</p>
+
+  <div class="scene-wrap">
+    <svg width="770" height="366" viewBox="0 0 770 366">
+      <defs>
+        <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#d8ab72"/><stop offset="1" stop-color="#c0925c"/>
+        </linearGradient>
+      </defs>
+
+      <!-- 상 그림자 -->
+      <ellipse cx="385" cy="300" rx="270" ry="30" fill="#3a2e22" opacity="0.08"/>
+      <!-- 상판 -->
+      <path d="M215,118 L555,118 L648,286 L122,286 Z" fill="url(#wood)"/>
+      <path d="M122,286 L648,286 L642,301 L128,301 Z" fill="#a9743f"/>
+      <rect x="150" y="299" width="15" height="52" rx="4" fill="#9c6a3a"/>
+      <rect x="606" y="299" width="15" height="52" rx="4" fill="#9c6a3a"/>
+
+      <!-- 뒤줄: 송편 / 술 -->
+      <g transform="translate(300,158)">
+        <ellipse cx="0" cy="0" rx="52" ry="15" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.5"/>
+        <g stroke="#4f8a45" stroke-width="1.2">
+          <path d="M-24,3 A13 13 0 0 1 2,3 Z" fill="#8bc06e"/>
+          <path d="M-6,-3 A13 13 0 0 1 20,-3 Z" fill="#f0ead6"/>
+          <path d="M8,4 A12 12 0 0 1 32,4 Z" fill="#8bc06e"/>
+        </g>
+        <text x="0" y="34" text-anchor="middle" class="lbl">송편</text>
+      </g>
+
+      <g transform="translate(468,150)">
+        <ellipse cx="0" cy="8" rx="46" ry="13" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.5"/>
+        <!-- 주전자 -->
+        <ellipse cx="-8" cy="-4" rx="20" ry="16" fill="#e3d3ad" stroke="#c7b183" stroke-width="1.5"/>
+        <path d="M-24,-6 q-12,-2 -14,6" fill="none" stroke="#c7b183" stroke-width="3"/>
+        <rect x="-14" y="-22" width="12" height="6" rx="3" fill="#c7b183"/>
+        <path d="M8,-10 q10,-4 12,4" fill="none" stroke="#c7b183" stroke-width="3.5"/>
+        <!-- 잔 2 -->
+        <path d="M20,2 l4,10 h8 l4,-10 z" fill="#f0e8d4" stroke="#c7b183" stroke-width="1.3"/>
+        <text x="0" y="34" text-anchor="middle" class="lbl">술</text>
+      </g>
+
+      <!-- 중간줄: 구이 / 나물 / 김치 -->
+      <g transform="translate(262,208)">
+        <ellipse cx="0" cy="0" rx="50" ry="14" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.5"/>
+        <line x1="-30" y1="-2" x2="30" y2="-2" stroke="#8a5a34" stroke-width="2.5"/>
+        <line x1="-30" y1="6" x2="30" y2="6" stroke="#8a5a34" stroke-width="2.5"/>
+        <g stroke="#6b3f22" stroke-width="1">
+          <rect x="-26" y="-9" width="15" height="12" rx="3" fill="#9b5a34"/>
+          <rect x="-9" y="-9" width="12" height="12" rx="3" fill="#6ea84f"/>
+          <rect x="5" y="-9" width="15" height="12" rx="3" fill="#9b5a34"/>
+        </g>
+        <text x="0" y="33" text-anchor="middle" class="lbl">구이</text>
+      </g>
+
+      <g transform="translate(388,214)">
+        <ellipse cx="0" cy="0" rx="50" ry="14" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.5"/>
+        <path d="M-24,4 Q-12,-15 0,-5 Q12,-17 24,4 Z" fill="#6ea84f"/>
+        <path d="M-14,2 Q-6,-9 2,-3" fill="none" stroke="#4f8a45" stroke-width="1.5"/>
+        <path d="M2,2 Q10,-10 18,-2" fill="none" stroke="#c9a24b" stroke-width="1.5"/>
+        <text x="0" y="33" text-anchor="middle" class="lbl">나물</text>
+      </g>
+
+      <g transform="translate(512,208)">
+        <ellipse cx="0" cy="0" rx="50" ry="14" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.5"/>
+        <path d="M-20,3 Q-16,-11 -4,-8 Q6,-13 12,-6 Q20,-9 20,3 Z" fill="#c0392b"/>
+        <path d="M-8,-6 Q-4,0 -2,2" fill="none" stroke="#f0d9c0" stroke-width="1.6"/>
+        <path d="M6,-7 Q8,-1 8,2" fill="none" stroke="#f0d9c0" stroke-width="1.6"/>
+        <text x="0" y="33" text-anchor="middle" class="lbl">김치</text>
+      </g>
+
+      <!-- 앞줄: 과일 모둠 -->
+      <g transform="translate(388,266)">
+        <ellipse cx="0" cy="0" rx="94" ry="22" fill="#efe6d4" stroke="#d8cbb0" stroke-width="1.6"/>
+        <!-- 배 -->
+        <circle cx="-58" cy="-6" r="17" fill="#e3c469"/><path d="M-58,-23 l0,-5" stroke="#7a5a2a" stroke-width="2"/>
+        <!-- 사과 -->
+        <circle cx="-22" cy="-8" r="16" fill="#d94b3d"/><path d="M-22,-24 q4,-4 8,-2" fill="none" stroke="#4f8a45" stroke-width="2.5"/>
+        <!-- 감 -->
+        <circle cx="14" cy="-7" r="15" fill="#e8862e"/><path d="M8,-20 h12 M14,-20 v4" stroke="#5a8f4e" stroke-width="2"/>
+        <!-- 대추 -->
+        <ellipse cx="46" cy="-4" rx="8" ry="11" fill="#9e3b2a"/>
+        <ellipse cx="62" cy="-2" rx="8" ry="11" fill="#9e3b2a"/>
+        <text x="0" y="36" text-anchor="middle" class="lbl">과일</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="cap"><b>송편 · 나물 · 구이 · 김치 · 과일 · 술</b> 여섯 가지가 기본이에요. 여기에 육류·생선·떡만 더하면 끝입니다</div>
+</div>

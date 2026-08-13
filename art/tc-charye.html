@@ -1,0 +1,54 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 800px; height: 800px; padding: 72px 64px; background: linear-gradient(160deg,#fdf3e3,#f2dcb6);
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #4a2f1e;
+    display: flex; flex-direction: column; justify-content: center; position: relative;
+  }
+  .tag { display: inline-block; align-self: flex-start; background: #fff; color: #c0392b;
+    font-size: 22px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px;
+    box-shadow: 0 8px 20px rgba(180,110,80,.18); }
+  h1 { font-size: 62px; line-height: 1.22; letter-spacing: -1.8px; font-weight: 800; }
+  h1 .hl { color: #c0392b; }
+  .sub { margin-top: 30px; font-size: 27px; color: #86603b; font-weight: 600; }
+  .sub b { color: #4a2f1e; }
+  .ill { position: absolute; top: 86px; right: 60px; }
+  .foot { position: absolute; bottom: 58px; right: 64px; font-size: 20px; color: #a3835f; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="256" height="186" viewBox="0 0 256 186">
+      <ellipse cx="128" cy="156" rx="116" ry="17" fill="#c0392b" opacity="0.08"/>
+      <path d="M46,82 L210,82 L236,150 L20,150 Z" fill="#d8ab72"/>
+      <path d="M20,150 L236,150 L232,163 L24,163 Z" fill="#a9743f"/>
+      <!-- 송편 접시 -->
+      <g transform="translate(92,102)">
+        <ellipse cx="0" cy="0" rx="35" ry="10" fill="#efe6d4"/>
+        <path d="M-15,4 A12 12 0 0 1 9,4 Z" fill="#8bc06e" stroke="#4f8a45" stroke-width="1.2"/>
+        <path d="M-3,1 A11 11 0 0 1 21,1 Z" fill="#f0ead6" stroke="#4f8a45" stroke-width="1.2"/>
+      </g>
+      <!-- 과일 접시 -->
+      <g transform="translate(166,102)">
+        <ellipse cx="0" cy="0" rx="35" ry="10" fill="#efe6d4"/>
+        <circle cx="-9" cy="-5" r="12" fill="#d94b3d"/><path d="M-9,-17 q4,-3 7,-1" fill="none" stroke="#4f8a45" stroke-width="2"/>
+        <circle cx="11" cy="-3" r="10" fill="#e3c469"/>
+      </g>
+      <!-- 앞 과일 모둠 -->
+      <g transform="translate(128,134)">
+        <ellipse cx="0" cy="0" rx="48" ry="13" fill="#efe6d4"/>
+        <circle cx="-18" cy="-4" r="12" fill="#e8862e"/><path d="M-23,-14 h10 M-18,-14 v3" stroke="#5a8f4e" stroke-width="2"/>
+        <ellipse cx="5" cy="-3" rx="7" ry="10" fill="#9e3b2a"/>
+        <ellipse cx="22" cy="-2" rx="7" ry="10" fill="#9e3b2a"/>
+      </g>
+    </svg>
+  </div>
+
+  <div class="tag">추석 준비</div>
+  <h1>추석 차례상<br /><span class="hl">차리는 법</span></h1>
+  <p class="sub">성균관 간소화 <b>9가지</b> · 비용까지</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
