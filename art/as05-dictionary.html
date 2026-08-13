@@ -1,0 +1,67 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #f4f1ea;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #33302a;
+  }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a7a60; margin-bottom: 20px; font-weight: 600; }
+  .two { display: flex; gap: 16px; }
+  .box { flex: 1; background: #fffdf8; border: 1px solid #e6dcc8; border-radius: 16px;
+    padding: 22px 22px 20px; text-align: center; box-shadow: 0 6px 16px rgba(120,100,70,.08); }
+  .box.yes { border-color: #eec9c2; background: #fdf4f1; }
+  .ic { height: 66px; display: flex; align-items: center; justify-content: center; }
+  .bt { font-size: 14px; color: #8a7a60; font-weight: 700; margin-top: 4px; }
+  .big { font-size: 27px; font-weight: 800; margin-top: 6px; }
+  .big.x { color: #9a8f7c; } .big.o { color: #b23a3a; }
+  .bs { font-size: 13px; color: #6a5f4e; margin-top: 6px; line-height: 1.5; }
+  .quote { margin-top: 18px; background: #fff; border: 1px solid #ecdfd0; border-radius: 12px;
+    padding: 16px 20px; font-size: 14.5px; color: #3a352c; line-height: 1.6; text-align: center; }
+  .quote span { display: block; margin-top: 8px; font-size: 12.5px; color: #8a7a60; font-weight: 700; }
+</style>
+
+<div id="art">
+  <h1>그래서, 친일인명사전에 있나요?</h1>
+  <p class="sub">정확히 짚으면 '미등재'입니다. 그런데 행적 자체는…</p>
+
+  <div class="two">
+    <div class="box no">
+      <div class="ic">
+        <svg width="72" height="60" viewBox="0 0 72 60">
+          <rect x="14" y="8" width="44" height="44" rx="3" fill="#e7ddca" stroke="#c9bda3" stroke-width="2"/>
+          <line x1="36" y1="10" x2="36" y2="50" stroke="#c9bda3" stroke-width="2"/>
+          <line x1="20" y1="20" x2="31" y2="20" stroke="#bcae92" stroke-width="2"/>
+          <line x1="20" y1="28" x2="31" y2="28" stroke="#bcae92" stroke-width="2"/>
+          <line x1="41" y1="20" x2="52" y2="20" stroke="#bcae92" stroke-width="2"/>
+          <line x1="41" y1="28" x2="52" y2="28" stroke="#bcae92" stroke-width="2"/>
+          <circle cx="52" cy="44" r="15" fill="#f4f1ea"/>
+          <path d="M45,37 l14,14 M59,37 l-14,14" stroke="#9a8f7c" stroke-width="3.5" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="bt">친일인명사전 등재</div>
+      <div class="big x">✗ 미등재</div>
+      <div class="bs">1차 사료 기준에 약간 미달</div>
+    </div>
+
+    <div class="box yes">
+      <div class="ic">
+        <svg width="72" height="60" viewBox="0 0 72 60">
+          <rect x="18" y="6" width="36" height="48" rx="3" fill="#fff" stroke="#eec9c2" stroke-width="2"/>
+          <line x1="25" y1="18" x2="47" y2="18" stroke="#e3b8ae" stroke-width="2"/>
+          <line x1="25" y1="26" x2="47" y2="26" stroke="#e3b8ae" stroke-width="2"/>
+          <line x1="25" y1="34" x2="40" y2="34" stroke="#e3b8ae" stroke-width="2"/>
+          <circle cx="50" cy="44" r="15" fill="#b23a3a"/>
+          <path d="M43,44 l5,6 9,-11" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="bt">친일 행적 자체</div>
+      <div class="big o">✓ 사실</div>
+      <div class="bs">집필진도 "사실"이라 인정</div>
+    </div>
+  </div>
+
+  <div class="quote">“수록 기준엔 안 맞아 등재는 안 했지만, 친일 행적은 사실이다”<span>— 친일인명사전 집필에 참여한 민족문제연구소 관계자</span></div>
+</div>

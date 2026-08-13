@@ -1,0 +1,67 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 40px 30px; background: #f4f1ea;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #33302a;
+  }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a7a60; margin-bottom: 20px; font-weight: 600; }
+  .year { text-align: center; font-size: 15px; font-weight: 800; color: #a99f88; margin-bottom: 12px; }
+  .panels { display: flex; gap: 16px; }
+  .p { flex: 1; border-radius: 16px; padding: 24px 24px 22px; box-shadow: 0 6px 16px rgba(80,70,50,.1); }
+  .pa { background: #2f3b52; color: #eaeef5; }
+  .pb { background: #fdf6ee; color: #33302a; border: 1px solid #ecdfd0; }
+  .ic { height: 66px; display: flex; align-items: center; justify-content: center; margin-bottom: 8px; }
+  .who { font-size: 19px; font-weight: 800; text-align: center; }
+  .pa .who { color: #fff; }
+  .act { text-align: center; font-size: 14px; margin-top: 8px; line-height: 1.55; }
+  .pa .act { color: #c3ccdb; }
+  .pb .act { color: #6a5a45; }
+  .act b { font-weight: 800; }
+  .pa .act b { color: #fff; }
+  .pb .act b { color: #b23a3a; }
+  .foot { margin-top: 16px; text-align: center; font-size: 12.5px; color: #a99f88; }
+</style>
+
+<div id="art">
+  <h1>1909년, 이토 히로부미를 둘러싼 두 장면</h1>
+  <p class="sub">같은 해, 한 사람은 처단했고 한 사람은 추도했습니다</p>
+  <div class="year">— 1909 —</div>
+
+  <div class="panels">
+    <div class="p pa">
+      <div class="ic">
+        <svg width="60" height="60" viewBox="0 0 60 60">
+          <circle cx="30" cy="30" r="27" fill="#f7f7f4"/>
+          <path d="M3,30 a27 27 0 0 1 54 0 a13.5 13.5 0 0 1 -27 0 a13.5 13.5 0 0 0 -27 0" fill="#c0392b"/>
+          <path d="M57,30 a27 27 0 0 1 -54 0 a13.5 13.5 0 0 1 27 0 a13.5 13.5 0 0 0 27 0" fill="#2f4b8f"/>
+        </svg>
+      </div>
+      <div class="who">안중근 의사</div>
+      <div class="act">1909년 10월 하얼빈에서<br /><b>이토 히로부미 저격</b></div>
+    </div>
+
+    <div class="p pb">
+      <div class="ic">
+        <svg width="60" height="60" viewBox="0 0 60 60">
+          <g fill="#e4d7b8">
+            <ellipse cx="30" cy="14" rx="6" ry="11"/><ellipse cx="46" cy="20" rx="6" ry="11" transform="rotate(45 46 20)"/>
+            <ellipse cx="52" cy="34" rx="6" ry="11" transform="rotate(90 52 34)"/><ellipse cx="46" cy="48" rx="6" ry="11" transform="rotate(135 46 48)"/>
+            <ellipse cx="30" cy="30" rx="6" ry="11" transform="rotate(0 30 30)"/>
+            <ellipse cx="14" cy="20" rx="6" ry="11" transform="rotate(-45 14 20)"/>
+            <ellipse cx="8" cy="34" rx="6" ry="11" transform="rotate(90 8 34)"/><ellipse cx="14" cy="48" rx="6" ry="11" transform="rotate(-135 14 48)"/>
+          </g>
+          <circle cx="30" cy="30" r="9" fill="#c9b47f"/>
+          <path d="M24,50 l6,8 6,-8" fill="none" stroke="#333" stroke-width="3"/>
+        </svg>
+      </div>
+      <div class="who">안상호</div>
+      <div class="act">같은 해,<br /><b>이토 추도모임 참여</b></div>
+    </div>
+  </div>
+
+  <p class="foot">※ 두 사람은 아무 관계가 없습니다. 같은 해에 갈린 대비를 보여줄 뿐이에요</p>
+</div>

@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 800px; height: 800px; padding: 74px 64px; background: linear-gradient(155deg,#efe7d5,#d7c5a2);
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #33302a;
+    display: flex; flex-direction: column; justify-content: center; position: relative;
+  }
+  .tag { display: inline-block; align-self: flex-start; background: #fff; color: #b23a3a;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px;
+    box-shadow: 0 8px 20px rgba(140,100,70,.18); }
+  h1 { font-size: 60px; line-height: 1.22; letter-spacing: -1.8px; font-weight: 800; }
+  h1 .hl { color: #b23a3a; }
+  .sub { margin-top: 28px; font-size: 26px; color: #6f5c43; font-weight: 600; }
+  .sub b { color: #33302a; }
+  .ill { position: absolute; top: 74px; right: 60px; }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #9c8460; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="238" height="212" viewBox="0 0 238 212">
+      <!-- 뒤 옛 문서 -->
+      <rect x="70" y="24" width="120" height="150" rx="4" fill="#e7dcc4" stroke="#cdbf9f" stroke-width="2" transform="rotate(-8 130 100)"/>
+      <rect x="86" y="34" width="120" height="150" rx="4" fill="#f3ecdb" stroke="#d8cbac" stroke-width="2" transform="rotate(5 146 110)"/>
+      <g transform="rotate(5 146 110)">
+        <line x1="104" y1="66" x2="188" y2="66" stroke="#c9bda3" stroke-width="3"/>
+        <line x1="104" y1="82" x2="188" y2="82" stroke="#d3c8b0" stroke-width="3"/>
+        <line x1="104" y1="98" x2="170" y2="98" stroke="#d3c8b0" stroke-width="3"/>
+        <circle cx="168" cy="150" r="20" fill="none" stroke="#b23a3a" stroke-width="3" opacity="0.8"/>
+        <text x="168" y="157" text-anchor="middle" font-size="16" font-weight="800" fill="#b23a3a" opacity="0.85">親日</text>
+      </g>
+      <!-- 앞 인물 실루엣 -->
+      <clipPath id="tcs"><circle cx="66" cy="150" r="52"/></clipPath>
+      <circle cx="66" cy="150" r="52" fill="#e0d4bb"/>
+      <g clip-path="url(#tcs)"><circle cx="66" cy="138" r="21" fill="#8a7a60"/><path d="M28,212 Q30,174 66,171 Q102,174 104,212 Z" fill="#8a7a60"/></g>
+      <circle cx="66" cy="150" r="52" fill="none" stroke="#c9b98f" stroke-width="2.5"/>
+    </svg>
+  </div>
+
+  <div class="tag">광복절, 다시 보는 이름</div>
+  <h1>하영 증조부<br /><span class="hl">안상호는 누구?</span></h1>
+  <p class="sub">친일 행적 · <b>친일인명사전 누락</b>까지</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
