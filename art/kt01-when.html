@@ -1,0 +1,57 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f4f7fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #22314f; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #7c869a; margin-bottom: 20px; font-weight: 600; }
+  .two { display: flex; gap: 16px; }
+  .card { flex: 1; background: #fff; border-radius: 16px; padding: 22px 22px 20px; text-align: center;
+    box-shadow: 0 6px 16px rgba(60,90,140,.08); border-top: 5px solid #ddd; }
+  .card.ktx { border-top-color: #0a4da2; } .card.srt { border-top-color: #7b3f98; }
+  .ic { height: 66px; display: flex; align-items: center; justify-content: center; margin-bottom: 6px; }
+  .nm { font-size: 18px; font-weight: 800; }
+  .ktx .nm { color: #0a4da2; } .srt .nm { color: #7b3f98; }
+  .date { font-size: 30px; font-weight: 800; margin-top: 8px; letter-spacing: -0.5px; }
+  .date small { display: block; font-size: 13px; color: #8a93a6; font-weight: 600; margin-top: 2px; }
+  .ch { margin-top: 12px; font-size: 13px; color: #5a6580; line-height: 1.5; }
+  .note { margin-top: 16px; background: #eaf0f8; border-radius: 12px; padding: 13px 18px; font-size: 12.5px;
+    color: #52607a; line-height: 1.6; text-align: center; }
+  .note b { color: #22314f; }
+</style>
+
+<div id="art">
+  <h1>2026 추석 기차표, 언제 예매하나요?</h1>
+  <p class="sub">KTX와 SRT는 예매 시작일이 서로 달라요</p>
+
+  <div class="two">
+    <div class="card ktx">
+      <div class="ic"><svg width="96" height="60" viewBox="0 0 96 60">
+        <rect x="18" y="8" width="60" height="40" rx="14" fill="#0a4da2"/>
+        <path d="M18,30 h60" stroke="#0a4da2" stroke-width="0"/>
+        <rect x="26" y="16" width="44" height="14" rx="5" fill="#cfe0f5"/>
+        <circle cx="30" cy="42" r="4" fill="#ffd54a"/><circle cx="66" cy="42" r="4" fill="#ffd54a"/>
+        <rect x="30" y="48" width="36" height="4" rx="2" fill="#b9c4d6"/>
+        <line x1="12" y1="54" x2="84" y2="54" stroke="#b9c4d6" stroke-width="3"/></svg></div>
+      <div class="nm">KTX · 코레일</div>
+      <div class="date">8월 20일<small>목요일부터</small></div>
+      <div class="ch">코레일 홈페이지 · 코레일톡 앱</div>
+    </div>
+
+    <div class="card srt">
+      <div class="ic"><svg width="96" height="60" viewBox="0 0 96 60">
+        <rect x="18" y="8" width="60" height="40" rx="14" fill="#7b3f98"/>
+        <rect x="26" y="16" width="44" height="14" rx="5" fill="#e4d3ef"/>
+        <circle cx="30" cy="42" r="4" fill="#ffd54a"/><circle cx="66" cy="42" r="4" fill="#ffd54a"/>
+        <rect x="30" y="48" width="36" height="4" rx="2" fill="#b9c4d6"/>
+        <line x1="12" y1="54" x2="84" y2="54" stroke="#b9c4d6" stroke-width="3"/></svg></div>
+      <div class="nm">SRT · 에스알</div>
+      <div class="date">8월 25일<small>화요일부터</small></div>
+      <div class="ch">SRT 홈페이지 · SRT 앱</div>
+    </div>
+  </div>
+
+  <div class="note"><b>2026년 8월 발표 기준이에요.</b> 노선·날짜별로 세부 예매 시간이 다를 수 있으니, 예매 전 코레일·SR 공식 공지를 꼭 확인하세요</div>
+</div>

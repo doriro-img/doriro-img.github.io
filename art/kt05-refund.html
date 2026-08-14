@@ -1,0 +1,38 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 34px; background: #f4f7fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #22314f; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #7c869a; margin-bottom: 26px; font-weight: 600; }
+  .bar { display: flex; height: 56px; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 15px rgba(60,90,140,.08); }
+  .seg { display: flex; align-items: center; justify-content: center; color: #fff; font-size: 15px; font-weight: 800; }
+  .s1 { flex: 1.4; background: #3fa76a; } .s2 { flex: 1; background: #e8a23e; } .s3 { flex: 1; background: #d9534f; }
+  .labels { display: flex; margin-top: 10px; }
+  .lb { text-align: center; font-size: 12.5px; color: #52607a; line-height: 1.5; font-weight: 600; }
+  .lb.l1 { flex: 1.4; } .lb.l2 { flex: 1; } .lb.l3 { flex: 1; }
+  .lb b { display: block; color: #22314f; font-size: 13px; }
+  .note { margin-top: 22px; background: #eaf0f8; border-radius: 12px; padding: 14px 18px; font-size: 12.5px;
+    color: #52607a; line-height: 1.6; text-align: center; }
+  .note b { color: #22314f; }
+</style>
+
+<div id="art">
+  <h1>못 타게 됐다면? 환불 수수료</h1>
+  <p class="sub">일찍 취소할수록 수수료가 적거나 없어요. 미리 취소하는 게 이득이에요</p>
+
+  <div class="bar">
+    <div class="seg s1">수수료 없음</div>
+    <div class="seg s2">수수료 발생</div>
+    <div class="seg s3">수수료 커짐</div>
+  </div>
+  <div class="labels">
+    <div class="lb l1"><b>출발 3시간 전까지</b>주중(월~목) 기준</div>
+    <div class="lb l2"><b>출발 임박</b>3시간 전 ~ 출발 전</div>
+    <div class="lb l3"><b>출발 후</b>시간 지날수록 ↑</div>
+  </div>
+
+  <div class="note"><b>주중 기준이에요.</b> 명절 기간·주말·열차 종류(KTX·SRT)에 따라 수수료율과 기준 시각이 달라지니, 정확한 금액은 코레일·SR 공식 환불 규정에서 확인하세요</div>
+</div>

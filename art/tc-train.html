@@ -1,0 +1,49 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px; background: linear-gradient(160deg,#eaf1fb,#cfe0f5);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #12305c;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #0a4da2; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 60px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #0a4da2; }
+  .sub { margin-top: 28px; font-size: 26px; color: #4a628a; font-weight: 600; }
+  .sub b { color: #7b3f98; }
+  .train { position: absolute; top: 96px; right: 46px; filter: drop-shadow(0 12px 24px rgba(20,60,120,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #7f93b4; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="train">
+    <svg width="320" height="210" viewBox="0 0 320 210">
+      <!-- 선로 + 침목 -->
+      <rect x="0" y="184" width="320" height="5" rx="2" fill="#9fb2ce"/>
+      <g stroke="#c2cede" stroke-width="3"><line x1="34" y1="189" x2="34" y2="197"/><line x1="94" y1="189" x2="94" y2="197"/><line x1="154" y1="189" x2="154" y2="197"/><line x1="214" y1="189" x2="214" y2="197"/><line x1="274" y1="189" x2="274" y2="197"/></g>
+      <!-- 팬터그래프 -->
+      <line x1="86" y1="24" x2="182" y2="24" stroke="#4a628a" stroke-width="2.5"/>
+      <path d="M118,44 L134,26 M150,44 L134,26" stroke="#4a628a" stroke-width="2.5" fill="none"/>
+      <!-- 몸통 (오른쪽 유선형 앞머리) -->
+      <path d="M18,62 L232,62 Q300,68 300,122 L300,150 Q300,162 286,162 L18,162 Z" fill="#0a4da2"/>
+      <path d="M232,62 Q300,68 300,122 L300,150 Q300,162 286,162 L252,162 L252,62 Z" fill="#1666c8"/>
+      <!-- 줄무늬 -->
+      <rect x="18" y="114" width="282" height="9" fill="#ffd54a"/>
+      <!-- 창문 -->
+      <g fill="#bcd6f2"><rect x="32" y="76" width="30" height="26" rx="5"/><rect x="70" y="76" width="30" height="26" rx="5"/><rect x="108" y="76" width="30" height="26" rx="5"/><rect x="146" y="76" width="30" height="26" rx="5"/><rect x="184" y="76" width="30" height="26" rx="5"/></g>
+      <!-- 앞유리 (경사) -->
+      <path d="M238,74 Q282,78 294,104 L262,104 L262,74 Z" fill="#bcd6f2"/>
+      <!-- 헤드라이트 -->
+      <circle cx="290" cy="148" r="5" fill="#ffe9a6"/>
+      <!-- 바퀴 -->
+      <g fill="#2a3a52"><circle cx="72" cy="164" r="11"/><circle cx="152" cy="164" r="11"/><circle cx="232" cy="164" r="11"/></g>
+      <g fill="#8a97ad"><circle cx="72" cy="164" r="4"/><circle cx="152" cy="164" r="4"/><circle cx="232" cy="164" r="4"/></g>
+    </svg>
+  </div>
+
+  <div class="tag">추석 기차표 예매</div>
+  <h1>추석 KTX·SRT<br /><span class="hl">예매 총정리</span></h1>
+  <p class="sub">예매일 · 성공팁 · <b>취소표</b>까지</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
