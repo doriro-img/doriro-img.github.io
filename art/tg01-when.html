@@ -1,0 +1,56 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f9f7f1;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a3142; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a8578; margin-bottom: 20px; font-weight: 600; }
+  .days { display: flex; gap: 10px; justify-content: center; margin-bottom: 22px; flex-wrap: wrap; }
+  .chip { font-size: 14px; font-weight: 700; padding: 9px 16px; border-radius: 20px; background: #eeeae0; color: #8a8578; }
+  .chip.on { background: #fff; color: #cd2e3a; border: 2px solid #cd2e3a; font-weight: 800;
+    box-shadow: 0 5px 14px rgba(205,46,58,.15); }
+  .timebox { background: #fff; border-radius: 16px; padding: 24px 30px; box-shadow: 0 6px 16px rgba(90,100,130,.08);
+    border: 1px solid #eeeae0; display: flex; align-items: center; justify-content: center; gap: 24px; }
+  .big { font-size: 30px; font-weight: 800; color: #2a3142; }
+  .big small { display: block; font-size: 14px; color: #8a8578; font-weight: 600; margin-top: 2px; }
+  .track { flex: 1; max-width: 320px; }
+  .rail { position: relative; height: 10px; border-radius: 5px; background: linear-gradient(90deg,#ffd27a,#ffb04a,#f78e4a); }
+  .rail .p { position: absolute; top: -5px; width: 20px; height: 20px; border-radius: 50%; background: #fff; border: 3px solid #f5a04a; }
+  .ends { display: flex; justify-content: space-between; margin-top: 10px; font-size: 13px; font-weight: 700; color: #6a6255; }
+  .note { margin-top: 16px; background: #eef1f6; border-radius: 12px; padding: 13px 18px; font-size: 13px;
+    color: #4a5568; line-height: 1.6; text-align: center; }
+  .note b { color: #2a3142; }
+</style>
+
+<div id="art">
+  <h1>태극기는 언제 다나요?</h1>
+  <p class="sub">광복절은 태극기를 다는 '5대 국경일' 중 하나예요</p>
+
+  <div class="days">
+    <span class="chip">3·1절</span>
+    <span class="chip">제헌절</span>
+    <span class="chip on">광복절 8·15</span>
+    <span class="chip">개천절</span>
+    <span class="chip">한글날</span>
+  </div>
+
+  <div class="timebox">
+    <svg width="60" height="60" viewBox="0 0 60 60">
+      <circle cx="30" cy="34" r="14" fill="#f7a83e"/>
+      <g stroke="#f7a83e" stroke-width="3" stroke-linecap="round">
+        <line x1="30" y1="8" x2="30" y2="14"/><line x1="30" y1="54" x2="30" y2="52"/>
+        <line x1="8" y1="34" x2="14" y2="34"/><line x1="52" y1="34" x2="46" y2="34"/>
+        <line x1="14" y1="18" x2="18" y2="22"/><line x1="46" y1="18" x2="42" y2="22"/>
+      </g>
+    </svg>
+    <div class="big">오전 7시 ~ 오후 6시<small>07:00 ~ 18:00 게양</small></div>
+    <div class="track">
+      <div class="rail"><div class="p" style="left:0;"></div><div class="p" style="right:0;left:auto;"></div></div>
+      <div class="ends"><span>해 뜰 때</span><span>해 질 때</span></div>
+    </div>
+  </div>
+
+  <div class="note"><b>밤에도</b> 조명이 있으면 24시간 달 수 있어요 · <b>심한 비바람</b>으로 태극기가 훼손될 것 같을 땐 달지 않아요</div>
+</div>

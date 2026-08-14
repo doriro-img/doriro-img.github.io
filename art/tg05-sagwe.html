@@ -1,0 +1,76 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f9f7f1;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a3142; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a8578; margin-bottom: 20px; font-weight: 600; }
+  .grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 14px; }
+  .card { background: #fff; border-radius: 14px; padding: 16px 18px; display: flex; align-items: center; gap: 18px;
+    box-shadow: 0 5px 14px rgba(90,100,130,.07); border: 1px solid #eeeae0; }
+  .gwae { flex: none; width: 70px; display: flex; flex-direction: column; align-items: center; gap: 5px; }
+  .pos { font-size: 11px; font-weight: 700; color: #a7a291; }
+  .mid { flex: 1; }
+  .nm { font-size: 17px; font-weight: 800; }
+  .nm span { font-size: 13px; color: #9a9482; font-weight: 700; margin-left: 4px; }
+  .nat { font-size: 13.5px; color: #5a6072; margin-top: 3px; }
+  .ic { flex: none; }
+</style>
+
+<div id="art">
+  <h1>4괘, 건곤감리가 뭔가요?</h1>
+  <p class="sub">네 모서리 막대는 각각 하늘·땅·물·불을 뜻해요</p>
+
+  <div class="grid">
+    <!-- 건 하늘 (좌상) -->
+    <div class="card">
+      <div class="gwae"><svg width="52" height="40" viewBox="0 0 52 40"><g fill="#111319">
+        <rect x="3" y="4" width="46" height="7"/><rect x="3" y="16" width="46" height="7"/><rect x="3" y="28" width="46" height="7"/></g></svg>
+        <span class="pos">왼쪽 위</span></div>
+      <div class="mid"><div class="nm">건 <span>乾</span></div><div class="nat">하늘</div></div>
+      <div class="ic"><svg width="46" height="40" viewBox="0 0 46 40">
+        <circle cx="16" cy="16" r="9" fill="#f7c948"/>
+        <ellipse cx="28" cy="26" rx="15" ry="9" fill="#cfd8e6"/><ellipse cx="16" cy="28" rx="11" ry="7" fill="#dde4ee"/></svg></div>
+    </div>
+
+    <!-- 감 물 (우상) -->
+    <div class="card">
+      <div class="gwae"><svg width="52" height="40" viewBox="0 0 52 40"><g fill="#111319">
+        <rect x="3" y="4" width="19" height="7"/><rect x="30" y="4" width="19" height="7"/>
+        <rect x="3" y="16" width="46" height="7"/>
+        <rect x="3" y="28" width="19" height="7"/><rect x="30" y="28" width="19" height="7"/></g></svg>
+        <span class="pos">오른쪽 위</span></div>
+      <div class="mid"><div class="nm">감 <span>坎</span></div><div class="nat">물</div></div>
+      <div class="ic"><svg width="46" height="40" viewBox="0 0 46 40"><g fill="none" stroke="#3d8bd4" stroke-width="4" stroke-linecap="round">
+        <path d="M5,12 Q14,4 23,12 T41,12"/><path d="M5,22 Q14,14 23,22 T41,22"/><path d="M5,32 Q14,24 23,32 T41,32"/></g></svg></div>
+    </div>
+
+    <!-- 리 불 (좌하) -->
+    <div class="card">
+      <div class="gwae"><svg width="52" height="40" viewBox="0 0 52 40"><g fill="#111319">
+        <rect x="3" y="4" width="46" height="7"/>
+        <rect x="3" y="16" width="19" height="7"/><rect x="30" y="16" width="19" height="7"/>
+        <rect x="3" y="28" width="46" height="7"/></g></svg>
+        <span class="pos">왼쪽 아래</span></div>
+      <div class="mid"><div class="nm">리 <span>離</span></div><div class="nat">불</div></div>
+      <div class="ic"><svg width="46" height="40" viewBox="0 0 46 40">
+        <path d="M23,4 Q34,18 29,28 Q37,24 34,16 Q42,26 34,36 Q26,40 18,36 Q9,28 16,16 Q16,24 21,24 Q14,14 23,4 Z" fill="#f0653f"/>
+        <path d="M23,20 Q29,28 25,33 Q20,34 18,29 Q17,24 23,20 Z" fill="#f7c948"/></svg></div>
+    </div>
+
+    <!-- 곤 땅 (우하) -->
+    <div class="card">
+      <div class="gwae"><svg width="52" height="40" viewBox="0 0 52 40"><g fill="#111319">
+        <rect x="3" y="4" width="19" height="7"/><rect x="30" y="4" width="19" height="7"/>
+        <rect x="3" y="16" width="19" height="7"/><rect x="30" y="16" width="19" height="7"/>
+        <rect x="3" y="28" width="19" height="7"/><rect x="30" y="28" width="19" height="7"/></g></svg>
+        <span class="pos">오른쪽 아래</span></div>
+      <div class="mid"><div class="nm">곤 <span>坤</span></div><div class="nat">땅</div></div>
+      <div class="ic"><svg width="46" height="40" viewBox="0 0 46 40">
+        <rect x="2" y="26" width="42" height="12" rx="2" fill="#b98b52"/>
+        <path d="M2,26 Q13,15 23,26 Q33,15 44,26 Z" fill="#8fbf6a"/></svg></div>
+    </div>
+  </div>
+</div>

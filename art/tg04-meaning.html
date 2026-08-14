@@ -1,0 +1,78 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f9f7f1;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a3142; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a8578; margin-bottom: 16px; font-weight: 600; }
+  .flagwrap { display: flex; justify-content: center; margin-bottom: 18px; }
+  .flagwrap svg { filter: drop-shadow(0 8px 18px rgba(80,90,120,.14)); }
+  .cards { display: flex; gap: 14px; }
+  .card { flex: 1; background: #fff; border-radius: 14px; padding: 16px 16px 15px;
+    box-shadow: 0 5px 14px rgba(90,100,130,.07); border: 1px solid #eeeae0; }
+  .card .h { display: flex; align-items: center; gap: 8px; font-size: 15.5px; font-weight: 800; margin-bottom: 6px; }
+  .dot { width: 14px; height: 14px; border-radius: 50%; flex: none; }
+  .d1 { background: #eceae4; border: 1.5px solid #cfccc2; } .d2 { background: linear-gradient(90deg,#cd2e3a 50%,#0047a0 50%); } .d3 { background: #2a3142; }
+  .card p { font-size: 13px; color: #5a6072; line-height: 1.55; }
+  .card p b { color: #2a3142; }
+</style>
+
+<div id="art">
+  <h1>태극기에 담긴 뜻</h1>
+  <p class="sub">흰 바탕, 태극, 4괘 — 하나하나 의미가 있어요</p>
+
+  <div class="flagwrap">
+    <svg width="360" height="240" viewBox="0 0 300 200">
+      <rect x="0" y="0" width="300" height="200" rx="4" fill="#ffffff" stroke="#e2ded4" stroke-width="2"/>
+      <!-- 태극 (표준 방향: 빨강 좌상 / 파랑 우하) -->
+      <g transform="rotate(25.75 150 100)">
+        <circle cx="150" cy="100" r="40" fill="#cd2e3a"/>
+        <path d="M110,100 A40,40 0 0,0 190,100 Z" fill="#0047a0"/>
+        <circle cx="130" cy="100" r="20" fill="#cd2e3a"/>
+        <circle cx="170" cy="100" r="20" fill="#0047a0"/>
+      </g>
+      <!-- 4괘 -->
+      <g fill="#111319">
+        <!-- 건 (좌상, 양양양) -->
+        <g transform="translate(70,52) rotate(-45)">
+          <rect x="-18" y="-13" width="36" height="6"/><rect x="-18" y="-3" width="36" height="6"/><rect x="-18" y="7" width="36" height="6"/>
+        </g>
+        <!-- 감 (우상, 음양음) -->
+        <g transform="translate(230,52) rotate(45)">
+          <rect x="-18" y="-13" width="15" height="6"/><rect x="3" y="-13" width="15" height="6"/>
+          <rect x="-18" y="-3" width="36" height="6"/>
+          <rect x="-18" y="7" width="15" height="6"/><rect x="3" y="7" width="15" height="6"/>
+        </g>
+        <!-- 리 (좌하, 양음양) -->
+        <g transform="translate(70,148) rotate(45)">
+          <rect x="-18" y="-13" width="36" height="6"/>
+          <rect x="-18" y="-3" width="15" height="6"/><rect x="3" y="-3" width="15" height="6"/>
+          <rect x="-18" y="7" width="36" height="6"/>
+        </g>
+        <!-- 곤 (우하, 음음음) -->
+        <g transform="translate(230,148) rotate(-45)">
+          <rect x="-18" y="-13" width="15" height="6"/><rect x="3" y="-13" width="15" height="6"/>
+          <rect x="-18" y="-3" width="15" height="6"/><rect x="3" y="-3" width="15" height="6"/>
+          <rect x="-18" y="7" width="15" height="6"/><rect x="3" y="7" width="15" height="6"/>
+        </g>
+      </g>
+    </svg>
+  </div>
+
+  <div class="cards">
+    <div class="card">
+      <div class="h"><span class="dot d1"></span>흰 바탕</div>
+      <p><b>백의민족</b>의 밝음과 순수, 평화를 사랑하는 마음</p>
+    </div>
+    <div class="card">
+      <div class="h"><span class="dot d2"></span>태극 문양</div>
+      <p>음(파랑)과 양(빨강)의 <b>조화</b>. 우주 만물이 어우러져 생겨남</p>
+    </div>
+    <div class="card">
+      <div class="h"><span class="dot d3"></span>4괘 (건곤감리)</div>
+      <p><b>하늘·땅·물·불.</b> 태극을 중심으로 이룬 자연의 조화</p>
+    </div>
+  </div>
+</div>

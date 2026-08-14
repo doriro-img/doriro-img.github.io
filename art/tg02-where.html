@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f9f7f1;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a3142; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a8578; margin-bottom: 18px; font-weight: 600; }
+  .two { display: flex; gap: 16px; }
+  .panel { flex: 1; background: #fff; border-radius: 16px; padding: 18px 18px 16px; text-align: center;
+    box-shadow: 0 5px 14px rgba(90,100,130,.07); border: 1px solid #eeeae0; }
+  .ph { font-size: 16px; font-weight: 800; margin-bottom: 10px; }
+  .scene { height: 176px; display: flex; align-items: center; justify-content: center; }
+  .panel p { font-size: 13.5px; color: #5a6072; line-height: 1.5; margin-top: 8px; }
+  .panel p b { color: #0047a0; }
+  .note { margin-top: 16px; background: #eef1f6; border-radius: 12px; padding: 13px 18px; font-size: 13.5px;
+    color: #3a4356; line-height: 1.6; text-align: center; }
+  .note b { color: #2a3142; }
+</style>
+
+<div id="art">
+  <h1>태극기, 어디에 다나요?</h1>
+  <p class="sub">밖에서 집을 봤을 때 '중앙 또는 왼쪽'이 원칙이에요</p>
+
+  <div class="two">
+    <div class="panel">
+      <div class="ph">단독주택</div>
+      <div class="scene">
+        <svg width="220" height="170" viewBox="0 0 220 170">
+          <rect x="30" y="70" width="160" height="90" fill="#e9e4d8"/>
+          <path d="M20,72 L110,26 L200,72 Z" fill="#b06a4a"/>
+          <rect x="92" y="104" width="36" height="56" rx="2" fill="#8a6a4a"/>
+          <circle cx="120" cy="134" r="3" fill="#f7c948"/>
+          <!-- 대문 왼쪽 태극기 -->
+          <line x1="70" y1="150" x2="70" y2="92" stroke="#8a8578" stroke-width="4"/>
+          <circle cx="70" cy="90" r="4" fill="#c9a24b"/>
+          <g transform="translate(70,98)"><rect x="0" y="0" width="40" height="27" fill="#fff" stroke="#e2ded4" stroke-width="1"/>
+            <g transform="translate(20,13.5) scale(0.13) translate(-150,-100)"><g transform="rotate(25.75 150 100)"><circle cx="150" cy="100" r="40" fill="#cd2e3a"/><path d="M110,100 A40,40 0 0,0 190,100 Z" fill="#0047a0"/><circle cx="130" cy="100" r="20" fill="#cd2e3a"/><circle cx="170" cy="100" r="20" fill="#0047a0"/></g></g></g>
+          <text x="90" y="150" text-anchor="middle" font-size="12" font-weight="800" fill="#3f8a52">중앙·왼쪽</text>
+        </svg>
+      </div>
+      <p>대문의 <b>중앙 또는 왼쪽</b>에 답니다</p>
+    </div>
+
+    <div class="panel">
+      <div class="ph">아파트</div>
+      <div class="scene">
+        <svg width="220" height="170" viewBox="0 0 220 170">
+          <rect x="34" y="18" width="152" height="140" fill="#dfe4ea"/>
+          <g fill="#c3cbd6"><rect x="48" y="34" width="40" height="30"/><rect x="100" y="34" width="40" height="30"/><rect x="152" y="34" width="22" height="30"/>
+            <rect x="48" y="80" width="40" height="30"/><rect x="100" y="80" width="40" height="30"/><rect x="152" y="80" width="22" height="30"/></g>
+          <!-- 난간 -->
+          <rect x="44" y="124" width="132" height="30" fill="#c9cfd8"/>
+          <g stroke="#aab2be" stroke-width="2"><line x1="56" y1="124" x2="56" y2="154"/><line x1="72" y1="124" x2="72" y2="154"/><line x1="88" y1="124" x2="88" y2="154"/><line x1="104" y1="124" x2="104" y2="154"/><line x1="120" y1="124" x2="120" y2="154"/><line x1="136" y1="124" x2="136" y2="154"/><line x1="152" y1="124" x2="152" y2="154"/><line x1="168" y1="124" x2="168" y2="154"/></g>
+          <!-- 난간 왼쪽 태극기 -->
+          <g transform="translate(56,100)"><rect x="0" y="0" width="40" height="27" fill="#fff" stroke="#e2ded4" stroke-width="1"/>
+            <g transform="translate(20,13.5) scale(0.13) translate(-150,-100)"><g transform="rotate(25.75 150 100)"><circle cx="150" cy="100" r="40" fill="#cd2e3a"/><path d="M110,100 A40,40 0 0,0 190,100 Z" fill="#0047a0"/><circle cx="130" cy="100" r="20" fill="#cd2e3a"/><circle cx="170" cy="100" r="20" fill="#0047a0"/></g></g></g>
+        </svg>
+      </div>
+      <p>난간의 <b>중앙 또는 왼쪽</b>에 게양해요</p>
+    </div>
+  </div>
+
+  <div class="note"><b>기준은 '밖에서 집을 바라본 방향'</b>이에요. 안에서가 아니라 바깥에서 봤을 때 왼쪽이에요</div>
+</div>
