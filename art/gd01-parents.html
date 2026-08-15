@@ -1,0 +1,68 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .chart { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+           padding: 22px 26px 16px; display: flex; align-items: flex-end; gap: 26px; height: 268px; }
+  .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .pct { font-size: 22px; font-weight: 800; margin-bottom: 7px; letter-spacing: -0.6px; }
+  .bar { width: 100%; border-radius: 8px 8px 0 0; position: relative; }
+  .lab { height: 46px; padding-top: 10px; }
+  .name { font-size: 15px; font-weight: 700; }
+  .cap { font-size: 12px; color: #8a929c; margin-top: 2px; }
+
+  .c1 .bar { background: linear-gradient(180deg,#f0b8b1,#e08a80); } .c1 .pct { color: #b8564a; }
+  .c2 .bar { background: linear-gradient(180deg,#e8695c,#cf4f43); } .c2 .pct { color: #cf4f43; }
+  .c3 .bar { background: linear-gradient(180deg,#f0c99a,#dda45f); } .c3 .pct { color: #b9741a; }
+
+  .band { margin-top: 14px; background: #eef9f3; border: 1px solid #a9dcc4; border-radius: 9px;
+          padding: 13px 18px; display: flex; align-items: center; gap: 14px; }
+  .band .big { font-size: 26px; font-weight: 800; color: #23805a; letter-spacing: -1px; }
+  .band p { font-size: 13.5px; line-height: 1.65; color: #4a5561; }
+  .band p b { color: #1b1b1b; }
+  .src { margin-top: 10px; font-size: 11.5px; color: #9098a2; }
+</style>
+
+<div id="art">
+  <h1>부모님 한 분당 얼마씩 드리나</h1>
+  <p class="sub">적정 금액을 물었을 때 가장 많이 나온 답</p>
+
+  <div class="chart">
+    <div class="col c1">
+      <div class="pct">27%</div>
+      <div class="bar" style="height:132px"></div>
+      <div class="lab"><div class="name">20만원</div></div>
+    </div>
+    <div class="col c2">
+      <div class="pct">37%</div>
+      <div class="bar" style="height:181px"></div>
+      <div class="lab"><div class="name">30만원</div><div class="cap">가장 많음</div></div>
+    </div>
+    <div class="col c3">
+      <div class="pct">23%</div>
+      <div class="bar" style="height:113px"></div>
+      <div class="lab"><div class="name">50만원 이상</div></div>
+    </div>
+  </div>
+
+  <div class="band">
+    <svg width="58" height="42" viewBox="0 0 58 42">
+      <rect x="1.5" y="4" width="55" height="36" rx="5" fill="#fff" stroke="#2f9e6e" stroke-width="2.5"/>
+      <path d="M1.5,7 L29,25 L56.5,7" fill="none" stroke="#2f9e6e" stroke-width="2.5"/>
+      <rect x="16" y="14" width="26" height="15" rx="2.5" fill="#a9dcc4"/>
+      <circle cx="29" cy="21.5" r="4" fill="#2f9e6e"/>
+    </svg>
+    <div class="big">74%</div>
+    <p>카드사 설문에서는 <b>10명 중 7명</b>이 부모님 한 분당 <b>10만원에서 30만원 사이</b>를 준비한다고 답했습니다</p>
+  </div>
+
+  <p class="src">※ 두 설문의 조사 기관과 문항이 달라 숫자를 그대로 합치면 안 됩니다</p>
+</div>

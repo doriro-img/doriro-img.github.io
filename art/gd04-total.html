@@ -1,0 +1,82 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .wrap { display: flex; gap: 20px; align-items: center; }
+  .donut { width: 250px; flex-shrink: 0; position: relative; display: flex;
+           align-items: center; justify-content: center; }
+  .center { position: absolute; text-align: center; }
+  .center .k { font-size: 12px; color: #8a929c; font-weight: 700; }
+  .center .v { font-size: 30px; font-weight: 800; letter-spacing: -1.4px; color: #cf4f43; margin-top: 1px; }
+  .center .n { font-size: 12.5px; color: #6b7480; font-weight: 600; margin-top: 2px; }
+
+  .right { flex: 1; }
+  .tot { background: linear-gradient(160deg,#fdf3f0,#f8ded6); border: 1px solid #f0d5c8;
+         border-radius: 11px; padding: 15px 20px; margin-bottom: 12px;
+         display: flex; align-items: center; justify-content: space-between; }
+  .tot .k { font-size: 13px; color: #8a6055; font-weight: 700; }
+  .tot .v { font-size: 30px; font-weight: 800; letter-spacing: -1.2px; color: #b8463a; }
+  .tot .v small { font-size: 15px; font-weight: 700; }
+  .up { text-align: right; }
+  .up .a { font-size: 15px; font-weight: 800; color: #cf4f43; }
+  .up .b { font-size: 11.5px; color: #9a7f78; margin-top: 2px; }
+
+  .items { display: flex; gap: 9px; }
+  .it { flex: 1; border: 1px solid #e2e6ea; border-radius: 9px; padding: 11px 12px; background: #fafbfc; }
+  .it .k { font-size: 11.5px; color: #8a929c; font-weight: 700; margin-bottom: 4px; line-height: 1.35; height: 30px; }
+  .it .v { font-size: 15px; font-weight: 800; letter-spacing: -0.4px; }
+  .it .v small { font-size: 11.5px; font-weight: 700; color: #6b7480; }
+
+  .src { margin-top: 12px; font-size: 11.5px; color: #9098a2; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>명절 한 번에 얼마나 나가나</h1>
+  <p class="sub">가장 최근 조사인 지난해 추석 기준입니다</p>
+
+  <div class="wrap">
+    <div class="donut">
+      <svg width="230" height="230" viewBox="0 0 230 230">
+        <circle cx="115" cy="115" r="88" fill="none" stroke="#eceff2" stroke-width="34"/>
+        <circle cx="115" cy="115" r="88" fill="none" stroke="#e8695c" stroke-width="34"
+                stroke-dasharray="299.7 253.3" stroke-dashoffset="0"
+                transform="rotate(-90 115 115)" stroke-linecap="butt"/>
+      </svg>
+      <div class="center">
+        <div class="k">부모님 용돈 · 선물</div>
+        <div class="v">54.2%</div>
+        <div class="n">38만 6,100원</div>
+      </div>
+    </div>
+
+    <div class="right">
+      <div class="tot">
+        <div>
+          <div class="k">추석 전체 예산 평균</div>
+          <div class="v">71만 2,300<small>원</small></div>
+        </div>
+        <div class="up">
+          <div class="a">▲ 26.4%</div>
+          <div class="b">전년 56만 3,500원</div>
+        </div>
+      </div>
+
+      <div class="items">
+        <div class="it"><div class="k">차례상</div><div class="v">29만 4,600<small>원</small></div></div>
+        <div class="it"><div class="k">친지 · 조카 용돈</div><div class="v">27만 400<small>원</small></div></div>
+        <div class="it"><div class="k">먹는 데 드는 돈</div><div class="v">24만 7,200<small>원</small></div></div>
+      </div>
+    </div>
+  </div>
+
+  <p class="src">※ 전체 예산과 항목별 금액은 조사 방식이 달라 단순히 더해지지 않습니다. 항목별 숫자는 각각의 평균으로 보시면 됩니다<br />
+    ※ 2026년 추석 조사는 아직 나오지 않아 지난해 추석 수치를 썼습니다</p>
+</div>

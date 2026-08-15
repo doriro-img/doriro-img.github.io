@@ -1,0 +1,102 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .steps { display: flex; align-items: flex-end; gap: 12px; }
+  .s { flex: 1; border-radius: 10px 10px 0 0; padding: 14px 12px 16px; text-align: center;
+       border: 1px solid; border-bottom: none; }
+  .s .ico { margin-bottom: 8px; }
+  .s .who { font-size: 14.5px; font-weight: 800; margin-bottom: 5px; }
+  .s .amt { font-size: 19px; font-weight: 800; letter-spacing: -0.7px; }
+  .s .amt small { font-size: 13px; font-weight: 700; }
+
+  .s1 { height: 168px; background: #fdf3f0; border-color: #f3d9d1; }
+  .s2 { height: 196px; background: #fdf6e9; border-color: #f0e0c2; }
+  .s3 { height: 224px; background: #eff6fb; border-color: #cfe2f0; }
+  .s4 { height: 256px; background: #eef9f3; border-color: #a9dcc4; }
+  .s1 .amt { color: #c15f4e; } .s2 .amt { color: #b9741a; }
+  .s3 .amt { color: #2f6fb0; } .s4 .amt { color: #23805a; }
+
+  .base { height: 8px; border-radius: 4px; background: #dfe4e9; margin-bottom: 16px; }
+
+  .avg { display: flex; gap: 10px; }
+  .a { flex: 1; border: 1px solid #e2e6ea; border-radius: 9px; padding: 12px 15px; background: #fafbfc; }
+  .a .k { font-size: 12px; color: #8a929c; font-weight: 700; margin-bottom: 4px; }
+  .a .v { font-size: 16px; font-weight: 800; letter-spacing: -0.4px; }
+  .a .v small { font-size: 12.5px; color: #6b7480; font-weight: 600; }
+</style>
+
+<div id="art">
+  <h1>조카는 나이대로 나눕니다</h1>
+  <p class="sub">한 명당 기준입니다</p>
+
+  <div class="steps">
+    <div class="s s1">
+      <div class="ico">
+        <svg width="46" height="46" viewBox="0 0 46 46">
+          <rect x="6" y="12" width="34" height="26" rx="3" fill="#e8a99a"/>
+          <rect x="6" y="12" width="34" height="26" rx="3" fill="none" stroke="#c98476" stroke-width="1.5"/>
+          <circle cx="23" cy="25" r="7" fill="#f7ddd5"/>
+          <path d="M11,17 h4 M31,33 h4" stroke="#c98476" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="who">초등학생</div>
+      <div class="amt">3~5<small>만원</small></div>
+    </div>
+
+    <div class="s s2">
+      <div class="ico">
+        <svg width="46" height="46" viewBox="0 0 46 46">
+          <rect x="4" y="14" width="34" height="24" rx="3" fill="#f0d09a" transform="rotate(-6 21 26)"/>
+          <rect x="8" y="10" width="34" height="26" rx="3" fill="#e8bd76"/>
+          <rect x="8" y="10" width="34" height="26" rx="3" fill="none" stroke="#c99b4f" stroke-width="1.5"/>
+          <circle cx="25" cy="23" r="7" fill="#faedd4"/>
+        </svg>
+      </div>
+      <div class="who">중학생</div>
+      <div class="amt">5~10<small>만원</small></div>
+    </div>
+
+    <div class="s s3">
+      <div class="ico">
+        <svg width="46" height="46" viewBox="0 0 46 46">
+          <rect x="3" y="16" width="33" height="23" rx="3" fill="#bcd8ee" transform="rotate(-8 20 27)"/>
+          <rect x="6" y="12" width="33" height="24" rx="3" fill="#a3c9e6" transform="rotate(-3 22 24)"/>
+          <rect x="10" y="9" width="33" height="25" rx="3" fill="#7fb4dd"/>
+          <rect x="10" y="9" width="33" height="25" rx="3" fill="none" stroke="#4f8fc0" stroke-width="1.5"/>
+          <circle cx="26.5" cy="21.5" r="6.5" fill="#dceaf6"/>
+        </svg>
+      </div>
+      <div class="who">고등학생</div>
+      <div class="amt">10<small>만원</small></div>
+    </div>
+
+    <div class="s s4">
+      <div class="ico">
+        <svg width="46" height="46" viewBox="0 0 46 46">
+          <rect x="2" y="18" width="32" height="22" rx="3" fill="#bfe3d0" transform="rotate(-10 18 29)"/>
+          <rect x="5" y="14" width="33" height="23" rx="3" fill="#9ed6ba" transform="rotate(-5 21 25)"/>
+          <rect x="9" y="10" width="33" height="24" rx="3" fill="#6ec49e"/>
+          <rect x="9" y="10" width="33" height="24" rx="3" fill="none" stroke="#2f9e6e" stroke-width="1.5"/>
+          <circle cx="25.5" cy="22" r="6.5" fill="#e0f4ea"/>
+        </svg>
+      </div>
+      <div class="who">대학생 · 사회초년생</div>
+      <div class="amt">10~20<small>만원</small></div>
+    </div>
+  </div>
+  <div class="base"></div>
+
+  <div class="avg">
+    <div class="a"><div class="k">조카 · 손주에게 가장 많이 고른 답</div><div class="v">10만원</div></div>
+    <div class="a"><div class="k">중·고등학생이 실제로 받은 평균 (2024 설)</div><div class="v">7만 4,000<small>원</small></div></div>
+  </div>
+</div>

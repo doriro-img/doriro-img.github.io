@@ -1,0 +1,79 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .vs { display: flex; align-items: stretch; gap: 0; }
+  .side { flex: 1; border-radius: 12px; padding: 20px 22px; text-align: center; }
+  .l { background: linear-gradient(160deg,#eef6fc,#d9e9f7); border: 1px solid #cfe2f0; }
+  .r { background: linear-gradient(160deg,#fdf2ee,#f8dfd4); border: 1px solid #f0d5c8; }
+
+  .tag { display: inline-block; font-size: 12.5px; font-weight: 800; color: #fff;
+         padding: 5px 14px; border-radius: 14px; margin-bottom: 12px; }
+  .l .tag { background: #3f8fc4; } .r .tag { background: #d4832f; }
+  .side .ico { margin-bottom: 10px; }
+  .amt { font-size: 40px; font-weight: 800; letter-spacing: -1.8px; line-height: 1.1; }
+  .l .amt { color: #2f6fb0; } .r .amt { color: #c26a1e; }
+  .who { font-size: 13.5px; color: #5a6672; margin-top: 8px; line-height: 1.6; }
+  .who b { color: #1b1b1b; }
+
+  .mid { width: 96px; flex-shrink: 0; display: flex; flex-direction: column;
+         align-items: center; justify-content: center; }
+  .mid .x { font-size: 21px; font-weight: 800; color: #9aa6b2; }
+  .mid .gap { margin-top: 8px; background: #1b1b1b; color: #fff; font-size: 13px; font-weight: 800;
+              padding: 6px 12px; border-radius: 14px; white-space: nowrap; }
+
+  .foot { margin-top: 16px; background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 9px;
+          padding: 13px 18px; font-size: 13.5px; line-height: 1.7; color: #4a5561; }
+  .foot b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>주는 쪽과 받는 쪽 생각이 다릅니다</h1>
+  <p class="sub">같은 질문에 세대별로 이렇게 갈렸습니다</p>
+
+  <div class="vs">
+    <div class="side l">
+      <span class="tag">받는 쪽 · 10대</span>
+      <div class="ico">
+        <svg width="86" height="58" viewBox="0 0 86 58">
+          <rect x="14" y="8" width="58" height="40" rx="4" fill="#fff" stroke="#3f8fc4" stroke-width="2.5"/>
+          <rect x="24" y="18" width="38" height="20" rx="3" fill="#bcd8ee"/>
+          <circle cx="43" cy="28" r="6.5" fill="#3f8fc4"/>
+          <path d="M20,14 h5 M61,42 h5" stroke="#7fb4dd" stroke-width="2.5" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="amt">10만원</div>
+      <p class="who"><b>60%</b>가 이게 적정하다고 답했습니다</p>
+    </div>
+
+    <div class="mid">
+      <div class="x">VS</div>
+      <div class="gap">2배 차이</div>
+    </div>
+
+    <div class="side r">
+      <span class="tag">주는 쪽 · 40~60대</span>
+      <div class="ico">
+        <svg width="86" height="58" viewBox="0 0 86 58">
+          <rect x="14" y="10" width="58" height="38" rx="5" fill="#fff" stroke="#d4832f" stroke-width="2.5"/>
+          <path d="M14,13 L43,36 L72,13" fill="none" stroke="#d4832f" stroke-width="2.5"/>
+          <rect x="28" y="20" width="30" height="16" rx="2.5" fill="#f5d9b6"/>
+        </svg>
+      </div>
+      <div class="amt">5만원</div>
+      <p class="who"><b>70%</b>가 이게 적정하다고 답했습니다</p>
+    </div>
+  </div>
+
+  <p class="foot">받는 쪽은 <b>10만원</b>을 생각하고 주는 쪽은 <b>5만원</b>을 생각합니다.
+    이 간극을 알고 정하는 것과 모르고 정하는 건 다릅니다.
+    참고로 중·고등학생이 받은 금액대는 <b>10만원이 42%</b>로 가장 많아졌습니다.</p>
+</div>
