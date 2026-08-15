@@ -1,0 +1,74 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 20px 14px; }
+  .r { display: flex; align-items: center; height: 46px; }
+  .amt { width: 118px; flex-shrink: 0; font-size: 15px; font-weight: 800; }
+  .amt small { font-size: 12px; color: #8a929c; font-weight: 600; display: block; margin-top: 1px; }
+  .track { flex: 1; position: relative; height: 26px; }
+  .fill { height: 26px; border-radius: 6px; position: relative; }
+  .yr { position: absolute; top: 3px; font-size: 14px; font-weight: 800; white-space: nowrap; }
+
+  .r1 .fill { background: linear-gradient(90deg,#e5a45c,#d4832f); } .r1 .yr { color: #b9741a; }
+  .r2 .fill { background: linear-gradient(90deg,#e8b56c,#dda45f); } .r2 .yr { color: #b9741a; }
+  .r3 .fill { background: linear-gradient(90deg,#6cc39b,#3fae7c); } .r3 .yr { color: #23805a; }
+  .r4 .fill { background: linear-gradient(90deg,#4fb98c,#2f9e6e); } .r4 .yr { color: #23805a; }
+
+  .axis { display: flex; padding-left: 118px; border-top: 1px solid #e2e6ea; padding-top: 6px; margin-top: 4px; }
+  .axis div { font-size: 11px; color: #9098a2; }
+
+  .call { margin-top: 15px; background: #1b1b1b; color: #fff; border-radius: 10px;
+          padding: 15px 20px; display: flex; align-items: center; gap: 18px; }
+  .call .big { font-size: 27px; font-weight: 800; color: #ffd97a; letter-spacing: -0.8px; white-space: nowrap; }
+  .call p { font-size: 13.5px; line-height: 1.65; }
+  .call p b { color: #7ee0b0; }
+
+  .note { margin-top: 11px; font-size: 12px; color: #8a929c; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>10억까지 몇 년이 걸리나</h1>
+  <p class="sub">매달 꼬박 넣고 연 7%로 굴렸다고 가정했을 때</p>
+
+  <div class="rows">
+    <div class="r r1">
+      <div class="amt">월 100만원<small>연 1,200만원</small></div>
+      <div class="track"><div class="fill" style="width:520px"></div><div class="yr" style="left:530px">27년 6개월</div></div>
+    </div>
+    <div class="r r2">
+      <div class="amt">월 150만원<small>연 1,800만원</small></div>
+      <div class="track"><div class="fill" style="width:430px"></div><div class="yr" style="left:440px">22년 9개월</div></div>
+    </div>
+    <div class="r r3">
+      <div class="amt">월 200만원<small>연 2,400만원</small></div>
+      <div class="track"><div class="fill" style="width:370px"></div><div class="yr" style="left:380px">19년 7개월</div></div>
+    </div>
+    <div class="r r4">
+      <div class="amt">월 300만원<small>연 3,600만원</small></div>
+      <div class="track"><div class="fill" style="width:292px"></div><div class="yr" style="left:302px">15년 6개월</div></div>
+    </div>
+
+    <div class="axis">
+      <div style="width:95px">0</div><div style="width:95px">5년</div><div style="width:95px">10년</div>
+      <div style="width:95px">15년</div><div style="width:95px">20년</div><div style="width:95px">25년</div><div>30년</div>
+    </div>
+  </div>
+
+  <div class="call">
+    <div class="big">3배 넣어도<br />12년</div>
+    <p>월 100만원을 <b>월 300만원으로 세 배</b> 늘려도 27년 6개월이 15년 6개월이 될 뿐입니다.<br />
+      돈을 더 넣는 것보다 <b>일찍 시작하는 쪽</b>이 훨씬 세게 먹힙니다</p>
+  </div>
+
+  <p class="note">※ 연 7%는 계산을 위한 가정입니다. 실제 수익률은 해마다 다르고 손실이 나는 해도 있습니다.
+    세금과 물가는 반영하지 않은 숫자입니다</p>
+</div>

@@ -1,0 +1,69 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .flow { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+  .box { flex: 1; border-radius: 11px; padding: 16px 18px; text-align: center; }
+  .box .k { font-size: 12px; font-weight: 700; margin-bottom: 5px; }
+  .box .v { font-size: 25px; font-weight: 800; letter-spacing: -1px; }
+  .box .n { font-size: 12px; margin-top: 3px; }
+  .b1 { background: linear-gradient(160deg,#eef4fb,#d9e7f5); border: 1px solid #cfe0f0; }
+  .b1 .k { color: #4f7ba8; } .b1 .v { color: #1f4a7a; } .b1 .n { color: #7b93ad; }
+  .b2 { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4; }
+  .b2 .k { color: #3d9b74; } .b2 .v { color: #1d7050; } .b2 .n { color: #6aa78d; }
+  .b3 { background: linear-gradient(160deg,#fdf4e9,#f8e4c4); border: 1px solid #f0dfc4; }
+  .b3 .k { color: #b58346; } .b3 .v { color: #9a6413; } .b3 .n { color: #b09068; }
+  .arw { font-size: 22px; color: #b8c2cc; font-weight: 800; flex-shrink: 0; }
+
+  .rule { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 22px;
+          margin-bottom: 16px; display: flex; align-items: center; gap: 20px; }
+  .rule .f { font-size: 21px; font-weight: 800; letter-spacing: -0.6px; white-space: nowrap; }
+  .rule .f em { font-style: normal; color: #ffd97a; }
+  .rule p { font-size: 13px; line-height: 1.6; color: #c8d0d8; }
+
+  .tbl { border: 1px solid #e6e9ed; border-radius: 10px; overflow: hidden; }
+  .th { display: flex; background: #f2f5f7; padding: 10px 18px; font-size: 12.5px;
+        font-weight: 800; color: #55606c; }
+  .td { display: flex; padding: 12px 18px; border-top: 1px solid #eef1f4; font-size: 14.5px; align-items: center; }
+  .td.hi { background: #eef9f3; }
+  .c1 { flex: 1.1; } .c2 { flex: 1.1; } .c3 { flex: 1; text-align: right; font-weight: 800; }
+  .td.hi .c3 { color: #23805a; }
+  .badge { display: inline-block; background: #2f9e6e; color: #fff; font-size: 10.5px;
+           font-weight: 800; padding: 2px 8px; border-radius: 9px; margin-left: 7px; vertical-align: middle; }
+</style>
+
+<div id="art">
+  <h1>10억이면 한 달에 얼마를 쓸 수 있나</h1>
+  <p class="sub">파이어족이 쓰는 4% 룰로 계산하면</p>
+
+  <div class="flow">
+    <div class="box b1"><div class="k">모은 돈</div><div class="v">10억원</div><div class="n">은퇴 자산</div></div>
+    <div class="arw">×4%</div>
+    <div class="box b2"><div class="k">한 해에 꺼내는 돈</div><div class="v">4,000만원</div><div class="n">세금 떼기 전</div></div>
+    <div class="arw">÷12</div>
+    <div class="box b3"><div class="k">한 달에</div><div class="v">333만원</div><div class="n">세금 떼기 전</div></div>
+  </div>
+
+  <div class="rule">
+    <div class="f">한 해 생활비 <em>×</em> 25 <em>=</em> 목표 금액</div>
+    <p>미국 트리니티 연구에서 나온 기준입니다. 주식 75 채권 25로 굴리면서 해마다 4%씩 꺼내 쓰면
+      <b>30년 동안</b> 자산이 바닥나지 않았다는 시뮬레이션이에요</p>
+  </div>
+
+  <div class="tbl">
+    <div class="th"><div class="c1">월 생활비</div><div class="c2">한 해 생활비</div><div class="c3">필요한 돈</div></div>
+    <div class="td"><div class="c1">200만원</div><div class="c2">2,400만원</div><div class="c3">6억원</div></div>
+    <div class="td"><div class="c1">250만원</div><div class="c2">3,000만원</div><div class="c3">7억 5,000만원</div></div>
+    <div class="td hi"><div class="c1">333만원<span class="badge">10억</span></div><div class="c2">4,000만원</div><div class="c3">10억원</div></div>
+    <div class="td"><div class="c1">400만원</div><div class="c2">4,800만원</div><div class="c3">12억원</div></div>
+    <div class="td"><div class="c1">500만원</div><div class="c2">6,000만원</div><div class="c3">15억원</div></div>
+  </div>
+</div>

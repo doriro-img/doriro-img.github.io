@@ -1,0 +1,72 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .formula { background: linear-gradient(160deg,#eef4fb,#dbe8f6); border: 1px solid #cfe0f0;
+             border-radius: 11px; padding: 16px 22px; margin-bottom: 16px;
+             display: flex; align-items: center; gap: 18px; }
+  .formula .f { font-size: 25px; font-weight: 800; letter-spacing: -0.8px; color: #1f4a7a; white-space: nowrap; }
+  .formula .f em { font-style: normal; color: #8a9db4; }
+  .formula p { font-size: 13.5px; line-height: 1.65; color: #4a5561; }
+  .formula p b { color: #1b1b1b; }
+
+  .rows { border: 1px solid #e6e9ed; border-radius: 10px; overflow: hidden; }
+  .r { display: flex; align-items: center; padding: 13px 18px; border-bottom: 1px solid #eef1f4; }
+  .r:last-child { border-bottom: none; }
+  .r:nth-child(odd) { background: #fafbfc; }
+  .rate { width: 108px; flex-shrink: 0; font-size: 15.5px; font-weight: 800; }
+  .track { flex: 1; height: 24px; position: relative; }
+  .fill { height: 24px; border-radius: 5px; }
+  .yr { width: 92px; flex-shrink: 0; text-align: right; font-size: 15px; font-weight: 800; }
+
+  .r1 .rate, .r1 .yr { color: #9aa6b2; } .r1 .fill { background: #c3ccd6; }
+  .r2 .rate, .r2 .yr { color: #4f8fc0; } .r2 .fill { background: #7fb4dd; }
+  .r3 .rate, .r3 .yr { color: #23805a; } .r3 .fill { background: #3fae7c; }
+  .r4 .rate, .r4 .yr { color: #b9741a; } .r4 .fill { background: #e5a45c; }
+
+  .note { margin-top: 13px; font-size: 12.5px; color: #7b848f; line-height: 1.65; }
+</style>
+
+<div id="art">
+  <h1>72법칙 — 원금이 두 배 되는 데 몇 년?</h1>
+  <p class="sub">암산으로 대충 감을 잡을 때 씁니다</p>
+
+  <div class="formula">
+    <div class="f">72 <em>÷</em> 수익률 <em>=</em> 2배 되는 햇수</div>
+    <p>연 7%로 굴리면 <b>72 ÷ 7 = 약 10년</b>입니다.<br />10년마다 두 배니까 30년이면 여덟 배가 되는 셈이에요</p>
+  </div>
+
+  <div class="rows">
+    <div class="r r1">
+      <div class="rate">연 3%</div>
+      <div class="track"><div class="fill" style="width:100%"></div></div>
+      <div class="yr">24년</div>
+    </div>
+    <div class="r r2">
+      <div class="rate">연 5%</div>
+      <div class="track"><div class="fill" style="width:60%"></div></div>
+      <div class="yr">14.4년</div>
+    </div>
+    <div class="r r3">
+      <div class="rate">연 7%</div>
+      <div class="track"><div class="fill" style="width:42.9%"></div></div>
+      <div class="yr">10.3년</div>
+    </div>
+    <div class="r r4">
+      <div class="rate">연 10%</div>
+      <div class="track"><div class="fill" style="width:30%"></div></div>
+      <div class="yr">7.2년</div>
+    </div>
+  </div>
+
+  <p class="note">※ 수익률이 3%에서 7%로 두 배 조금 넘게 오르면 두 배 되는 기간은 24년에서 10년으로 줄어듭니다.
+    수익률 차이가 기간에 이렇게 크게 먹힙니다</p>
+</div>

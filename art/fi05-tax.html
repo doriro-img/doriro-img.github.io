@@ -1,0 +1,94 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .tax { border: 1px solid #f2c9c4; border-radius: 11px; overflow: hidden; margin-bottom: 12px; }
+  .th { background: #cf4f43; color: #fff; padding: 11px 18px; font-size: 14.5px; font-weight: 800;
+        display: flex; justify-content: space-between; align-items: center; }
+  .th span { font-size: 12px; font-weight: 600; opacity: .92; }
+  .tb { background: #fff8f7; padding: 15px 18px; }
+
+  .bands { display: flex; gap: 7px; margin-bottom: 12px; }
+  .bd { flex: 1; background: #fff; border: 1px solid #f0d5d1; border-radius: 8px;
+        padding: 10px 11px; text-align: center; }
+  .bd .k { font-size: 11px; color: #96736e; font-weight: 700; margin-bottom: 3px; }
+  .bd .v { font-size: 18px; font-weight: 800; color: #b8463a; letter-spacing: -0.5px; }
+  .bd.first { background: #fdeceb; border-color: #e8b5ae; }
+
+  .warn { display: flex; gap: 10px; align-items: flex-start; font-size: 13px; line-height: 1.7; color: #55606c; }
+  .warn b { color: #1b1b1b; }
+  .warn .ic { flex-shrink: 0; margin-top: 2px; }
+
+  .two { display: flex; gap: 12px; }
+  .c { flex: 1; border: 1px solid #e2e6ea; border-radius: 11px; padding: 15px 18px; background: #fafbfc; }
+  .c .hd { display: flex; align-items: center; gap: 9px; margin-bottom: 9px; }
+  .c .hd .t { font-size: 14.5px; font-weight: 800; }
+  .c p { font-size: 13px; line-height: 1.7; color: #4a5561; }
+  .c p b { color: #1b1b1b; }
+  .c .num { font-size: 21px; font-weight: 800; letter-spacing: -0.7px; margin: 4px 0 6px; }
+  .c1 .num { color: #b9741a; } .c2 .num { color: #2f6fb0; }
+</style>
+
+<div id="art">
+  <h1>계산기에는 안 나오는 것들</h1>
+  <p class="sub">4,000만원이 통장에 그대로 들어오지는 않습니다</p>
+
+  <div class="tax">
+    <div class="th">세금 <span>배당으로 4,000만원을 받는다면</span></div>
+    <div class="tb">
+      <div class="bands">
+        <div class="bd first"><div class="k">2,000만원 이하</div><div class="v">15.4%</div></div>
+        <div class="bd"><div class="k">2,000만~3억</div><div class="v">22%</div></div>
+        <div class="bd"><div class="k">3억~50억</div><div class="v">27.5%</div></div>
+        <div class="bd"><div class="k">50억 초과</div><div class="v">33%</div></div>
+      </div>
+      <div class="warn">
+        <svg class="ic" width="18" height="18" viewBox="0 0 18 18">
+          <circle cx="9" cy="9" r="8" fill="#cf4f43"/>
+          <path d="M9,4.5 v5.5 M9,12.6 v.6" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <p>금융소득이 한 해 <b>2,000만원</b>을 넘으면 다른 소득과 합쳐 종합과세로 넘어갑니다.
+          2026년부터 분리과세를 고를 수 있게 됐는데 <b>배당성향이 높은 상장기업에 직접 투자한 경우만</b> 해당돼요.
+          <b>ETF와 펀드, 리츠는 빠집니다.</b> 게다가 2028년까지만 하는 한시 제도입니다</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="c c1">
+      <div class="hd">
+        <svg width="24" height="24" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="11" fill="#fdf4e9" stroke="#e5a45c" stroke-width="1.5"/>
+          <path d="M7,15 L11,10 L14,13 L18,7.5" stroke="#d4832f" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <path d="M14.5,7.5 h4 v4" stroke="#d4832f" stroke-width="2" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div class="t">물가</div>
+      </div>
+      <div class="num">2,690만원</div>
+      <p>물가가 해마다 2%씩 오른다고 보면 <b>20년 뒤의 4,000만원</b>은 지금 돈으로 이만큼입니다.
+        목표 금액도 같이 올려 잡아야 해요</p>
+    </div>
+
+    <div class="c c2">
+      <div class="hd">
+        <svg width="24" height="24" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="11" fill="#eff6fb" stroke="#7fb4dd" stroke-width="1.5"/>
+          <circle cx="12" cy="12" r="6.5" fill="none" stroke="#2f6fb0" stroke-width="1.8"/>
+          <path d="M12,8.5 v3.8 l2.6,1.6" stroke="#2f6fb0" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        </svg>
+        <div class="t">버텨야 하는 기간</div>
+      </div>
+      <div class="num">30년 기준입니다</div>
+      <p>4% 룰은 <b>30년</b>을 가정한 연구예요. 40대에 그만두면 40년 50년을 써야 하니
+        인출률을 조금 더 낮춰 잡는 게 안전합니다</p>
+    </div>
+  </div>
+</div>
