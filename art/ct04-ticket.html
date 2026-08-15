@@ -1,0 +1,86 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 18px; }
+
+  .chart { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 14px 16px 8px; }
+
+  .leg { display: flex; gap: 18px; margin: 10px 0 0 44px; }
+  .leg div { font-size: 12.5px; font-weight: 700; display: flex; align-items: center; gap: 6px; color: #55606c; }
+  .leg i { width: 22px; height: 4px; border-radius: 2px; display: inline-block; }
+
+  .out { margin-top: 15px; background: #fdf3e7; border: 1px solid #f0dfc4;
+         border-radius: 10px; padding: 14px 18px; }
+  .out .t { font-size: 14.5px; font-weight: 800; color: #b9741a; margin-bottom: 4px; }
+  .out p { font-size: 13.5px; line-height: 1.7; color: #55606c; }
+  .out p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>명절 항공권은 그래프가 다릅니다</h1>
+  <p class="sub">평소처럼 최저가를 기다리면 자리가 먼저 사라집니다</p>
+
+  <div class="chart">
+    <svg width="792" height="252" viewBox="0 0 660 252">
+      <!-- 격자 -->
+      <g stroke="#e6eaee" stroke-width="1">
+        <line x1="40" y1="45" x2="620" y2="45"/><line x1="40" y1="90" x2="620" y2="90"/>
+        <line x1="40" y1="135" x2="620" y2="135"/><line x1="40" y1="180" x2="620" y2="180"/>
+      </g>
+      <line x1="40" y1="200" x2="620" y2="200" stroke="#c8cfd6" stroke-width="1.5"/>
+      <line x1="40" y1="30" x2="40" y2="200" stroke="#c8cfd6" stroke-width="1.5"/>
+
+      <!-- 지금 위치 -->
+      <rect x="330" y="30" width="64" height="170" fill="#2f9e6e" opacity=".07"/>
+      <line x1="362" y1="30" x2="362" y2="200" stroke="#2f9e6e" stroke-width="2" stroke-dasharray="5 4"/>
+      <rect x="311" y="14" width="102" height="22" rx="11" fill="#2f9e6e"/>
+      <text x="362" y="29" text-anchor="middle" font-size="12.5" font-weight="800" fill="#fff"
+            font-family="Pretendard, Malgun Gothic, sans-serif">지금 (40일 전)</text>
+
+      <!-- 평소 곡선 -->
+      <path d="M40,145.7 C90,152 110,158 136.7,157.4 C180,157 200,166 233.3,170.9
+               C280,177 300,183 330,184.5 C346,185.6 354,186 362.2,186.4
+               C390,187 405,180 426.7,176.7 C455,170 468,163 484.7,157.4
+               C505,148 516,140 529.8,132.2 C550,120 562,112 574.9,103.1 C596,92 608,85 620,79.9"
+            fill="none" stroke="#9aa6b2" stroke-width="3" stroke-dasharray="7 5" stroke-linecap="round"/>
+
+      <!-- 명절 곡선 -->
+      <path d="M40,180.6 C90,177 110,174 136.7,172.9 C180,170 205,167 233.3,163.2
+               C280,157 305,152 330,149.6 C344,147 354,145 362.2,143.8
+               C390,138 408,133 426.7,128.3 C455,120 470,115 484.7,110.9
+               C505,104 518,98 529.8,93.4 C550,85 562,78 574.9,72.1 C596,64 608,58 620,52.7"
+            fill="none" stroke="#d1566a" stroke-width="3.5" stroke-linecap="round"/>
+
+      <!-- 명절 곡선 위 점 -->
+      <circle cx="362.2" cy="143.8" r="6" fill="#fff" stroke="#d1566a" stroke-width="3"/>
+
+      <!-- 축 라벨 -->
+      <g font-size="11.5" fill="#9098a2" font-family="Pretendard, Malgun Gothic, sans-serif">
+        <text x="40" y="216" text-anchor="middle">90일 전</text>
+        <text x="233" y="216" text-anchor="middle">60일 전</text>
+        <text x="427" y="216" text-anchor="middle">30일 전</text>
+        <text x="620" y="216" text-anchor="middle">출발</text>
+        <text x="34" y="38" text-anchor="end">비쌈</text>
+        <text x="34" y="198" text-anchor="end">쌈</text>
+      </g>
+    </svg>
+
+    <div class="leg">
+      <div><i style="background:#d1566a"></i>명절·성수기</div>
+      <div><i style="background:#9aa6b2"></i>평소 (30~50일 전이 바닥)</div>
+    </div>
+  </div>
+
+  <div class="out">
+    <div class="t">그래서 명절엔 이렇게 삽니다</div>
+    <p>평소에는 <b>30~50일 전</b>이 가장 싸지만 명절은 그 바닥이 없습니다. 좌석이 팔릴수록 남은 등급이 비싸지기만 해요.<br />
+      원하는 시간대가 떴으면 <b>더 내려가길 기다리지 말고 잡는 편</b>이 낫습니다. 결제는 화요일이나 수요일 오전이 조금 유리하다고 하고요.</p>
+  </div>
+</div>

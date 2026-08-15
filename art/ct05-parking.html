@@ -1,0 +1,84 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .scene { background: linear-gradient(160deg,#eef4f9,#dfe9f3); border: 1px solid #dbe4ed;
+           border-radius: 12px; padding: 16px 20px; display: flex; align-items: center; gap: 22px;
+           margin-bottom: 16px; }
+  .scene .txt { flex: 1; }
+  .scene .big { font-size: 21px; font-weight: 800; letter-spacing: -0.6px; color: #1f4a6b; margin-bottom: 5px; }
+  .scene p { font-size: 13.5px; line-height: 1.7; color: #4a5561; }
+  .scene p b { color: #1b1b1b; }
+
+  .tl { position: relative; height: 84px; margin-bottom: 16px; }
+  .track { position: absolute; top: 30px; left: 0; right: 0; height: 14px; border-radius: 7px;
+           background: linear-gradient(90deg,#dfe4e9 0 14%, #a9dcc4 14% 88%, #f0b8b1 88% 100%); }
+  .mk { position: absolute; top: 12px; width: 2px; height: 50px; background: #45505c; }
+  .lab { position: absolute; font-size: 12px; font-weight: 700; white-space: nowrap; }
+  .lab.top { top: -4px; } .lab.bot { top: 66px; color: #6b7480; font-weight: 600; }
+  .now { position: absolute; top: 24px; width: 26px; height: 26px; border-radius: 50%;
+         background: #2f9e6e; border: 3px solid #fff; box-shadow: 0 2px 8px rgba(47,158,110,.45); }
+
+  .fee { display: flex; gap: 10px; }
+  .f { flex: 1; border: 1px solid #e2e6ea; border-radius: 9px; padding: 12px 14px; background: #fafbfc; }
+  .f .k { font-size: 11.5px; color: #8a929c; font-weight: 700; margin-bottom: 3px; }
+  .f .v { font-size: 16px; font-weight: 800; letter-spacing: -0.3px; }
+  .f .v small { font-size: 12px; font-weight: 600; color: #6b7480; }
+</style>
+
+<div id="art">
+  <h1>인천공항 주차 예약은 이미 열렸습니다</h1>
+  <p class="sub">입차 45일 전부터 열리는데 추석은 열리자마자 찹니다</p>
+
+  <div class="scene">
+    <svg width="200" height="112" viewBox="0 0 200 112">
+      <!-- 주차 표지판 -->
+      <rect x="8" y="10" width="52" height="52" rx="10" fill="#2f6fb0"/>
+      <text x="34" y="49" text-anchor="middle" font-size="38" font-weight="800" fill="#fff"
+            font-family="Pretendard, Malgun Gothic, sans-serif">P</text>
+      <rect x="31" y="62" width="6" height="30" fill="#9fb2c6"/>
+      <!-- 자동차 -->
+      <g>
+        <path d="M78,84 L78,66 Q78,60 85,58 L96,44 Q99,40 105,40 L146,40 Q152,40 155,45 L164,58
+                 Q174,60 174,68 L174,84 Q174,88 169,88 L83,88 Q78,88 78,84 Z" fill="#e8695c"/>
+        <path d="M101,46 L124,46 L124,58 L93,58 Z" fill="#cfe2f2"/>
+        <path d="M129,46 L145,46 Q149,46 151,50 L156,58 L129,58 Z" fill="#cfe2f2"/>
+        <rect x="78" y="68" width="96" height="5" fill="#c9564a"/>
+        <circle cx="102" cy="88" r="12" fill="#38414d"/><circle cx="102" cy="88" r="5" fill="#98a3b0"/>
+        <circle cx="152" cy="88" r="12" fill="#38414d"/><circle cx="152" cy="88" r="5" fill="#98a3b0"/>
+      </g>
+      <rect x="66" y="98" width="126" height="5" rx="2.5" fill="#c3d1de"/>
+    </svg>
+    <div class="txt">
+      <div class="big">9월 24일 출발이면 8월 10일에 열렸어요</div>
+      <p>예약은 <b>입차 45일 전부터 4시간 전까지</b> 받습니다. 전화는 안 되고 인터넷으로만 돼요.<br />
+        명절엔 열리는 날 바로 마감되는 편이라 <b>지금 확인하는 게 좋습니다.</b></p>
+    </div>
+  </div>
+
+  <div class="tl">
+    <div class="track"></div>
+    <div class="mk" style="left:14%"></div>
+    <div class="mk" style="left:88%"></div>
+    <div class="lab top" style="left:14%; transform:translateX(-50%)">예약 오픈 (45일 전)</div>
+    <div class="lab bot" style="left:14%; transform:translateX(-50%)">8월 10일</div>
+    <div class="lab top" style="left:88%; transform:translateX(-72%)">마감 (4시간 전)</div>
+    <div class="lab bot" style="left:88%; transform:translateX(-72%)">9월 24일</div>
+    <div class="now" style="left:30%"></div>
+    <div class="lab bot" style="left:30%; transform:translateX(-50%); color:#23805a; font-weight:800">지금 · 8월 15일</div>
+  </div>
+
+  <div class="fee">
+    <div class="f"><div class="k">예약주차 요금</div><div class="v">시간당 1,000<small>원</small></div></div>
+    <div class="f"><div class="k">하루 최대</div><div class="v">9,000<small>원</small></div></div>
+    <div class="f"><div class="k">예약 가능 기간</div><div class="v">1일 ~ 30<small>일</small></div></div>
+  </div>
+</div>

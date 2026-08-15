@@ -1,0 +1,124 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .cards { display: flex; gap: 12px; }
+  .c { flex: 1; border-radius: 12px; overflow: hidden; border: 1px solid #e2e6ea; background: #fff; }
+  .c .top { height: 132px; display: flex; align-items: center; justify-content: center; }
+  .c1 .top { background: linear-gradient(160deg,#fdeef0,#f9dade); }
+  .c2 .top { background: linear-gradient(160deg,#e9f4fb,#d2e7f6); }
+  .c3 .top { background: linear-gradient(160deg,#fdf4e4,#f8e6c6); }
+  .c .body { padding: 14px 16px 16px; }
+  .rank { display: inline-block; font-size: 11px; font-weight: 800; color: #fff;
+          padding: 3px 10px; border-radius: 11px; margin-bottom: 7px; }
+  .c1 .rank { background: #d1566a; } .c2 .rank { background: #3f8fc4; } .c3 .rank { background: #d4832f; }
+  .c h2 { font-size: 16px; margin-bottom: 3px; letter-spacing: -0.3px; }
+  .c .time { font-size: 12.5px; color: #8a929c; font-weight: 600; margin-bottom: 9px; }
+  .c p { font-size: 13px; line-height: 1.7; color: #4a5561; }
+  .c p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>4일이면 여기가 무난합니다</h1>
+  <p class="sub">올해는 연휴가 짧아 단거리로 몰리는 분위기입니다</p>
+
+  <div class="cards">
+
+    <div class="c c1">
+      <div class="top">
+        <svg width="180" height="112" viewBox="0 0 180 112">
+          <!-- 후지산 -->
+          <path d="M20,96 L70,30 L120,96 Z" fill="#c98a95"/>
+          <path d="M55,49 L70,30 L85,49 L76,44 L70,52 L63,44 Z" fill="#fff"/>
+          <!-- 뒷산 -->
+          <path d="M96,96 L128,52 L160,96 Z" fill="#dda6ae" opacity=".75"/>
+          <!-- 도리이 -->
+          <g fill="#b23a4e">
+            <rect x="118" y="60" width="52" height="7" rx="2"/>
+            <rect x="122" y="71" width="44" height="5" rx="2"/>
+            <rect x="126" y="66" width="7" height="30"/>
+            <rect x="155" y="66" width="7" height="30"/>
+          </g>
+          <rect x="0" y="96" width="180" height="6" rx="3" fill="#e8bcc3"/>
+        </svg>
+      </div>
+      <div class="body">
+        <span class="rank">검색 1순위</span>
+        <h2>일본</h2>
+        <div class="time">후쿠오카 · 오사카 · 도쿄</div>
+        <p>비행이 짧아 <b>3박 4일이 딱 맞습니다.</b> 9월이면 더위도 한풀 꺾여서 돌아다니기 좋아요</p>
+      </div>
+    </div>
+
+    <div class="c c2">
+      <div class="top">
+        <svg width="180" height="112" viewBox="0 0 180 112">
+          <!-- 바다 -->
+          <rect x="0" y="74" width="180" height="28" fill="#8fc4e8" opacity=".55"/>
+          <path d="M0,80 q14,-6 28,0 t28,0 t28,0 t28,0 t28,0 t28,0" stroke="#5ba7d8" stroke-width="2.5" fill="none" opacity=".8"/>
+          <!-- 야자수 -->
+          <g>
+            <path d="M60,92 q-4,-24 4,-40" stroke="#8a6b4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+            <g fill="#3f9e78">
+              <ellipse cx="46" cy="48" rx="20" ry="7" transform="rotate(-22 46 48)"/>
+              <ellipse cx="82" cy="48" rx="20" ry="7" transform="rotate(22 82 48)"/>
+              <ellipse cx="64" cy="40" rx="19" ry="7"/>
+            </g>
+          </g>
+          <!-- 배 -->
+          <path d="M112,80 L156,80 L148,90 L120,90 Z" fill="#fff"/>
+          <rect x="130" y="62" width="4" height="18" fill="#5a7488"/>
+          <path d="M136,64 L152,78 L136,78 Z" fill="#e3edf5"/>
+          <!-- 해 -->
+          <circle cx="150" cy="30" r="14" fill="#ffd77a"/>
+        </svg>
+      </div>
+      <div class="body">
+        <span class="rank">대체 후보</span>
+        <h2>오키나와 · 상하이</h2>
+        <div class="time">2시간 ~ 2시간 30분</div>
+        <p>일본 본토가 비싸질 때 눈 돌릴 곳입니다. <b>오키나와는 9월에도 물놀이</b>가 됩니다</p>
+      </div>
+    </div>
+
+    <div class="c c3">
+      <div class="top">
+        <svg width="180" height="112" viewBox="0 0 180 112">
+          <!-- 다리 -->
+          <path d="M14,74 q76,-40 152,0" stroke="#d9a86a" stroke-width="8" fill="none"/>
+          <g stroke="#c08f4f" stroke-width="4">
+            <line x1="46" y1="62" x2="46" y2="92"/><line x1="90" y1="55" x2="90" y2="92"/><line x1="134" y1="62" x2="134" y2="92"/>
+          </g>
+          <rect x="0" y="90" width="180" height="8" rx="4" fill="#e8cfa6"/>
+          <!-- 랜턴 -->
+          <g>
+            <line x1="30" y1="16" x2="150" y2="16" stroke="#c9a06a" stroke-width="2"/>
+            <g>
+              <ellipse cx="52" cy="30" rx="11" ry="13" fill="#e8695c"/>
+              <ellipse cx="90" cy="34" rx="11" ry="13" fill="#f0a94c"/>
+              <ellipse cx="128" cy="30" rx="11" ry="13" fill="#e8695c"/>
+            </g>
+            <g stroke="#c9a06a" stroke-width="2">
+              <line x1="52" y1="16" x2="52" y2="18"/><line x1="90" y1="16" x2="90" y2="22"/><line x1="128" y1="16" x2="128" y2="18"/>
+            </g>
+          </g>
+        </svg>
+      </div>
+      <div class="body">
+        <span class="rank">여유 있으면</span>
+        <h2>다낭 · 방콕</h2>
+        <div class="time">4시간 50분 ~ 5시간 50분</div>
+        <p>4일로는 빠듯합니다. <b>연차를 붙여 5일 이상</b> 만들 수 있을 때 고르는 게 낫더라고요</p>
+      </div>
+    </div>
+
+  </div>
+</div>

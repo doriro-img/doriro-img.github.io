@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#fdf0e2,#f7d9c0);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #5c3418;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #c25f2a; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 60px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #c25f2a; }
+  .sub { margin-top: 28px; font-size: 26px; color: #8a5e3c; font-weight: 600; }
+  .sub b { color: #2f7d5c; }
+  .plane { position: absolute; top: 88px; right: 44px;
+    filter: drop-shadow(0 12px 24px rgba(120,70,30,.22)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #b08a68; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="plane">
+    <svg width="330" height="230" viewBox="0 0 330 230">
+      <!-- 구름 -->
+      <g fill="#fff" opacity=".72">
+        <ellipse cx="60" cy="176" rx="42" ry="19"/><ellipse cx="96" cy="168" rx="30" ry="22"/>
+        <ellipse cx="262" cy="46" rx="38" ry="17"/><ellipse cx="292" cy="40" rx="26" ry="19"/>
+      </g>
+      <!-- 비행운 -->
+      <path d="M14,150 q60,-14 116,-44" stroke="#fff" stroke-width="7" fill="none"
+            stroke-linecap="round" opacity=".85"/>
+      <!-- 비행기 -->
+      <g transform="rotate(-19 190 100)">
+        <!-- 뒷날개 -->
+        <path d="M130,96 L104,66 L120,66 L152,92 Z" fill="#a8462a"/>
+        <!-- 동체 -->
+        <path d="M112,100 Q112,86 132,84 L250,84 Q286,84 300,100 Q286,116 250,116 L132,116 Q112,114 112,100 Z"
+              fill="#e8f0f7"/>
+        <path d="M250,84 Q286,84 300,100 Q286,116 250,116 Z" fill="#c25f2a"/>
+        <!-- 창문 -->
+        <g fill="#7fa8c9"><circle cx="160" cy="99" r="5"/><circle cx="182" cy="99" r="5"/>
+          <circle cx="204" cy="99" r="5"/><circle cx="226" cy="99" r="5"/></g>
+        <!-- 주날개 -->
+        <path d="M176,104 L146,150 L172,150 L214,108 Z" fill="#c9d8e6"/>
+        <path d="M186,96 L166,52 L190,52 L222,94 Z" fill="#dfe9f2"/>
+        <!-- 꼬리 -->
+        <path d="M112,100 L92,100 L100,110 L112,110 Z" fill="#c9d8e6"/>
+      </g>
+      <!-- 캐리어 -->
+      <g transform="translate(196,150)">
+        <rect x="8" y="-14" width="26" height="12" rx="6" fill="none" stroke="#8a5e3c" stroke-width="4"/>
+        <rect x="0" y="0" width="42" height="52" rx="8" fill="#2f7d5c"/>
+        <rect x="0" y="16" width="42" height="7" fill="#256a4d"/>
+        <circle cx="9" cy="56" r="5" fill="#4a4a4a"/><circle cx="33" cy="56" r="5" fill="#4a4a4a"/>
+      </g>
+    </svg>
+  </div>
+
+  <div class="tag">2026 추석 연휴</div>
+  <h1>추석 해외여행<br /><span class="hl">4일이면 어디?</span></h1>
+  <p class="sub">항공권 · <b>여권</b> · 공항주차 총정리</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>

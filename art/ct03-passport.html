@@ -1,0 +1,94 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .wrap { display: flex; gap: 20px; align-items: stretch; }
+
+  .left { width: 250px; flex-shrink: 0; background: linear-gradient(160deg,#eef3f8,#dde7f1);
+          border-radius: 12px; display: flex; align-items: center; justify-content: center; }
+
+  .right { flex: 1; }
+  .rule { background: #fff6f5; border: 1px solid #f2c9c4; border-radius: 10px;
+          padding: 15px 18px; margin-bottom: 14px; }
+  .rule .t { font-size: 14.5px; font-weight: 800; color: #b23a2e; margin-bottom: 5px; }
+  .rule p { font-size: 13.5px; line-height: 1.7; color: #554745; }
+  .rule p b { color: #1b1b1b; }
+
+  .tl { position: relative; height: 96px; margin-bottom: 4px; }
+  .bar { position: absolute; top: 34px; left: 0; right: 0; height: 26px; border-radius: 6px; overflow: hidden; display: flex; }
+  .bar .bad { width: 46%; background: repeating-linear-gradient(45deg,#f0b8b1,#f0b8b1 7px,#e8a79f 7px,#e8a79f 14px); }
+  .bar .good { flex: 1; background: linear-gradient(90deg,#a9dcc4,#7ecfae); }
+  .pin { position: absolute; top: 18px; left: 46%; width: 2px; height: 58px; background: #1b1b1b; }
+  .pindot { position: absolute; top: 14px; left: calc(46% - 5px); width: 12px; height: 12px;
+            border-radius: 50%; background: #1b1b1b; }
+  .plab { position: absolute; top: 0; left: calc(46% - 62px); width: 124px; text-align: center;
+          font-size: 12px; font-weight: 800; }
+  .cap { position: absolute; top: 66px; font-size: 12.5px; font-weight: 700; }
+  .cap.l { left: 10px; color: #b23a2e; } .cap.r { right: 10px; color: #23805a; }
+
+  .facts { display: flex; gap: 10px; margin-top: 16px; }
+  .f { flex: 1; border: 1px solid #e2e6ea; border-radius: 9px; padding: 11px 13px; background: #fafbfc; }
+  .f .k { font-size: 11.5px; color: #8a929c; font-weight: 700; margin-bottom: 3px; }
+  .f .v { font-size: 15px; font-weight: 800; letter-spacing: -0.3px; }
+  .f .v small { font-size: 12px; font-weight: 600; color: #6b7480; }
+</style>
+
+<div id="art">
+  <h1>여권부터 꺼내보세요</h1>
+  <p class="sub">유효기간이 6개월 안 남았으면 출국을 못 합니다</p>
+
+  <div class="wrap">
+    <div class="left">
+      <svg width="160" height="210" viewBox="0 0 160 210">
+        <!-- 여권 뒷장 -->
+        <rect x="16" y="12" width="128" height="184" rx="10" fill="#1f4a6b"/>
+        <!-- 여권 표지 -->
+        <rect x="10" y="6" width="128" height="184" rx="10" fill="#2c5f86"/>
+        <rect x="10" y="6" width="128" height="184" rx="10" fill="none" stroke="#4a82ab" stroke-width="1.5"/>
+        <!-- 상단 문구 -->
+        <rect x="34" y="30" width="80" height="6" rx="3" fill="#d4b96a"/>
+        <!-- 문장 -->
+        <circle cx="74" cy="86" r="27" fill="none" stroke="#d4b96a" stroke-width="2.5"/>
+        <path d="M74,64 a22,22 0 0,1 0,44 a11,11 0 0,1 0,-22 a11,11 0 0,0 0,-22" fill="#d4b96a"/>
+        <circle cx="74" cy="75" r="5.5" fill="#2c5f86"/>
+        <circle cx="74" cy="97" r="5.5" fill="#d4b96a"/>
+        <!-- 하단 문구 -->
+        <rect x="40" y="134" width="68" height="5" rx="2.5" fill="#d4b96a"/>
+        <rect x="50" y="148" width="48" height="4" rx="2" fill="#8fb0c9"/>
+        <!-- IC 칩 -->
+        <rect x="62" y="166" width="24" height="16" rx="3" fill="none" stroke="#d4b96a" stroke-width="2"/>
+        <line x1="62" y1="174" x2="86" y2="174" stroke="#d4b96a" stroke-width="2"/>
+      </svg>
+    </div>
+
+    <div class="right">
+      <div class="rule">
+        <div class="t">대부분의 나라가 "잔여 유효기간 6개월"을 요구합니다</div>
+        <p>입국일 기준입니다. 9월 24일에 나간다면 여권 만료일이 <b>2027년 3월 24일</b>보다 빠르면 안 됩니다.</p>
+      </div>
+
+      <div class="tl">
+        <div class="plab">2027년 3월 24일</div>
+        <div class="bar"><div class="bad"></div><div class="good"></div></div>
+        <div class="pindot"></div>
+        <div class="pin"></div>
+        <div class="cap l">이 안에 만료 → 갱신</div>
+        <div class="cap r">이 뒤에 만료 → 그대로 OK</div>
+      </div>
+
+      <div class="facts">
+        <div class="f"><div class="k">발급 소요</div><div class="v">7~10일</div></div>
+        <div class="f"><div class="k">10년 복수 (58면)</div><div class="v">53,000<small>원</small></div></div>
+        <div class="f"><div class="k">잔여기간 재발급</div><div class="v">25,000<small>원</small></div></div>
+      </div>
+    </div>
+  </div>
+</div>

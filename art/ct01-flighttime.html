@@ -1,0 +1,91 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .chart { position: relative; background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+           padding: 20px 24px 16px; }
+
+  .guide { position: absolute; top: 14px; bottom: 42px; left: 434px; width: 0;
+           border-left: 2px dashed #e08a3c; }
+  .gtag { position: absolute; top: 6px; left: 440px; font-size: 11.5px; font-weight: 700;
+          color: #b9741a; background: #fff3e2; border: 1px solid #f0dfc4;
+          padding: 3px 8px; border-radius: 12px; }
+
+  .row { display: flex; align-items: center; height: 40px; position: relative; z-index: 2; }
+  .city { width: 130px; font-size: 14px; font-weight: 700; flex-shrink: 0; }
+  .city em { font-style: normal; font-size: 11.5px; color: #9098a2; font-weight: 500; margin-left: 4px; }
+  .track { flex: 1; position: relative; height: 22px; }
+  .bar { position: absolute; left: 0; top: 0; height: 22px; border-radius: 5px; }
+  .bar.ok   { background: linear-gradient(90deg,#3fae7c,#2f9e6e); }
+  .bar.mid  { background: linear-gradient(90deg,#57a8d8,#3f8fc4); }
+  .bar.far  { background: linear-gradient(90deg,#e5a45c,#d4832f); }
+  .t { position: absolute; top: 2px; font-size: 12.5px; font-weight: 700; color: #45505c; }
+
+  .axis { display: flex; margin-top: 8px; padding-left: 130px; border-top: 1px solid #e2e6ea; padding-top: 6px; }
+  .axis div { font-size: 11px; color: #9098a2; }
+
+  .note { display: flex; gap: 10px; margin-top: 14px; }
+  .n { flex: 1; border-radius: 9px; padding: 12px 14px; font-size: 13px; line-height: 1.65; }
+  .n.g { background: #eef9f3; border: 1px solid #a9dcc4; }
+  .n.o { background: #fdf3e7; border: 1px solid #f0dfc4; }
+  .n b { display: block; font-size: 13.5px; margin-bottom: 3px; }
+  .n.g b { color: #23805a; } .n.o b { color: #b9741a; }
+  .n span { color: #55606c; }
+</style>
+
+<div id="art">
+  <h1>4일 연휴, 어디까지 다녀올 수 있나</h1>
+  <p class="sub">인천공항 출발 직항 기준 · 편도 소요시간 (대략)</p>
+
+  <div class="chart">
+    <div class="guide"></div>
+    <div class="gtag">3시간</div>
+
+    <div class="row">
+      <div class="city">후쿠오카<em>일본</em></div>
+      <div class="track"><div class="bar ok" style="width:115px"></div><div class="t" style="left:125px">1시간 20분</div></div>
+    </div>
+    <div class="row">
+      <div class="city">오사카<em>일본</em></div>
+      <div class="track"><div class="bar ok" style="width:152px"></div><div class="t" style="left:162px">1시간 45분</div></div>
+    </div>
+    <div class="row">
+      <div class="city">상하이<em>중국</em></div>
+      <div class="track"><div class="bar ok" style="width:173px"></div><div class="t" style="left:183px">2시간</div></div>
+    </div>
+    <div class="row">
+      <div class="city">도쿄<em>일본</em></div>
+      <div class="track"><div class="bar ok" style="width:217px"></div><div class="t" style="left:227px">2시간 30분</div></div>
+    </div>
+    <div class="row">
+      <div class="city">오키나와<em>일본</em></div>
+      <div class="track"><div class="bar mid" style="width:217px"></div><div class="t" style="left:227px">2시간 30분</div></div>
+    </div>
+    <div class="row">
+      <div class="city">다낭<em>베트남</em></div>
+      <div class="track"><div class="bar far" style="width:419px"></div><div class="t" style="left:429px">4시간 50분</div></div>
+    </div>
+    <div class="row">
+      <div class="city">방콕<em>태국</em></div>
+      <div class="track"><div class="bar far" style="width:505px"></div><div class="t" style="left:515px">5시간 50분</div></div>
+    </div>
+
+    <div class="axis">
+      <div style="width:87px">0</div><div style="width:87px">1시간</div><div style="width:87px">2시간</div>
+      <div style="width:87px">3시간</div><div style="width:87px">4시간</div><div style="width:87px">5시간</div><div>6시간</div>
+    </div>
+  </div>
+
+  <div class="note">
+    <div class="n g"><b>3시간 안쪽이면 편합니다</b><span>가는 날 반나절만 쓰면 됩니다. 3박 4일이 온전히 남아요</span></div>
+    <div class="n o"><b>5시간 넘어가면 빠듯해요</b><span>오가는 데만 이틀이 날아갑니다. 4일 일정엔 무리가 옵니다</span></div>
+  </div>
+</div>
