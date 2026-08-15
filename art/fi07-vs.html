@@ -1,0 +1,79 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .chart { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+           padding: 22px 26px 16px; display: flex; align-items: flex-end; gap: 30px; height: 350px; }
+  .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .val { font-size: 21px; font-weight: 800; letter-spacing: -0.7px; margin-bottom: 3px; }
+  .cum { font-size: 12px; font-weight: 700; color: #8a929c; margin-bottom: 8px; }
+  .bar { width: 100%; border-radius: 9px 9px 0 0; position: relative; }
+  .lab { height: 58px; padding-top: 11px; text-align: center; }
+  .lab .n { font-size: 14.5px; font-weight: 800; }
+  .lab .c { font-size: 12px; color: #8a929c; margin-top: 3px; }
+
+  .c1 .bar { background: linear-gradient(180deg,#9fb6cc,#7d99b3); } .c1 .val { color: #4a6d8f; }
+  .c2 .bar { background: linear-gradient(180deg,#6cc39b,#3fae7c); } .c2 .val { color: #23805a; }
+  .c3 .bar { background: linear-gradient(180deg,#3fae7c,#1d7050); } .c3 .val { color: #1d7050; }
+  .c3 .bar::after { content: ''; position: absolute; left: 0; right: 0; top: 0; height: 96px;
+    background: repeating-linear-gradient(45deg,rgba(255,255,255,.28),rgba(255,255,255,.28) 6px,transparent 6px,transparent 12px);
+    border-radius: 9px 9px 0 0; }
+  .fxtag { position: absolute; top: 34px; left: 50%; transform: translateX(-50%);
+    background: #fff; color: #1d7050; font-size: 12px; font-weight: 800;
+    padding: 5px 11px; border-radius: 13px; border: 2px solid #1d7050; white-space: nowrap; }
+
+  .fx { margin-top: 15px; background: linear-gradient(160deg,#eef9f3,#d6f0e3);
+        border: 1px solid #a9dcc4; border-radius: 10px; padding: 14px 20px;
+        display: flex; align-items: center; gap: 18px; }
+  .fx .big { font-size: 15px; font-weight: 800; color: #1d7050; white-space: nowrap; }
+  .fx p { font-size: 13px; line-height: 1.65; color: #4a5561; }
+  .fx p b { color: #1b1b1b; }
+
+  .src { margin-top: 11px; font-size: 11.5px; color: #9098a2; line-height: 1.6; }
+</style>
+
+<div id="art">
+  <h1>같은 20년에 1억을 넣었다면</h1>
+  <p class="sub">2006년 8월부터 2026년 8월까지 · 배당과 분배금은 다시 넣었다고 봤을 때</p>
+
+  <div class="chart">
+    <div class="col c1">
+      <div class="val">5억 2,000만원</div>
+      <div class="cum">누적 419%</div>
+      <div class="bar" style="height:110px"></div>
+      <div class="lab"><div class="n">서울 아파트</div><div class="c">연 8.6%</div></div>
+    </div>
+
+    <div class="col c2">
+      <div class="val">6억 1,000만원</div>
+      <div class="cum">누적 512%</div>
+      <div class="bar" style="height:129px"></div>
+      <div class="lab"><div class="n">미국 S&amp;P500</div><div class="c">연 9.5% · 달러 기준</div></div>
+    </div>
+
+    <div class="col c3">
+      <div class="val">9억 4,000만원</div>
+      <div class="cum">누적 841%</div>
+      <div class="bar" style="height:199px"><div class="fxtag">환율이 보탠 몫</div></div>
+      <div class="lab"><div class="n">미국 S&amp;P500</div><div class="c">연 11.9% · 원화로 환산</div></div>
+    </div>
+  </div>
+
+  <div class="fx">
+    <div class="big">929.8원 → 1,429.8원</div>
+    <p>20년 동안 원달러 환율이 <b>1.5배</b>가 됐습니다. 달러 자산은 가만히 있어도 원화로 바꿀 때 그만큼 불어난 셈이에요.
+      해마다 <b>2.2%p</b>씩 얹어준 꼴입니다</p>
+  </div>
+
+  <p class="src">※ 서울 아파트는 매매가격지수 20년 누적 상승률, S&amp;P500은 배당 재투자 기준입니다.
+    아파트는 단지와 지역에 따라 편차가 매우 크고 대출을 낀 경우는 계산이 완전히 달라집니다<br />
+    ※ 지난 20년이 그랬다는 기록일 뿐 앞으로도 같으리라는 뜻이 아닙니다. 환율은 반대로 움직일 수도 있습니다</p>
+</div>

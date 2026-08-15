@@ -1,0 +1,104 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .two { display: flex; gap: 12px; margin-bottom: 14px; }
+  .c { flex: 1; border: 1px solid #e2e6ea; border-radius: 12px; overflow: hidden; }
+  .hd { padding: 13px 18px; display: flex; align-items: center; gap: 11px; }
+  .h1 .hd { background: linear-gradient(160deg,#eef4fb,#d9e7f5); }
+  .h2 .hd { background: linear-gradient(160deg,#eef9f3,#d3f0e1); }
+  .hd .t { font-size: 16px; font-weight: 800; letter-spacing: -0.3px; }
+  .h1 .hd .t { color: #1f4a7a; } .h2 .hd .t { color: #1d7050; }
+
+  .bd { padding: 14px 18px 16px; }
+  .sec { font-size: 11.5px; font-weight: 800; margin-bottom: 7px; letter-spacing: .2px; }
+  .sec.g { color: #23805a; } .sec.r { color: #b8463a; }
+  ul { list-style: none; margin-bottom: 13px; }
+  ul:last-child { margin-bottom: 0; }
+  li { font-size: 13px; line-height: 1.6; color: #4a5561; padding-left: 17px;
+       position: relative; margin-bottom: 6px; }
+  li b { color: #1b1b1b; }
+  li::before { position: absolute; left: 0; font-weight: 800; }
+  .good li::before { content: '+'; color: #2f9e6e; }
+  .bad li::before { content: '−'; color: #cf4f43; }
+
+  .lev { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 20px;
+         display: flex; align-items: center; gap: 18px; }
+  .lev .tag { background: #ffd97a; color: #1b1b1b; font-size: 12.5px; font-weight: 800;
+              padding: 6px 13px; border-radius: 14px; white-space: nowrap; flex-shrink: 0; }
+  .lev p { font-size: 13.5px; line-height: 1.7; color: #d8dee4; }
+  .lev p b { color: #ffd97a; }
+</style>
+
+<div id="art">
+  <h1>그래도 한쪽이 정답은 아닙니다</h1>
+  <p class="sub">숫자만 보면 안 되는 이유가 양쪽 다 있어요</p>
+
+  <div class="two">
+    <div class="c h1">
+      <div class="hd">
+        <svg width="34" height="34" viewBox="0 0 34 34">
+          <path d="M4,16 L17,5 L30,16 L30,29 Q30,31 28,31 L6,31 Q4,31 4,29 Z" fill="#7d99b3"/>
+          <path d="M2,16.5 L17,4 L32,16.5" fill="none" stroke="#4a6d8f" stroke-width="2.5" stroke-linecap="round"/>
+          <rect x="13" y="20" width="8" height="11" rx="1.5" fill="#e3edf5"/>
+          <rect x="7" y="19" width="5" height="5" rx="1" fill="#cfe0f0"/>
+          <rect x="22" y="19" width="5" height="5" rx="1" fill="#cfe0f0"/>
+        </svg>
+        <div class="t">부동산</div>
+      </div>
+      <div class="bd">
+        <div class="sec g">이건 부동산이 셉니다</div>
+        <ul class="good">
+          <li><b>대출을 끼고 살 수 있습니다.</b> 내 돈 1억으로 3억짜리를 잡습니다</li>
+          <li>살면서 <b>월세를 안 냅니다.</b> 이것도 수익입니다</li>
+          <li>쉽게 못 파니까 <b>강제로 모아집니다</b></li>
+        </ul>
+        <div class="sec r">대신 이런 게 있어요</div>
+        <ul class="bad">
+          <li>지역과 단지에 따라 편차가 <b>아주 큽니다</b></li>
+          <li>취득세와 보유세, 중개수수료가 붙고 <b>급할 때 안 팔립니다</b></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="c h2">
+      <div class="hd">
+        <svg width="34" height="34" viewBox="0 0 34 34">
+          <rect x="3" y="4" width="28" height="26" rx="4" fill="#c9ead9"/>
+          <path d="M7,24 L13,17 L18,21 L27,10" fill="none" stroke="#1d7050" stroke-width="2.8"
+                stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M22,10 h5 v5" fill="none" stroke="#1d7050" stroke-width="2.8"
+                stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div class="t">미국 지수</div>
+      </div>
+      <div class="bd">
+        <div class="sec g">이건 주식이 셉니다</div>
+        <ul class="good">
+          <li><b>몇만원부터 시작</b>합니다. 목돈이 없어도 됩니다</li>
+          <li>필요한 만큼만 <b>쪼개서 팔 수 있습니다</b></li>
+          <li>달러 자산이라 <b>원화가 약해질 때 방어</b>가 됩니다</li>
+        </ul>
+        <div class="sec r">대신 이런 게 있어요</div>
+        <ul class="bad">
+          <li>반토막이 나는 해도 있습니다. <b>버티는 게 전부</b>예요</li>
+          <li>환율이 <b>반대로 갈 수도</b> 있고 해외주식 양도세가 22%입니다</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="lev">
+    <div class="tag">꼭 짚을 것</div>
+    <p>앞 그래프는 <b>둘 다 현금 1억을 넣었다고 본 숫자</b>입니다. 실제로 집은 대출을 끼고 사니까
+      내 돈 대비 수익률은 훨씬 커집니다. 대신 그만큼 <b>이자를 내고 위험도 같이 커집니다</b></p>
+  </div>
+</div>
