@@ -7,7 +7,7 @@
 검색 유입이 목적이므로 무슨 주제든 좋다. 이미지도 앱 화면일 필요가 없다 —
 `art/*.html` → `node make-art.cjs` 로 직접 그려 올린다.
 
-## 발행 완료
+## 원고 현황
 
 | 날짜 | 제목 | 원고 | 링크 |
 |---|---|---|---|
@@ -15,13 +15,33 @@
 | 2026-08-09 | 해외주식 양도소득세 250만원 공제. 12월에 언제까지 팔아야 하는지 결제일 기준 정리 | [posts/2026-08-09-capital-gains-tax.txt](posts/2026-08-09-capital-gains-tax.txt) | [/91](https://heelovee.tistory.com/91) |
 | 2026-08-10 | 여름 전기요금 누진세 구간. 450kWh 넘기면 안 되는 이유와 9월 고지서 함정 | [posts/2026-08-10-summer-electricity-tier.txt](posts/2026-08-10-summer-electricity-tier.txt) | [/92](https://heelovee.tistory.com/92) |
 | 2026-08-10 | 부부 공동 자산관리 방법. 해외주식 양도세 공제 500만원 받는 법과 같이 쓰는 자산 장부 | [posts/2026-08-10-couple-asset-ledger.txt](posts/2026-08-10-couple-asset-ledger.txt) | [/93](https://heelovee.tistory.com/93) |
+| 2026-08-11 | 에너지캐시백 신청방법. 1%만 아껴도 받는 2026 하반기 전기요금 혜택 총정리 | [posts/2026-08-11-energy-cashback.txt](posts/2026-08-11-energy-cashback.txt) | 발행 대기 |
+| 2026-08-11 | 2026 추석 연휴 며칠. 대체공휴일 없는 이유와 연차 3일로 9일 쉬는 법 | [posts/2026-08-11-chuseok-holiday.txt](posts/2026-08-11-chuseok-holiday.txt) | 발행 대기 |
 | 2026-08-12 | 에어컨 전기요금 계산법. 하루 8시간 틀면 전기세 얼마? 인버터 vs 정속형 | [posts/2026-08-12-aircon-electricity.txt](posts/2026-08-12-aircon-electricity.txt) | 발행 대기 |
 | 2026-08-12 | 벌초 시기 2026. 언제 하는 게 좋을까? 대행 비용과 성묘 차이, 안전수칙까지 | [posts/2026-08-12-beolcho-guide.txt](posts/2026-08-12-beolcho-guide.txt) | 발행 대기 |
+| 2026-08-13 | 하영 증조부 안상호, 어떤 인물? 친일 행적과 친일인명사전 누락 이유 | [posts/2026-08-13-ansangho.txt](posts/2026-08-13-ansangho.txt) | 발행 대기 |
+| 2026-08-13 | 추석 차례상 차리는 법. 성균관 간소화 표준안 9가지 음식과 2026 비용 | [posts/2026-08-13-charye-table.txt](posts/2026-08-13-charye-table.txt) | 발행 대기 |
+| 2026-08-14 | 태극기 다는 법. 광복절 게양 시간·위치와 거꾸로 구별법 (건곤감리 의미) | [posts/2026-08-14-taegeukgi.txt](posts/2026-08-14-taegeukgi.txt) | 발행 대기 |
+| 2026-08-14 | 2026 추석 KTX·SRT 예매. 예매일·방법과 취소표 잡는 법 (환불 수수료까지) | [posts/2026-08-14-train-ticket.txt](posts/2026-08-14-train-ticket.txt) | 발행 대기 |
+| 2026-08-15 | 2026 추석 연휴 해외여행 어디로? 4일 코스 추천과 지금 안 하면 늦는 것 3가지 | [posts/2026-08-15-chuseok-trip.txt](posts/2026-08-15-chuseok-trip.txt) | 발행 대기 |
+
+> **원고가 9편 밀려 있습니다.** 새 글보다 발행이 먼저입니다.
 
 - 첫 글은 제목이 원고와 다르다(발행 시 옛 제목 유지). 검색어를 더 담으려면 원고 제목으로 바꿔도 좋다
 - 양도소득세 글의 세율·공제·신고기한은 2026-08 기준으로 웹 확인함
 
-## 원고 완성 · 발행 대기
+## 발행 대기 원고 메모
+
+작업하며 남긴 배경·주의사항이다. 전체 목록은 위 표에 있다.
+
+### 0. 2026 추석 연휴 해외여행 어디로? 4일 코스 추천과 지금 안 하면 늦는 것 3가지
+- **원고**: [posts/2026-08-15-chuseok-trip.txt](posts/2026-08-15-chuseok-trip.txt)
+- **왜 지금**: 출발 40일 전. 인천공항 주차 예약(45일 전 오픈)이 8/10에 이미 열려서 "지금"이 훅이 된다
+- **이미지**: `ct01-flighttime` `ct02-where` `ct03-passport` `ct04-ticket` `ct05-parking` `ct06-checklist` (6장 · 신규 도식) + 썸네일 `tc-chuseok-trip`
+- **훅**: 연휴가 4일뿐이라 갈 수 있는 곳이 좁다 + 여권 6개월 규정(2027-03-24) + 주차 예약이 이미 열림
+- **여행 카테고리 첫 글.** 앞선 12편에 여행이 하나도 없었다
+- 추석 연휴 글 발행 후 "연차 붙이는 법" 문장에 내부 링크를 걸 것. 두 글이 서로 끌어준다
+- 인천공항 추석 여객 예상 인원은 발표 전이라 안 썼다. 여름 성수기 수치를 갖다 쓰면 틀린다
 
 ### 1. 에너지캐시백 신청방법. 1%만 아껴도 받는 2026 하반기 전기요금 혜택 총정리
 - **원고**: [posts/2026-08-11-energy-cashback.txt](posts/2026-08-11-energy-cashback.txt)
