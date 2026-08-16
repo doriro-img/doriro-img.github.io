@@ -1,0 +1,82 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .wave { background: linear-gradient(160deg,#eef4fb,#dce9f6); border: 1px solid #cfe0f0;
+          border-radius: 12px; padding: 18px 22px 14px; margin-bottom: 16px; }
+  .wl { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+  .wl .t { font-size: 14px; font-weight: 800; color: #1f4a7a; }
+  .wl .n { font-size: 12.5px; color: #5a7391; font-weight: 600; }
+  .cnt { display: flex; justify-content: space-around; margin-top: 8px; }
+  .cnt div { font-size: 12px; font-weight: 800; color: #2f6fb0; }
+
+  .steps { display: flex; gap: 10px; }
+  .s { flex: 1; border: 1px solid #e2e6ea; border-radius: 11px; padding: 14px 15px; background: #fafbfc; }
+  .s .num { display: inline-block; width: 22px; height: 22px; border-radius: 50%; background: #2f6fb0;
+            color: #fff; font-size: 12.5px; font-weight: 800; text-align: center; line-height: 22px;
+            margin-bottom: 8px; }
+  .s .t { font-size: 14px; font-weight: 800; margin-bottom: 4px; letter-spacing: -0.3px; }
+  .s p { font-size: 12.5px; line-height: 1.6; color: #5a6672; }
+  .s p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>자고 있을 때 가슴을 세면 됩니다</h1>
+  <p class="sub">병원 안 가고 집에서 할 수 있는 유일한 확인 방법이에요</p>
+
+  <div class="wave">
+    <div class="wl">
+      <div class="t">가슴이 올라갔다 내려오는 한 번 = 1회</div>
+      <div class="n">60초 동안 몇 번인지 셉니다</div>
+    </div>
+
+    <svg width="792" height="96" viewBox="0 0 760 96">
+      <line x1="0" y1="74" x2="760" y2="74" stroke="#b9cde0" stroke-width="2"/>
+      <path d="M0,74 Q26,20 52,74 T104,74 T156,74 T208,74 T260,74 T312,74 T364,74 T416,74
+               T468,74 T520,74 T572,74 T624,74 T676,74 T728,74"
+            fill="none" stroke="#2f6fb0" stroke-width="4" stroke-linecap="round"/>
+      <g fill="#1f4a7a">
+        <circle cx="26" cy="34" r="4"/><circle cx="78" cy="34" r="4"/><circle cx="130" cy="34" r="4"/>
+        <circle cx="182" cy="34" r="4"/><circle cx="234" cy="34" r="4"/>
+      </g>
+      <g font-size="12" font-weight="800" fill="#1f4a7a" font-family="Pretendard, Malgun Gothic, sans-serif">
+        <text x="26" y="22" text-anchor="middle">1</text><text x="78" y="22" text-anchor="middle">2</text>
+        <text x="130" y="22" text-anchor="middle">3</text><text x="182" y="22" text-anchor="middle">4</text>
+        <text x="234" y="22" text-anchor="middle">5</text>
+      </g>
+      <text x="330" y="26" font-size="13" font-weight="700" fill="#7b93ad"
+            font-family="Pretendard, Malgun Gothic, sans-serif">이렇게 60초까지</text>
+    </svg>
+  </div>
+
+  <div class="steps">
+    <div class="s">
+      <div class="num">1</div>
+      <div class="t">푹 자고 있을 때</div>
+      <p>깨어 있거나 놀고 난 직후는 <b>안 됩니다.</b> 숨이 원래 빨라져 있어요</p>
+    </div>
+    <div class="s">
+      <div class="num">2</div>
+      <div class="t">타이머 60초</div>
+      <p>휴대폰 타이머를 맞춰두고 <b>가슴이 오르내리는</b> 횟수만 셉니다</p>
+    </div>
+    <div class="s">
+      <div class="num">3</div>
+      <div class="t">더울 땐 다시</div>
+      <p>방이 덥거나 헐떡이면 <b>시원한 데서</b> 다시 재는 게 정확해요</p>
+    </div>
+    <div class="s">
+      <div class="num">4</div>
+      <div class="t">적어둡니다</div>
+      <p>평소 숫자를 알아야 <b>올라간 걸</b> 압니다. 주 1~2회면 충분해요</p>
+    </div>
+  </div>
+</div>

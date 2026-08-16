@@ -1,0 +1,77 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+
+  .g { position: relative; height: 150px; margin-bottom: 18px; }
+  .bar { position: absolute; top: 44px; left: 0; right: 0; height: 46px; border-radius: 10px;
+         overflow: hidden; display: flex; }
+  .z { display: flex; align-items: center; justify-content: center;
+       font-size: 15px; font-weight: 800; color: #fff; }
+  .z1 { width: 42%; background: linear-gradient(90deg,#4fae83,#3fa478); }
+  .z2 { width: 18%; background: linear-gradient(90deg,#e5b45c,#dda13f); }
+  .z3 { width: 40%; background: linear-gradient(90deg,#d4675c,#c14a3e); }
+
+  .tick { position: absolute; top: 30px; width: 3px; height: 74px; background: #1b1b1b; border-radius: 2px; }
+  .tl { position: absolute; top: 4px; font-size: 13px; font-weight: 800; white-space: nowrap;
+        transform: translateX(-50%); }
+  .tn { position: absolute; top: 98px; font-size: 12.5px; color: #7b848f; font-weight: 700;
+        white-space: nowrap; transform: translateX(-50%); }
+
+  .zl { position: absolute; top: 122px; font-size: 12.5px; font-weight: 700; transform: translateX(-50%); }
+
+  .cards { display: flex; gap: 11px; }
+  .c { flex: 1; border-radius: 11px; padding: 14px 17px; }
+  .ok { background: #eef9f3; border: 1px solid #a9dcc4; }
+  .mid { background: #fdf6e9; border: 1px solid #f0dfc4; }
+  .bad { background: #fdf2f1; border: 1px solid #f0b8b1; }
+  .c .n { font-size: 21px; font-weight: 800; letter-spacing: -0.7px; margin-bottom: 4px; }
+  .ok .n { color: #1d7050; } .mid .n { color: #b9741a; } .bad .n { color: #b8463a; }
+  .c .t { font-size: 13.5px; font-weight: 800; margin-bottom: 5px; }
+  .c p { font-size: 12.5px; line-height: 1.65; color: #4a5561; }
+  .c p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>30회가 기준선입니다</h1>
+  <p class="sub">잠든 상태에서 1분 동안 센 숫자예요</p>
+
+  <div class="g">
+    <div class="bar">
+      <div class="z z1">15 ~ 25회</div>
+      <div class="z z2">26 ~ 29회</div>
+      <div class="z z3">30회 넘음</div>
+    </div>
+    <div class="tick" style="left:60%"></div>
+    <div class="tl" style="left:60%">30회</div>
+    <div class="tn" style="left:60%">여기부터 병원</div>
+    <div class="zl" style="left:21%; color:#1d7050">편히 자는 정상 범위</div>
+    <div class="zl" style="left:51%; color:#b9741a">며칠 더 지켜보기</div>
+    <div class="zl" style="left:80%; color:#b8463a">바로 진료</div>
+  </div>
+
+  <div class="cards">
+    <div class="c ok">
+      <div class="n">15~25회</div>
+      <div class="t">정상입니다</div>
+      <p>이 범위면 걱정 안 하셔도 돼요. 다만 <b>평소 숫자를 기억</b>해두세요</p>
+    </div>
+    <div class="c mid">
+      <div class="t" style="margin-top:2px">숫자가 올라가는 중이면</div>
+      <p>어제는 20회였는데 오늘 27회처럼 <b>계속 올라가는 흐름</b>이면 그것도 신호입니다.
+        기록해뒀다가 검진 때 보여주세요</p>
+    </div>
+    <div class="c bad">
+      <div class="n">30회 초과</div>
+      <div class="t">진료를 받아보세요</div>
+      <p>잠든 상태에서 이 숫자가 나오면 <b>폐에 물이 차는 상황</b>을 의심합니다. 미루지 마세요</p>
+    </div>
+  </div>
+</div>

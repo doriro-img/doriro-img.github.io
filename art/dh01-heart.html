@@ -1,0 +1,91 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .two { display: flex; gap: 14px; margin-bottom: 15px; }
+  .p { flex: 1; border-radius: 12px; overflow: hidden; border: 1px solid; }
+  .pa { border-color: #a9dcc4; } .pb { border-color: #f0b8b1; }
+  .ph { padding: 11px 18px; font-size: 14.5px; font-weight: 800; color: #fff; }
+  .pa .ph { background: #2f9e6e; } .pb .ph { background: #cf4f43; }
+  .pv { padding: 16px; display: flex; align-items: center; justify-content: center; }
+  .pa .pv { background: #f4fbf7; } .pb .pv { background: #fdf3f1; }
+  .pt { padding: 12px 18px 15px; font-size: 13px; line-height: 1.7; color: #4a5561; }
+  .pa .pt { background: #f4fbf7; } .pb .pt { background: #fdf3f1; }
+  .pt b { color: #1b1b1b; }
+
+  .note { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+          padding: 14px 20px; font-size: 13.5px; line-height: 1.75; color: #4a5561; }
+  .note b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>승모판이 안 닫히면 피가 거꾸로 샙니다</h1>
+  <p class="sub">킹찰스에게 가장 흔한 유전 질환이에요</p>
+
+  <div class="two">
+
+    <div class="p pa">
+      <div class="ph">정상</div>
+      <div class="pv">
+        <svg width="240" height="180" viewBox="0 0 240 180">
+          <!-- 좌심방 -->
+          <rect x="58" y="14" width="124" height="52" rx="12" fill="#cfe6da" stroke="#4faa84" stroke-width="2.5"/>
+          <text x="120" y="45" text-anchor="middle" font-size="14" font-weight="700" fill="#1d7050"
+                font-family="Pretendard, Malgun Gothic, sans-serif">좌심방</text>
+          <!-- 판막 (닫힘) -->
+          <path d="M78,72 L120,86 L162,72" fill="none" stroke="#2f9e6e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+          <!-- 좌심실 -->
+          <path d="M62,92 L178,92 Q186,92 184,102 L150,158 Q146,166 136,166 L104,166 Q94,166 90,158 L56,102 Q54,92 62,92 Z"
+                fill="#cfe6da" stroke="#4faa84" stroke-width="2.5"/>
+          <text x="120" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#1d7050"
+                font-family="Pretendard, Malgun Gothic, sans-serif">좌심실</text>
+          <!-- 정상 혈류 화살표 (아래로) -->
+          <path d="M206,60 L206,120" stroke="#2f9e6e" stroke-width="6" stroke-linecap="round"/>
+          <path d="M198,110 L206,122 L214,110" stroke="#2f9e6e" stroke-width="6" fill="none"
+                stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div class="pt">판막이 <b>꽉 닫혀서</b> 피가 한 방향으로만 흐릅니다</div>
+    </div>
+
+    <div class="p pb">
+      <div class="ph">승모판막질환</div>
+      <div class="pv">
+        <svg width="240" height="180" viewBox="0 0 240 180">
+          <rect x="58" y="14" width="124" height="52" rx="12" fill="#f6d5d0" stroke="#d4675c" stroke-width="2.5"/>
+          <text x="120" y="45" text-anchor="middle" font-size="14" font-weight="700" fill="#b8463a"
+                font-family="Pretendard, Malgun Gothic, sans-serif">좌심방</text>
+          <!-- 판막 (벌어짐) -->
+          <path d="M78,72 L108,88" fill="none" stroke="#cf4f43" stroke-width="7" stroke-linecap="round"/>
+          <path d="M162,72 L132,88" fill="none" stroke="#cf4f43" stroke-width="7" stroke-linecap="round"/>
+          <!-- 틈 표시 -->
+          <circle cx="120" cy="88" r="14" fill="none" stroke="#cf4f43" stroke-width="2.5" stroke-dasharray="4 4"/>
+          <path d="M62,92 L178,92 Q186,92 184,102 L150,158 Q146,166 136,166 L104,166 Q94,166 90,158 L56,102 Q54,92 62,92 Z"
+                fill="#f6d5d0" stroke="#d4675c" stroke-width="2.5"/>
+          <text x="120" y="128" text-anchor="middle" font-size="14" font-weight="700" fill="#b8463a"
+                font-family="Pretendard, Malgun Gothic, sans-serif">좌심실</text>
+          <!-- 역류 화살표 (위로) -->
+          <path d="M206,120 L206,60" stroke="#cf4f43" stroke-width="6" stroke-linecap="round"/>
+          <path d="M198,70 L206,58 L214,70" stroke="#cf4f43" stroke-width="6" fill="none"
+                stroke-linecap="round" stroke-linejoin="round"/>
+          <text x="206" y="145" text-anchor="middle" font-size="12.5" font-weight="800" fill="#cf4f43"
+                font-family="Pretendard, Malgun Gothic, sans-serif">역류</text>
+        </svg>
+      </div>
+      <div class="pt">틈으로 피가 <b>거꾸로 새면서</b> 심장에 부담이 쌓입니다</div>
+    </div>
+
+  </div>
+
+  <div class="note">역류가 오래되면 심장이 커지고 <b>폐에 물이 차는 단계</b>로 갑니다.
+    문제는 초기에는 겉으로 아무렇지도 않다는 거예요.
+    그래서 <b>증상이 아니라 숫자로 확인하는 방법</b>이 따로 있습니다</div>
+</div>

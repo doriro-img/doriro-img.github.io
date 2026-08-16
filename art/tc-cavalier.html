@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#fdf0f2,#f6d5dc);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #5c2430;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #c1445c; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 56px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #c1445c; }
+  .sub { margin-top: 28px; font-size: 25px; color: #96566a; font-weight: 600; }
+  .sub b { color: #1d7050; }
+  .ill { position: absolute; top: 82px; right: 44px;
+    filter: drop-shadow(0 14px 26px rgba(120,30,50,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #b98a97; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="320" height="260" viewBox="0 0 320 260">
+      <!-- 하트 -->
+      <path d="M150,232 C90,190 40,152 40,106 A46,46 0 0,1 126,80 A46,46 0 0,1 212,106
+               C212,152 162,190 150,232 Z" fill="#fff"/>
+      <path d="M150,232 C90,190 40,152 40,106 A46,46 0 0,1 126,80 A46,46 0 0,1 212,106
+               C212,152 162,190 150,232 Z" fill="none" stroke="#c1445c" stroke-width="7"/>
+
+      <!-- 심전도 파형 -->
+      <path d="M62,140 L92,140 L106,110 L122,168 L140,128 L156,140 L192,140"
+            fill="none" stroke="#c1445c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <!-- 호흡 게이지 배지 -->
+      <g>
+        <rect x="196" y="176" width="118" height="46" rx="23" fill="#2f7d5c"/>
+        <text x="255" y="206" text-anchor="middle" font-size="24" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">30회</text>
+      </g>
+      <!-- 작은 파형 -->
+      <path d="M212,58 q14,-26 28,0 t28,0 t28,0" fill="none" stroke="#e0a6b4"
+            stroke-width="6" stroke-linecap="round"/>
+    </svg>
+  </div>
+
+  <div class="tag">킹찰스 스패니얼</div>
+  <h1>심장병,<br /><span class="hl">집에서 아는 법</span></h1>
+  <p class="sub">자는 동안 <b>호흡수 30회</b>가 기준</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
