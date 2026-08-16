@@ -1,0 +1,68 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eaf2fa,#c9dcf0);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #14304f;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #1f4a7a; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 58px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #1f4a7a; }
+  .sub { margin-top: 28px; font-size: 25px; color: #4d6d92; font-weight: 600; }
+  .sub b { color: #1d7050; }
+  .ill { position: absolute; top: 84px; right: 42px;
+    filter: drop-shadow(0 14px 26px rgba(20,55,95,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #8ba5c1; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="330" height="250" viewBox="0 0 330 250">
+      <!-- 시계 -->
+      <circle cx="92" cy="94" r="62" fill="#fff"/>
+      <circle cx="92" cy="94" r="62" fill="none" stroke="#4f8fc0" stroke-width="7"/>
+      <g stroke="#9fbdd8" stroke-width="4" stroke-linecap="round">
+        <line x1="92" y1="44" x2="92" y2="54"/><line x1="92" y1="134" x2="92" y2="144"/>
+        <line x1="42" y1="94" x2="52" y2="94"/><line x1="132" y1="94" x2="142" y2="94"/>
+      </g>
+      <line x1="92" y1="94" x2="92" y2="58" stroke="#1f4a7a" stroke-width="6" stroke-linecap="round"/>
+      <line x1="92" y1="94" x2="120" y2="112" stroke="#1f4a7a" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="92" cy="94" r="6" fill="#1f4a7a"/>
+
+      <!-- 3시간 배지 -->
+      <g>
+        <rect x="42" y="164" width="100" height="38" rx="19" fill="#cf4f43"/>
+        <text x="92" y="190" text-anchor="middle" font-size="22" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">왕복 3시간</text>
+      </g>
+
+      <!-- 화살표 -->
+      <path d="M164,120 L204,120" stroke="#4f8fc0" stroke-width="7" stroke-linecap="round"/>
+      <path d="M194,110 L206,120 L194,130" stroke="#4f8fc0" stroke-width="7" fill="none"
+            stroke-linecap="round" stroke-linejoin="round"/>
+
+      <!-- 봉투 + 돈 -->
+      <g>
+        <rect x="216" y="72" width="104" height="72" rx="8" fill="#fff" stroke="#2f9e6e" stroke-width="4"/>
+        <path d="M216,80 L268,118 L320,80" fill="none" stroke="#2f9e6e" stroke-width="4"/>
+        <rect x="240" y="52" width="56" height="34" rx="4" fill="#d3f0e1" stroke="#2f9e6e" stroke-width="3"/>
+        <circle cx="268" cy="69" r="10" fill="#8fcdb0"/>
+        <text x="268" y="75" text-anchor="middle" font-size="13" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">₩</text>
+      </g>
+      <g>
+        <rect x="222" y="166" width="94" height="34" rx="17" fill="#2f9e6e"/>
+        <text x="269" y="190" text-anchor="middle" font-size="19" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">수급 인정</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="tag">실업급여</div>
+  <h1>자진퇴사인데<br /><span class="hl">받았습니다</span></h1>
+  <p class="sub">통근곤란 <b>왕복 3시간</b> 기준과 서류</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>

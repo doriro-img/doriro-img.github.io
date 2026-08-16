@@ -1,0 +1,102 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .route { background: linear-gradient(160deg,#eef4fb,#dbe8f6); border: 1px solid #cfe0f0;
+           border-radius: 12px; padding: 20px 24px 18px; margin-bottom: 15px; }
+  .rr { display: flex; align-items: center; gap: 14px; }
+  .node { text-align: center; flex-shrink: 0; }
+  .node .nm { font-size: 13px; font-weight: 800; color: #1f4a7a; margin-top: 5px; }
+  .path { flex: 1; position: relative; }
+  .pline { height: 10px; border-radius: 5px; background: linear-gradient(90deg,#7fb4dd,#4f8fc0); }
+  .ptime { text-align: center; font-size: 14px; font-weight: 800; color: #1f4a7a; margin-bottom: 7px; }
+  .pmode { text-align: center; font-size: 11.5px; color: #5a7391; font-weight: 600; margin-top: 6px; }
+
+  .sum { display: flex; align-items: center; justify-content: center; gap: 14px;
+         margin-top: 16px; padding-top: 15px; border-top: 1px dashed #b9cde0; }
+  .sum .e { font-size: 14.5px; font-weight: 700; color: #4f7ba8; }
+  .sum .big { font-size: 27px; font-weight: 800; color: #1f4a7a; letter-spacing: -1px; }
+  .sum .pill { background: #2f9e6e; color: #fff; font-size: 13px; font-weight: 800;
+               padding: 7px 16px; border-radius: 16px; }
+
+  .two { display: flex; gap: 12px; }
+  .c { flex: 1; border-radius: 11px; padding: 15px 18px; }
+  .ok { background: #eef9f3; border: 1px solid #a9dcc4; }
+  .no { background: #fdf2f1; border: 1px solid #f0b8b1; }
+  .c .hd { font-size: 14.5px; font-weight: 800; margin-bottom: 7px; display: flex; align-items: center; gap: 8px; }
+  .ok .hd { color: #1d7050; } .no .hd { color: #b8463a; }
+  .c p { font-size: 13px; line-height: 1.7; color: #4a5561; }
+  .c p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>기준은 왕복 3시간입니다</h1>
+  <p class="sub">편도가 아니라 왕복이에요. 그리고 자가용 기준이 아닙니다</p>
+
+  <div class="route">
+    <div class="rr">
+      <div class="node">
+        <svg width="52" height="52" viewBox="0 0 52 52">
+          <path d="M8,26 L26,10 L44,26 L44,44 Q44,46 42,46 L10,46 Q8,46 8,44 Z" fill="#7fb4dd"/>
+          <path d="M5,26.5 L26,8 L47,26.5" fill="none" stroke="#2f6fb0" stroke-width="3" stroke-linecap="round"/>
+          <rect x="21" y="33" width="10" height="13" rx="1.5" fill="#e3edf5"/>
+        </svg>
+        <div class="nm">집</div>
+      </div>
+
+      <div class="path">
+        <div class="ptime">1시간 30분</div>
+        <div class="pline"></div>
+        <div class="pmode">지하철 · 버스 등 대중교통</div>
+      </div>
+
+      <div class="node">
+        <svg width="52" height="52" viewBox="0 0 52 52">
+          <rect x="10" y="8" width="32" height="38" rx="3" fill="#4f8fc0"/>
+          <g fill="#dbe8f6">
+            <rect x="15" y="14" width="7" height="7" rx="1"/><rect x="25" y="14" width="7" height="7" rx="1"/>
+            <rect x="15" y="24" width="7" height="7" rx="1"/><rect x="25" y="24" width="7" height="7" rx="1"/>
+          </g>
+          <rect x="21" y="35" width="10" height="11" rx="1.5" fill="#dbe8f6"/>
+        </svg>
+        <div class="nm">회사</div>
+      </div>
+    </div>
+
+    <div class="sum">
+      <div class="e">가는 데 1시간 30분 + 오는 데 1시간 30분 =</div>
+      <div class="big">3시간</div>
+      <div class="pill">여기부터 인정</div>
+    </div>
+  </div>
+
+  <div class="two">
+    <div class="c ok">
+      <div class="hd">
+        <svg width="20" height="20" viewBox="0 0 20 20"><circle cx="10" cy="10" r="9" fill="#2f9e6e"/>
+          <path d="M6,10 l3,3 l5,-6" stroke="#fff" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        대중교통으로 잽니다
+      </div>
+      <p>버스랑 지하철, 기차 같은 <b>통상의 교통수단</b>이 기준이에요.
+        차로 가면 1시간이어도 대중교통으로 3시간이 넘으면 볼 수 있습니다</p>
+    </div>
+
+    <div class="c no">
+      <div class="hd">
+        <svg width="20" height="20" viewBox="0 0 20 20"><circle cx="10" cy="10" r="9" fill="#cf4f43"/>
+          <path d="M10,5 v6 M10,13.6 v.6" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></svg>
+        통근버스가 있으면 달라져요
+      </div>
+      <p>회사에서 <b>출퇴근 차량을 제공하면</b> 그걸 기준으로 판단할 수 있습니다.
+        이 경우엔 시간이 줄어드니 미리 확인해보셔야 해요</p>
+    </div>
+  </div>
+</div>

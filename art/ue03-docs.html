@@ -1,0 +1,123 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .cards { display: flex; gap: 11px; margin-bottom: 15px; }
+  .c { flex: 1; border: 1px solid #e2e6ea; border-radius: 11px; overflow: hidden; background: #fff; }
+  .c .top { height: 92px; display: flex; align-items: center; justify-content: center; }
+  .c1 .top { background: linear-gradient(160deg,#eef4fb,#d9e7f5); }
+  .c2 .top { background: linear-gradient(160deg,#f5f0fb,#e6dcf5); }
+  .c3 .top { background: linear-gradient(160deg,#fdf6e9,#f8e7c5); }
+  .c4 .top { background: linear-gradient(160deg,#eef9f3,#d3f0e1); }
+  .c .bd { padding: 13px 14px 15px; }
+  .c .t { font-size: 14.5px; font-weight: 800; margin-bottom: 5px; letter-spacing: -0.3px; }
+  .c p { font-size: 12.5px; line-height: 1.6; color: #5a6672; }
+  .c p b { color: #1b1b1b; }
+  .who { display: inline-block; font-size: 10.5px; font-weight: 800; padding: 3px 9px;
+         border-radius: 10px; margin-bottom: 7px; }
+  .w1 { background: #dbe8f6; color: #2f6fb0; }
+  .w2 { background: #e6dcf5; color: #6b4a9e; }
+  .w3 { background: #f8e7c5; color: #b9741a; }
+  .w4 { background: #d3f0e1; color: #1d7050; }
+
+  .tip { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 20px;
+         display: flex; align-items: flex-start; gap: 16px; }
+  .tip .tag { background: #ffd97a; color: #1b1b1b; font-size: 12px; font-weight: 800;
+              padding: 5px 13px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .tip p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .tip p b { color: #ffd97a; }
+</style>
+
+<div id="art">
+  <h1>이 서류들을 챙겼습니다</h1>
+  <p class="sub">통근이 왕복 3시간 넘는다는 걸 보여주는 게 핵심이에요</p>
+
+  <div class="cards">
+
+    <div class="c c1">
+      <div class="top">
+        <svg width="62" height="62" viewBox="0 0 62 62">
+          <rect x="13" y="8" width="36" height="46" rx="4" fill="#fff" stroke="#4f8fc0" stroke-width="2.5"/>
+          <g fill="#bcd8ee"><rect x="19" y="17" width="24" height="3.5" rx="1.75"/>
+            <rect x="19" y="25" width="24" height="3.5" rx="1.75"/><rect x="19" y="33" width="16" height="3.5" rx="1.75"/></g>
+          <circle cx="41" cy="44" r="9" fill="none" stroke="#cf4f43" stroke-width="2.2"/>
+          <path d="M36,44 h10" stroke="#cf4f43" stroke-width="2.2"/>
+        </svg>
+      </div>
+      <div class="bd">
+        <span class="who w1">회사에서</span>
+        <div class="t">인사발령장</div>
+        <p>회사가 옮겼거나 발령이 났다는 <b>증빙</b>입니다</p>
+      </div>
+    </div>
+
+    <div class="c c2">
+      <div class="top">
+        <svg width="62" height="62" viewBox="0 0 62 62">
+          <rect x="13" y="9" width="36" height="44" rx="4" fill="#fff" stroke="#6b4a9e" stroke-width="2.5"/>
+          <rect x="19" y="17" width="15" height="15" rx="2" fill="#e6dcf5"/>
+          <circle cx="26.5" cy="23" r="4" fill="#6b4a9e"/>
+          <path d="M20.5,31 a6,6 0 0,1 12,0 z" fill="#6b4a9e"/>
+          <g fill="#cbb8e8"><rect x="38" y="18" width="8" height="3" rx="1.5"/><rect x="38" y="25" width="8" height="3" rx="1.5"/></g>
+          <g fill="#cbb8e8"><rect x="19" y="38" width="27" height="3" rx="1.5"/><rect x="19" y="45" width="19" height="3" rx="1.5"/></g>
+        </svg>
+      </div>
+      <div class="bd">
+        <span class="who w2">주민센터</span>
+        <div class="t">주민등록초본</div>
+        <p>사는 곳이 어디인지 <b>주소를 확인</b>합니다</p>
+      </div>
+    </div>
+
+    <div class="c c3">
+      <div class="top">
+        <svg width="62" height="62" viewBox="0 0 62 62">
+          <rect x="12" y="10" width="38" height="42" rx="4" fill="#fff" stroke="#d4832f" stroke-width="2.5"/>
+          <g fill="#f0dfc4"><rect x="18" y="19" width="26" height="3.5" rx="1.75"/>
+            <rect x="18" y="27" width="26" height="3.5" rx="1.75"/><rect x="18" y="35" width="14" height="3.5" rx="1.75"/></g>
+          <circle cx="42" cy="42" r="10" fill="#fdf6e9" stroke="#d4832f" stroke-width="2"/>
+          <path d="M42,36.5 v6 l4,2.5" stroke="#d4832f" stroke-width="2" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="bd">
+        <span class="who w3">회사에서</span>
+        <div class="t">사업주 확인서</div>
+        <p>퇴사 사유를 회사가 <b>확인해주는</b> 서류예요</p>
+      </div>
+    </div>
+
+    <div class="c c4">
+      <div class="top">
+        <svg width="62" height="62" viewBox="0 0 62 62">
+          <rect x="11" y="12" width="40" height="30" rx="4" fill="#fff" stroke="#2f9e6e" stroke-width="2.5"/>
+          <circle cx="21" cy="24" r="4" fill="#2f9e6e"/>
+          <path d="M21,28 q0,7 10,7 q10,0 10,-7" stroke="#8fcdb0" stroke-width="2.5" fill="none"/>
+          <circle cx="41" cy="24" r="4" fill="#8fcdb0"/>
+          <g fill="#c9ead9"><rect x="16" y="46" width="30" height="4" rx="2"/></g>
+          <path d="M46,36 l4,4 l-4,4" stroke="#2f9e6e" stroke-width="2" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="bd">
+        <span class="who w4">직접 뽑기</span>
+        <div class="t">소요시간 증빙</div>
+        <p>교통카드 내역이나 <b>길찾기 화면</b>을 뽑아 갑니다</p>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="tip">
+    <div class="tag">이건 꼭</div>
+    <p>길찾기 소요시간은 <b>퇴사하기 전에 미리 캡처해두세요.</b>
+      나중에 회사 주소가 또 바뀌거나 노선이 달라지면 그때 화면으로는 3시간이 안 나올 수도 있습니다.
+      집에서 회사까지 <b>대중교통으로 검색한 결과</b>를 날짜가 보이게 남겨두는 게 좋아요</p>
+  </div>
+</div>
