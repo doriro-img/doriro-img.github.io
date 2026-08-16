@@ -1,0 +1,94 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .ladder { border: 1px solid #e6e9ed; border-radius: 11px; overflow: hidden; }
+  .st { display: flex; align-items: stretch; border-bottom: 1px solid #eef1f4; }
+  .st:last-child { border-bottom: none; }
+  .yld { width: 122px; flex-shrink: 0; display: flex; flex-direction: column;
+         align-items: center; justify-content: center; padding: 14px 8px; }
+  .yld .v { font-size: 20px; font-weight: 800; letter-spacing: -0.6px; }
+  .yld .k { font-size: 11px; font-weight: 700; margin-top: 2px; }
+  .bd { flex: 1; padding: 14px 18px; }
+  .bd .t { font-size: 15px; font-weight: 800; margin-bottom: 4px; letter-spacing: -0.3px; }
+  .bd p { font-size: 13px; line-height: 1.65; color: #4a5561; }
+  .bd p b { color: #1b1b1b; }
+  .risk { width: 106px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .pill { font-size: 11.5px; font-weight: 800; padding: 5px 11px; border-radius: 12px; }
+
+  .s1 { background: #f7fafc; } .s1 .yld .v { color: #4f7ba8; } .s1 .yld .k { color: #8aa2b8; }
+  .s1 .pill { background: #e7f0f7; color: #4f7ba8; }
+  .s2 { background: #f4fbf7; } .s2 .yld .v { color: #1d7050; } .s2 .yld .k { color: #6aa78d; }
+  .s2 .pill { background: #d9f0e5; color: #1d7050; }
+  .s3 { background: #fdf8ef; } .s3 .yld .v { color: #b9741a; } .s3 .yld .k { color: #c49a5e; }
+  .s3 .pill { background: #f9e8cd; color: #b9741a; }
+  .s4 { background: #fdf2f1; } .s4 .yld .v { color: #c0503f; } .s4 .yld .k { color: #c98177; }
+  .s4 .pill { background: #f8dad6; color: #b8463a; }
+
+  .warn { margin-top: 14px; background: #1b1b1b; color: #fff; border-radius: 10px;
+          padding: 14px 20px; display: flex; align-items: flex-start; gap: 14px; }
+  .warn .tag { background: #ff9a8a; color: #1b1b1b; font-size: 12px; font-weight: 800;
+               padding: 5px 12px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .warn p { font-size: 13.5px; line-height: 1.7; color: #d8dee4; }
+  .warn p b { color: #ffbfb2; }
+</style>
+
+<div id="art">
+  <h1>수익률이 높아질수록 무언가를 내줍니다</h1>
+  <p class="sub">공짜로 배당이 커지지는 않더라고요</p>
+
+  <div class="ladder">
+
+    <div class="st s1">
+      <div class="yld"><div class="v">1%대</div><div class="k">배당수익률</div></div>
+      <div class="bd">
+        <div class="t">미국 지수 (S&amp;P500)</div>
+        <p>배당은 적습니다. 대신 <b>주가가 오르는 쪽</b>으로 돌려받는 구조예요</p>
+      </div>
+      <div class="risk"><span class="pill">성장 중심</span></div>
+    </div>
+
+    <div class="st s2">
+      <div class="yld"><div class="v">3% 중반</div><div class="k">배당수익률</div></div>
+      <div class="bd">
+        <div class="t">배당성장주 · 배당 ETF</div>
+        <p>10년 넘게 배당을 이어온 기업들을 모읍니다. 배당도 받고 <b>그 배당이 해마다 늘어나는</b> 자리예요</p>
+      </div>
+      <div class="risk"><span class="pill">균형</span></div>
+    </div>
+
+    <div class="st s3">
+      <div class="yld"><div class="v">5~7%</div><div class="k">배당수익률</div></div>
+      <div class="bd">
+        <div class="t">고배당주 · 리츠</div>
+        <p>지금 받는 돈은 큽니다. 대신 <b>주가가 잘 안 오르고 배당도 잘 안 늘어나는</b> 경우가 많습니다</p>
+      </div>
+      <div class="risk"><span class="pill">성장 포기</span></div>
+    </div>
+
+    <div class="st s4">
+      <div class="yld"><div class="v">10% 이상</div><div class="k">목표 분배율</div></div>
+      <div class="bd">
+        <div class="t">커버드콜 ETF</div>
+        <p>숫자만 보면 제일 좋아 보입니다. 그런데 이건 <b>확정된 수익이 아니라 목표</b>일 뿐이에요</p>
+      </div>
+      <div class="risk"><span class="pill">원금 주의</span></div>
+    </div>
+
+  </div>
+
+  <div class="warn">
+    <div class="tag">금융감독원 소비자경보</div>
+    <p>커버드콜 ETF 이름에 붙은 <b>목표분배율은 운용사가 제시하는 목표일 뿐 약속된 수익이 아닙니다.</b>
+      기초자산이 내리면 손실은 그대로 반영되고 <b>원금이 줄어들 수 있습니다.</b>
+      분배금을 많이 받아도 원금이 깎이면 남는 게 없어요</p>
+  </div>
+</div>

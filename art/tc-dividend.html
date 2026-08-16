@@ -1,0 +1,76 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eef6f1,#cde5d8);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #17402e;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #1d7050; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 58px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #1d7050; }
+  .sub { margin-top: 28px; font-size: 25px; color: #4e7d69; font-weight: 600; }
+  .sub b { color: #b06a1e; }
+  .tree { position: absolute; top: 76px; right: 40px;
+    filter: drop-shadow(0 14px 26px rgba(20,80,55,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #85a897; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="tree">
+    <svg width="330" height="270" viewBox="0 0 330 270">
+      <!-- 잎 덩어리 -->
+      <circle cx="150" cy="74" r="60" fill="#57b489"/>
+      <circle cx="102" cy="104" r="46" fill="#4aa87d"/>
+      <circle cx="200" cy="106" r="48" fill="#66c096"/>
+      <circle cx="152" cy="118" r="44" fill="#3f9e73"/>
+
+      <!-- 줄기 -->
+      <path d="M143,146 Q140,190 136,214 L166,214 Q162,190 159,146 Z" fill="#8a6242"/>
+      <path d="M150,168 L124,150" stroke="#8a6242" stroke-width="7" stroke-linecap="round"/>
+      <path d="M152,182 L180,164" stroke="#8a6242" stroke-width="7" stroke-linecap="round"/>
+
+      <!-- 화분 -->
+      <path d="M100,216 L202,216 L190,258 Q189,264 182,264 L120,264 Q113,264 112,258 Z" fill="#c87f52"/>
+      <rect x="94" y="208" width="114" height="16" rx="6" fill="#d9915f"/>
+
+      <!-- 나무에 열린 동전 -->
+      <g>
+        <circle cx="118" cy="72" r="16" fill="#f5c95a"/><circle cx="118" cy="72" r="10.5" fill="#e0ad33"/>
+        <text x="118" y="78" text-anchor="middle" font-size="14" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">₩</text>
+      </g>
+      <g>
+        <circle cx="184" cy="62" r="14" fill="#f5c95a"/><circle cx="184" cy="62" r="9" fill="#e0ad33"/>
+      </g>
+      <g>
+        <circle cx="206" cy="122" r="15" fill="#f5c95a"/><circle cx="206" cy="122" r="10" fill="#e0ad33"/>
+        <text x="206" y="128" text-anchor="middle" font-size="13" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">₩</text>
+      </g>
+      <g>
+        <circle cx="96" cy="126" r="13" fill="#f5c95a"/><circle cx="96" cy="126" r="8.5" fill="#e0ad33"/>
+      </g>
+
+      <!-- 떨어지는 동전 -->
+      <g opacity=".9">
+        <ellipse cx="250" cy="170" rx="12" ry="12" fill="#f5c95a"/>
+        <ellipse cx="250" cy="170" rx="7.5" ry="7.5" fill="#e0ad33"/>
+      </g>
+      <g opacity=".75">
+        <ellipse cx="268" cy="212" rx="10" ry="10" fill="#f5c95a"/>
+        <ellipse cx="268" cy="212" rx="6" ry="6" fill="#e0ad33"/>
+      </g>
+      <g opacity=".6">
+        <ellipse cx="284" cy="248" rx="8" ry="8" fill="#f5c95a"/>
+      </g>
+    </svg>
+  </div>
+
+  <div class="tag">배당 생활</div>
+  <h1>배당금 월 300<br /><span class="hl">얼마 있어야?</span></h1>
+  <p class="sub">수익률별 필요 원금 · <b>세금 기준선</b></p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>

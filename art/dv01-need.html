@@ -1,0 +1,77 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 18px; }
+
+  .top { background: linear-gradient(160deg,#eef4fb,#dae8f6); border: 1px solid #cfe0f0;
+         border-radius: 11px; padding: 14px 20px; margin-bottom: 15px;
+         display: flex; align-items: center; gap: 14px; }
+  .top .a { font-size: 20px; font-weight: 800; color: #1f4a7a; letter-spacing: -0.6px; white-space: nowrap; }
+  .top .x { font-size: 17px; color: #8a9db4; font-weight: 800; }
+  .top .n { font-size: 12.5px; color: #5a7391; font-weight: 600; }
+
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 20px 14px; }
+  .r { display: flex; align-items: center; height: 44px; }
+  .y { width: 104px; flex-shrink: 0; font-size: 15px; font-weight: 800; }
+  .track { flex: 1; position: relative; height: 26px; }
+  .fill { height: 26px; border-radius: 6px; }
+  .amt { position: absolute; top: 3px; font-size: 14.5px; font-weight: 800; white-space: nowrap; }
+
+  .r1 .fill { background: linear-gradient(90deg,#e8a09a,#d4675c); } .r1 .y, .r1 .amt { color: #c0503f; }
+  .r2 .fill { background: linear-gradient(90deg,#eab97a,#dd9b45); } .r2 .y, .r2 .amt { color: #b9741a; }
+  .r3 .fill { background: linear-gradient(90deg,#7fc4a4,#4fae83); } .r3 .y, .r3 .amt { color: #23805a; }
+  .r4 .fill { background: linear-gradient(90deg,#6cc39b,#2f9e6e); } .r4 .y, .r4 .amt { color: #1d7050; }
+  .r5 .fill { background: linear-gradient(90deg,#9aa6b2,#7b8794); } .r5 .y, .r5 .amt { color: #6b7480; }
+
+  .r5 .y::after { content: '?'; margin-left: 3px; color: #cf4f43; font-weight: 800; }
+
+  .note { margin-top: 14px; background: #fdf3e7; border: 1px solid #f0dfc4; border-radius: 10px;
+          padding: 13px 18px; font-size: 13.5px; line-height: 1.7; color: #55606c; }
+  .note b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>월 300만원을 배당으로 받으려면</h1>
+  <p class="sub">배당수익률을 몇 %로 잡느냐에 따라 필요한 돈이 세 배 넘게 벌어집니다</p>
+
+  <div class="top">
+    <div class="a">월 300만원</div>
+    <div class="x">×12 =</div>
+    <div class="a">연 3,600만원</div>
+    <div class="n">세금 떼기 전 기준입니다</div>
+  </div>
+
+  <div class="rows">
+    <div class="r r1">
+      <div class="y">연 3%</div>
+      <div class="track"><div class="fill" style="width:540px"></div><div class="amt" style="left:550px">12억원</div></div>
+    </div>
+    <div class="r r2">
+      <div class="y">연 3.5%</div>
+      <div class="track"><div class="fill" style="width:463px"></div><div class="amt" style="left:473px">10억 3,000만원</div></div>
+    </div>
+    <div class="r r3">
+      <div class="y">연 4%</div>
+      <div class="track"><div class="fill" style="width:405px"></div><div class="amt" style="left:415px">9억원</div></div>
+    </div>
+    <div class="r r4">
+      <div class="y">연 5%</div>
+      <div class="track"><div class="fill" style="width:324px"></div><div class="amt" style="left:334px">7억 2,000만원</div></div>
+    </div>
+    <div class="r r5">
+      <div class="y">연 10%</div>
+      <div class="track"><div class="fill" style="width:162px"></div><div class="amt" style="left:172px">3억 6,000만원</div></div>
+    </div>
+  </div>
+
+  <div class="note"><b>필요 원금 = 연 3,600만원 ÷ 배당수익률.</b> 아주 단순한 나눗셈이라
+    수익률만 높게 잡으면 필요한 돈이 확 줄어 보입니다.
+    그래서 <b>그 수익률이 어디서 나오는 돈인지</b>를 먼저 봐야 합니다</div>
+</div>

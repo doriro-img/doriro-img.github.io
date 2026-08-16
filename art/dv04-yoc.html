@@ -1,0 +1,89 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 18px; }
+
+  .chart { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 16px 18px 10px; }
+
+  .out { margin-top: 15px; display: flex; gap: 10px; }
+  .o { flex: 1; border: 1px solid #e2e6ea; border-radius: 10px; padding: 13px 15px; background: #fff; }
+  .o .k { font-size: 11.5px; color: #8a929c; font-weight: 700; margin-bottom: 4px; }
+  .o .v { font-size: 19px; font-weight: 800; letter-spacing: -0.6px; }
+  .o .n { font-size: 11.5px; color: #7b848f; margin-top: 3px; }
+  .o.a .v { color: #4f7ba8; } .o.b .v { color: #1d7050; }
+  .o.b { background: #eef9f3; border-color: #a9dcc4; }
+
+  .note { margin-top: 12px; font-size: 12px; color: #8a929c; line-height: 1.65; }
+</style>
+
+<div id="art">
+  <h1>배당은 가만히 둬도 늘어납니다</h1>
+  <p class="sub">배당성장 ETF 한 곳의 10년 평균 배당 증가율은 연 11%였습니다</p>
+
+  <div class="chart">
+    <svg width="792" height="250" viewBox="0 0 700 250">
+      <g stroke="#e6eaee" stroke-width="1">
+        <line x1="58" y1="172" x2="640" y2="172"/><line x1="58" y1="128" x2="640" y2="128"/>
+        <line x1="58" y1="84" x2="640" y2="84"/><line x1="58" y1="40" x2="640" y2="40"/>
+      </g>
+      <line x1="58" y1="216" x2="640" y2="216" stroke="#c8cfd6" stroke-width="1.5"/>
+      <line x1="58" y1="30" x2="58" y2="216" stroke="#c8cfd6" stroke-width="1.5"/>
+
+      <!-- 면적 (곡선과 동일한 경로) -->
+      <path d="M58,194.3 Q130,187 203.5,179.4 Q280,170 349,154.6 Q425,138 494.5,111.8
+               Q570,85 640,41.2 L640,216 L58,216 Z" fill="#2f9e6e" opacity=".1"/>
+
+      <!-- 곡선 : YOC 3.5 -> 28.2 (y = 216 - v/30*186) -->
+      <path d="M58,194.3 Q130,187 203.5,179.4 Q280,170 349,154.6 Q425,138 494.5,111.8
+               Q570,85 640,41.2"
+            fill="none" stroke="#2f9e6e" stroke-width="3.5" stroke-linecap="round"/>
+
+      <!-- 기준선 (처음 3.5%) -->
+      <line x1="58" y1="194.3" x2="640" y2="194.3" stroke="#9aa6b2" stroke-width="2.5" stroke-dasharray="7 5"/>
+
+      <!-- 점 -->
+      <g>
+        <circle cx="58" cy="194.3" r="5.5" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+        <circle cx="203.5" cy="179.4" r="5.5" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+        <circle cx="349" cy="154.6" r="5.5" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+        <circle cx="494.5" cy="111.8" r="5.5" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+        <circle cx="640" cy="41.2" r="6.5" fill="#fff" stroke="#2f9e6e" stroke-width="3.5"/>
+      </g>
+
+      <g font-size="13" font-weight="800" fill="#1d7050" font-family="Pretendard, Malgun Gothic, sans-serif">
+        <text x="72" y="188">3.5%</text>
+        <text x="203.5" y="169" text-anchor="middle">5.9%</text>
+        <text x="349" y="144" text-anchor="middle">9.9%</text>
+        <text x="494.5" y="101" text-anchor="middle">16.8%</text>
+        <text x="634" y="31" text-anchor="end">28.2%</text>
+      </g>
+
+      <g font-size="11.5" fill="#9098a2" font-family="Pretendard, Malgun Gothic, sans-serif">
+        <text x="58" y="233" text-anchor="middle">지금</text>
+        <text x="203.5" y="233" text-anchor="middle">5년 뒤</text>
+        <text x="349" y="233" text-anchor="middle">10년 뒤</text>
+        <text x="494.5" y="233" text-anchor="middle">15년 뒤</text>
+        <text x="640" y="233" text-anchor="middle">20년 뒤</text>
+      </g>
+      <text x="66" y="210" font-size="11.5" fill="#9aa6b2"
+            font-family="Pretendard, Malgun Gothic, sans-serif">처음 샀을 때 3.5%</text>
+    </svg>
+  </div>
+
+  <div class="out">
+    <div class="o a"><div class="k">지금 1억을 넣으면</div><div class="v">연 350만원</div><div class="n">배당수익률 3.5%</div></div>
+    <div class="o b"><div class="k">10년 뒤 같은 1억에서</div><div class="v">연 990만원</div><div class="n">내 돈 대비 9.9%</div></div>
+    <div class="o b"><div class="k">20년 뒤 같은 1억에서</div><div class="v">연 2,820만원</div><div class="n">내 돈 대비 28.2%</div></div>
+  </div>
+
+  <p class="note">※ 주가가 올라도 배당수익률은 3% 중반에 머무를 수 있지만, <b>내가 산 가격</b>을 기준으로 보면 이렇게 올라갑니다.
+    배당이 늘어난 만큼 내가 넣은 돈이 더 일하는 셈이에요<br />
+    ※ 지난 10년이 그랬다는 기록이고 앞으로도 해마다 11%씩 늘어난다는 보장은 없습니다</p>
+</div>
