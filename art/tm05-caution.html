@@ -1,0 +1,30 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f6fc;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1a2b47; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6f7d95; margin-bottom: 20px; font-weight: 600; }
+  .list { display: flex; flex-direction: column; gap: 11px; }
+  .item { background: #fff; border-radius: 13px; padding: 15px 18px; display: flex; align-items: flex-start; gap: 14px;
+    box-shadow: 0 5px 13px rgba(40,70,140,.06); }
+  .bx { flex: none; width: 26px; height: 26px; border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-size: 15px; font-weight: 800; color: #fff; }
+  .ok { background: #1f6feb; } .warn { background: #e0932e; }
+  .tx { font-size: 14.5px; line-height: 1.5; color: #35476a; padding-top: 1px; }
+  .tx b { color: #1a2b47; }
+</style>
+
+<div id="art">
+  <h1>가입 전, 이건 알아두세요</h1>
+  <p class="sub">편하게 받는 할인이지만 조건 몇 가지가 있어요</p>
+
+  <div class="list">
+    <div class="item"><div class="bx ok">✓</div><div class="tx"><b>주운전자(기명피보험자) 본인 명의</b> 티맵 점수만 인정돼요. 가족 계정 점수는 안 돼요</div></div>
+    <div class="item"><div class="bx ok">✓</div><div class="tx"><b>최근 6개월 500km 이상</b> 주행해야 점수가 잡혀요. 차를 거의 안 타면 점수 자체가 안 나와요</div></div>
+    <div class="item"><div class="bx warn">!</div><div class="tx"><b>보험사마다 기준점·할인율이 달라요.</b> 어디는 76점, 어디는 다른 기준이에요. 갱신할 때 여러 곳 비교하세요</div></div>
+    <div class="item"><div class="bx warn">!</div><div class="tx">내 보험사가 <b>티맵을 인정하는지, 카카오내비를 인정하는지</b> 확인하세요 (둘 다 안 되는 곳도 있어요)</div></div>
+  </div>
+</div>

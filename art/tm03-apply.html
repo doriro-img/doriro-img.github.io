@@ -1,0 +1,52 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f6fc;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1a2b47; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6f7d95; margin-bottom: 22px; font-weight: 600; }
+  .steps { display: flex; align-items: stretch; gap: 8px; }
+  .step { flex: 1; background: #fff; border-radius: 16px; padding: 20px 16px 18px; text-align: center;
+    box-shadow: 0 6px 16px rgba(40,70,140,.08); }
+  .n { width: 30px; height: 30px; border-radius: 50%; background: #1f6feb; color: #fff; font-size: 15px;
+    font-weight: 800; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; }
+  .ic { height: 56px; display: flex; align-items: center; justify-content: center; }
+  .t { font-size: 15px; font-weight: 800; margin-top: 8px; }
+  .d { font-size: 12.5px; color: #5f6f8c; line-height: 1.5; margin-top: 5px; }
+  .ar { flex: none; display: flex; align-items: center; color: #9fb3d6; font-size: 22px; font-weight: 800; }
+  .note { margin-top: 16px; background: #e7effb; border-radius: 12px; padding: 13px 18px; font-size: 13px;
+    color: #40527a; line-height: 1.6; text-align: center; }
+  .note b { color: #1f6feb; }
+</style>
+
+<div id="art">
+  <h1>어떻게 할인받나요?</h1>
+  <p class="sub">어렵지 않아요. 3단계면 돼요</p>
+
+  <div class="steps">
+    <div class="step">
+      <div class="n">1</div>
+      <div class="ic"><svg width="50" height="50" viewBox="0 0 50 50"><rect x="15" y="6" width="20" height="38" rx="4" fill="#1f6feb"/><path d="M18,24 a7,7 0 0,1 14,0" fill="none" stroke="#fff" stroke-width="2.5"/><line x1="25" y1="24" x2="29" y2="20" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/></svg></div>
+      <div class="t">티맵 점수 확인</div>
+      <div class="d">앱에서 내 운전점수 확인<br />(주운전자 본인 명의)</div>
+    </div>
+    <div class="ar">→</div>
+    <div class="step">
+      <div class="n">2</div>
+      <div class="ic"><svg width="50" height="50" viewBox="0 0 50 50"><rect x="10" y="8" width="30" height="34" rx="4" fill="#fff" stroke="#1f6feb" stroke-width="2.5"/><line x1="17" y1="18" x2="33" y2="18" stroke="#9fb3d6" stroke-width="2.5" stroke-linecap="round"/><line x1="17" y1="25" x2="33" y2="25" stroke="#9fb3d6" stroke-width="2.5" stroke-linecap="round"/><path d="M18,33 l4,4 8,-9" fill="none" stroke="#22a06b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+      <div class="t">가입·갱신 때 제출</div>
+      <div class="d">보험 가입 화면에서<br />점수 연동·제출</div>
+    </div>
+    <div class="ar">→</div>
+    <div class="step">
+      <div class="n">3</div>
+      <div class="ic"><svg width="50" height="50" viewBox="0 0 50 50"><circle cx="25" cy="25" r="19" fill="#e4f4ec"/><text x="25" y="32" text-anchor="middle" font-size="20" font-weight="800" fill="#1f8a5c">%</text></svg></div>
+      <div class="t">할인 적용</div>
+      <div class="d">깎인 보험료로<br />가입 완료</div>
+    </div>
+  </div>
+
+  <div class="note"><b>티맵만 되는 게 아니에요.</b> 카카오내비 운전점수로도 할인돼요 (DB손보·AXA·하나손보 다이렉트). 내 보험사가 어느 걸 인정하는지 확인하세요</div>
+</div>

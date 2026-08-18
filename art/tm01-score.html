@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f6fc;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1a2b47; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6f7d95; margin-bottom: 18px; font-weight: 600; }
+  .row { display: flex; gap: 20px; align-items: center; }
+  .gauge { flex: none; background: #fff; border-radius: 18px; padding: 20px 26px; text-align: center;
+    box-shadow: 0 6px 16px rgba(40,70,140,.08); }
+  .gauge .cap { font-size: 13px; color: #6f7d95; font-weight: 700; margin-top: 4px; }
+  .gauge .cap b { color: #1f6feb; }
+  .items { flex: 1; display: flex; flex-direction: column; gap: 10px; }
+  .it { background: #fff; border-radius: 12px; padding: 13px 16px; display: flex; align-items: center; gap: 12px;
+    box-shadow: 0 4px 12px rgba(40,70,140,.06); }
+  .it .ic { flex: none; }
+  .it .tx { font-size: 14px; color: #35476a; } .it .tx b { color: #1a2b47; }
+  .note { margin-top: 15px; background: #e7effb; border-radius: 12px; padding: 13px 18px; font-size: 13px;
+    color: #40527a; line-height: 1.6; text-align: center; }
+  .note b { color: #1f6feb; }
+</style>
+
+<div id="art">
+  <h1>티맵 운전점수가 뭐냐면요</h1>
+  <p class="sub">평소 운전 습관을 점수로 매긴 거예요. 100점 만점이고요</p>
+
+  <div class="row">
+    <div class="gauge">
+      <svg width="180" height="120" viewBox="0 0 180 120">
+        <path d="M20,110 A70,70 0 0,1 160,110" fill="none" stroke="#e2e9f5" stroke-width="16" stroke-linecap="round"/>
+        <path d="M20,110 A70,70 0 0,1 156,96" fill="none" stroke="#1f6feb" stroke-width="16" stroke-linecap="round"/>
+        <text x="90" y="96" text-anchor="middle" font-size="46" font-weight="800" fill="#1a2b47">97</text>
+        <text x="90" y="114" text-anchor="middle" font-size="14" font-weight="700" fill="#8a97b0">/ 100점</text>
+      </svg>
+      <div class="cap">예시: 제 점수 <b>97점</b></div>
+    </div>
+
+    <div class="items">
+      <div class="it"><svg width="30" height="30" viewBox="0 0 30 30"><circle cx="15" cy="15" r="14" fill="#fdeaea"/><path d="M9,17 l6,-8 6,8" fill="none" stroke="#d9534f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="tx"><b>급가속</b>이 잦으면 감점</div></div>
+      <div class="it"><svg width="30" height="30" viewBox="0 0 30 30"><circle cx="15" cy="15" r="14" fill="#fdeaea"/><path d="M9,13 l6,8 6,-8" fill="none" stroke="#d9534f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="tx"><b>급감속·급정거</b>도 감점</div></div>
+      <div class="it"><svg width="30" height="30" viewBox="0 0 30 30"><circle cx="15" cy="15" r="14" fill="#fdeaea"/><text x="15" y="20" text-anchor="middle" font-size="14" font-weight="800" fill="#d9534f">!</text></svg><div class="tx"><b>과속</b>(제한속도 초과)도 깎여요</div></div>
+    </div>
+  </div>
+
+  <div class="note">최근 주행 <b>3,000km</b>를 500km씩 나눠서 봐요. 길안내가 끝날 때마다 점수가 실시간으로 갱신돼요</div>
+</div>

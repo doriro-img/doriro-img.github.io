@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f6fc;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1a2b47; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6f7d95; margin-bottom: 22px; font-weight: 600; }
+  .chart { background: #fff; border-radius: 16px; padding: 24px 26px 18px; box-shadow: 0 6px 16px rgba(40,70,140,.08); }
+  .bars { display: flex; align-items: flex-end; gap: 16px; height: 190px; }
+  .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .pct { font-size: 17px; font-weight: 800; margin-bottom: 6px; }
+  .bar { width: 100%; border-radius: 8px 8px 0 0; }
+  .b1 { height: 42px; background: #cdd8ea; } .b2 { height: 88px; background: #7cc2a0; }
+  .b3 { height: 132px; background: #37a877; } .b4 { height: 176px; background: #1f8a5c; }
+  .b1p { color: #8a97b0; } .b2p { color: #37a877; } .b3p { color: #1f8a5c; } .b4p { color: #16744c; }
+  .sc { margin-top: 8px; font-size: 13px; font-weight: 800; color: #35476a; }
+  .scs { font-size: 11.5px; color: #8a97b0; font-weight: 600; }
+  .me { margin-top: 14px; text-align: center; font-size: 13px; color: #1f6feb; font-weight: 700; }
+  .note { margin-top: 14px; background: #e7effb; border-radius: 12px; padding: 12px 18px; font-size: 12.5px;
+    color: #40527a; line-height: 1.6; text-align: center; }
+  .note b { color: #1a2b47; }
+</style>
+
+<div id="art">
+  <h1>몇 점부터 할인되나요?</h1>
+  <p class="sub">점수가 오를수록 할인율이 계단식으로 확 뛰어요 (삼성화재 예시)</p>
+
+  <div class="chart">
+    <div class="bars">
+      <div class="col"><div class="pct b1p">할인 거의 없음</div><div class="bar b1"></div><div class="sc">~75점</div><div class="scs">기준 미달</div></div>
+      <div class="col"><div class="pct b2p">할인 시작</div><div class="bar b2"></div><div class="sc">76~79점</div><div class="scs">삼성 기준점</div></div>
+      <div class="col"><div class="pct b3p">15%+</div><div class="bar b3"></div><div class="sc">80~94점</div><div class="scs">확 올라감</div></div>
+      <div class="col"><div class="pct b4p">최대 26.5%</div><div class="bar b4"></div><div class="sc">95점 이상</div><div class="scs">조건 충족 시</div></div>
+    </div>
+    <div class="me">▲ 제 점수 97점은 여기 — 최상위 구간이에요</div>
+  </div>
+
+  <div class="note"><b>최대 26.5%</b>는 개인 승용·기명 1인·주행 500km 이상 등 조건을 다 채웠을 때예요. <b>보험사마다 기준·할인율이 다르니</b> 갱신 때 비교하세요</div>
+</div>
