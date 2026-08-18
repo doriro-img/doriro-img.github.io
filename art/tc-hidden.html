@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 62px; background: linear-gradient(160deg,#edf8f0,#c4ead0);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #123524;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #16a34a; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 32px; }
+  h1 { font-size: 58px; line-height: 1.22; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #16a34a; }
+  .sub { margin-top: 26px; font-size: 24px; color: #46705a; font-weight: 600; }
+  .sub b { color: #c78a12; }
+  .ill { position: absolute; top: 78px; right: 50px; filter: drop-shadow(0 12px 24px rgba(20,100,60,.18)); }
+  .foot { position: absolute; bottom: 56px; right: 62px; font-size: 20px; color: #6f9781; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="256" height="230" viewBox="0 0 256 230">
+      <!-- 동전 스택 -->
+      <ellipse cx="66" cy="192" rx="46" ry="15" fill="#dcae42"/>
+      <ellipse cx="66" cy="178" rx="46" ry="15" fill="#e8c358"/>
+      <ellipse cx="66" cy="164" rx="46" ry="15" fill="#f2d572"/>
+      <text x="66" y="171" text-anchor="middle" font-size="20" font-weight="800" fill="#b5860f">₩</text>
+      <!-- 돋보기 -->
+      <line x1="196" y1="120" x2="240" y2="176" stroke="#0f7a2e" stroke-width="16" stroke-linecap="round"/>
+      <circle cx="158" cy="86" r="58" fill="#ffffff" stroke="#16a34a" stroke-width="9"/>
+      <circle cx="158" cy="86" r="47" fill="#eafaef"/>
+      <circle cx="158" cy="86" r="28" fill="#f2d572" stroke="#d4a017" stroke-width="3"/>
+      <text x="158" y="96" text-anchor="middle" font-size="26" font-weight="800" fill="#b5860f">₩</text>
+    </svg>
+  </div>
+
+  <div class="tag">숨은 돈 찾기</div>
+  <h1>안 찾으면 사라지는<br /><span class="hl">내 돈 찾기</span></h1>
+  <p class="sub">보험금·세금·휴면예금·포인트 · <b>전부 무료</b></p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
