@@ -1,0 +1,30 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f7f7;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1f3a3a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6e8585; margin-bottom: 20px; font-weight: 600; }
+  .list { display: flex; flex-direction: column; gap: 11px; }
+  .item { background: #fff; border-radius: 13px; padding: 15px 18px; display: flex; align-items: flex-start; gap: 14px;
+    box-shadow: 0 5px 13px rgba(40,90,90,.06); border: 1px solid #dcece9; }
+  .bx { flex: none; width: 26px; height: 26px; border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    font-size: 15px; font-weight: 800; color: #fff; }
+  .ok { background: #0d9488; } .warn { background: #e0932e; }
+  .tx { font-size: 14.5px; line-height: 1.5; color: #37544f; padding-top: 1px; }
+  .tx b { color: #1f3a3a; }
+</style>
+
+<div id="art">
+  <h1>청구 전, 이것만 확인하세요</h1>
+  <p class="sub">대부분 되지만 몇 가지 예외가 있어요</p>
+
+  <div class="list">
+    <div class="item"><div class="bx ok">✓</div><div class="tx"><b>2024년 10월 25일 이후 진료분</b>만 돼요. 그 전 진료는 예전처럼 서류로 청구해야 해요</div></div>
+    <div class="item"><div class="bx ok">✓</div><div class="tx"><b>참여 기관</b>에서 진료·조제한 것만 돼요. 앱에서 참여 여부를 먼저 확인하세요</div></div>
+    <div class="item"><div class="bx warn">!</div><div class="tx"><b>입원·고액 진료</b> 등은 일부 서류가 따로 필요할 수 있어요. 앱 안내를 따라주세요</div></div>
+    <div class="item"><div class="bx warn">!</div><div class="tx">내 보험이 보장하는지, <b>자기부담금·한도</b>는 가입한 보험사·약관에서 확인하세요 (청구와 보장은 별개예요)</div></div>
+  </div>
+</div>

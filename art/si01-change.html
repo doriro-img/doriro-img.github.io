@@ -1,0 +1,59 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f2f7f7;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1f3a3a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6e8585; margin-bottom: 22px; font-weight: 600; }
+  .row { display: flex; align-items: center; gap: 14px; }
+  .card { flex: 1; background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 6px 16px rgba(40,90,90,.08); }
+  .card.old { border: 1px solid #ecdcd6; }
+  .card.new { border: 1.5px solid #9bd8cf; }
+  .tag { font-size: 13px; font-weight: 800; padding: 4px 12px; border-radius: 14px; display: inline-block; margin-bottom: 12px; }
+  .old .tag { background: #f6e6e0; color: #b5603f; } .new .tag { background: #d8f2ec; color: #0d8074; }
+  .scene { height: 118px; display: flex; align-items: center; justify-content: center; gap: 6px; }
+  .card p { font-size: 13.5px; color: #52706e; line-height: 1.5; margin-top: 8px; text-align: center; }
+  .card p b { color: #1f3a3a; }
+  .arrow { flex: none; font-size: 30px; color: #0d9488; font-weight: 800; }
+</style>
+
+<div id="art">
+  <h1>실손보험 청구, 이렇게 바뀌었어요</h1>
+  <p class="sub">병원 서류 떼서 팩스·방문하던 게, 앱 하나로 끝나요</p>
+
+  <div class="row">
+    <div class="card old">
+      <span class="tag">예전</span>
+      <div class="scene">
+        <svg width="150" height="112" viewBox="0 0 150 112">
+          <rect x="24" y="20" width="60" height="76" rx="4" fill="#fff" stroke="#d9c3ba" stroke-width="2" transform="rotate(-6 54 58)"/>
+          <rect x="40" y="14" width="60" height="76" rx="4" fill="#fff" stroke="#d9c3ba" stroke-width="2"/>
+          <g stroke="#cbb6ad" stroke-width="2.5"><line x1="50" y1="30" x2="90" y2="30"/><line x1="50" y1="40" x2="90" y2="40"/><line x1="50" y1="50" x2="78" y2="50"/></g>
+          <text x="70" y="76" text-anchor="middle" font-size="13" font-weight="800" fill="#b5603f">진단서</text>
+          <circle cx="112" cy="70" r="20" fill="#f6e6e0"/><path d="M104,70 l14,0 M111,63 l0,14" stroke="#b5603f" stroke-width="3" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <p>진단서·영수증·세부내역 <b>직접 발급</b><br />→ 팩스·방문·우편 제출</p>
+    </div>
+
+    <div class="arrow">→</div>
+
+    <div class="card new">
+      <span class="tag">지금 (실손24)</span>
+      <div class="scene">
+        <svg width="150" height="112" viewBox="0 0 150 112">
+          <rect x="52" y="10" width="46" height="92" rx="9" fill="#0d9488"/>
+          <rect x="57" y="20" width="36" height="66" rx="3" fill="#e6f6f3"/>
+          <path d="M67,52 l6,7 12,-15" fill="none" stroke="#0d9488" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="75" cy="94" r="3" fill="#e6f6f3"/>
+          <path d="M108,40 q12,-6 12,8 q0,10 -12,14" fill="none" stroke="#0d9488" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 4"/>
+        </svg>
+      </div>
+      <p>앱에서 <b>진료내역 선택</b>만 하면<br />→ 보험사로 자동 전송 (10분)</p>
+    </div>
+  </div>
+
+  <div style="margin-top:16px;background:#e3f0ef;border-radius:12px;padding:13px 18px;font-size:13px;color:#3f5f5d;line-height:1.6;text-align:center;">서류 떼러 병원 다시 안 가도 돼요. <b style="color:#0d8074;">종이 없이 앱으로</b> 끝나는 게 핵심이에요</div>
+</div>
