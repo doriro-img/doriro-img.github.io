@@ -1,0 +1,35 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f1f1fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a2a3a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b80; margin-bottom: 16px; font-weight: 600; }
+  .list { display: flex; flex-direction: column; gap: 9px; margin-bottom: 13px; }
+  .item { background: #fff; border-radius: 12px; padding: 12px 18px; display: flex; align-items: center; gap: 15px;
+    box-shadow: 0 4px 12px rgba(80,80,180,.06); border: 1px solid #e2e2f2; }
+  .tag { flex: none; width: 82px; text-align: center; font-size: 13.5px; font-weight: 800; padding: 6px 0; border-radius: 8px; }
+  .t-free { background: #e2f6ee; color: #2f9e78; } .t-pro { background: #ecebfb; color: #6366e0; }
+  .t-m5 { background: #efe6fb; color: #7a4bc4; } .t-m20 { background: #e4e2f8; color: #4a4bc4; }
+  .tx { font-size: 13.8px; color: #44445a; line-height: 1.45; }
+  .tx b { color: #2a2a3a; }
+  .foot { background: #4a4bc4; border-radius: 12px; padding: 13px 18px; color: #fff;
+    font-size: 13.5px; line-height: 1.6; font-weight: 600; text-align: center; }
+  .foot b { color: #ffd97a; }
+</style>
+
+<div id="art">
+  <h1>나는 뭘 써야 할까요?</h1>
+  <p class="sub">'얼마나 자주 쓰냐'로 답이 나와요</p>
+
+  <div class="list">
+    <div class="item"><div class="tag t-free">무료</div><div class="tx">가끔 써보거나 <b>ChatGPT·제미나이랑 비교</b>해보는 맛보기용</div></div>
+    <div class="item"><div class="tag t-pro">Pro</div><div class="tx">매일 일상 업무에 쓰는 <b>1인 사용자</b>. 가벼운 작업, 바이브코딩 입문</div></div>
+    <div class="item"><div class="tag t-m5">Max 5x</div><div class="tx">매일 본격 활용. <b>개발·대량 콘텐츠 작업</b>을 돌리는 사람</div></div>
+    <div class="item"><div class="tag t-m20">Max 20x</div><div class="tx">하루 종일 붙어 쓰는 <b>헤비 유저</b>. 대량 자동화</div></div>
+  </div>
+
+  <div class="foot">자주 막히면 <b>올리고</b>, 많이 남으면 <b>내리면</b> 돼요. 플랜을 바꿔도 대화·설정은 그대로 유지돼요</div>
+</div>

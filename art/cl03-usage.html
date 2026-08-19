@@ -1,0 +1,45 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f1f1fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a2a3a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b80; margin-bottom: 16px; font-weight: 600; }
+  .two { display: flex; gap: 12px; margin-bottom: 13px; }
+  .c { flex: 1; background: #fff; border-radius: 13px; padding: 15px 18px; border: 1px solid #e2e2f2;
+    box-shadow: 0 5px 13px rgba(80,80,180,.06); }
+  .c .h { font-size: 14.5px; font-weight: 800; color: #6366e0; margin-bottom: 4px; }
+  .c .d { font-size: 13px; color: #55556a; line-height: 1.55; font-weight: 600; }
+  .c .d b { color: #4a4bc4; }
+  .bars { background: #fff; border-radius: 13px; padding: 15px 20px; border: 1px solid #e2e2f2; margin-bottom: 12px;
+    box-shadow: 0 5px 13px rgba(80,80,180,.06); }
+  .bar { display: flex; align-items: center; gap: 12px; margin: 7px 0; }
+  .bar .lb { width: 78px; font-size: 12.5px; font-weight: 800; color: #3a3a4a; }
+  .bar .track { flex: 1; height: 18px; background: #eeedf8; border-radius: 9px; overflow: hidden; }
+  .bar .fill { height: 100%; border-radius: 9px; }
+  .bar .vv { width: 42px; font-size: 12px; font-weight: 800; color: #6366e0; text-align: right; }
+  .warn { background: #edecfb; border: 1.5px solid #d4d3f2; border-radius: 12px; padding: 12px 18px;
+    font-size: 13px; color: #4a4bc4; line-height: 1.6; font-weight: 600; }
+  .warn b { color: #3634a8; }
+</style>
+
+<div id="art">
+  <h1>사용량 한도는 어떻게 되나요?</h1>
+  <p class="sub">5시간 + 주간, 두 겹으로 걸려요</p>
+
+  <div class="two">
+    <div class="c"><div class="h">① 5시간 한도</div><div class="d">몇 시간 쓰면 잠깐 쉬어야 해요. <b>시간 지나면 리셋</b>돼요</div></div>
+    <div class="c"><div class="h">② 주간 한도</div><div class="d">일주일 총량 제한. <b>시간 나눠도 못 피해요</b> (주 1회 리셋)</div></div>
+  </div>
+
+  <div class="bars">
+    <div class="bar"><div class="lb">무료</div><div class="track"><div class="fill" style="width:6%;background:#a9d9c4"></div></div><div class="vv">기준</div></div>
+    <div class="bar"><div class="lb">Pro</div><div class="track"><div class="fill" style="width:24%;background:#8f91ea"></div></div><div class="vv">×1</div></div>
+    <div class="bar"><div class="lb">Max 5x</div><div class="track"><div class="fill" style="width:55%;background:#6a5be0"></div></div><div class="vv">×5</div></div>
+    <div class="bar"><div class="lb">Max 20x</div><div class="track"><div class="fill" style="width:100%;background:#4a4bc4"></div></div><div class="vv">×20</div></div>
+  </div>
+
+  <div class="warn"><b>중요 —</b> Claude Code · 데스크톱 · claude.ai(웹)를 <b>다 같은 통에서 차감</b>해요. 웹에서 많이 쓰면 Claude Code 몫도 줄어드는 구조예요</div>
+</div>

@@ -1,0 +1,34 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f1f1fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2a2a3a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b80; margin-bottom: 18px; font-weight: 600; }
+  .row { display: flex; gap: 12px; }
+  .c { flex: 1; background: #fff; border-radius: 14px; padding: 16px 14px; text-align: center;
+    box-shadow: 0 5px 13px rgba(80,80,180,.08); border: 1px solid #e2e2f2; }
+  .c.hot { border: 2px solid #6366e0; }
+  .c .nm { font-size: 15px; font-weight: 800; }
+  .free .nm { color: #35b37e; } .pro .nm { color: #6366e0; } .m5 .nm, .m20 .nm { color: #4a4bc4; }
+  .c .pr { font-size: 21px; font-weight: 800; color: #2a2a3a; margin: 6px 0 1px; }
+  .c .pr small { font-size: 12px; color: #8a8a9a; font-weight: 700; }
+  .c .cap { font-size: 11.5px; color: #7a7a90; font-weight: 700; line-height: 1.4; }
+  .badge { display: inline-block; margin-top: 7px; font-size: 11px; font-weight: 800; padding: 3px 9px; border-radius: 20px; }
+  .free .badge { background: #e2f6ee; color: #35b37e; } .pro .badge { background: #ecebfb; color: #6366e0; }
+  .m5 .badge, .m20 .badge { background: #efe6fb; color: #7a4bc4; }
+</style>
+
+<div id="art">
+  <h1>클로드 요금제, 크게 4가지예요</h1>
+  <p class="sub">2026년 8월 기준이에요 (요금·정책은 바뀔 수 있어요)</p>
+
+  <div class="row">
+    <div class="c free"><div class="nm">무료</div><div class="pr">$0</div><div class="cap">맛보기용<br/>일일 제한 있음</div><div class="badge">기본</div></div>
+    <div class="c pro hot"><div class="nm">Pro</div><div class="pr">$20<small>/월</small></div><div class="cap">무료의 5배<br/>기능 대부분 열림</div><div class="badge">입문 추천</div></div>
+    <div class="c m5"><div class="nm">Max 5x</div><div class="pr">$100<small>/월</small></div><div class="cap">Pro의 5배<br/>사용량</div><div class="badge">본격 활용</div></div>
+    <div class="c m20"><div class="nm">Max 20x</div><div class="pr">$200<small>/월</small></div><div class="cap">Pro의 20배<br/>사용량</div><div class="badge">헤비 유저</div></div>
+  </div>
+</div>
