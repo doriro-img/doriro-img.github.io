@@ -1,0 +1,39 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 62px; background: linear-gradient(160deg,#eef3fc,#cbdaf3);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #14284a;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #2563cc; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 30px; }
+  h1 { font-size: 58px; line-height: 1.22; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #d9584a; }
+  .sub { margin-top: 26px; font-size: 24px; color: #46608a; font-weight: 600; }
+  .sub b { color: #158a44; }
+  .ill { position: absolute; top: 94px; right: 54px; filter: drop-shadow(0 12px 24px rgba(30,70,160,.16)); }
+  .foot { position: absolute; bottom: 56px; right: 62px; font-size: 20px; color: #7089b0; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="240" height="200" viewBox="0 0 240 200">
+      <!-- 반짝임 -->
+      <path d="M70,40 l3,8 8,3 -8,3 -3,8 -3,-8 -8,-3 8,-3 Z" fill="#f2d572"/>
+      <!-- 동전 스택 -->
+      <ellipse cx="128" cy="112" rx="52" ry="17" fill="#dcae42"/>
+      <ellipse cx="128" cy="98" rx="52" ry="17" fill="#e8c358"/>
+      <ellipse cx="128" cy="84" rx="52" ry="17" fill="#f2d572"/>
+      <text x="128" y="91" text-anchor="middle" font-size="24" font-weight="800" fill="#b5860f">₩</text>
+      <!-- 손바닥 -->
+      <path d="M40,130 Q40,120 52,122 L96,130 Q128,116 160,130 L204,122 Q216,120 216,132 Q216,168 168,176 L88,176 Q40,168 40,132 Z" fill="#f0c9a8"/>
+      <path d="M40,132 Q40,168 88,176 L168,176 Q216,168 216,132" fill="none" stroke="#e0b48c" stroke-width="3"/>
+    </svg>
+  </div>
+
+  <div class="tag">정부 지원금</div>
+  <h1>신청 안 하면<br /><span class="hl">못 받는 지원금</span></h1>
+  <p class="sub">보조금24로 한 번에 조회 · <b>전부 무료</b></p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
