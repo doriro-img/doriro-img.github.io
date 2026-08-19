@@ -1,0 +1,45 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #eef4f4;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #26384a; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #5f7480; margin-bottom: 18px; font-weight: 600; }
+  .list { display: flex; flex-direction: column; gap: 11px; }
+  .item { background: #fff; border-radius: 14px; padding: 15px 18px; border: 1px solid #d8e6e3;
+    box-shadow: 0 5px 13px rgba(40,110,100,.06); display: flex; gap: 15px; align-items: flex-start; }
+  .tag { flex: none; width: 58px; height: 58px; border-radius: 13px; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; color: #fff; }
+  .t1 { background: #218b82; } .t2 { background: #3a7ca5; } .t3 { background: #9aa6ae; }
+  .tag .k { font-size: 11px; font-weight: 700; opacity: .9; }
+  .tag .n { font-size: 20px; font-weight: 800; }
+  .bd .nm { font-size: 15.5px; font-weight: 800; color: #26384a; }
+  .bd .nm span { font-size: 12.5px; font-weight: 700; color: #218b82; margin-left: 6px; }
+  .bd .d { font-size: 13px; color: #5f7480; line-height: 1.5; margin-top: 3px; }
+  .bd .d b { color: #3a4a5a; }
+</style>
+
+<div id="art">
+  <h1>간병인보험, 종류부터 헷갈려요</h1>
+  <p class="sub">이 셋을 구분해야 헛돈 안 써요</p>
+
+  <div class="list">
+    <div class="item">
+      <div class="tag t1"><span class="k">보험</span><span class="n">1</span></div>
+      <div class="bd"><div class="nm">간병인지원 입원일당 <span>가장 흔함</span></div>
+      <div class="d">보험사가 <b>간병인을 붙여주거나 일당</b>을 줘요. 편한 대신 대부분 갱신형이에요</div></div>
+    </div>
+    <div class="item">
+      <div class="tag t2"><span class="k">보험</span><span class="n">2</span></div>
+      <div class="bd"><div class="nm">간병비 보험 <span>청구형</span></div>
+      <div class="d">내가 직접 고용하고 <b>영수증으로 청구</b>해요. 번거롭지만 비갱신·가족간병 인정 상품도 있어요</div></div>
+    </div>
+    <div class="item">
+      <div class="tag t3"><span class="k">건보</span><span class="n">3</span></div>
+      <div class="bd"><div class="nm">간호·간병 통합서비스 <span>보험 아님</span></div>
+      <div class="d">이건 사보험이 아니라 <b>건강보험이 적용되는 병동</b>이에요. 보호자 없이 간호팀이 돌봐줘요</div></div>
+    </div>
+  </div>
+</div>
