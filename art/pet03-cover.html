@@ -1,0 +1,45 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #fdf5ee;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #3a2d26; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a7566; margin-bottom: 16px; font-weight: 600; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .chip { background: #fff; border: 1px solid #f0e2d5; border-radius: 20px; padding: 8px 15px; font-size: 13px; font-weight: 700; color: #4a3a30;
+    box-shadow: 0 3px 8px rgba(150,90,50,.05); }
+  .chip .dot { color: #2fa39a; font-weight: 800; margin-right: 5px; }
+  .barwrap { background: #fff; border-radius: 14px; padding: 17px 20px; border: 1px solid #f0e2d5; box-shadow: 0 5px 13px rgba(150,90,50,.06); }
+  .barwrap .lbl { font-size: 13.5px; font-weight: 700; color: #5a4a40; margin-bottom: 10px; }
+  .barwrap .lbl b { color: #d85f3c; }
+  .bar { display: flex; height: 46px; border-radius: 10px; overflow: hidden; font-size: 14px; font-weight: 800; color: #fff; }
+  .ins { flex: 7; background: #ee7a55; display: flex; align-items: center; justify-content: center; }
+  .me { flex: 3; background: #b9a595; display: flex; align-items: center; justify-content: center; }
+  .cap { display: flex; justify-content: space-between; margin-top: 8px; font-size: 12.5px; font-weight: 700; }
+  .cap .a { color: #d85f3c; } .cap .b { color: #8a7566; }
+</style>
+
+<div id="art">
+  <h1>뭘, 얼마나 보장해주나요?</h1>
+  <p class="sub">보통 70%까지, 나머지는 내 몫이에요 (자기부담)</p>
+
+  <div class="chips">
+    <div class="chip"><span class="dot">✓</span>입원·통원 치료비</div>
+    <div class="chip"><span class="dot">✓</span>수술비</div>
+    <div class="chip"><span class="dot">✓</span>MRI·CT 검사</div>
+    <div class="chip"><span class="dot">✓</span>슬개골·고관절</div>
+    <div class="chip"><span class="dot">✓</span>피부·구강 질환</div>
+    <div class="chip"><span class="dot">✓</span>(특약) 배상책임 등</div>
+  </div>
+
+  <div class="barwrap">
+    <div class="lbl">예를 들어 병원비가 <b>100만원</b> 나오면 (70% 보장 기준)</div>
+    <div class="bar">
+      <div class="ins">보험이 70만원</div>
+      <div class="me">내 돈 30만</div>
+    </div>
+    <div class="cap"><span class="a">보험사 부담</span><span class="b">자기부담금</span></div>
+  </div>
+</div>
