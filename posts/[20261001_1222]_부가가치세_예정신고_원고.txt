@@ -1,0 +1,222 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 1일 12:22
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261001_1222]_부가가치세_예정신고\
+   ├── 📄 [원고 파일]: [20261001_1222]_부가가치세_예정신고_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-vat.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261001_1222]_부가가치세_예정신고_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-vat.html
+
+■ 제목: 부가가치세 예정신고 10월 25일. 개인사업자 예정고지 안 내도 되는 경우 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 부가가치세예정신고, 부가세예정고지, 부가세신고기간, 개인사업자부가세, 법인부가세, 홈택스부가세, 예정고지50만원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>부가가치세 예정신고 10월 25일. 개인사업자 예정고지 안 내도 되는 경우 정리</p>
+
+<h2>10월 부가세, 신고하는 사람과 고지서만 받는 사람이 갈립니다</h2>
+
+<p>부가가치세 예정신고 기간은 <b>10월 1일부터 10월 25일까지</b>입니다. 7월부터 9월까지의 실적을 신고하는 거예요.</p>
+
+<p>결론부터 말하면 <b>개인 일반과세자는 신고를 안 합니다.</b> 세무서가 보내주는 예정고지서로 납부만 하면 끝입니다.</p>
+
+<p>직접 신고해야 하는 쪽은 <b>법인사업자</b>입니다. 여기서 헷갈려서 매년 가산세를 무는 분들이 나오더라고요.</p>
+
+<p>제 지인이 작년에 개인사업자인데 신고해야 하는 줄 알고 세무서에 전화를 돌렸다고 하더라고요. 고지서 나올 때까지 기다리면 되는 거였는데 말이죠.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">내가 어느 쪽인지부터 보세요</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 210px;padding:20px 18px;border-right:1px solid #eef1f4;">
+<svg width="46" height="46" viewBox="0 0 46 46" style="margin-bottom:8px;"><rect x="9" y="5" width="28" height="36" rx="3" fill="#fff" stroke="#1f4a7a" stroke-width="2"/><rect x="14" y="13" width="18" height="2.6" rx="1.3" fill="#8ba4bd"/><rect x="14" y="20" width="18" height="2.6" rx="1.3" fill="#8ba4bd"/><rect x="14" y="27" width="11" height="2.6" rx="1.3" fill="#8ba4bd"/><circle cx="33" cy="33" r="9" fill="#1f4a7a"/><path d="M29 33.2l3 3 5.5-5.8" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:9px;">직접 신고합니다</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">법인사업자<br />조기환급 받을 사업자<br />실적이 3분의 1로 준 개인</div>
+</div>
+<div style="flex:1 1 210px;padding:20px 18px;">
+<svg width="46" height="46" viewBox="0 0 46 46" style="margin-bottom:8px;"><rect x="5" y="12" width="36" height="24" rx="3" fill="#fff" stroke="#1d6b5c" stroke-width="2"/><path d="M5.5 14L23 26 40.5 14" stroke="#1d6b5c" stroke-width="2" fill="none" stroke-linejoin="round"/><rect x="27" y="4" width="14" height="10" rx="2" fill="#1d6b5c"/><rect x="30" y="8" width="8" height="2.2" rx="1.1" fill="#fff"/></svg>
+<div style="font-size:13px;color:#1d6b5c;font-weight:800;margin-bottom:9px;">고지서로 납부만</div>
+<div style="font-size:13.5px;color:#3f5a55;line-height:1.9;">개인 일반과세자<br />직전 실적 1.5억 미만 법인<br />신고 자체가 없습니다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>개인 일반과세자</b>는 예정신고 없이 세무서가 보낸 <b>예정고지서</b>로 납부만 합니다</li>
+<li><b>법인사업자</b>는 10월 1일부터 25일까지 직접 예정신고를 해야 합니다</li>
+<li>직전 과세기간 공급가액이 <b>1억 5천만원 미만인 법인</b>은 법인이어도 예정고지 대상입니다</li>
+</ul>
+
+<h2>올해는 기한이 하루 밀립니다</h2>
+
+<p>2026년 10월 25일은 <b>일요일</b>입니다. 신고와 납부 기한이 공휴일이면 그다음 영업일로 넘어갑니다.</p>
+
+<p>그래서 실제 마감은 <b>10월 26일 월요일</b>이 됩니다. 국세기본법에 기한 연장 조항이 있어서 그렇습니다.</p>
+
+<p>하루 벌었다고 미루면 그날 홈택스가 몰려서 느립니다. 23일 금요일까지 끝내두는 게 마음 편해요.</p>
+
+<h3>예정고지세액은 어떻게 계산되나요?</h3>
+
+<p>복잡한 계산이 아닙니다. <b>직전 과세기간 납부세액의 50%</b>가 그대로 고지됩니다.</p>
+
+<p>올해 7월에 확정신고하면서 낸 세액이 200만원이었다면 이번 예정고지는 100만원입니다.</p>
+
+<p>이건 미리 내는 돈이라 사라지는 게 아니에요. 내년 1월 확정신고 때 <b>기납부세액</b>으로 빠집니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#dae7f4);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">예정고지 계산 흐름</div>
+<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+<div style="flex:1 1 120px;background:#fff;border-radius:11px;padding:15px 12px;text-align:center;">
+<div style="font-size:11.5px;color:#6b7885;font-weight:700;">1기 확정 납부세액</div>
+<div style="font-size:24px;font-weight:800;color:#1f4a7a;margin-top:5px;">200만원</div>
+</div>
+<div style="font-size:26px;color:#8ba4bd;font-weight:800;">÷2</div>
+<div style="flex:1 1 120px;background:#1f4a7a;border-radius:11px;padding:15px 12px;text-align:center;">
+<div style="font-size:11.5px;color:#b9cee4;font-weight:700;">10월 예정고지</div>
+<div style="font-size:24px;font-weight:800;color:#fff;margin-top:5px;">100만원</div>
+</div>
+<div style="font-size:26px;color:#8ba4bd;font-weight:800;">→</div>
+<div style="flex:1 1 130px;background:#fff;border-radius:11px;padding:15px 12px;text-align:center;">
+<div style="font-size:11.5px;color:#6b7885;font-weight:700;">내년 1월 확정신고</div>
+<div style="font-size:17px;font-weight:800;color:#1d7050;margin-top:7px;">기납부세액 차감</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>예정고지세액은 <b>직전 과세기간 납부세액의 50%</b>로 자동 계산됩니다</li>
+<li>미리 낸 돈이라 <b>내년 1월 확정신고</b>에서 기납부세액으로 빠집니다</li>
+<li>고지서는 보통 <b>10월 초</b>에 우편과 홈택스로 함께 옵니다</li>
+</ul>
+
+<h2>50만원 미만이면 고지서 자체가 안 옵니다</h2>
+
+<p>예정고지할 금액이 <b>50만원 미만</b>이면 세무서가 징수를 생략합니다. 부가가치세법에 있는 조항이에요.</p>
+
+<p>그러니까 고지서가 안 왔다고 놀랄 필요가 없습니다. 금액이 작아서 안 온 것일 수 있습니다.</p>
+
+<p>이 경우엔 10월에 낼 게 아예 없습니다. 내년 1월 확정신고 때 6개월치를 한 번에 정산하면 됩니다.</p>
+
+<h3>고지서가 왔는데 매출이 확 줄었다면</h3>
+
+<p>여기가 사람들이 제일 많이 놓치는 부분입니다. 고지서 금액은 <b>지난 상반기 기준</b>이라 지금 사정을 반영하지 못해요.</p>
+
+<p>휴업이나 사업 부진으로 공급가액 또는 납부세액이 직전 과세기간의 <b>3분의 1에 못 미치면</b> 개인사업자도 예정신고를 할 수 있습니다.</p>
+
+<p>이때는 실제 실적으로 신고하는 거라 고지서보다 훨씬 적게 냅니다. 예정신고를 하면 <b>고지는 자동으로 취소</b>됩니다.</p>
+
+<p>매입이 매출보다 커서 돌려받을 게 있는 <b>조기환급</b> 상황도 마찬가지로 예정신고를 하는 쪽이 유리하고요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">이런 상황이면</div><div style="flex:1;text-align:right;">10월에 할 일</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">개인 일반과세자, 평소대로 영업</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">고지서로 납부</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">고지세액이 50만원 미만</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">낼 것 없음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">실적이 3분의 1 밑으로 급감</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">예정신고 선택</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">간이과세자</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">10월엔 해당 없음</div>
+</div>
+</div>
+
+<ul>
+<li>예정고지 금액이 <b>50만원 미만</b>이면 고지 자체가 생략됩니다</li>
+<li>실적이 직전 과세기간의 <b>3분의 1에 미달</b>하면 개인도 예정신고를 선택할 수 있습니다</li>
+<li>예정신고를 하면 <b>이미 나온 고지는 취소</b>되고 실제 실적대로 냅니다</li>
+</ul>
+
+<h2>간이과세자는 10월에 할 게 없습니다</h2>
+
+<p>간이과세자는 과세기간이 <b>1년</b>입니다. 1월 1일부터 12월 31일까지를 한 번에 봐요.</p>
+
+<p>그래서 신고는 다음 해 <b>1월 1일부터 25일까지</b> 한 번만 합니다. 10월 예정신고와는 상관이 없습니다.</p>
+
+<p>다만 간이과세자도 상반기분에 대해 <b>7월에 예정부과</b> 고지서를 받는 경우가 있습니다. 그건 이미 지난 일이고요.</p>
+
+<h3>준비할 서류는 뭐가 있나요?</h3>
+
+<p>법인 예정신고를 직접 한다면 챙길 게 정해져 있습니다.</p>
+
+<ul>
+<li>전자세금계산서 매출·매입 내역 (홈택스에서 자동으로 불러옵니다)</li>
+<li>신용카드 매출자료와 현금영수증 발행분</li>
+<li>사업용 신용카드 매입 내역 (홈택스에 등록해두면 조회됩니다)</li>
+<li>세관장이 발급한 수입세금계산서</li>
+</ul>
+
+<p>홈택스에 <b>사업용 신용카드를 등록</b>해두지 않았다면 지금이라도 등록하세요. 매입세액 공제를 놓치는 제일 흔한 이유입니다.</p>
+
+<h2>기한을 넘기면 붙는 돈</h2>
+
+<p>가산세가 생각보다 아픕니다. 신고를 아예 안 하면 <b>무신고 가산세 20%</b>가 붙어요.</p>
+
+<p>적게 신고한 경우는 <b>과소신고 가산세 10%</b>입니다. 부정한 방법이면 40%까지 올라갑니다.</p>
+
+<p>납부를 늦게 하면 별도로 <b>납부지연 가산세</b>가 하루 단위로 붙습니다. 하루 0.022%라 연으로 환산하면 8%가 넘어요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">돈이 없을 때</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">부가세는 <b style="color:#ff8a7a;">분납 제도가 없습니다.</b> 대신 사업에 현저한 손실이 있으면 <b style="color:#ffd97a;">납부기한 연장</b>을 신청할 수 있어요. 기한이 지나기 <b style="color:#ffd97a;">전에</b> 신청해야 합니다. 지나고 나면 그냥 체납입니다.</p>
+</div>
+
+<ul>
+<li>무신고 가산세는 <b>20%</b>, 과소신고는 <b>10%</b>가 기본입니다</li>
+<li>납부지연 가산세는 <b>하루 0.022%</b>로 따로 계산됩니다</li>
+<li>부가세는 분납이 안 되고 <b>납부기한 연장</b>을 기한 전에 신청해야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>부가세 예정신고 기간은 10월 1일부터 25일, 올해는 일요일이라 26일까지다</p>
+<p>개인 일반과세자는 신고 없이 예정고지서로 납부만 한다</p>
+<p>예정고지는 직전 과세기간 납부세액의 50%이고 50만원 미만이면 생략된다</p>
+<p>실적이 3분의 1 밑으로 줄었으면 개인도 예정신고를 골라 덜 낼 수 있다</p>
+<p>간이과세자는 10월이 아니라 내년 1월에 한 번만 신고한다</p>
+</blockquote>
+
+<p>고지서가 왔는데 요즘 장사가 안 된다면 그 3분의 1 조건을 꼭 계산해보세요. 여기서 몇십만원이 왔다 갔다 합니다.</p>
+
+<p>저는 이런 건 달력에 미리 찍어둡니다. 안 그러면 꼭 마지막 날에 생각나더라고... 그게 제일 위험한 거지.</p>
+
+<p>업종별로 공제 항목이 달라서 금액이 크면 세무대리인에게 한 번 확인받는 쪽이 안전합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 부가가치세 제2기 예정신고·납부 기간: 10월 1일 ~ 10월 25일 (7/1~9/30 실적)
+ · 2026년 10월 25일은 일요일 → 국세기본법 기한 특례로 10월 26일 월요일까지 (달력 계산으로 확인)
+ · 개인 일반과세자는 예정신고 없이 직전 과세기간 납부세액의 50% 예정고지
+ · 예정고지 세액 50만원 미만이면 징수 생략 (부가가치세법 제48조)
+ · 직전 과세기간 공급가액 합계 1억 5천만원 미만 법인은 예정고지 대상
+ · 휴업·사업부진으로 실적이 직전 과세기간의 1/3에 미달하거나 조기환급 시 개인도 예정신고 가능
+ · 간이과세자 과세기간은 1년, 신고는 다음 해 1월 1일~25일
+ · 무신고 가산세 20%, 과소신고 10%, 납부지연 1일 0.022%
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 예정고지서 발송 시점은 통상 10월 초이나 세무서별로 차이가 있어 "보통"으로 적었습니다
+ · 납부지연 가산세율은 개정 이력이 있어 발행 전 국세청 최신 고시 확인 권장
+ · 부정 무신고 40% 가산세는 요건이 까다로워 본문에서 자세히 풀지 않았습니다
+ · 업종별 매입세액 불공제 항목은 범위가 넓어 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "지인이 개인사업자인데 신고해야 하는 줄 알고 세무서에 전화했다"는 설정입니다

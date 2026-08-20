@@ -1,0 +1,219 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 31일 18:52
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261031_1852]_차량_김서림_제거\
+   ├── 📄 [원고 파일]: [20261031_1852]_차량_김서림_제거_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-defog.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261031_1852]_차량_김서림_제거_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-defog.html
+
+■ 제목: 겨울 차량 앞유리 김서림 빠르게 없애는 법. 에어컨을 켜야 하는 이유
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 자동차김서림, 앞유리성에, 디포그, 에어컨제습, 외기순환, 성에제거, 겨울차량관리
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 차량 앞유리 김서림 빠르게 없애는 법. 에어컨을 켜야 하는 이유</p>
+
+<h2>겨울에도 에어컨을 켜는 게 맞습니다</h2>
+
+<p>겨울에 앞유리가 뿌옇게 되면 대부분 히터만 세게 틉니다. 그런데 그것만으로는 느려요.</p>
+
+<p>결론부터 말하면 <b>에어컨을 함께 켜야</b> 가장 빠릅니다. 에어컨은 <b>제습</b> 기능이 있거든요.</p>
+
+<p>김서림은 <b>습기</b>가 유리에 맺힌 겁니다. 공기 중 물기를 빼면 바로 사라져요.</p>
+
+<p>겨울에 에어컨을 켜면 추울 것 같은데 <b>히터와 같이 쓰면</b> 따뜻하면서 습기만 빠지더라고요.</p>
+
+<div style="border:1px solid #e2e6e8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3d5566;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">가장 빠른 조합</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:40px;height:40px;border-radius:50%;background:#3d5566;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">앞유리 방향</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">디포그 버튼</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:40px;height:40px;border-radius:50%;background:#5c7484;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">에어컨 켜기</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">제습 작동</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:40px;height:40px;border-radius:50%;background:#7d95a4;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">외기 순환</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">내기 순환 해제</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:40px;height:40px;border-radius:50%;background:#a9bcc8;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#2b3f4d;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">풍량 최대</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">잠깐만</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>바람을 <b>앞유리 방향</b>으로 보내는 디포그 버튼을 누릅니다</li>
+<li><b>에어컨</b>을 함께 켜면 제습이 되어 훨씬 빠릅니다</li>
+<li><b>외기 순환</b>으로 바꿔야 습기가 밖으로 빠집니다</li>
+</ul>
+
+<h2>내기 순환이 문제입니다</h2>
+
+<p>내기 순환은 <b>차 안 공기를 계속 돌리는</b> 모드입니다. 밖이 매연이 심할 때 씁니다.</p>
+
+<p>그런데 사람이 내쉬는 숨에 습기가 있습니다. 이걸 계속 돌리면 <b>습도가 올라가요.</b></p>
+
+<p>그래서 김서림이 더 심해집니다. <b>외기 순환</b>으로 바꿔야 마른 바깥 공기가 들어옵니다.</p>
+
+<p>겨울 바깥 공기는 대체로 건조합니다. 그래서 외기 순환이 김서림에 유리해요.</p>
+
+<blockquote>
+<p>내기 순환 = 습기가 갇힘 = 김서림 심해짐</p>
+<p>외기 순환 = 마른 공기 유입 = 김서림 해소</p>
+</blockquote>
+
+<h3>바깥에 성에가 낀 경우는 다릅니다</h3>
+
+<p>안쪽이 아니라 <b>바깥쪽</b>에 얼음이 낀 거라면 얘기가 달라집니다.</p>
+
+<p>이건 히터로 유리를 데워서 녹여야 합니다. <b>시간이 걸려요.</b></p>
+
+<p>급하면 <b>미지근한 물</b>을 부어 녹입니다. 뜨거운 물은 절대 안 됩니다. 유리가 깨질 수 있어요.</p>
+
+<p>플라스틱 <b>성에 제거기</b>로 긁는 게 안전합니다. 금속으로 긁으면 유리에 흠이 납니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef3f6,#dae4ea);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3d5566;margin-bottom:16px;">안쪽인지 바깥쪽인지부터</div>
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#2b3f4d;margin-bottom:10px;">안쪽 김서림</div>
+<div style="font-size:13px;color:#41586b;line-height:1.95;">손으로 닦으면 지워짐<br />에어컨 + 외기 순환<br />앞유리 방향 송풍<br />몇 초면 해결</div>
+</div>
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#2b3f4d;margin-bottom:10px;">바깥쪽 성에</div>
+<div style="font-size:13px;color:#41586b;line-height:1.95;">안에서 닦아도 그대로<br />히터로 유리 가열<br />미지근한 물 또는 스크래퍼<br />시간이 걸림</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>안쪽 김서림은 <b>에어컨과 외기 순환</b>으로 몇 초면 해결됩니다</li>
+<li>바깥쪽 성에는 <b>히터로 유리를 데워</b> 녹여야 합니다</li>
+<li><b>뜨거운 물</b>을 부으면 유리가 깨질 수 있습니다</li>
+</ul>
+
+<h2>미리 막는 방법</h2>
+
+<p>차 안 <b>습기 자체</b>를 줄이면 김서림이 덜 생깁니다.</p>
+
+<p>젖은 우산이나 신발을 차 안에 두면 습기가 계속 나옵니다. <b>바로 빼내세요.</b></p>
+
+<p>바닥 매트에 물이 고여 있으면 말려야 합니다. <b>발판 아래</b>도 확인해보세요.</p>
+
+<p><b>제습제</b>를 차 안에 두면 도움이 됩니다. 시중에 차량용 제품이 있습니다.</p>
+
+<h3>유리 안쪽을 닦아두세요</h3>
+
+<p>유리 안쪽에 <b>기름 성분</b>이 묻어 있으면 김서림이 더 잘 생기고 잘 안 지워집니다.</p>
+
+<p>담배 연기나 대시보드 광택제 성분이 유리에 붙습니다.</p>
+
+<p>유리 전용 세정제로 <b>안쪽을 닦아두면</b> 시야가 훨씬 깨끗해집니다.</p>
+
+<p><b>김서림 방지제</b>를 바르는 방법도 있습니다. 효과가 며칠에서 몇 주 갑니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">방법</div><div style="flex:1;text-align:right;">효과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">에어컨 + 외기 순환</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">즉시</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">유리 안쪽 세정</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">예방 효과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">차량용 제습제</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">보조</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">창문 살짝 열기</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">임시방편</div>
+</div>
+</div>
+
+<ul>
+<li>젖은 <b>우산과 신발</b>은 차 안에 두지 마세요</li>
+<li>유리 <b>안쪽</b>을 닦아두면 김서림이 덜 생깁니다</li>
+<li><b>김서림 방지제</b>는 며칠에서 몇 주 효과가 갑니다</li>
+</ul>
+
+<h2>시야를 확보하고 출발하세요</h2>
+
+<p>급하다고 <b>손바닥만큼</b>만 닦고 출발하는 경우가 있습니다. 정말 위험합니다.</p>
+
+<p>사이드미러와 뒷유리까지 <b>시야가 확보된 뒤</b> 움직이세요.</p>
+
+<p>뒷유리는 <b>열선</b>을 켜면 됩니다. 사이드미러 열선이 있는 차도 많습니다.</p>
+
+<p>출발 전 1분 투자가 사고를 막습니다. 겨울에는 <b>여유 있게</b> 나서는 게 맞아요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">주행 중 갑자기 낀다면</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">달리다 갑자기 뿌예지면 <b style="color:#ff8a7a;">억지로 손으로 닦지 마세요.</b> 시야를 더 가립니다. <b style="color:#ffd97a;">디포그를 켜고 속도를 줄이면서</b> 안전한 곳에 잠깐 세우는 게 낫습니다.</p>
+</div>
+
+<ul>
+<li>시야가 <b>충분히 확보된 뒤</b> 출발하세요</li>
+<li>뒷유리와 <b>사이드미러 열선</b>도 함께 씁니다</li>
+<li>주행 중 김이 서리면 <b>손으로 닦지 말고</b> 디포그를 켜세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>김서림은 습기 문제라 제습이 되는 에어컨을 함께 켜야 빠르다</p>
+<p>내기 순환은 습기를 가두므로 외기 순환으로 바꾼다</p>
+<p>바깥쪽 성에는 히터로 데우거나 미지근한 물로 녹인다</p>
+<p>젖은 물건을 차에 두지 말고 유리 안쪽을 닦아두면 예방된다</p>
+<p>시야를 충분히 확보한 뒤 출발한다</p>
+</blockquote>
+
+<p>에어컨 버튼 하나만 더 누르면 됩니다. 히터만 트는 것과 속도가 완전히 달라요.</p>
+
+<p>저는 겨울에 시동 걸면 습관처럼 누릅니다. 그러고 나서 벨트 매면 딱 맞더라고요.</p>
+
+<p>차종마다 공조 조작 방식이 다르니 설명서를 한 번 보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 차량 실내 김서림은 실내 습한 공기가 차가운 유리면에 응결하여 발생
+ · 에어컨(냉방 컴프레서)은 제습 기능이 있어 히터와 함께 사용하면 김서림 제거가 빨라짐
+ · 앞유리 방향 송풍(디포그) 모드와 외기 순환 사용 권장, 내기 순환은 실내 습도를 높여 김서림을 악화시킴
+ · 유리 바깥면 결빙(성에)은 히터로 유리를 가열하거나 미지근한 물·플라스틱 스크래퍼로 제거, 뜨거운 물 사용 시 급격한 온도차로 유리 파손 위험
+ · 금속 도구로 긁으면 유리 손상 우려
+ · 예방: 젖은 우산·신발 등 습기 발생원 제거, 매트 건조, 차량용 제습제 사용, 유리 안쪽 유막 제거, 김서림 방지제 도포
+ · 뒷유리 열선과 사이드미러 열선 기능 활용
+ · 출발 전 전방·후방·측면 시야 확보 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 김서림 방지제의 지속 효과는 제품·환경에 따라 달라 "며칠에서 몇 주"로만 적었습니다
+ · 차종별 공조 조작 방식과 자동 디포그 기능 유무는 다르므로 설명서 확인을 권했습니다
+ · 사이드미러 열선 장착 여부는 차종·트림에 따라 달라 "많다"로만 표현했습니다
+ · 성에 제거에 걸리는 시간은 외기온과 차량 상태에 따라 달라 수치를 적지 않았습니다
+ · 시야 미확보 상태 운전의 법적 제재는 상황별 판단이라 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "시동 걸면 습관처럼 에어컨 버튼을 누른다"는 설정입니다

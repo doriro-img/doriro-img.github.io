@@ -1,0 +1,38 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eff5ef,#cfe0cd);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #22401f;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #4a6b4a; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 56px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #4a6b4a; }
+  .sub { margin-top: 28px; font-size: 25px; color: #5f7f5c; font-weight: 600; }
+  .sub b { color: #38562f; }
+  .grades { position: absolute; top: 118px; right: 60px; display: flex; flex-direction: column; gap: 8px; }
+  .grades div { width: 200px; height: 40px; border-radius: 8px; display: flex; align-items: center;
+    padding-left: 18px; color: #fff; font-size: 20px; font-weight: 800; }
+  .kwh { position: absolute; bottom: 110px; left: 64px; background: #fff; border: 4px solid #4a6b4a;
+    border-radius: 16px; padding: 18px 26px; }
+  .kwh .k { font-size: 15px; font-weight: 800; color: #6b7a6b; }
+  .kwh .v { font-size: 27px; font-weight: 800; color: #2f4d2f; margin-top: 5px; }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #93ab90; font-weight: 700; }
+</style>
+<div id="art">
+  <div class="grades">
+    <div style="background:#1d7050;width:200px;">1등급</div>
+    <div style="background:#6fa05c;width:172px;">2등급</div>
+    <div style="background:#c3c05a;width:144px;">3등급</div>
+    <div style="background:#e8b34a;width:116px;">4등급</div>
+    <div style="background:#c0554a;width:88px;">5등급</div>
+  </div>
+  <div class="tag">가전 고를 때</div>
+  <h1>에너지효율등급<br /><span class="hl">보는 법</span></h1>
+  <p class="sub">등급보다 <b>아래 숫자</b>가 중요합니다</p>
+  <div class="kwh"><div class="k">진짜 비교 기준</div><div class="v">월간 소비전력량 kWh</div></div>
+  <div class="foot">heelovee.tistory.com</div>
+</div>

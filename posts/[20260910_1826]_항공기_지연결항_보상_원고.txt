@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 10일 18:26
+■ 제목: 항공기 지연 결항 보상 기준. 국내선 국제선 배상 비율과 못 받는 경우
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 항공기지연보상, 결항보상, 소비자분쟁해결기준, EU261, 항공사배상
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260910_1826]_항공기_지연결항_보상\
+   ├── 📄 [원고 파일]: [20260910_1826]_항공기_지연결항_보상_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_flightdelay.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260910_1826]_항공기_지연결항_보상_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_flightdelay.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>항공기 지연 결항 보상 기준. 국내선 국제선 배상 비율과 못 받는 경우</p>
+
+<h2>지연 시간에 따라 운임의 10~30%입니다</h2>
+
+<p>항공기 지연이나 결항 보상은 <b>소비자분쟁해결기준</b>에 정해져 있습니다. 지연 시간에 따라 <b>운임의 10%에서 30%</b>를 배상합니다.</p>
+
+<p>결론부터 말하면 <b>기상 악화나 천재지변이면 못 받습니다.</b> 항공사 책임이 명확할 때만 적용돼요.</p>
+
+<p>국내선은 <b>1시간</b>부터, 국제선은 <b>2시간</b>부터 배상 구간이 시작됩니다. 이 선을 못 넘으면 대상이 아닙니다.</p>
+
+<p>추석 연휴에 지연을 겪은 적이 있는데 그때 안내를 제대로 못 받아서 그냥 넘어갔거든요. 나중에 알고 보니 청구할 수 있었더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:10px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#23508c;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">지연 시간별 배상 기준 (운임 기준)</div>
+<div style="display:flex;background:#f2f5f7;padding:11px 16px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">국내선 지연</div><div style="flex:1;text-align:right;">배상률</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">1시간 ~ 2시간</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">10%</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">2시간 ~ 3시간</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">20%</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">3시간 이상</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#b8463a;">30%</div>
+</div>
+<div style="display:flex;background:#f2f5f7;padding:11px 16px;font-size:12.5px;font-weight:800;color:#55606c;border-top:1px solid #e6e9ed;">
+<div style="flex:1.3;">국제선 지연</div><div style="flex:1;text-align:right;">배상률</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">2시간 ~ 4시간</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">10%</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">4시간 ~ 12시간</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">20%</div>
+</div>
+<div style="display:flex;padding:12px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:14px;font-weight:700;">12시간 초과</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#b8463a;">30%</div>
+</div>
+</div>
+
+<ul>
+<li>국내선은 <b>1~2시간 10%</b>, 2~3시간 20%, 3시간 이상 30%입니다</li>
+<li>국제선은 <b>2~4시간 10%</b>, 4~12시간 20%, 12시간 초과 30%입니다</li>
+<li>배상 기준은 <b>지연된 구간의 운임</b>을 기준으로 계산합니다</li>
+</ul>
+
+<p>국내선 지연이 <b>1시간을 못 넘으면</b> 배상 대상이 아닙니다. 국제선은 2시간이 문턱이고요.</p>
+
+<h2>결항은 기준이 다릅니다</h2>
+
+<p>아예 못 뜬 경우는 <b>대체편을 언제 태워줬는지</b>로 갈립니다.</p>
+
+<p>국내선은 <b>1시간에서 3시간 안에</b> 대체편이 제공되면 운임의 20%, 3시간이 넘으면 30%를 배상합니다.</p>
+
+<p>대체편을 아예 제공하지 못했다면 <b>운임 전액 환급</b>과 별도 배상이 이뤄집니다.</p>
+
+<p>국제선 결항은 운임 비율이 아니라 <b>정액 배상</b> 방식이 적용됩니다. 대체편 제공 시점에 따라 금액이 달라져요.</p>
+
+<h2>못 받는 경우가 더 많습니다</h2>
+
+<p>솔직히 말씀드리면 실제로 배상받는 경우가 흔하지는 않습니다. 면책 사유가 넓거든요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">배상 안 되는 경우</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">기상 악화<br />천재지변<br />공항 사정·관제 지연<br />예견하지 못한 정비 결함<br />항공기 접속 관계 (앞 편 지연)</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">배상 가능한 경우</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">항공사 스케줄 조정<br />예약 초과 판매<br />항공사 귀책 정비<br />승무원 문제로 인한 지연</div>
+</div>
+</div>
+
+<ul>
+<li><b>기상 악화와 천재지변</b>은 배상 대상이 아닙니다</li>
+<li><b>공항 사정이나 관제 지연</b>도 면책 사유로 인정됩니다</li>
+<li>항공사의 <b>스케줄 조정이나 초과 판매</b>는 배상 대상입니다</li>
+</ul>
+
+<p>항공사가 "기상 때문"이라고 하면 대부분 거기서 끝나더라고요. 그래서 <b>사유 확인</b>이 중요해요.</p>
+
+<h2>이렇게 하면 그나마 유리합니다</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 130px;background:#eef4fa;border:1px solid #cbdcee;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#23508c;margin-bottom:5px;">1</div>
+<div style="font-size:15px;font-weight:800;color:#17325a;">사유 확인</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">지연 사유서 요청</div>
+</div>
+<div style="flex:1 1 130px;background:#eef4fa;border:1px solid #cbdcee;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#23508c;margin-bottom:5px;">2</div>
+<div style="font-size:15px;font-weight:800;color:#17325a;">증빙 확보</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">안내 문자·전광판</div>
+</div>
+<div style="flex:1 1 130px;background:#eef4fa;border:1px solid #cbdcee;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#23508c;margin-bottom:5px;">3</div>
+<div style="font-size:15px;font-weight:800;color:#17325a;">항공사 청구</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">고객센터 접수</div>
+</div>
+<div style="flex:1 1 130px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">4</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">분쟁 조정</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">소비자원 접수</div>
+</div>
+</div>
+
+<ul>
+<li>현장에서 <b>지연 사유서</b>를 요청해 기록으로 남깁니다</li>
+<li>안내 문자와 <b>전광판 사진</b>을 찍어두면 증빙이 됩니다</li>
+<li>항공사에서 거절당하면 <b>한국소비자원</b>에 분쟁조정을 신청할 수 있습니다</li>
+</ul>
+
+<p>소비자분쟁해결기준은 법이 아니라 <b>권고 기준</b>입니다. 강제력이 약해서 분쟁조정까지 가는 경우가 있어요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7ee0b0;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">유럽 노선은 다릅니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">EU에서 <b style="color:#7ee0b0;">출발</b>하거나 EU 항공사를 탔다면 <b style="color:#7ee0b0;">EU261 규정</b>이 적용됩니다. 운임 비율이 아니라 거리별 <b style="color:#ffd97a;">정액 보상</b>이라 금액이 훨씬 큽니다. 저가 항공권이어도 같은 금액을 받습니다.</p>
+</div>
+
+<ul>
+<li>EU 출발편이나 <b>EU 항공사</b>는 EU261 규정이 적용됩니다</li>
+<li>운임 비율이 아니라 <b>비행 거리별 정액 보상</b>입니다</li>
+<li>싸게 산 항공권이어도 <b>보상 금액은 같습니다</b></li>
+</ul>
+
+<p>유럽 여행에서 3시간 이상 지연됐다면 꼭 확인해보세요. 국내 기준보다 훨씬 유리합니다.</p>
+
+<h2>보상 말고 챙길 것도 있습니다</h2>
+
+<p>배상금과 별개로 <b>식사와 숙박</b> 제공 의무가 있습니다. 장시간 지연이면 항공사가 제공해야 해요.</p>
+
+<p>안 주면 요청하세요. 먼저 말 안 하면 안 챙겨주는 경우가 많습니다.</p>
+
+<p>여행자보험에 <b>항공기 지연 특약</b>이 들어 있는 경우도 있습니다. 영수증을 모아두면 보험으로 처리됩니다.</p>
+
+<p>일부 신용카드도 지연 보상을 제공합니다. 어떤 카드로 결제했는지 확인해보시면 좋아요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>국내선은 1시간, 국제선은 2시간부터 배상 구간이 시작된다</p>
+<p>지연 시간에 따라 운임의 10%에서 30%를 배상한다</p>
+<p>기상 악화와 천재지변, 공항 사정은 배상 대상이 아니다</p>
+<p>지연 사유서와 안내 문자를 증빙으로 확보해둔다</p>
+<p>EU 출발편은 EU261로 거리별 정액 보상을 받는다</p>
+</blockquote>
+
+<p>현장에서 화를 내는 것보다 <b>기록을 남기는 게</b> 훨씬 효과적입니다.</p>
+
+<p>추석이나 연휴에 지연이 잦으니 미리 알고 계시면 좋습니다. 알고도 안 챙기면 그냥 날리는 거라...</p>
+
+<p>세부 배상 금액과 절차는 항공사 운송약관과 소비자원 안내로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 웹 확인)
+ · 국내선 지연: 1~2시간 운임 10%, 2~3시간 20%, 3시간 이상 30%
+ · 국제선 지연: 2~4시간 운임 10%, 4~12시간 20%, 12시간 초과 30%
+ · 국내선 결항: 대체편 1~3시간 내 제공 시 20%, 3시간 초과 시 30%
+ · 기상 악화·천재지변 등 불가항력은 배상 제외, 항공사 과실이 명확한 경우 적용
+ · 근거는 공정거래위원회 소비자분쟁해결기준(권고 성격)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 국제선 결항의 정액 배상 금액(달러 단위)은 자료마다 표기가 달라 수치를 적지 않았습니다
+ · EU261의 거리별 보상 금액은 유로 금액을 적지 않았습니다
+ · 식사·숙박 제공 의무의 발동 기준 시간은 항공사 약관에 따라 달라 적지 않았습니다
+ · 정비 결함의 면책 인정 범위는 사안별 판단이라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "추석 연휴 지연을 겪고 안내를 못 받아 넘어갔다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_flightdelay.html 저장 후
+  node make-art.cjs tc_flightdelay   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef4fa,#cbdcee);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#17325a;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#23508c;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">최대 배상</span>30%</div>
+<div style="align-self:flex-start;background:#23508c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">항공 규정</div>
+<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">지연·결항 보상<br /><span style="color:#23508c;">운임의 10~30%</span></div>
+<div style="margin-top:28px;font-size:25px;color:#536d95;font-weight:600;">기상 때문이면 못 받습니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#8fa4c0;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

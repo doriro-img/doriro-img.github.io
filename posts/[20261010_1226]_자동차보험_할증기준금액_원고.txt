@@ -1,0 +1,226 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 10일 12:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261010_1226]_자동차보험_할증기준금액\
+   ├── 📄 [원고 파일]: [20261010_1226]_자동차보험_할증기준금액_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-carinsurance.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261010_1226]_자동차보험_할증기준금액_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-carinsurance.html
+
+■ 제목: 자동차보험 물적사고 할증기준금액 정하는 법. 자비처리 손익분기 계산
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 물적사고할증기준금액, 자동차보험할증, 자비처리기준, 사고건수요율, 보험료할증계산, 자차보험, 3년할증
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>자동차보험 물적사고 할증기준금액 정하는 법. 자비처리 손익분기 계산</p>
+
+<h2>소액 사고는 보험 처리가 손해일 때가 많습니다</h2>
+
+<p>자동차보험 가입할 때 고르는 <b>물적사고 할증기준금액</b>은 사고가 났을 때 보험료가 오를지 말지를 가르는 기준선입니다.</p>
+
+<p>결론부터 말하면 <b>수리비가 이 금액을 넘으면 할증</b>되고 안 넘으면 할증 없이 넘어갑니다. 다만 완전히 무사고 취급은 아닙니다.</p>
+
+<p>보통 <b>50만원, 100만원, 150만원, 200만원</b> 중에서 고릅니다. 금액이 높을수록 보험료가 조금 비싸고요.</p>
+
+<p>범퍼 살짝 긁힌 걸로 보험 처리했다가 3년 내내 할증을 문 얘기를 주변에서 자주 듣거든요. 계산을 해보고 결정해야 합니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#334f6d;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">할증기준금액이 하는 일</div>
+<div style="background:#fafbfc;padding:24px 18px;">
+<div style="display:flex;align-items:center;gap:10px;">
+<div style="flex:1;text-align:center;background:#e8f1ea;border:2px solid #7cbfa5;border-radius:12px;padding:17px 8px;">
+<div style="font-size:12.5px;color:#1d7050;font-weight:800;">기준금액 이하</div>
+<div style="font-size:18px;font-weight:800;color:#1d7050;margin-top:5px;">할증 없음</div>
+<div style="font-size:11.5px;color:#5f7570;margin-top:4px;">사고 건수는 남습니다</div>
+</div>
+<div style="flex:0 0 44px;text-align:center;font-size:26px;font-weight:800;color:#b3c3d5;">vs</div>
+<div style="flex:1;text-align:center;background:#fbeae8;border:2px solid #d98d84;border-radius:12px;padding:17px 8px;">
+<div style="font-size:12.5px;color:#b8443a;font-weight:800;">기준금액 초과</div>
+<div style="font-size:18px;font-weight:800;color:#b8443a;margin-top:5px;">할증 발생</div>
+<div style="font-size:11.5px;color:#8f5148;margin-top:4px;">3년간 영향</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>수리비가 <b>기준금액 이하</b>면 보험료 할증이 붙지 않습니다</li>
+<li>기준금액을 <b>넘으면</b> 할증이 적용되고 몇 년간 영향이 갑니다</li>
+<li>기준금액은 <b>50만원부터 200만원</b>까지 가입 때 고릅니다</li>
+</ul>
+
+<h2>할증이 안 돼도 보험료는 오를 수 있습니다</h2>
+
+<p>여기가 많이들 오해하는 부분입니다. 할증기준금액 이하라도 <b>사고 건수</b>는 기록에 남아요.</p>
+
+<p>보험료는 <b>사고 크기</b>와 <b>사고 건수</b> 두 가지로 계산됩니다. 크기가 작아도 건수가 쌓이면 요율이 올라갑니다.</p>
+
+<p>또 하나, 무사고로 쌓아온 <b>할인 혜택</b>이 끊깁니다. 사고가 나면 그동안 내려오던 할인이 멈추는 거예요.</p>
+
+<p>갱신 고지서를 받아보고 나서야 이걸 체감하게 되더라고요.</p>
+
+<blockquote>
+<p>할증 없음 ≠ 보험료 그대로</p>
+<p>사고 건수 요율과 무사고 할인 중단은 별개로 작동합니다</p>
+</blockquote>
+
+<h3>3년이라는 말은 무슨 뜻인가요?</h3>
+
+<p>사고로 인한 할증은 보통 <b>3년간</b> 보험료에 반영됩니다. 갱신할 때마다 따라다니는 거죠.</p>
+
+<p>무사고 할인은 그보다 더 길게 영향을 줍니다. 사고 한 번으로 등급이 내려가면 <b>다시 올리는 데 몇 년</b>이 걸립니다.</p>
+
+<p>그래서 소액 사고 한 건의 실제 비용은 <b>수리비가 아니라 몇 년치 보험료 인상분</b>으로 봐야 합니다.</p>
+
+<h2>자비 처리가 유리한지 계산하는 법</h2>
+
+<p>기준은 간단합니다. <b>수리비</b>와 <b>앞으로 늘어날 보험료 총액</b>을 비교하면 됩니다.</p>
+
+<p>보험료가 연 10만원 오르고 3년간 유지되면 30만원입니다. 여기에 무사고 할인이 끊기는 손실을 더해야 하고요.</p>
+
+<p>계산기를 두들겨보니 소액 사고는 거의 자비가 낫더라고요.</p>
+
+<p>그러니까 수리비가 <b>30만원에서 50만원 사이</b>라면 자비 처리를 진지하게 고민해볼 구간입니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef2f7,#dae2ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#334f6d;margin-bottom:16px;">보험 처리 전에 이 순서로 확인</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">수리비 견적</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">정비소에서 산출</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">할증 조회</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">보험사에 문의</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">총액 비교</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">3년치로 계산</div>
+</div>
+<div style="flex:1 1 140px;background:#334f6d;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#a9bcd0;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">결정</div>
+<div style="font-size:11.5px;color:#a9bcd0;margin-top:4px;">환입도 가능</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>보험사에 <b>이 사고로 얼마나 오르는지</b> 직접 물어볼 수 있습니다</li>
+<li>수리비와 <b>3년치 인상분</b>을 비교해서 결정합니다</li>
+<li>이미 보험 처리했어도 <b>환입</b>으로 되돌릴 수 있는 기간이 있습니다</li>
+</ul>
+
+<h3>환입이 뭔가요?</h3>
+
+<p>보험사가 지급한 보험금을 <b>내가 다시 돌려주는</b> 것입니다. 그러면 사고 기록이 정리됩니다.</p>
+
+<p>보험 처리를 했다가 할증 금액을 보고 후회할 때 쓰는 방법이에요.</p>
+
+<p>다만 기한이 있습니다. 보통 <b>다음 갱신 전</b>까지 처리해야 합니다. 보험사마다 조건이 다르니 확인하세요.</p>
+
+<h2>기준금액을 얼마로 고르는 게 좋을까요?</h2>
+
+<p>정답은 없지만 기준은 있습니다. <b>운전 습관과 차량 가격</b>을 보세요.</p>
+
+<p>운전이 잦고 접촉이 많은 환경이면 <b>높은 기준금액</b>이 유리합니다. 작은 사고에서 할증을 피할 수 있으니까요.</p>
+
+<p>반대로 사고가 거의 없다면 <b>낮은 기준금액</b>으로 보험료를 아끼는 쪽이 낫습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">이런 경우</div><div style="flex:1;text-align:right;">추천</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주행거리가 길고 접촉이 잦음</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">높은 기준금액</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주말에만 타고 무사고</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">낮은 기준금액</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">수입차·수리비가 비싼 차</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">높은 기준금액</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">오래된 차, 자차 미가입</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">영향 적음</div>
+</div>
+</div>
+
+<ul>
+<li>수리비가 비싼 차일수록 <b>높은 기준금액</b>이 유리합니다</li>
+<li>사고가 거의 없다면 <b>낮은 기준금액</b>으로 보험료를 아낍니다</li>
+<li>자차에 가입하지 않았다면 <b>영향이 크지 않습니다</b></li>
+</ul>
+
+<h2>상대방 과실이면 어떻게 되나요?</h2>
+
+<p>내 과실이 없는 사고는 <b>할증에 영향이 없습니다.</b> 상대 보험으로 처리되니까요.</p>
+
+<p>다만 과실 비율이 조금이라도 잡히면 <b>내 사고 기록</b>에도 남습니다.</p>
+
+<p>과실 비율은 협의로 정해집니다. 억울하면 <b>과실비율분쟁심의위원회</b>에 심의를 요청할 수 있어요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">갱신 전에</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">갱신할 때 <b style="color:#ffd97a;">여러 보험사를 비교</b>해보세요. 같은 조건인데 회사마다 보험료가 꽤 다릅니다. 블랙박스나 안전운전 특약처럼 <b style="color:#ff8a7a;">깎아주는 항목</b>을 빠뜨리지 않았는지도 확인하시고요.</p>
+</div>
+
+<ul>
+<li>갱신 전에 <b>여러 보험사</b>의 견적을 비교합니다</li>
+<li>블랙박스·안전운전 등 <b>할인 특약</b>을 빠뜨리지 않았는지 봅니다</li>
+<li>내 과실이 없는 사고는 <b>할증에 영향이 없습니다</b></li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>수리비가 물적사고 할증기준금액을 넘으면 할증된다</p>
+<p>할증이 없어도 사고 건수 요율과 무사고 할인 중단은 따로 작동한다</p>
+<p>사고 한 건의 실제 비용은 3년치 보험료 인상분으로 계산해야 한다</p>
+<p>보험 처리 후에도 환입으로 되돌릴 수 있는 기간이 있다</p>
+<p>수리비가 비싼 차일수록 기준금액을 높게 잡는 게 유리하다</p>
+</blockquote>
+
+<p>사고가 나면 일단 보험사에 <b>할증 조회</b>부터 해보세요. 숫자를 보고 결정하는 겁니다.</p>
+
+<p>범퍼 하나 갈려고 3년을 무는 건 진짜 아깝지. 저도 예전에 그러고 후회했습니다.</p>
+
+<p>할증 계산 방식은 보험사마다 조금씩 다르니 가입한 회사에 직접 문의하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 물적사고 할증기준금액: 가입 시 50만원·100만원·150만원·200만원 중 선택
+ · 수리비(자기부담금 제외 지급보험금)가 기준금액 이하면 할증 미적용, 초과 시 할증
+ · 보험료는 사고 크기(점수)와 사고 건수 요율로 이원 산정되어, 할증이 없어도 사고 건수는 반영
+ · 사고 발생 시 무사고 할인 적용이 중단됨
+ · 사고에 따른 할증은 통상 3년간 갱신 보험료에 반영
+ · 환입(보험금 반환)으로 사고 기록을 정리할 수 있으며 기한과 조건은 보험사별 상이
+ · 본인 과실이 없는 사고는 할증에 반영되지 않음
+ · 과실비율 분쟁은 과실비율분쟁심의위원회 심의 신청 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 할증 폭(등급 하락과 보험료 인상률)은 보험사·계약 조건별로 달라 구체 수치를 적지 않았습니다
+ · "연 10만원 인상 × 3년 = 30만원"은 계산 방식 설명용 가정입니다
+ · 환입 가능 기한은 보험사별로 달라 "다음 갱신 전까지가 일반적"으로만 적었습니다
+ · 사고 건수 요율의 반영 기간은 회사별 기준이 있어 단정하지 않았습니다
+ · 기준금액 선택에 따른 보험료 차이는 계약별로 달라 금액을 넣지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "범퍼 사고로 보험 처리했다가 후회했다"는 설정입니다

@@ -1,0 +1,216 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 9일 12:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261009_1232]_개인_채권투자_세금\
+   ├── 📄 [원고 파일]: [20261009_1232]_개인_채권투자_세금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-bondtax.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261009_1232]_개인_채권투자_세금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-bondtax.html
+
+■ 제목: 개인 채권투자 세금 구조. 매매차익 비과세와 저쿠폰 채권 절세 원리 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 채권투자세금, 채권매매차익비과세, 저쿠폰채권, 표면금리, 개인투자용국채, 금융소득종합과세, 장외채권
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>개인 채권투자 세금 구조. 매매차익 비과세와 저쿠폰 채권 절세 원리 정리</p>
+
+<h2>채권은 수익이 두 갈래인데 세금은 하나에만 붙습니다</h2>
+
+<p>개인이 채권에 투자하면 수익이 <b>이자</b>와 <b>매매차익</b> 두 가지로 들어옵니다. 여기서 세금 구조가 갈립니다.</p>
+
+<p>결론부터 말하면 <b>이자에는 15.4%가 붙고 매매차익은 비과세</b>입니다. 개인이 직접 투자할 때 그렇습니다.</p>
+
+<p>그래서 <b>표면금리가 낮은 채권</b>이 세금 면에서 유리해집니다. 이자가 적은 대신 차익이 크게 잡히니까요.</p>
+
+<p>예금 이자만 보다가 채권 구조를 알고 나니 계산이 완전히 달라지더라고요. 특히 금융소득이 큰 분들에게 의미가 있습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">같은 수익인데 세금이 다릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;text-align:center;">
+<div style="font-size:12.5px;color:#b8443a;font-weight:800;">이자수익</div>
+<div style="font-size:38px;font-weight:800;color:#b8443a;margin:8px 0;">15.4%</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">표면금리로 받는 이자<br />원천징수됩니다</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;text-align:center;">
+<div style="font-size:12.5px;color:#1d7050;font-weight:800;">매매·상환차익</div>
+<div style="font-size:38px;font-weight:800;color:#1d7050;margin:8px 0;">0%</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">싸게 사서 비싸게 판 차익<br />개인은 비과세</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>채권 <b>이자</b>에는 15.4%의 이자소득세가 원천징수됩니다</li>
+<li>개인의 채권 <b>매매차익</b>에는 세금이 붙지 않습니다</li>
+<li>같은 수익률이어도 <b>어디서 수익이 나느냐</b>에 따라 세후가 달라집니다</li>
+</ul>
+
+<h2>표면금리가 뭔가요?</h2>
+
+<p>채권에 적힌 <b>액면 이자율</b>입니다. 액면가 1만원짜리에 표면금리가 3%면 해마다 300원을 준다는 뜻이에요.</p>
+
+<p>이 표면금리는 발행할 때 정해지고 <b>바뀌지 않습니다.</b> 시중금리가 오르내려도 그대로예요.</p>
+
+<p>대신 시중금리가 오르면 <b>채권 가격이 떨어집니다.</b> 이자가 고정이니 가격으로 조정되는 거죠.</p>
+
+<blockquote>
+<p>시중금리 상승 → 채권 가격 하락</p>
+<p>시중금리 하락 → 채권 가격 상승</p>
+</blockquote>
+
+<h3>저쿠폰 채권이 왜 유리한가요?</h3>
+
+<p>표면금리가 낮은 채권은 <b>액면가보다 싸게</b> 거래됩니다. 이자를 적게 주니 가격으로 보상하는 겁니다.</p>
+
+<p>8천원에 사서 만기에 1만원을 받으면 <b>2천원이 차익</b>입니다. 이 차익은 세금이 없어요.</p>
+
+<p>같은 수익률이어도 이자로 받으면 15.4%를 떼고, 차익으로 받으면 그대로 남습니다. 이게 절세 원리입니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#d8e6f3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">수익 구성이 다르면 세후가 달라집니다</div>
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#8b95a1;margin-bottom:10px;">고쿠폰 채권</div>
+<div style="display:flex;align-items:flex-end;gap:6px;height:70px;">
+<div style="flex:1;background:#c0554a;height:60px;border-radius:6px 6px 0 0;"></div>
+<div style="flex:1;background:#a9cbe0;height:14px;border-radius:6px 6px 0 0;"></div>
+</div>
+<div style="font-size:12px;color:#6b7885;margin-top:8px;line-height:1.7;">이자 비중 큼 → <b>세금 많음</b></div>
+</div>
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">저쿠폰 채권</div>
+<div style="display:flex;align-items:flex-end;gap:6px;height:70px;">
+<div style="flex:1;background:#c0554a;height:16px;border-radius:6px 6px 0 0;"></div>
+<div style="flex:1;background:#1d7050;height:58px;border-radius:6px 6px 0 0;"></div>
+</div>
+<div style="font-size:12px;color:#6b7885;margin-top:8px;line-height:1.7;">차익 비중 큼 → <b>세금 적음</b></div>
+</div>
+</div>
+<div style="display:flex;gap:16px;margin-top:12px;font-size:12px;color:#546e80;">
+<div><span style="display:inline-block;width:11px;height:11px;background:#c0554a;border-radius:3px;vertical-align:-1px;"></span> 과세되는 이자</div>
+<div><span style="display:inline-block;width:11px;height:11px;background:#1d7050;border-radius:3px;vertical-align:-1px;"></span> 비과세 차익</div>
+</div>
+</div>
+
+<ul>
+<li>표면금리가 낮으면 <b>액면가보다 싸게</b> 거래됩니다</li>
+<li>싸게 산 만큼 만기에 <b>차익</b>이 생기고 이 부분은 비과세입니다</li>
+<li>금융소득이 큰 사람일수록 <b>저쿠폰 채권</b>의 절세 효과가 큽니다</li>
+</ul>
+
+<h2>금융소득 2천만원 선을 관리할 때 씁니다</h2>
+
+<p>연간 이자와 배당을 합쳐 <b>2천만원</b>을 넘으면 종합과세로 넘어갑니다. 다른 소득과 합산돼 세율이 올라가요.</p>
+
+<p>채권 매매차익은 이 <b>2천만원 계산에 들어가지 않습니다.</b> 비과세 소득이니까요.</p>
+
+<p>그래서 예금 이자만으로 한도가 차는 분들이 채권으로 옮겨가는 겁니다.</p>
+
+<p>건강보험료 문제도 있습니다. 금융소득이 커지면 지역가입자 보험료에 반영되는 구조라서요.</p>
+
+<h2>개인투자용 국채는 다릅니다</h2>
+
+<p>일반 국채와 별개로 <b>개인투자용 국채</b>가 있습니다. 개인만 살 수 있는 전용 상품이에요.</p>
+
+<p>만기까지 보유하면 <b>이자에 복리</b>가 적용되고 가산금리가 붙습니다. 중간에 팔 수 없는 대신 혜택을 주는 구조입니다.</p>
+
+<p>세금도 다릅니다. 만기 보유 시 이자소득에 <b>분리과세</b>가 적용돼 종합과세로 넘어가지 않습니다.</p>
+
+<p>장기로 묶어둘 돈이 있다면 검토해볼 만합니다. 다만 <b>중도 환매 조건</b>을 꼭 확인하세요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">확인할 것</div><div style="flex:1;text-align:right;">왜 봐야 하나</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">신용등급</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">부도 위험</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">잔존 만기</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">금리 변동에 얼마나 흔들리나</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">표면금리</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">세금 구조가 갈림</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">유동성</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">중간에 팔 수 있나</div>
+</div>
+</div>
+
+<ul>
+<li>회사채는 <b>신용등급</b>을 반드시 확인해야 합니다. 원금 손실이 가능합니다</li>
+<li>만기가 길수록 금리 변동에 <b>가격이 크게 흔들립니다</b></li>
+<li>거래량이 적은 채권은 <b>중간에 팔기 어렵습니다</b></li>
+</ul>
+
+<h2>어디서 사나요?</h2>
+
+<p>증권사 앱에서 삽니다. 크게 <b>장내채권</b>과 <b>장외채권</b>으로 나뉘어요.</p>
+
+<p>장내채권은 주식처럼 거래소에서 사고팝니다. 소액으로도 가능하고 가격이 실시간으로 움직입니다.</p>
+
+<p>장외채권은 증권사가 미리 사둔 물량을 파는 방식입니다. 종류가 다양한 대신 <b>최소 매수 금액</b>이 있는 경우가 많아요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">채권 펀드는 다릅니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">채권형 <b style="color:#ff8a7a;">펀드나 ETF</b>는 세금 구조가 달라요. 직접 투자할 때의 매매차익 비과세가 그대로 적용되지 않습니다. <b style="color:#ffd97a;">직접 채권을 사는 것</b>과 채권에 투자하는 상품을 사는 건 완전히 다른 얘기입니다.</p>
+</div>
+
+<ul>
+<li>채권형 <b>펀드와 ETF</b>는 직접 투자와 세금 구조가 다릅니다</li>
+<li>매매차익 비과세는 <b>개인이 채권을 직접</b> 보유할 때의 얘기입니다</li>
+<li>상품 가입 전에 <b>과세 방식</b>을 따로 확인해야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>개인의 채권 이자는 15.4% 과세, 매매차익은 비과세다</p>
+<p>표면금리가 낮은 채권일수록 세금 면에서 유리하다</p>
+<p>매매차익은 금융소득 2천만원 계산에 포함되지 않는다</p>
+<p>개인투자용 국채는 만기 보유 시 분리과세와 복리가 적용된다</p>
+<p>채권형 펀드·ETF는 직접 투자와 과세 방식이 다르다</p>
+</blockquote>
+
+<p>세금 구조를 알면 같은 수익률에서도 손에 남는 돈이 달라집니다. 여기서 차이가 벌어져요.</p>
+
+<p>저는 예금만 알던 시절이 아깝더라고요. 진작 공부할 걸 그랬지 뭐.</p>
+
+<p>세제는 개정이 잦으니 매수 전에 증권사나 세무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 개인의 채권 투자 수익은 이자소득과 매매(상환)차익으로 구분
+ · 이자소득 15.4%(소득세 14% + 지방소득세 1.4%) 원천징수
+ · 개인의 채권 매매차익은 양도소득세 과세 대상이 아님 (비과세)
+ · 표면금리는 발행 시 확정되며 시중금리 변동은 채권 가격으로 반영 (금리 상승 시 가격 하락)
+ · 저쿠폰(할인) 채권은 이자 비중이 작고 차익 비중이 커 세후 수익에서 유리
+ · 연간 금융소득 2,000만원 초과 시 금융소득종합과세, 비과세 매매차익은 합산 대상 아님
+ · 개인투자용 국채: 개인 전용, 만기 보유 시 가산금리·복리 적용 및 이자소득 분리과세
+ · 매수 경로: 장내채권(거래소), 장외채권(증권사 보유 물량 판매, 최소 매수금액 있는 경우 많음)
+ · 채권형 펀드·ETF는 직접 투자와 과세 구조가 상이
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 개인투자용 국채의 만기·가산금리·분리과세 세율과 한도는 발행 조건에 따라 달라 수치를 적지 않았습니다
+ · 8천원 매수 후 1만원 상환 예시는 구조 설명용 가정이며 실제 호가와 다릅니다
+ · 채권형 ETF·펀드의 과세 방식은 상품 유형별로 달라 "다르다"로만 적었습니다
+ · 금융소득이 건강보험료에 반영되는 구조는 별도 주제라 언급만 하고 수치를 넣지 않았습니다
+ · 세제는 개정 가능성이 있어 매수 전 재확인을 권고했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "예금 이자만 보다가 채권 구조를 알게 됐다"는 설정입니다

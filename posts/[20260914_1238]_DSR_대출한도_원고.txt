@@ -1,0 +1,188 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 14일 12:38
+■ 제목: DSR 계산법과 대출한도. 신용대출이 한도를 크게 깎는 이유
+■ 카테고리: 금융 및 경제 정보
+■ 태그: DSR, 대출한도계산, 스트레스DSR, DTI차이, 총부채원리금상환비율
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260914_1238]_DSR_대출한도\
+   ├── 📄 [원고 파일]: [20260914_1238]_DSR_대출한도_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_dsr.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260914_1238]_DSR_대출한도_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_dsr.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>DSR 계산법과 대출한도. 신용대출이 한도를 크게 깎는 이유</p>
+
+<h2>1년에 갚는 돈을 연소득으로 나눕니다</h2>
+
+<p>DSR은 <b>총부채원리금상환비율</b>입니다. 1년에 갚아야 하는 <b>원리금 전체</b>를 연소득으로 나눈 값이에요.</p>
+
+<p>결론부터 말하면 은행권은 <b>40%</b>, 제2금융권은 <b>50%</b>가 규제선입니다. 이 선을 넘으면 대출이 더 안 나옵니다.</p>
+
+<p>여기서 핵심은 <b>모든 대출을 합쳐서</b> 본다는 점입니다. 주택담보대출만 보는 게 아니에요.</p>
+
+<p>집 대출을 알아보면서 계산해봤는데 자동차 할부까지 잡히더라고요. 그거 하나로 한도가 꽤 줄었습니다.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">DSR 계산 구조</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:10px;align-items:center;">
+<div style="flex:1 1 180px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#3a4480;margin-bottom:4px;">분자</div>
+<div style="font-size:17px;font-weight:800;color:#22284a;letter-spacing:-0.5px;">연간 원리금</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:5px;">모든 대출 합산</div>
+</div>
+<div style="font-size:22px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">÷</div>
+<div style="flex:1 1 180px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#2f6fb0;margin-bottom:4px;">분모</div>
+<div style="font-size:17px;font-weight:800;color:#1f4a7a;letter-spacing:-0.5px;">연소득</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:5px;">증빙 가능한 소득</div>
+</div>
+<div style="font-size:22px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">=</div>
+<div style="flex:1 1 150px;background:#fdf3f1;border:1px solid #f0b8b1;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#cf4f43;margin-bottom:4px;">은행권 기준</div>
+<div style="font-size:24px;font-weight:800;color:#b8463a;letter-spacing:-1px;">40%</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>DSR은 <b>연간 원리금 상환액을 연소득으로 나눈</b> 비율입니다</li>
+<li>은행권은 <b>40%</b>, 제2금융권은 <b>50%</b>가 규제 기준입니다</li>
+<li>주택담보대출뿐 아니라 <b>모든 대출</b>의 원리금을 합산합니다</li>
+</ul>
+
+<h2>어떤 대출이 다 잡히나요</h2>
+
+<p>생각보다 범위가 넓습니다. 여기서 놀라는 분들이 많아요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">DSR에 잡히는 것</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">주택담보대출<br />신용대출<br />자동차 할부금융<br />카드론·현금서비스<br />마이너스통장 한도</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">제외되는 경우</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">전세자금대출 (원금 부분)<br />정책 서민금융 상품<br />소액 대출 일부<br />보험계약대출</div>
+</div>
+</div>
+
+<ul>
+<li><b>자동차 할부와 카드론</b>도 DSR에 포함됩니다</li>
+<li><b>마이너스통장</b>은 쓰지 않아도 한도 전체가 잡히는 경우가 있습니다</li>
+<li><b>전세자금대출</b>과 정책 서민금융은 일부 제외됩니다</li>
+</ul>
+
+<p>마이너스통장이 특히 억울합니다. 한 번도 안 썼는데 <b>한도만큼 빚으로</b> 계산되거든요.</p>
+
+<p>주담대를 받기 전에 안 쓰는 마이너스통장은 <b>해지하는 게</b> 유리합니다.</p>
+
+<h2>신용대출이 한도를 많이 깎습니다</h2>
+
+<p>같은 1억이어도 <b>주담대와 신용대출은 DSR에 잡히는 크기가 다릅니다.</b></p>
+
+<blockquote>
+<p>주담대 1억을 30년으로 빌리면 연간 원리금이 작다</p>
+<p>신용대출 1억은 짧은 만기로 계산해 연간 원리금이 크다</p>
+<p>같은 금액이어도 DSR 소모량이 몇 배 차이 난다</p>
+</blockquote>
+
+<p>신용대출은 실제 만기가 1년이어도 DSR 계산에서는 <b>정해진 기간</b>으로 나눠 계산합니다.</p>
+
+<p>그래서 신용대출이 조금만 있어도 주담대 한도가 확 줄어듭니다. <b>순서가 중요</b>한 이유예요.</p>
+
+<h2>스트레스 DSR이란</h2>
+
+<p>지금 금리로 계산하지 않고 <b>미래에 금리가 오를 가능성</b>을 얹어서 계산하는 방식입니다.</p>
+
+<p>가산금리를 더해 원리금을 계산하니 <b>같은 소득이어도 한도가 줄어듭니다.</b></p>
+
+<p>변동금리 대출일수록 더 크게 적용됩니다. <b>고정금리</b>를 선택하면 가산 폭이 작아지는 구조고요.</p>
+
+<p>단계적으로 적용 범위가 넓어져 왔습니다. 지역과 대출 종류에 따라 <b>적용 비율이 다릅니다.</b></p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">한도 늘리는 방법</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;"><b style="color:#7ee0b0;">만기를 길게</b> 잡으면 연간 원리금이 줄어 한도가 늘어납니다. <b style="color:#7ee0b0;">기존 신용대출을 정리</b>하는 것도 효과가 큽니다. 소득 증빙을 <b style="color:#ffd97a;">최대한 반영</b>시키는 것도 방법이고요.</p>
+</div>
+
+<ul>
+<li><b>만기를 길게</b> 잡으면 연간 원리금이 줄어 한도가 늘어납니다</li>
+<li>주담대 신청 전에 <b>신용대출과 마이너스통장</b>을 정리하면 효과가 큽니다</li>
+<li>상여금이나 부수입도 <b>증빙되면 소득에 반영</b>됩니다</li>
+</ul>
+
+<h2>DTI와 헷갈리지 마세요</h2>
+
+<p>DTI는 <b>주택담보대출 원리금 + 다른 대출의 이자</b>만 봅니다.</p>
+
+<p>DSR은 <b>모든 대출의 원리금 전부</b>를 봅니다. 그래서 DSR이 훨씬 빡빡해요.</p>
+
+<p>LTV는 또 다릅니다. <b>집값 대비 얼마까지</b> 빌려주느냐의 문제고요.</p>
+
+<p>세 가지가 동시에 적용됩니다. 어느 하나에라도 걸리면 그만큼만 나옵니다.</p>
+
+<h3>미리 계산해보는 게 낫습니다</h3>
+
+<p>은행 앱이나 금융감독원에서 <b>DSR 계산기</b>를 제공합니다. 몇 분이면 대략 나와요.</p>
+
+<p>집을 알아보기 전에 <b>내 한도부터</b> 확인하시는 게 순서입니다. 마음에 드는 집을 찾고 나서 한도가 부족하면 곤란하니까요.</p>
+
+<p>계약금 걸고 나서 대출이 안 나오면 진짜 큰일 나더라고요. 이 순서만 지켜도 사고를 막습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>DSR은 연간 원리금 상환액을 연소득으로 나눈 비율이다</p>
+<p>은행권 40%, 제2금융권 50%가 규제 기준이다</p>
+<p>자동차 할부와 카드론, 마이너스통장 한도까지 합산된다</p>
+<p>신용대출은 짧은 만기로 계산돼 한도를 크게 깎는다</p>
+<p>만기를 늘리고 기존 대출을 정리하면 한도가 늘어난다</p>
+</blockquote>
+
+<p>대출을 받으려면 <b>순서를 설계</b>해야 합니다. 아무 생각 없이 신용대출부터 쓰면 나중에 막혀요.</p>
+
+<p>집 살 계획이 있으면 지금부터 잔여 대출을 줄여두세요. 그게 제일 확실한 방법입니다.</p>
+
+<p>적용 비율과 예외 항목은 규제 변경에 따라 달라지니 은행에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처
+ · DSR = 연간 원리금 상환액 ÷ 연소득
+ · 규제 기준: 은행권 40%, 제2금융권 50%
+ · 주담대·신용대출·자동차 할부·카드론·마이너스통장 한도 등이 합산 대상
+ · 스트레스 DSR은 미래 금리 상승분을 가산해 계산하며 변동금리일수록 크게 적용
+ · DTI는 주담대 원리금 + 기타 대출 이자, DSR은 모든 대출의 원리금 전부
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 스트레스 금리의 구체 수치와 단계별 적용률은 수시로 바뀌어 적지 않았습니다
+ · 신용대출의 DSR 산정 만기(연수)는 규정 변경 이력이 있어 수치를 적지 않았습니다
+ · DSR 산정 제외 대출의 전체 목록과 금액 기준은 나열하지 않았습니다
+ · 지역별·대출 종류별 차등 적용은 개괄로만 설명했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "자동차 할부까지 잡혀 한도가 줄었다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_dsr.html 저장 후
+  node make-art.cjs tc_dsr   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef1f7,#cdd4e6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#22284a;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#3a4480;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">은행권 기준</span>40%</div>
+<div style="align-self:flex-start;background:#3a4480;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">대출</div>
+<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">DSR 계산법<br /><span style="color:#3a4480;">대출한도의 벽</span></div>
+<div style="margin-top:28px;font-size:25px;color:#5a628f;font-weight:600;">안 쓰는 마이너스통장도 잡힙니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#9198bb;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

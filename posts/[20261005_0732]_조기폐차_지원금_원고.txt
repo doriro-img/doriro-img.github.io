@@ -1,0 +1,225 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 5일 07:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261005_0732]_조기폐차_지원금\
+   ├── 📄 [원고 파일]: [20261005_0732]_조기폐차_지원금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-scrapcar.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261005_0732]_조기폐차_지원금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-scrapcar.html
+
+■ 제목: 조기폐차 지원금 신청방법. 4·5등급 경유차 보조금과 계절관리제 단속 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 조기폐차지원금, 5등급경유차, 4등급조기폐차, 배출가스등급조회, 계절관리제, 노후경유차폐차, 조기폐차보조금
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>조기폐차 지원금 신청방법. 4·5등급 경유차 보조금과 계절관리제 단속 정리</p>
+
+<h2>겨울 되기 전에 결정해야 할 게 있습니다</h2>
+
+<p>조기폐차 지원금은 <b>배출가스 4등급과 5등급 경유차</b>를 폐차할 때 나라에서 보조금을 주는 제도입니다.</p>
+
+<p>결론부터 말하면 <b>12월부터 3월까지 계절관리제 기간</b>에는 5등급 차량 운행이 제한됩니다. 그전에 정리할지 말지 결정하는 게 좋아요.</p>
+
+<p>내 차가 몇 등급인지부터 봐야 합니다. <b>자동차 배출가스 등급제 사이트</b>에서 차량번호만 넣으면 바로 나옵니다.</p>
+
+<p>아버지 차가 5등급이라 알아봤는데 지원금이 생각보다 나오더라고요. 어차피 바꿀 때가 됐으면 이걸 끼는 게 낫습니다.</p>
+
+<div style="border:1px solid #e0e4e2;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#4a6b4a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">내 차 등급부터 확인하세요</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfa;">
+<div style="flex:1 1 130px;padding:20px 14px;border-right:1px solid #eef1f0;text-align:center;">
+<div style="width:52px;height:52px;border-radius:50%;background:#8fbf8f;margin:0 auto;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;color:#1f3d1f;">1~3</div>
+<div style="font-size:13px;font-weight:800;color:#2f4d2f;margin-top:10px;">해당 없음</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:4px;">지원 대상 아님</div>
+</div>
+<div style="flex:1 1 130px;padding:20px 14px;border-right:1px solid #eef1f0;text-align:center;">
+<div style="width:52px;height:52px;border-radius:50%;background:#e8b34a;margin:0 auto;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:800;color:#5c4210;">4</div>
+<div style="font-size:13px;font-weight:800;color:#7a5c14;margin-top:10px;">조기폐차 대상</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:4px;">경유차 한정</div>
+</div>
+<div style="flex:1 1 130px;padding:20px 14px;text-align:center;">
+<div style="width:52px;height:52px;border-radius:50%;background:#c0554a;margin:0 auto;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:800;color:#fff;">5</div>
+<div style="font-size:13px;font-weight:800;color:#8f3a30;margin-top:10px;">폐차 + 운행제한</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:4px;">계절관리제 단속</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>조기폐차 지원 대상은 <b>배출가스 4등급과 5등급 경유차</b>입니다</li>
+<li><b>5등급</b>은 계절관리제 기간에 운행제한 단속까지 받습니다</li>
+<li>등급은 <b>자동차 배출가스 등급제</b> 사이트에서 차량번호로 조회합니다</li>
+</ul>
+
+<h2>얼마나 받을 수 있나요?</h2>
+
+<p>지원금은 <b>차량 종류와 배기량</b>에 따라 달라집니다. 큰 차일수록 금액이 큽니다.</p>
+
+<p>계산 방식은 <b>기준가액에 지원율</b>을 곱하는 구조입니다. 여기에 조건을 채우면 <b>추가 지원금</b>이 붙습니다.</p>
+
+<p>추가 지원금은 폐차하고 나서 <b>새 차를 사는 경우</b>에 나옵니다. 전기차나 수소차로 바꾸면 더 유리하고요.</p>
+
+<h3>어떤 차가 대상인가요?</h3>
+
+<p>조건이 꽤 까다롭습니다. 아래를 다 채워야 합니다.</p>
+
+<ul>
+<li>배출가스 4등급 또는 5등급 경유차 (매연저감장치 미부착)</li>
+<li>해당 지자체에 <b>일정 기간 이상 연속 등록</b>되어 있을 것</li>
+<li>최종 소유자가 신청일 기준 <b>6개월 이상 소유</b>했을 것</li>
+<li>자동차 정기검사에서 <b>운행이 가능한 상태</b>로 판정될 것</li>
+</ul>
+
+<p>마지막 조건이 함정입니다. 이미 고장 나서 못 굴러가는 차는 지원 대상이 아닙니다. <b>정상 운행이 되는 차</b>를 미리 폐차하라는 취지라서요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4ee,#dbe8db);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3d5c3d;margin-bottom:16px;">신청부터 입금까지</div>
+<div style="position:relative;padding-left:22px;">
+<div style="position:absolute;left:6px;top:8px;bottom:8px;width:3px;background:#a8c8a8;border-radius:2px;"></div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#4a6b4a;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;">1. 등급 조회와 대상 확인</div>
+<div style="font-size:12.5px;color:#6b7a6b;">배출가스 등급제 사이트에서 차량번호 입력</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#5f7f5f;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;">2. 지자체에 신청</div>
+<div style="font-size:12.5px;color:#6b7a6b;">시군구 환경부서 또는 온라인 접수</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#7d9c7d;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;">3. 대상 확인 통보 후 폐차</div>
+<div style="font-size:12.5px;color:#6b7a6b;">지정 폐차장에서 말소등록까지</div>
+</div>
+<div style="position:relative;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#a8c8a8;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;">4. 서류 제출과 보조금 지급</div>
+<div style="font-size:12.5px;color:#6b7a6b;">말소등록 사실증명 등 제출</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>신청은 <b>차량 등록지 시군구</b> 환경부서에 합니다</li>
+<li><b>대상 확인 통보를 받은 뒤에</b> 폐차해야 합니다. 먼저 폐차하면 안 됩니다</li>
+<li>폐차 후 <b>말소등록 사실증명</b> 등 서류를 내면 보조금이 지급됩니다</li>
+</ul>
+
+<h2>먼저 폐차하면 못 받습니다</h2>
+
+<p>순서가 정말 중요합니다. <b>대상 확인을 받기 전에 폐차하면</b> 지원금이 나오지 않습니다.</p>
+
+<p>급하다고 폐차장부터 가는 분들이 있는데 그러면 끝입니다. 되돌릴 방법이 없어요.</p>
+
+<p>예산도 한정돼 있습니다. 지자체 예산이 소진되면 그해 신청은 마감됩니다. 연말로 갈수록 자리가 없어져요.</p>
+
+<p>실제로 늦가을이 지나면 마감된 지자체가 꽤 나오더라고요.</p>
+
+<blockquote>
+<p>대상 확인 통보 → 폐차 → 서류 제출 → 지급</p>
+<p>이 순서를 지키지 않으면 지원금이 사라집니다</p>
+</blockquote>
+
+<h2>계절관리제 기간에는 운행이 막힙니다</h2>
+
+<p>미세먼지 계절관리제는 <b>12월 1일부터 다음 해 3월 31일까지</b> 시행됩니다.</p>
+
+<p>이 기간에 수도권에서 <b>5등급 차량</b>을 운행하면 단속 대상입니다. 카메라로 자동 단속하고 <b>과태료</b>가 부과됩니다.</p>
+
+<p>매연저감장치를 달았거나 저공해 조치를 마친 차량은 단속에서 빠집니다. 영업용이나 긴급차량 같은 예외도 있고요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f0;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55605c;">
+<div style="flex:1.5;">구분</div><div style="flex:1;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">계절관리제 기간</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#4a6b4a;">12월 1일~3월 31일</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;background:#fafbfa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">단속 대상</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">5등급 경유차</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">단속 제외</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">저공해 조치 완료 차량</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;background:#fafbfa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">위반 시</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">과태료 부과</div>
+</div>
+</div>
+
+<ul>
+<li>계절관리제는 <b>12월 1일부터 3월 31일까지</b> 넉 달간 시행됩니다</li>
+<li>수도권에서 <b>5등급 경유차</b>를 운행하면 과태료가 부과됩니다</li>
+<li><b>저공해 조치</b>를 마쳤으면 단속에서 제외됩니다</li>
+</ul>
+
+<h3>매연저감장치를 다는 방법도 있습니다</h3>
+
+<p>차를 계속 타야 한다면 <b>매연저감장치 부착</b> 지원을 받는 선택지가 있습니다. 부착 비용의 상당 부분을 지원해줍니다.</p>
+
+<p>다만 차종에 따라 장착이 안 되는 경우가 있습니다. 그럴 땐 조기폐차 쪽으로 가는 게 맞습니다.</p>
+
+<p>어느 쪽이 나은지는 <b>차를 얼마나 더 탈 건지</b>로 갈립니다. 2년 안에 바꿀 생각이면 폐차가 낫습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이것도 챙기세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">폐차하면 <b style="color:#ffd97a;">자동차세와 보험료</b>도 일할 계산으로 돌려받습니다. 자동차보험은 자동으로 해지되지 않으니 <b style="color:#ff8a7a;">보험사에 직접 연락</b>해야 해요. 차량 등록 때 산 채권이 남아 있는지도 같이 확인해보시고요.</p>
+</div>
+
+<ul>
+<li>폐차하면 <b>자동차세</b>가 일할 계산으로 환급됩니다</li>
+<li>자동차보험은 자동 해지가 안 되니 <b>보험사에 직접</b> 알려야 합니다</li>
+<li>차량 등록 때 매입한 <b>채권 잔액</b>도 함께 확인해보세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>배출가스 4등급과 5등급 경유차가 조기폐차 지원 대상이다</p>
+<p>대상 확인 통보를 받기 전에 폐차하면 지원금을 못 받는다</p>
+<p>정기검사에서 운행이 가능한 상태여야 하고 6개월 이상 소유해야 한다</p>
+<p>계절관리제 12월부터 3월까지 5등급 차량은 운행제한 단속을 받는다</p>
+<p>지자체 예산이 소진되면 그해 신청이 마감된다</p>
+</blockquote>
+
+<p>12월이 되면 신청이 몰립니다. 예산도 그때쯤 바닥나고요. 10월이 움직이기 딱 좋은 시기입니다.</p>
+
+<p>어차피 바꿀 차라면 지원금 받고 바꾸는 게 낫잖아요. 안 받으면 그냥 없어지는 돈이지 뭐.</p>
+
+<p>지원 금액과 요건은 지자체마다 다르니 거주지 시군구 환경부서에 한 번 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 조기폐차 지원 대상: 배출가스 4등급·5등급 경유차 (매연저감장치 미부착 차량)
+ · 배출가스 등급 조회: 자동차 배출가스 등급제 사이트(차량번호 입력)
+ · 지원 요건: 지자체 연속 등록 기간, 최종 소유자 6개월 이상 소유, 정기검사상 정상 운행 가능 판정
+ · 지원금 = 기준가액 × 지원율, 신차 구매 시 추가 지원금(전기·수소차 우대)
+ · 절차: 대상 확인 통보 → 폐차 → 말소등록 사실증명 등 서류 제출 → 보조금 지급
+ · 대상 확인 전 폐차 시 지원 불가, 지자체 예산 소진 시 마감
+ · 미세먼지 계절관리제: 12월 1일~3월 31일, 수도권 5등급 차량 운행제한 및 과태료
+ · 저공해 조치(매연저감장치 부착 등) 완료 차량은 단속 제외
+ · 폐차 시 자동차세 일할 환급, 자동차보험은 별도 해지 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 차종·배기량별 지원 상한액과 지원율은 매년 환경부 지침과 지자체 예산으로 정해져 금액을 적지 않았습니다
+ · 지자체 연속 등록 요건 기간(통상 6개월)은 지역별 차이가 있어 "일정 기간"으로 표현했습니다
+ · 운행제한 과태료 금액과 단속 지역(수도권 외 확대 여부)은 연도별로 달라져 수치를 넣지 않았습니다
+ · 4등급 차량의 운행제한 적용 여부는 지역·연도별로 달라 5등급 기준으로만 서술했습니다
+ · 매연저감장치 부착 지원 비율은 차종별로 달라 구체 수치를 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아버지 차가 5등급이라 알아봤다"는 설정입니다

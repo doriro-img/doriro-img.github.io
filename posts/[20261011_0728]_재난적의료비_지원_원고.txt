@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 11일 07:28
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261011_0728]_재난적의료비_지원\
+   ├── 📄 [원고 파일]: [20261011_0728]_재난적의료비_지원_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-medicalaid.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261011_0728]_재난적의료비_지원_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-medicalaid.html
+
+■ 제목: 재난적의료비 지원사업 신청조건. 퇴원 180일 안에 신청해야 하는 이유
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 재난적의료비지원, 재난적의료비신청, 의료비지원사업, 비급여의료비, 퇴원180일, 국민건강보험공단, 본인부담상한제
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>재난적의료비 지원사업 신청조건. 퇴원 180일 안에 신청해야 하는 이유</p>
+
+<h2>비급여까지 지원해주는 제도입니다</h2>
+
+<p>재난적의료비 지원사업은 갑작스러운 질병이나 사고로 <b>감당하기 힘든 의료비</b>가 발생했을 때 국가가 일부를 지원하는 제도입니다.</p>
+
+<p>결론부터 말하면 <b>건강보험이 안 되는 비급여까지</b> 지원 범위에 들어갑니다. 이게 다른 제도와 가장 다른 점이에요.</p>
+
+<p>신청 기한이 중요합니다. <b>퇴원일 다음 날부터 180일 이내</b>에 신청해야 합니다. 이 기한을 넘기면 못 받습니다.</p>
+
+<p>가족 중에 큰 수술을 받은 지인이 이 제도를 몰라서 기한을 놓쳤다는 얘기를 들었거든요. 알고 있느냐가 전부인 제도입니다.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">네 가지 기준을 모두 충족해야 합니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f5a76;">질환 기준</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:5px;line-height:1.75;">입원은 질환 제한 없음<br />외래는 중증질환 중심</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f5a76;">소득 기준</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:5px;line-height:1.75;">기준 중위소득<br />일정 비율 이하</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f5a76;">재산 기준</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:5px;line-height:1.75;">가구 재산 과세표준<br />상한선 있음</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f5a76;">의료비 기준</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:5px;line-height:1.75;">연소득 대비<br />일정 비율 초과</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>질환·소득·재산·의료비</b> 네 가지 기준을 모두 충족해야 합니다</li>
+<li>입원은 <b>질환 제한이 없고</b> 외래는 중증질환 중심으로 적용됩니다</li>
+<li>의료비가 <b>연소득 대비 일정 비율</b>을 넘어야 대상이 됩니다</li>
+</ul>
+
+<h2>왜 비급여가 중요한가요?</h2>
+
+<p>건강보험이 적용되는 급여 항목은 이미 여러 안전장치가 있습니다. <b>본인부담상한제</b>가 대표적이에요.</p>
+
+<p>문제는 <b>비급여</b>입니다. 상급병실료, 선택진료, 신의료기술처럼 보험이 안 되는 항목은 그대로 본인 부담이거든요.</p>
+
+<p>큰 병에 걸리면 이 비급여가 수백만원에서 수천만원까지 나옵니다. 이 구멍을 메우는 게 재난적의료비 제도입니다.</p>
+
+<blockquote>
+<p>본인부담상한제: 급여 항목의 본인부담을 제한</p>
+<p>재난적의료비: 비급여를 포함한 부담을 지원</p>
+</blockquote>
+
+<h3>지원 비율과 한도는요?</h3>
+
+<p>본인이 부담한 의료비 중 <b>일정 비율</b>을 지원합니다. 소득 구간이 낮을수록 지원 비율이 높아요.</p>
+
+<p>연간 지원 한도도 정해져 있습니다. 무제한이 아니라 상한이 있습니다.</p>
+
+<p>실손보험금이나 다른 지원금을 이미 받았다면 <b>그 금액을 빼고</b> 계산합니다. 중복으로 받는 구조가 아니에요.</p>
+
+<h2>언제까지 신청해야 하나요?</h2>
+
+<p>가장 중요한 기한입니다. <b>퇴원일 다음 날부터 180일 이내</b>입니다.</p>
+
+<p>외래 진료라면 <b>진료일 다음 날부터 180일</b>로 계산합니다.</p>
+
+<p>입원 중에도 신청할 수 있습니다. 병원비를 마련하기 어려운 상황이면 <b>퇴원 전에</b> 신청하는 게 낫습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f7,#d9e6ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6b8a;margin-bottom:16px;">신청 기한 계산</div>
+<div style="display:flex;align-items:center;gap:10px;">
+<div style="flex:1;text-align:center;background:#fff;border-radius:12px;padding:16px 8px;">
+<div style="font-size:12px;color:#6b7885;font-weight:700;">퇴원일</div>
+<div style="font-size:17px;font-weight:800;color:#1f5a76;margin-top:5px;">D일</div>
+</div>
+<div style="flex:1.4;height:9px;background:linear-gradient(90deg,#a9cbe0,#2f6b8a);border-radius:5px;position:relative;">
+<div style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:13px;font-weight:800;color:#2f6b8a;white-space:nowrap;">180일</div>
+</div>
+<div style="flex:1;text-align:center;background:#c0554a;border-radius:12px;padding:16px 8px;">
+<div style="font-size:12px;color:#f5d7d3;font-weight:700;">신청 마감</div>
+<div style="font-size:17px;font-weight:800;color:#fff;margin-top:5px;">D+180</div>
+</div>
+</div>
+<div style="font-size:12.5px;color:#5f7078;margin-top:14px;text-align:center;">기한이 지나면 요건을 다 갖춰도 지원받을 수 없습니다</div>
+</div>
+
+<ul>
+<li>신청 기한은 <b>퇴원일 다음 날부터 180일</b>입니다</li>
+<li>외래는 <b>진료일 다음 날부터</b> 계산합니다</li>
+<li>입원 중에도 신청할 수 있고 급하면 <b>퇴원 전에</b> 넣는 게 낫습니다</li>
+</ul>
+
+<h2>어디에 신청하나요?</h2>
+
+<p><b>국민건강보험공단 지사</b>에 신청합니다. 병원에 있는 <b>사회복지팀</b>을 통해 상담받는 경우도 많아요.</p>
+
+<p>큰 병원에는 대개 이 제도를 안내해주는 담당자가 있습니다. 먼저 물어보세요.</p>
+
+<p>먼저 묻지 않으면 알려주지 않는 경우도 많더라고요.</p>
+
+<p>필요한 서류는 신분증, <b>진료비 영수증과 세부내역서</b>, 진단서, 소득·재산 관련 서류입니다.</p>
+
+<p>가구원 <b>금융정보 제공 동의서</b>도 필요합니다. 가족 서명이 필요할 수 있으니 미리 챙기세요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">준비 서류</div><div style="flex:1;text-align:right;">어디서</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">진료비 영수증·세부내역서</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">병원 원무과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">진단서 또는 소견서</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">담당 의사</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">가족관계증명서</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">정부24·무인발급기</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">금융정보 제공 동의서</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">공단 양식</div>
+</div>
+</div>
+
+<ul>
+<li>신청처는 <b>국민건강보험공단 지사</b>입니다</li>
+<li>큰 병원의 <b>사회복지팀</b>에서 안내와 상담을 받을 수 있습니다</li>
+<li>가구원 <b>금융정보 제공 동의서</b>가 필요해 가족 협조가 필요합니다</li>
+</ul>
+
+<h2>기준을 조금 넘어도 방법이 있습니다</h2>
+
+<p>소득이나 재산 기준을 살짝 넘었다고 바로 포기하지 마세요. <b>개별심사</b> 제도가 있습니다.</p>
+
+<p>기준을 초과했더라도 실제로 의료비 부담이 과도하다고 인정되면 <b>심사를 거쳐</b> 지원되는 경우가 있습니다.</p>
+
+<p>공단 지사에 상황을 설명하고 개별심사 신청이 가능한지 물어보세요. 안 물어보면 알려주지 않습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">같이 확인할 제도</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">급여 항목은 <b style="color:#ffd97a;">본인부담상한제</b>로 초과분을 돌려받습니다. 이건 공단이 자동으로 안내하지만 <b style="color:#ff8a7a;">신청을 해야</b> 지급됩니다. 재난적의료비와 별개 제도라 둘 다 확인해보세요.</p>
+</div>
+
+<ul>
+<li>기준을 조금 넘어도 <b>개별심사</b>로 지원되는 경우가 있습니다</li>
+<li>급여 항목은 <b>본인부담상한제</b>로 초과분 환급을 받습니다</li>
+<li>두 제도는 별개라 <b>각각 확인</b>해야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>비급여를 포함한 과도한 의료비를 지원하는 제도다</p>
+<p>질환·소득·재산·의료비 네 기준을 모두 충족해야 한다</p>
+<p>신청 기한은 퇴원일 다음 날부터 180일 이내다</p>
+<p>실손보험금 등 이미 받은 금액은 빼고 계산한다</p>
+<p>기준을 조금 넘어도 개별심사로 지원되는 경우가 있다</p>
+</blockquote>
+
+<p>큰 병은 예고 없이 옵니다. 이런 제도가 있다는 것만 알아둬도 나중에 큰 차이가 납니다.</p>
+
+<p>병원에 사회복지팀이 있으면 꼭 들러보세요. 알려주는 게 생각보다 많더라고요.</p>
+
+<p>소득·재산 기준과 지원 비율은 매년 조정되니 건강보험공단에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 재난적의료비 지원사업: 국민건강보험공단 운영, 급여 본인부담금과 비급여를 포함해 지원
+ · 지원 요건: 질환 기준(입원은 질환 제한 없음, 외래는 중증질환 중심), 소득 기준(기준 중위소득 대비), 재산 기준(가구 재산 과세표준 상한), 의료비 기준(연소득 대비 일정 비율 초과)
+ · 소득 구간이 낮을수록 지원 비율이 높고 연간 지원 한도 존재
+ · 실손보험금 등 이미 지급받은 금액은 차감 후 지원
+ · 신청 기한: 퇴원일(외래는 진료일) 다음 날부터 180일 이내, 입원 중 신청도 가능
+ · 신청처: 국민건강보험공단 지사, 병원 사회복지팀 상담 연계
+ · 기준 초과 시 개별심사 제도 운영
+ · 본인부담상한제는 급여 항목 대상의 별도 제도
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 소득 기준 비율, 재산 과세표준 상한, 의료비 기준 비율, 연간 지원 한도액은 매년 고시로 확정됩니다.
+   본문에 구체 수치를 적지 않았습니다. 발행 전 반드시 최신 기준 확인
+ · 지원 대상 비급여의 범위(제외 항목 포함)는 세부 지침이 있어 상세히 다루지 않았습니다
+ · 외래 지원 대상 중증질환의 범위는 지침으로 정해져 있어 "중증질환 중심"으로만 적었습니다
+ · 개별심사 인정 기준은 사례별 판단이라 "경우가 있다"로만 서술했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "지인이 제도를 몰라 기한을 놓쳤다"는 설정입니다

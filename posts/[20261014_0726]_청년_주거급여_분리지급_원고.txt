@@ -1,0 +1,230 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 14일 07:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261014_0726]_청년_주거급여_분리지급\
+   ├── 📄 [원고 파일]: [20261014_0726]_청년_주거급여_분리지급_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-youthhousing.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261014_0726]_청년_주거급여_분리지급_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-youthhousing.html
+
+■ 제목: 청년 주거급여 분리지급 신청조건. 부모와 따로 살면 각각 받는 제도 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 청년주거급여분리지급, 주거급여신청, 기준임대료, 중위소득48, 청년월세지원차이, 부모와별도거주, 임차급여
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>청년 주거급여 분리지급 신청조건. 부모와 따로 살면 각각 받는 제도 정리</p>
+
+<h2>부모 따로 자녀 따로 받습니다</h2>
+
+<p>청년 주거급여 분리지급은 <b>주거급여를 받는 가구의 청년 자녀</b>가 학업이나 취업 때문에 따로 살 때, 그 청년 몫을 <b>별도로</b> 주는 제도입니다.</p>
+
+<p>결론부터 말하면 <b>부모 가구와 청년이 각각</b> 주거급여를 받게 됩니다. 한 가구로 묶여 있던 걸 쪼개는 거예요.</p>
+
+<p>핵심 조건은 <b>부모가 이미 주거급여 수급 가구</b>여야 한다는 겁니다. 이게 전제입니다.</p>
+
+<p>부모님이 수급 중인데 이 제도를 몰라 자녀 몫을 못 받는 집이 꽤 있더라고요. 신청해야 나오는 구조라서요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5d7c;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">한 가구를 둘로 나눠 지급합니다</div>
+<div style="background:#fafbfc;padding:24px 18px;">
+<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+<div style="flex:1 1 140px;text-align:center;background:#fff;border-radius:12px;padding:18px 12px;">
+<svg width="46" height="46" viewBox="0 0 46 46"><path d="M23 6l17 13v21H6V19z" fill="#a9cbe0" stroke="#2f5d7c" stroke-width="2.4" stroke-linejoin="round"/><rect x="18" y="28" width="10" height="12" fill="#2f5d7c"/></svg>
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;margin-top:8px;">부모 가구</div>
+<div style="font-size:12px;color:#6b7885;margin-top:3px;">기존 주거급여</div>
+</div>
+<div style="font-size:26px;color:#9db6c9;font-weight:800;">+</div>
+<div style="flex:1 1 140px;text-align:center;background:#2f5d7c;border-radius:12px;padding:18px 12px;">
+<svg width="46" height="46" viewBox="0 0 46 46"><rect x="10" y="10" width="26" height="30" rx="3" fill="#a9cbe0"/><rect x="17" y="24" width="12" height="16" fill="#2f5d7c"/><circle cx="23" cy="18" r="3" fill="#2f5d7c"/></svg>
+<div style="font-size:13.5px;font-weight:800;color:#fff;margin-top:8px;">청년 본인</div>
+<div style="font-size:12px;color:#a9cbe0;margin-top:3px;">분리지급분</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>부모 가구가 <b>주거급여 수급 중</b>이어야 신청할 수 있습니다</li>
+<li>청년 몫이 <b>별도 계좌</b>로 따로 지급됩니다</li>
+<li>신청하지 않으면 <b>자동으로 나오지 않습니다</b></li>
+</ul>
+
+<h2>청년 쪽 조건이 따로 있습니다</h2>
+
+<p>부모가 수급자라고 무조건 되는 건 아닙니다. 청년 본인도 요건을 채워야 해요.</p>
+
+<ul>
+<li>만 19세 이상 30세 미만의 <b>미혼 자녀</b></li>
+<li>부모와 <b>주민등록상 시군이 다른 지역</b>에 거주</li>
+<li>본인 명의의 <b>임대차계약</b>을 맺고 임차료를 낼 것</li>
+</ul>
+
+<p>가장 많이 걸리는 게 <b>지역 요건</b>입니다. 같은 시나 군 안에서 따로 살면 원칙적으로 대상이 아니에요.</p>
+
+<p>다만 거리가 멀거나 대중교통 이용이 어려운 경우 <b>예외</b>가 인정될 수 있습니다. 이건 상담을 받아보세요.</p>
+
+<h3>임대차계약이 본인 명의여야 합니다</h3>
+
+<p>부모 명의로 계약된 집에 살고 있으면 안 됩니다. <b>청년 본인 이름</b>으로 계약해야 해요.</p>
+
+<p>기숙사도 대체로 대상이 아닙니다. 임대차계약이 아니라서 그렇습니다.</p>
+
+<p>친척 집에 사는 경우도 제외되는 게 원칙입니다. 가족 간 계약은 인정이 까다롭습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f8,#dae6ef);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5d7c;margin-bottom:16px;">신청 전 확인할 네 가지</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">부모 수급 여부</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">주거급여를 받고 있는가</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">나이</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">만 19세 이상 30세 미만</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">거주 지역</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">부모와 다른 시군</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">계약 명의</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">청년 본인 명의</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>대상은 <b>만 19세 이상 30세 미만</b> 미혼 자녀입니다</li>
+<li>부모와 <b>다른 시군</b>에 살아야 하는 게 원칙입니다</li>
+<li>임대차계약이 <b>청년 본인 명의</b>여야 합니다</li>
+</ul>
+
+<h2>얼마를 받나요?</h2>
+
+<p>지급액은 <b>기준임대료</b>와 <b>실제 임차료</b> 중 낮은 금액을 기준으로 계산합니다.</p>
+
+<p>기준임대료는 지역과 가구원 수에 따라 다릅니다. <b>1급지에서 4급지</b>로 나뉘고 서울이 가장 높아요.</p>
+
+<p>청년은 <b>본인이 사는 지역</b>의 기준임대료를 적용받습니다. 부모가 지방에 살아도 서울에 살면 서울 기준이에요.</p>
+
+<p>소득인정액이 생계급여 기준을 넘으면 <b>자기부담분</b>이 차감됩니다. 소득이 높을수록 받는 금액이 줄어듭니다.</p>
+
+<blockquote>
+<p>지급액 = min(기준임대료, 실제임차료) - 자기부담분</p>
+<p>청년은 본인 거주지 급지의 기준임대료를 적용받습니다</p>
+</blockquote>
+
+<h2>주거급여 자체의 소득 기준</h2>
+
+<p>주거급여는 가구 소득인정액이 <b>기준 중위소득 48% 이하</b>일 때 받습니다.</p>
+
+<p>이건 부모 가구 기준으로 판정합니다. 분리지급을 신청해도 <b>소득 판정은 원래 가구</b>로 함께 봐요.</p>
+
+<p>그러니까 청년이 아르바이트로 버는 돈도 가구 소득에 잡힙니다. 이 부분을 오해하는 경우가 많습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">구분</div><div style="flex:1;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">소득 기준</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f5d7c;">중위소득 48% 이하</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">소득 판정 단위</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">부모 포함 원가구</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">기준임대료 적용</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">청년 거주지 기준</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">지급 계좌</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">청년 본인 계좌</div>
+</div>
+</div>
+
+<ul>
+<li>소득 기준은 <b>기준 중위소득 48% 이하</b>입니다</li>
+<li>소득 판정은 <b>부모를 포함한 원가구</b> 기준으로 합니다</li>
+<li>기준임대료는 <b>청년이 사는 지역</b> 기준으로 적용됩니다</li>
+</ul>
+
+<h2>신청은 어떻게 하나요?</h2>
+
+<p><b>부모 가구의 주소지</b> 읍면동 주민센터에 신청합니다. 청년이 사는 곳이 아니라는 게 포인트예요.</p>
+
+<p>복지로 홈페이지로도 됩니다. 온라인이 편하지만 서류가 많으면 방문이 낫습니다.</p>
+
+<p>필요한 서류는 <b>임대차계약서, 임차료 납부 증빙, 청년 명의 통장</b>입니다. 분리지급 신청서도 따로 씁니다.</p>
+
+<p>임차료를 <b>계좌이체</b>로 내면 증빙이 깔끔합니다. 현금으로 내면 영수증을 꼭 받아두세요.</p>
+
+<p>이체 내역만 있으면 서류 준비가 훨씬 수월하더라고요.</p>
+
+<h3>다른 청년 지원과 겹치나요?</h3>
+
+<p>청년월세 지원 같은 다른 사업과는 <b>중복이 제한</b>되는 경우가 있습니다.</p>
+
+<p>주거급여는 기초생활보장 제도의 일부라 성격이 다릅니다. 어느 쪽이 유리한지 비교해봐야 해요.</p>
+
+<p>대개는 주거급여 쪽 금액이 크고 기간 제한이 없습니다. 다만 소득 기준이 훨씬 엄격합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">놓치기 쉬운 것</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">청년이 <b style="color:#ff8a7a;">만 30세가 되면</b> 분리지급 대상에서 벗어납니다. 결혼해도 마찬가지고요. 이사하거나 계약이 바뀌면 <b style="color:#ffd97a;">변경 신고</b>를 해야 합니다. 안 하면 나중에 환수될 수 있습니다.</p>
+</div>
+
+<ul>
+<li>만 <b>30세</b>가 되거나 혼인하면 대상에서 제외됩니다</li>
+<li>이사나 계약 변경 시 <b>변경 신고</b>가 필요합니다</li>
+<li>신고를 빠뜨리면 <b>환수</b> 대상이 될 수 있습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>부모가 주거급여 수급 가구여야 신청할 수 있다</p>
+<p>만 19세 이상 30세 미만 미혼 자녀가 대상이다</p>
+<p>부모와 다른 시군에 살고 본인 명의로 임대차계약을 맺어야 한다</p>
+<p>기준임대료는 청년이 사는 지역 기준으로 적용된다</p>
+<p>소득 판정은 부모를 포함한 원가구 기준으로 한다</p>
+</blockquote>
+
+<p>부모님이 주거급여를 받고 계시면 꼭 확인해보세요. 신청 안 하면 그냥 안 나옵니다.</p>
+
+<p>서류가 좀 번거로워도 매달 나오는 돈이니 해볼 만하지. 한 번만 처리하면 계속 들어옵니다.</p>
+
+<p>기준임대료와 소득 기준은 매년 바뀌니 주민센터나 복지로에서 올해 기준을 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 청년 주거급여 분리지급: 주거급여 수급가구의 청년 자녀가 학업·취업 등으로 부모와 따로 거주 시 청년 몫을 별도 지급
+ · 청년 요건: 만 19세 이상 30세 미만 미혼 자녀, 부모와 주민등록상 시·군을 달리하여 거주, 청년 본인 명의 임대차계약 및 임차료 납부
+ · 동일 시·군이라도 대중교통 이용이 어려운 경우 등 예외 인정 가능
+ · 주거급여 소득 기준: 가구 소득인정액이 기준 중위소득 48% 이하 (소득 판정은 부모 포함 원가구 기준)
+ · 지급액 = min(기준임대료, 실제임차료) − 자기부담분, 기준임대료는 급지(1~4급지)와 가구원 수에 따라 차등
+ · 청년은 본인 거주지 급지의 기준임대료 적용
+ · 신청: 부모 가구 주소지 읍면동 주민센터 또는 복지로
+ · 만 30세 도달·혼인 시 분리지급 대상에서 제외, 이사·계약 변경 시 변경 신고 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 급지별 기준임대료 금액과 기준 중위소득 48%에 해당하는 실제 금액은 매년 고시로 확정되어 수치를 적지 않았습니다
+ · 동일 시·군 예외 인정 기준(거리·교통 여건)은 사례별 판단이라 "상담"으로 안내했습니다
+ · 기숙사·친척 집 거주의 인정 여부는 계약 형태에 따라 달라 "원칙"으로만 서술했습니다
+ · 청년월세 지원 등 타 사업과의 중복 제한 여부는 사업별로 달라 비교 상담을 권했습니다
+ · 자기부담분 산정 방식(생계급여 기준 초과분 반영)은 계산이 복잡해 상세히 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "부모가 수급 중인데 제도를 몰라 못 받는 집이 있다"는 일반적 관찰로 적었습니다

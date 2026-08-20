@@ -1,0 +1,225 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 27일 07:36
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261027_0736]_새일센터_경력단절\
+   ├── 📄 [원고 파일]: [20261027_0736]_새일센터_경력단절_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-saeil.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261027_0736]_새일센터_경력단절_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-saeil.html
+
+■ 제목: 여성새로일하기센터 이용법. 직업훈련 무료 수강과 취업지원금 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 새일센터, 경력단절여성, 직업훈련무료, 새일여성인턴, 취업지원금, 직업교육훈련, 여성취업지원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>여성새로일하기센터 이용법. 직업훈련 무료 수강과 취업지원금 정리</p>
+
+<h2>경력이 끊겼어도 다시 시작할 수 있습니다</h2>
+
+<p>여성새로일하기센터는 흔히 <b>새일센터</b>라고 부릅니다. 경력단절 여성의 취업을 지원하는 기관이에요.</p>
+
+<p>결론부터 말하면 <b>직업훈련을 무료로</b> 들을 수 있고 취업까지 연계해줍니다.</p>
+
+<p>대상은 <b>혼인, 임신, 출산, 육아, 가족 돌봄</b> 등으로 일을 그만둔 여성입니다.</p>
+
+<p>취업 자체보다 어디서 뭘 시작해야 할지 몰라 막막한 경우가 많더라고요. 그 첫걸음을 도와주는 곳입니다.</p>
+
+<div style="border:1px solid #e3e0e6;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a8546b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">받을 수 있는 지원</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfafb;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">직업 상담</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">적성·경력 진단</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">직업 훈련</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">무료 또는 저렴</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">인턴 연계</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">기업에 인건비 지원</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">취업 후 관리</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">적응 상담</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>직업 상담</b>으로 적성과 경력을 진단합니다</li>
+<li><b>직업훈련</b>을 무료 또는 저렴하게 수강할 수 있습니다</li>
+<li><b>새일여성인턴</b>으로 기업 연계 취업이 가능합니다</li>
+</ul>
+
+<h2>누가 이용할 수 있나요?</h2>
+
+<p>기본 대상은 <b>경력단절여성</b>입니다. 일을 그만둔 뒤 다시 취업하려는 분이에요.</p>
+
+<p>실제로는 <b>미취업 여성</b>이면 대체로 상담과 훈련을 받을 수 있습니다.</p>
+
+<p>취업 경험이 없어도 됩니다. <b>학업이나 육아</b>로 일을 시작하지 못한 경우도 포함돼요.</p>
+
+<p>나이 제한이 없다는 것도 장점입니다. 중장년 여성도 이용할 수 있습니다.</p>
+
+<blockquote>
+<p>경력이 끊긴 이유를 묻지 않습니다</p>
+<p>다시 일하려는 의사가 있으면 상담부터 받으면 됩니다</p>
+</blockquote>
+
+<h3>어떤 훈련이 있나요?</h3>
+
+<p>센터마다 다르지만 <b>사무, 회계, 디자인, IT, 돌봄, 조리</b> 같은 분야가 많습니다.</p>
+
+<p>요즘은 <b>디지털 관련 과정</b>이 늘었습니다. 데이터나 온라인 마케팅 과정도 있고요.</p>
+
+<p>훈련 기간은 몇 주에서 몇 달까지 다양합니다. <b>단기 과정</b>도 있어서 부담이 적습니다.</p>
+
+<p>훈련 중에 <b>훈련수당</b>이 지급되는 과정도 있습니다. 교통비나 식비 명목이에요.</p>
+
+<div style="background:linear-gradient(135deg,#fbf2f4,#f0dce2);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a4557;margin-bottom:16px;">이용 흐름</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">구직 등록</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">센터 방문·온라인</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">직업 상담</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">진로 방향 설정</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">훈련 참여</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">과정 선택·수강</div>
+</div>
+<div style="flex:1 1 140px;background:#a8546b;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#f0d3da;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">취업 연계</div>
+<div style="font-size:11.5px;color:#f0d3da;margin-top:4px;">알선·인턴</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>먼저 <b>구직 등록</b>을 하고 상담을 받습니다</li>
+<li>상담 결과에 맞는 <b>훈련 과정</b>을 고릅니다</li>
+<li>훈련 후 <b>취업 알선</b>과 인턴 연계로 이어집니다</li>
+</ul>
+
+<h2>새일여성인턴이 뭔가요?</h2>
+
+<p>기업에 인턴으로 들어가고 <b>정부가 인건비 일부를 지원</b>하는 제도입니다.</p>
+
+<p>기업 입장에서 부담이 줄어드니 <b>채용 문턱</b>이 낮아집니다.</p>
+
+<p>인턴 기간이 끝난 뒤 <b>정규직으로 전환</b>되면 기업에 추가 지원금이 나갑니다.</p>
+
+<p>본인에게도 <b>취업장려금</b>이 지급되는 경우가 있습니다. 근속 기간 요건이 붙어요.</p>
+
+<h3>경력이 오래 끊겼어도 되나요?</h3>
+
+<p>됩니다. 오히려 그런 분들을 위한 제도예요.</p>
+
+<p>다만 <b>이전 직장과 같은 곳</b>으로 돌아가는 경우 등은 제한이 있습니다.</p>
+
+<p>가족이 운영하는 사업장도 <b>지원 대상에서 제외</b>되는 경우가 있고요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4eff1;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6870;">
+<div style="flex:1.5;">지원</div><div style="flex:1;text-align:right;">받는 쪽</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">인턴 인건비</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">기업</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;background:#fdfafb;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">정규직 전환 지원금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">기업</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">취업장려금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">본인</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;background:#fdfafb;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">훈련수당</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">본인</div>
+</div>
+</div>
+
+<ul>
+<li>인턴 <b>인건비</b>는 기업에 지원돼 채용 부담을 낮춥니다</li>
+<li>본인에게는 <b>취업장려금</b>과 훈련수당이 나올 수 있습니다</li>
+<li>지원금은 <b>근속 기간</b> 요건을 채워야 지급됩니다</li>
+</ul>
+
+<h2>다른 지원과 함께 쓸 수 있나요?</h2>
+
+<p>국민내일배움카드로 듣는 훈련과 <b>중복 수강</b>은 제한될 수 있습니다.</p>
+
+<p>실업급여를 받는 중이라면 <b>구직활동 인정</b>과 연결해서 활용할 수 있습니다.</p>
+
+<p>어느 쪽이 유리한지는 상황에 따라 다릅니다. <b>상담할 때 함께 물어보세요.</b></p>
+
+<p>지자체가 운영하는 여성 취업 사업도 있습니다. 새일센터에서 연계해주기도 합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">아이 맡길 곳도</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">훈련을 듣고 싶어도 <b style="color:#ff8a7a;">아이 맡길 곳</b>이 없어 못 하는 경우가 많습니다. 일부 센터는 <b style="color:#ffd97a;">아이돌봄 연계</b>를 함께 안내해줍니다. 상담할 때 이 부분도 꼭 얘기하세요.</p>
+</div>
+
+<ul>
+<li>내일배움카드 훈련과 <b>중복 수강</b>은 제한될 수 있습니다</li>
+<li>상담할 때 <b>어느 쪽이 유리한지</b> 함께 물어보세요</li>
+<li>일부 센터는 <b>아이돌봄 연계</b>도 안내해줍니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>새일센터는 경력단절여성의 취업을 상담부터 연계까지 지원한다</p>
+<p>직업훈련을 무료 또는 저렴하게 들을 수 있고 훈련수당이 나오기도 한다</p>
+<p>새일여성인턴은 기업에 인건비를 지원해 채용 문턱을 낮춘다</p>
+<p>취업장려금은 본인에게 지급되며 근속 요건이 붙는다</p>
+<p>내일배움카드 등 다른 제도와 중복 여부를 상담 때 확인한다</p>
+</blockquote>
+
+<p>상담만 받아도 방향이 잡힙니다. 뭘 해야 할지 모르겠으면 여기부터 가보세요.</p>
+
+<p>훈련 과정이 생각보다 다양하더라고요. 예전에 알던 것과 완전히 달라졌습니다.</p>
+
+<p>센터마다 운영 과정과 지원 내용이 다르니 가까운 새일센터에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 여성새로일하기센터(새일센터): 여성가족부·고용노동부 협업 사업, 경력단절여성 등의 취업 지원
+ · 대상: 혼인·임신·출산·육아·가족돌봄 등으로 경력이 단절된 여성 및 미취업 여성 (연령 제한 없음)
+ · 지원 내용: 직업상담, 직업교육훈련(무료 또는 저렴), 새일여성인턴, 취업 연계, 취업 후 사후관리
+ · 새일여성인턴: 참여 기업에 인턴 인건비 지원, 정규직 전환 시 기업에 추가 지원금, 참여자에게 취업장려금 지급(근속 요건 있음)
+ · 일부 훈련 과정은 훈련수당(교통비·식비 등) 지급
+ · 이전 직장 재취업, 가족이 운영하는 사업장 등은 인턴 지원 제외 사유가 될 수 있음
+ · 국민내일배움카드 훈련 등과 중복 수강이 제한될 수 있음
+ · 일부 센터는 아이돌봄 서비스 연계 안내
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 인턴 인건비 지원액, 정규직 전환 지원금, 취업장려금 금액과 근속 요건은 연도별로 조정되어 수치를 적지 않았습니다
+ · 훈련수당 지급 여부와 금액은 과정별로 달라 "지급되는 과정도 있다"로 적었습니다
+ · 중복 수강 제한의 구체 범위는 사업 지침에 따라 달라 상담 확인으로 안내했습니다
+ · 인턴 지원 제외 사유는 지침에 세부 규정이 있어 대표 사례만 언급했습니다
+ · 센터별 운영 과정은 지역·시기에 따라 달라 개별 과정명을 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "어디서 뭘 시작해야 할지 몰라 막막한 경우가 많다"는 일반적 관찰로 적었습니다

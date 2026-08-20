@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 27일 18:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261027_1842]_아파트_관리비_보는법\
+   ├── 📄 [원고 파일]: [20261027_1842]_아파트_관리비_보는법_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-maintfee.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261027_1842]_아파트_관리비_보는법_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-maintfee.html
+
+■ 제목: 아파트 관리비 항목 보는 법. 공용관리비와 개별사용료 구분하기
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 아파트관리비, 공용관리비, 개별사용료, 공동주택관리정보시스템, 관리비비교, 세대전기료, 난방비검침
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>아파트 관리비 항목 보는 법. 공용관리비와 개별사용료 구분하기</p>
+
+<h2>고지서는 두 덩어리로 나뉩니다</h2>
+
+<p>아파트 관리비 고지서는 복잡해 보이지만 구조는 단순합니다. <b>공용관리비</b>와 <b>개별사용료</b>로 나뉘어요.</p>
+
+<p>결론부터 말하면 <b>공용관리비는 단지 전체가 나눠 내는 돈</b>이고 <b>개별사용료는 우리 집이 쓴 만큼</b> 내는 돈입니다.</p>
+
+<p>겨울에 관리비가 오르는 건 대부분 <b>개별사용료</b> 때문입니다. 난방비가 늘어서죠.</p>
+
+<p>어느 항목이 올랐는지 알면 대응이 달라지더라고요. 고지서를 한 번 뜯어볼 만합니다.</p>
+
+<div style="border:1px solid #e2e6e8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">고지서의 두 덩어리</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;">
+<div style="font-size:12.5px;color:#1f5a76;font-weight:800;margin-bottom:10px;">공용관리비</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">일반관리비(인건비 등)<br />청소·경비·소독비<br />승강기 유지비<br />수선유지비</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;">
+<div style="font-size:12.5px;color:#9a6413;font-weight:800;margin-bottom:10px;">개별사용료</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">세대 전기료<br />세대 수도료<br />난방비·급탕비<br />TV 수신료</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>공용관리비</b>는 단지 전체 비용을 면적 등으로 나눠 부담합니다</li>
+<li><b>개별사용료</b>는 우리 집이 실제로 쓴 만큼 냅니다</li>
+<li>겨울 관리비 상승은 대부분 <b>난방비</b> 때문입니다</li>
+</ul>
+
+<h2>장기수선충당금은 또 다릅니다</h2>
+
+<p>관리비 고지서에는 이 둘 말고 <b>장기수선충당금</b>이 별도 항목으로 찍힙니다.</p>
+
+<p>건물의 큰 수선에 쓰려고 <b>적립</b>하는 돈이라 성격이 다릅니다.</p>
+
+<p>이건 <b>소유자가 부담</b>할 돈이라 세입자는 이사할 때 돌려받습니다.</p>
+
+<p><b>수선유지비</b>와 헷갈리기 쉬운데 그건 일상적인 수리 비용이라 거주자 부담입니다.</p>
+
+<blockquote>
+<p>수선유지비: 일상 수리, 거주자 부담</p>
+<p>장기수선충당금: 대규모 수선 적립, 소유자 부담</p>
+</blockquote>
+
+<h3>난방비 계산 방식</h3>
+
+<p>중앙난방이나 지역난방은 <b>세대별 계량기</b>로 사용량을 잽니다.</p>
+
+<p>여기에 <b>기본요금</b>과 공용 난방분이 더해집니다. 안 써도 어느 정도는 나오는 이유예요.</p>
+
+<p>계량기가 없는 단지는 <b>면적 기준</b>으로 나누기도 합니다. 이 경우 절약해도 차이가 작습니다.</p>
+
+<p>우리 단지가 어떤 방식인지 알아야 <b>절약이 의미 있는지</b> 판단할 수 있습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f7,#d9e6ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6b8a;margin-bottom:16px;">관리비가 갑자기 올랐다면</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">어느 항목인지 확인</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">공용인지 개별인지</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">전월과 비교</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">고지서에 비교란이 있음</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">검침값 확인</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">계량기 숫자와 대조</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">관리사무소 문의</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">설명을 요구할 수 있음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>먼저 <b>공용인지 개별인지</b> 어느 쪽이 올랐는지 봅니다</li>
+<li>고지서의 <b>전월 비교란</b>을 확인합니다</li>
+<li>검침값이 이상하면 <b>계량기 숫자</b>와 직접 대조해보세요</li>
+</ul>
+
+<h2>다른 단지와 비교할 수 있습니다</h2>
+
+<p>국토교통부 <b>공동주택관리정보시스템</b>에서 단지별 관리비를 조회할 수 있습니다.</p>
+
+<p>비슷한 규모와 <b>연식</b>의 단지와 비교해보면 우리 단지가 비싼지 알 수 있어요.</p>
+
+<p>항목별로도 나옵니다. 경비비가 유독 높다거나 하는 게 보입니다.</p>
+
+<p>차이가 크면 <b>입주자대표회의</b>에 문제를 제기할 근거가 됩니다.</p>
+
+<h3>관리비 공개 의무가 있습니다</h3>
+
+<p>일정 규모 이상 공동주택은 관리비 내역을 <b>공개</b>해야 합니다.</p>
+
+<p>공동주택관리정보시스템에 올리고 <b>단지 게시판</b>에도 붙입니다.</p>
+
+<p>입주민은 <b>회계 서류 열람</b>을 요구할 수 있습니다. 관리규약에 절차가 정해져 있어요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">항목</div><div style="flex:1;text-align:right;">부담 주체</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">일반관리비·청소·경비</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6b8a;">거주자</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">수선유지비</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6b8a;">거주자</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">세대 전기·수도·난방</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6b8a;">거주자</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">장기수선충당금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">소유자</div>
+</div>
+</div>
+
+<ul>
+<li>공동주택관리정보시스템에서 <b>단지별 비교</b>가 가능합니다</li>
+<li>일정 규모 이상 단지는 관리비 <b>공개 의무</b>가 있습니다</li>
+<li>입주민은 <b>회계 서류 열람</b>을 요구할 수 있습니다</li>
+</ul>
+
+<h2>빈집이어도 관리비가 나옵니다</h2>
+
+<p>이사 나갔거나 공실이어도 <b>공용관리비</b>는 부담해야 합니다.</p>
+
+<p>단지 유지에 드는 비용이라 사용 여부와 무관하거든요. 다만 일부 항목은 감면되기도 합니다.</p>
+
+<p>개별사용료는 안 쓰면 <b>기본요금</b> 정도만 나옵니다.</p>
+
+<p>장기 공실이면 관리사무소에 알려두세요. <b>감면 규정</b>이 있는 단지도 있습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">체납하면</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">관리비를 오래 안 내면 <b style="color:#ff8a7a;">연체료</b>가 붙고 소송으로 갈 수 있습니다. 집을 팔 때 <b style="color:#ffd97a;">체납액이 승계</b>되는 문제도 생겨요. 매수할 때 관리비 완납 여부를 꼭 확인하세요.</p>
+</div>
+
+<ul>
+<li>공실이어도 <b>공용관리비</b>는 부담해야 합니다</li>
+<li>장기 공실은 <b>감면 규정</b>이 있는지 관리사무소에 문의하세요</li>
+<li>집을 살 때 <b>관리비 완납</b> 여부를 확인해야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>관리비는 공용관리비와 개별사용료로 나뉜다</p>
+<p>겨울 관리비 상승은 대부분 난방비 등 개별사용료 때문이다</p>
+<p>장기수선충당금은 소유자 부담이라 세입자는 돌려받는다</p>
+<p>공동주택관리정보시스템에서 다른 단지와 비교할 수 있다</p>
+<p>공실이어도 공용관리비는 부담해야 한다</p>
+</blockquote>
+
+<p>고지서를 한 번만 꼼꼼히 보면 구조가 잡힙니다. 그다음부터는 어디가 올랐는지 바로 보여요.</p>
+
+<p>우리 단지 관리비가 비싼지 궁금하면 정보시스템에서 비교해보세요. 생각보다 차이가 크더라고요.</p>
+
+<p>단지마다 부과 방식과 관리규약이 다르니 관리사무소에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 공동주택 관리비는 공용관리비(일반관리비·청소비·경비비·소독비·승강기유지비·수선유지비 등)와 개별사용료(세대 전기료·수도료·난방비·급탕비·TV수신료 등)로 구분
+ · 장기수선충당금은 관리비와 별도 항목으로 부과되며 공동주택관리법상 소유자 부담
+ · 수선유지비는 일상적 유지·보수 비용으로 거주자 부담이며 장기수선충당금과 성격이 다름
+ · 난방비는 세대별 계량 방식(중앙·지역난방)과 면적 안분 방식 등 단지별로 부과 기준이 상이하며 기본요금·공용난방분 포함
+ · 국토교통부 공동주택관리정보시스템(K-apt)에서 단지별·항목별 관리비 조회 및 비교 가능
+ · 일정 규모 이상 공동주택은 관리비 등의 공개 의무, 입주민의 회계서류 열람 청구 가능
+ · 공실이어도 공용관리비는 원칙적으로 부담하며 단지 관리규약에 따라 일부 감면 가능
+ · 관리비 체납 시 연체료 부과 및 법적 절차 진행, 매매 시 체납액 문제 발생 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 관리비 공개 의무 대상 규모(세대수 기준)는 법령에 규정되어 있어 수치를 적지 않았습니다
+ · 공실 감면 여부와 범위는 단지 관리규약에 따라 달라 "있는 단지도 있다"로 적었습니다
+ · 연체료율은 관리규약으로 정해져 단지마다 달라 수치를 넣지 않았습니다
+ · 관리비 체납액의 승계 범위는 법률 해석 영역이라 "문제가 생길 수 있다"로만 서술했습니다
+ · 난방비 부과 방식은 단지 설비에 따라 달라 대표 방식만 설명했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "고지서를 뜯어보니 어느 항목이 올랐는지 보였다"는 설정입니다

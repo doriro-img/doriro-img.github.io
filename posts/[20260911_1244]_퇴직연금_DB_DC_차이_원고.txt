@@ -1,0 +1,185 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 11일 12:44
+■ 제목: 퇴직연금 DB형 DC형 차이. 어느 쪽이 유리한지 임금상승률로 판단하는 법
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 퇴직연금DB형, DC형전환, 퇴직급여, 임금피크제, IRP
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260911_1244]_퇴직연금_DB_DC_차이\
+   ├── 📄 [원고 파일]: [20260911_1244]_퇴직연금_DB_DC_차이_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_dbdc.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260911_1244]_퇴직연금_DB_DC_차이_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_dbdc.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>퇴직연금 DB형 DC형 차이. 어느 쪽이 유리한지 임금상승률로 판단하는 법</p>
+
+<h2>누가 굴리느냐가 전부입니다</h2>
+
+<p>퇴직연금 DB형과 DC형의 차이는 하나로 정리됩니다. <b>회사가 굴리느냐 내가 굴리느냐</b>예요.</p>
+
+<p>결론부터 말하면 <b>임금상승률이 운용수익률보다 높으면 DB</b>, 반대면 DC가 유리합니다. 판단 기준은 이거 하나입니다.</p>
+
+<p>DB는 <b>퇴직 직전 3개월 평균임금 × 근속연수</b>로 금액이 정해집니다. 내가 뭘 하든 결과가 같아요.</p>
+
+<p>제 경우엔 임금상승률이 크지 않아서 DC로 옮겼거든요. 대신 신경을 써야 하는 게 늘더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">DB형과 DC형, 이렇게 다릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 220px;padding:18px 16px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:10px;">DB형 (확정급여형)</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">회사가 운용<br />퇴직 전 평균임금 기준<br />운용 손익은 회사 책임<br />금액이 미리 정해짐</div>
+</div>
+<div style="flex:1 1 220px;padding:18px 16px;">
+<div style="font-size:13px;color:#3a4480;font-weight:800;margin-bottom:10px;">DC형 (확정기여형)</div>
+<div style="font-size:13.5px;color:#4a5060;line-height:1.9;">근로자가 운용<br />매년 회사가 납입<br />운용 손익은 내 몫<br />금액이 성과에 따라 변동</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>DB형</b>은 회사가 적립금을 운용하고 퇴직 전 평균임금으로 급여가 정해집니다</li>
+<li><b>DC형</b>은 회사가 매년 납입해주고 <b>근로자가 직접</b> 운용합니다</li>
+<li>운용 성과가 좋든 나쁘든 <b>DB는 회사 책임, DC는 본인 책임</b>입니다</li>
+</ul>
+
+<h2>계산해보면 답이 나옵니다</h2>
+
+<p>DB형 퇴직급여는 공식이 단순합니다.</p>
+
+<blockquote>
+<p>DB 퇴직급여 = 퇴직 직전 3개월 평균임금 × 근속연수</p>
+<p>DC 퇴직급여 = 매년 받은 적립금 + 운용 손익</p>
+</blockquote>
+
+<p>DB는 <b>마지막 월급</b>이 전체 금액을 좌우합니다. 승진해서 월급이 크게 오르면 과거 근속연수까지 소급 효과가 생겨요.</p>
+
+<p>DC는 <b>그 해 받은 임금</b> 기준으로 그때그때 적립됩니다. 나중에 월급이 올라도 과거 적립분은 그대로예요.</p>
+
+<p>그래서 임금이 가파르게 오르는 구조면 DB가 유리합니다. 반대면 DC가 낫고요.</p>
+
+<h2>이럴 때 DC로 바꾸는 게 좋습니다</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #cdd4e6;background:#eef1f7;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#3a4480;margin-bottom:10px;">DC가 유리한 경우</div>
+<div style="font-size:13.5px;color:#4a5060;line-height:1.9;">임금상승률이 낮은 편<br />임금피크제 적용 예정<br />투자에 관심이 있음<br />이직이 잦은 편</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">DB가 유리한 경우</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">호봉제로 임금이 꾸준히 오름<br />승진이 예정돼 있음<br />한 회사에 오래 다닐 계획<br />운용에 신경 쓰기 싫음</div>
+</div>
+</div>
+
+<ul>
+<li>임금상승률이 낮거나 <b>임금피크제</b>가 예정돼 있으면 DC가 유리합니다</li>
+<li><b>호봉제</b>로 임금이 꾸준히 오르는 구조면 DB가 낫습니다</li>
+<li>운용에 전혀 신경 쓰지 않을 사람이라면 <b>DB가 마음 편합니다</b></li>
+</ul>
+
+<p><b>임금피크제</b>는 특히 중요합니다. 임금이 깎이는 시점 이후에 DB로 퇴직하면 평균임금이 낮아진 상태로 계산되거든요.</p>
+
+<p>그래서 임금피크 진입 전에 DC로 바꿔두는 경우가 많습니다. 이건 시점이 정말 중요해요.</p>
+
+<h2>전환은 한 방향입니다</h2>
+
+<p>여기가 핵심 함정입니다. <b>DB에서 DC로는 바꿀 수 있지만 DC에서 DB로는 원칙적으로 안 됩니다.</b></p>
+
+<p>한 번 넘어가면 되돌리기 어렵다는 뜻이에요. 그래서 결정 전에 계산을 충분히 해봐야 합니다.</p>
+
+<p>회사가 두 제도를 <b>모두 운영</b>하고 있어야 전환이 가능합니다. DB만 있는 회사면 선택지가 없어요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">전환 전 확인</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">DC로 넘어가면 <b style="color:#ff8a7a;">되돌릴 수 없습니다.</b> 그리고 운용을 방치하면 <b style="color:#ffd97a;">원리금보장 상품</b>에 그대로 묶여 물가상승률만도 못한 수익이 납니다. 스스로 관리할 자신이 없으면 신중히 보셔야 합니다.</p>
+</div>
+
+<ul>
+<li>DC 전환은 <b>되돌릴 수 없습니다</b></li>
+<li>방치하면 <b>원리금보장 상품</b>에 묶여 수익률이 낮아집니다</li>
+<li>회사가 <b>두 제도를 모두 운영</b>해야 전환이 가능합니다</li>
+</ul>
+
+<h2>DC의 숨은 장점</h2>
+
+<p>DC 계좌에는 <b>본인 돈을 추가로</b> 넣을 수 있습니다. DB는 안 됩니다.</p>
+
+<p>추가 납입한 금액은 <b>세액공제</b> 대상입니다. 연금저축과 합산해 한도가 적용돼요.</p>
+
+<p>연말정산에서 환급을 늘리려는 분들이 이 방법을 씁니다. IRP를 따로 만들지 않아도 되니 간편하고요.</p>
+
+<p>다만 넣은 돈은 <b>연금 자산</b>이 됩니다. 만 55세 전에 빼면 세금 불이익이 있어요.</p>
+
+<h3>중간정산은 거의 안 됩니다</h3>
+
+<p>퇴직금 중간정산은 법에서 정한 <b>제한적인 사유</b>에서만 가능합니다.</p>
+
+<p>무주택자의 주택 구입, 전세보증금, 본인이나 부양가족의 6개월 이상 요양, 파산 같은 경우예요.</p>
+
+<p>그냥 돈이 필요하다고 되는 게 아닙니다. 증빙 서류도 갖춰야 하고요.</p>
+
+<h2>퇴사할 때는 어차피 IRP로 갑니다</h2>
+
+<p>DB든 DC든 퇴직하면 <b>IRP 계좌</b>로 이전됩니다. 이건 같아요.</p>
+
+<p>거기서 일시금으로 받을지 연금으로 받을지 정하게 됩니다. 연금으로 받으면 세금이 크게 줄어듭니다.</p>
+
+<p>그러니까 DB냐 DC냐는 <b>재직 중 쌓이는 방식</b>의 차이지 최종 수령 구조는 같습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>DB는 회사가 운용하고 퇴직 전 평균임금으로 금액이 정해진다</p>
+<p>DC는 근로자가 운용하고 성과가 그대로 내 몫이 된다</p>
+<p>임금상승률이 운용수익률보다 높으면 DB, 낮으면 DC가 유리하다</p>
+<p>임금피크제가 예정돼 있으면 진입 전 DC 전환을 검토한다</p>
+<p>DC에서 DB로는 원칙적으로 되돌릴 수 없다</p>
+</blockquote>
+
+<p>본인 회사가 어느 제도를 쓰는지 모르는 분도 많더라고요. 인사팀에 물어보는 게 시작이에요.</p>
+
+<p>DC라면 오늘 앱을 열어 뭐가 담겨 있는지만 봐도 절반은 한 겁니다. 방치가 제일 손해라...</p>
+
+<p>전환 가능 여부와 시점은 회사 퇴직연금 규약에 따라 다르니 인사팀에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처
+ · DB형: 사용자가 적립금 운용, 퇴직급여 = 퇴직 직전 3개월 평균임금 × 근속연수
+ · DC형: 사용자가 매년 일정액을 납입하고 근로자가 운용, 손익이 급여에 반영
+ · DB → DC 전환은 가능하나 DC → DB 전환은 원칙적으로 불가
+ · DC 계좌는 근로자 추가 납입이 가능하며 세액공제 대상
+ · 퇴직 시 DB·DC 모두 IRP로 이전
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 세액공제 한도 금액은 연금저축 합산 기준이라 본문에 수치를 적지 않았습니다
+ · 중간정산 사유의 전체 목록과 요건은 대표 사유만 예시로 들었습니다
+ · 임금피크제 적용 시점과 전환 가능 시기는 회사 규약에 따라 달라 단정하지 않았습니다
+ · DC 전환의 예외적 역전환 가능 여부는 회사·규약별로 확인이 필요합니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "임금상승률이 크지 않아 DC로 옮겼다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_dbdc.html 저장 후
+  node make-art.cjs tc_dbdc   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef1f7,#cdd4e6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#22284a;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#3a4480;color:#fff;border-radius:26px;padding:18px 30px;font-size:30px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">전환 방향</span>DB→DC</div>
+<div style="align-self:flex-start;background:#3a4480;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">퇴직연금</div>
+<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">DB형 DC형<br /><span style="color:#3a4480;">뭐가 유리할까</span></div>
+<div style="margin-top:28px;font-size:25px;color:#5a628f;font-weight:600;">임금상승률 하나로 판단합니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#9198bb;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

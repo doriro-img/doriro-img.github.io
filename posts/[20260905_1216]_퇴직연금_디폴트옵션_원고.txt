@@ -1,0 +1,202 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 5일 12:16
+■ 제목: 퇴직연금 디폴트옵션 뭘 고를까. 방치하면 자동 지정되는 구조와 수익률 3.7%
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 디폴트옵션, 사전지정운용제도, 퇴직연금DC, IRP운용, 퇴직연금수익률
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260905_1216]_퇴직연금_디폴트옵션\
+   ├── 📄 [원고 파일]: [20260905_1216]_퇴직연금_디폴트옵션_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_defaultoption.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260905_1216]_퇴직연금_디폴트옵션_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_defaultoption.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>퇴직연금 디폴트옵션 뭘 고를까. 방치하면 자동 지정되는 구조와 수익률 3.7%</p>
+
+<h2>안 고르면 알아서 정해집니다</h2>
+
+<p>디폴트옵션은 정식 명칭이 <b>사전지정운용제도</b>입니다. 퇴직연금 가입자가 운용 지시를 안 하면 <b>미리 정해둔 상품</b>으로 굴려주는 장치예요.</p>
+
+<p>결론부터 말하면 대상은 <b>DC형과 IRP</b>입니다. DB형은 회사가 굴리는 거라 해당 없습니다.</p>
+
+<p>2025년 말 기준으로 디폴트옵션 상품의 연간 평균 수익률이 <b>3.7%</b>였습니다. 적립금은 53조원을 넘겼는데 수익률은 3%대에 머물렀어요.</p>
+
+<p>이유가 뻔합니다. 대부분이 <b>원리금보장형</b>에 몰려 있거든요. 저도 처음엔 그냥 두면 알아서 되겠지 했는데 확인해보니 예금이랑 다를 게 없더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">디폴트옵션 한눈에</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">대상</div>
+<div style="font-size:22px;font-weight:800;color:#3a4480;letter-spacing:-0.8px;">DC · IRP</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">DB형은 제외</div>
+</div>
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">평균 수익률</div>
+<div style="font-size:22px;font-weight:800;color:#b8463a;letter-spacing:-0.8px;">3.7%</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">2025년 말 기준</div>
+</div>
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">적립금</div>
+<div style="font-size:22px;font-weight:800;color:#1d7050;letter-spacing:-0.8px;">53조원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">빠르게 성장</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>디폴트옵션 대상은 <b>DC형과 IRP</b> 가입자입니다</li>
+<li>2025년 말 기준 <b>연간 평균 수익률은 3.7%</b>였습니다</li>
+<li>적립금은 <b>53조원</b>을 넘었지만 원리금보장형 쏠림으로 수익률이 낮습니다</li>
+</ul>
+
+<h2>가만히 두면 이렇게 흘러갑니다</h2>
+
+<p>운용 지시를 안 하고 일정 기간이 지나면 안내가 오고, 그래도 반응이 없으면 <b>미리 지정해둔 상품</b>으로 자동 편입됩니다.</p>
+
+<p>여기서 문제는 <b>지정 자체를 안 해둔 경우</b>입니다. 그러면 회사나 금융사가 정한 기본값으로 들어가는데 대개 가장 안전한 쪽이에요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 150px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">입금됨</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">운용 지시 없음</div>
+</div>
+<div style="flex:1 1 150px;background:#fdf6e9;border:1px solid #f0dfc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#d4832f;margin-bottom:5px;">2</div>
+<div style="font-size:15px;font-weight:800;color:#9a6413;">통지 발송</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">지시하라는 안내</div>
+</div>
+<div style="flex:1 1 150px;background:#fdf3f1;border:1px solid #f0b8b1;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#cf4f43;margin-bottom:5px;">3</div>
+<div style="font-size:15px;font-weight:800;color:#b8463a;">자동 편입</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">사전지정 상품으로</div>
+</div>
+</div>
+
+<ul>
+<li>돈이 들어와도 <b>운용 지시가 없으면</b> 그냥 대기 상태로 남습니다</li>
+<li>일정 기간이 지나면 <b>지시하라는 통지</b>가 나갑니다</li>
+<li>그래도 반응이 없으면 <b>사전지정한 상품으로 자동 편입</b>됩니다</li>
+</ul>
+
+<p>대기 상태로 오래 두면 <b>이자도 거의 안 붙습니다.</b> 이게 가장 손해예요.</p>
+
+<h2>상품은 위험 등급으로 나뉩니다</h2>
+
+<p>디폴트옵션 상품은 위험 수준에 따라 여러 등급으로 승인돼 있습니다. 초저위험부터 고위험까지요.</p>
+
+<div style="border:1px solid #e6e9ed;background:#fafbfc;border-radius:10px;padding:18px 20px 14px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;align-items:center;height:46px;">
+<div style="width:120px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#55606c;">초저위험</div>
+<div style="flex:1;"><div style="height:26px;width:22%;background:#8a929c;border-radius:6px;"></div></div>
+<div style="width:110px;text-align:right;font-size:12.5px;font-weight:800;color:#55606c;">원리금보장 위주</div>
+</div>
+<div style="display:flex;align-items:center;height:46px;">
+<div style="width:120px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#1d7050;">저위험</div>
+<div style="flex:1;"><div style="height:26px;width:45%;background:#2f9e6e;border-radius:6px;"></div></div>
+<div style="width:110px;text-align:right;font-size:12.5px;font-weight:800;color:#1d7050;">채권 비중 높음</div>
+</div>
+<div style="display:flex;align-items:center;height:46px;">
+<div style="width:120px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#1f4a7a;">중위험</div>
+<div style="flex:1;"><div style="height:26px;width:70%;background:#2f6fb0;border-radius:6px;"></div></div>
+<div style="width:110px;text-align:right;font-size:12.5px;font-weight:800;color:#1f4a7a;">주식·채권 혼합</div>
+</div>
+<div style="display:flex;align-items:center;height:46px;">
+<div style="width:120px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#9a6413;">고위험</div>
+<div style="flex:1;"><div style="height:26px;width:100%;background:#d4832f;border-radius:6px;"></div></div>
+<div style="width:110px;text-align:right;font-size:12.5px;font-weight:800;color:#9a6413;">주식 비중 높음</div>
+</div>
+</div>
+
+<ul>
+<li><b>초저위험</b>은 원리금보장 상품 위주라 예금과 성격이 비슷합니다</li>
+<li><b>저위험과 중위험</b>은 채권과 주식을 섞어 굴립니다</li>
+<li><b>고위험</b>은 주식 비중이 높아 변동이 큽니다</li>
+</ul>
+
+<p>디폴트옵션에는 <b>TDF</b>가 많이 들어가 있습니다. 은퇴 시점이 가까워질수록 자동으로 안전자산 비중을 늘려주는 펀드예요.</p>
+
+<h2>그래서 뭘 고르라는 거냐면</h2>
+
+<p>정답은 없습니다. 다만 판단 기준은 <b>은퇴까지 남은 기간</b>이 가장 큽니다.</p>
+
+<blockquote>
+<p>은퇴까지 20년 넘게 남았다면 초저위험만 담아둘 이유가 약하다</p>
+<p>5년 안쪽이라면 원금을 지키는 쪽이 우선이다</p>
+<p>중간이라면 위험 등급을 섞어서 나눠 담는 방법도 있다</p>
+</blockquote>
+
+<p>30대가 퇴직연금을 전부 원리금보장형에 넣어두면 물가상승률과 비슷해집니다. 20년 뒤 실질 가치로는 남는 게 적어요.</p>
+
+<p>반대로 은퇴가 코앞인데 고위험에 넣었다가 하락장을 맞으면 회복할 시간이 없습니다. 이건 방향이 분명합니다.</p>
+
+<h3>디폴트옵션이 유일한 선택지는 아닙니다</h3>
+
+<p>디폴트옵션을 지정해두더라도 <b>직접 운용 지시</b>를 하면 그쪽이 우선입니다.</p>
+
+<p>즉 디폴트옵션은 <b>아무것도 안 했을 때의 안전장치</b>지 강제 상품이 아니에요.</p>
+
+<p>직접 펀드나 ETF를 고르는 게 편한 분은 그렇게 하시면 됩니다. 다만 신경을 안 쓸 거라면 디폴트옵션 지정이라도 제대로 해두는 게 낫습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">지금 확인할 3가지</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">내 계좌에 <b style="color:#7ee0b0;">디폴트옵션이 지정돼 있는지</b>, 지정됐다면 <b style="color:#7ee0b0;">어떤 위험 등급</b>인지, 그리고 <b style="color:#ff8a7a;">운용되지 않고 대기 중인 돈</b>이 있는지. 이 세 가지는 금융사 앱에서 5분이면 봅니다.</p>
+</div>
+
+<ul>
+<li>내 계좌에 <b>디폴트옵션이 지정돼 있는지</b> 먼저 확인합니다</li>
+<li>지정돼 있다면 <b>어떤 위험 등급</b>인지 봅니다</li>
+<li><b>대기 중인 미운용 자금</b>이 있는지 확인하는 게 가장 급합니다</li>
+</ul>
+
+<h2>수수료도 같이 보세요</h2>
+
+<p>퇴직연금은 <b>운용관리 수수료와 자산관리 수수료</b>가 붙습니다. 상품 안의 보수는 또 별개고요.</p>
+
+<p>수익률이 3%대인데 수수료가 1%에 가까우면 실제로 손에 남는 건 확 줄어듭니다.</p>
+
+<p>금융사를 옮기는 것도 가능합니다. IRP는 <b>계좌이체</b>로 다른 회사로 넘길 수 있어요. 수수료가 낮은 곳이 꽤 있더라고요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>디폴트옵션은 DC형과 IRP가 대상이고 DB형은 해당 없다</p>
+<p>운용 지시가 없으면 통지를 거쳐 사전지정 상품으로 자동 편입된다</p>
+<p>2025년 말 평균 수익률은 3.7%로 원리금보장형 쏠림이 원인이다</p>
+<p>은퇴까지 남은 기간을 기준으로 위험 등급을 고르는 게 출발점이다</p>
+<p>직접 운용 지시를 하면 그쪽이 우선 적용된다</p>
+</blockquote>
+
+<p>퇴직연금은 금액이 커서 1%p 차이가 몇 년 뒤에 큰 금액이 됩니다. 그런데도 한 번도 안 열어본 분들이 많아요.</p>
+
+<p>오늘 앱 열어서 지정 여부만 봐도 절반은 한 겁니다. 나머지는 천천히 정해도 되고... 일단 확인부터.</p>
+
+<p>상품 구성과 수수료는 금융사마다 다르니 본인 계좌에서 직접 비교해보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-20 웹 확인)
+ · 사전지정운용제도(디폴트옵션): 2022년 7월 도입, 2023년 7월 본격 시행
+ · 적용 대상: DC형(확정기여형)과 IRP 가입자
+ · 2025년 말 기준 디폴트옵션 적립금 53조원 초과
+ · 정부 승인 41개 금융기관 319개 상품의 연간 평균 수익률 3.7%
+ · 원리금보장형(안정형) 쏠림이 낮은 수익률의 주요 원인
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 자동 편입까지의 대기 기간(통지 전후 주 수)은 제도 운영 기준이 바뀔 수 있어 일수를 적지 않았습니다
+ · 위험 등급 구분의 공식 명칭과 개수는 금융사 안내와 다를 수 있습니다
+ · 수수료율은 금융사·상품별 편차가 커서 구체 수치를 적지 않았습니다
+ · 본문의 "1%p 차이" 언급은 원리 설명이며 특정 상품 수익률이 아닙니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "그냥 두면 되겠지 했다가 확인해보니 예금과 다를 게 없었다"는 가정입니다

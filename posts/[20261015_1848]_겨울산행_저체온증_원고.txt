@@ -1,0 +1,237 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 15일 18:48
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261015_1848]_겨울산행_저체온증\
+   ├── 📄 [원고 파일]: [20261015_1848]_겨울산행_저체온증_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-hiking.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261015_1848]_겨울산행_저체온증_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-hiking.html
+
+■ 제목: 가을 겨울 산행 저체온증 예방법. 입산 통제 시간과 국가지점번호 활용
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 저체온증예방, 겨울산행준비물, 입산통제시간, 국가지점번호, 등산사고신고, 면소재의류, 산악안전
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>가을 겨울 산행 저체온증 예방법. 입산 통제 시간과 국가지점번호 활용</p>
+
+<h2>산에서는 면 옷이 제일 위험합니다</h2>
+
+<p>가을 겨울 산행에서 가장 큰 위험은 <b>저체온증</b>입니다. 영하가 아니어도 생깁니다.</p>
+
+<p>결론부터 말하면 <b>면 소재 옷을 입지 않는 것</b>이 첫 번째 원칙입니다. 땀에 젖으면 마르지 않고 체온을 계속 빼앗아요.</p>
+
+<p>산은 <b>고도 100m마다 기온이 0.6도씩</b> 떨어집니다. 여기에 바람까지 더해지면 체감온도가 확 낮아집니다.</p>
+
+<p>가벼운 마음으로 올랐다가 정상에서 덜덜 떨어본 적이 있거든요. 아래와 위가 이렇게 다른 줄 몰랐더라고요.</p>
+
+<div style="border:1px solid #e0e4e2;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#4a6b4a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">올라갈수록 추워집니다</div>
+<div style="background:#fafbfa;padding:22px 18px;">
+<div style="display:flex;align-items:flex-end;gap:14px;height:132px;">
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;margin-bottom:6px;">기준</div>
+<div style="background:#9db56b;height:46px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#6b7a6b;font-weight:700;margin-top:6px;">산 아래</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;margin-bottom:6px;">−3도</div>
+<div style="background:#7fa8c4;height:78px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#6b7a6b;font-weight:700;margin-top:6px;">500m</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#2f4d2f;margin-bottom:6px;">−6도</div>
+<div style="background:#5691b6;height:104px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#6b7a6b;font-weight:700;margin-top:6px;">1000m</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#1a3a4f;margin-bottom:6px;">+ 바람</div>
+<div style="background:#334f6d;height:124px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#6b7a6b;font-weight:700;margin-top:6px;">체감온도</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>고도 <b>100m마다 기온이 약 0.6도</b>씩 떨어집니다</li>
+<li>1,000m 산이면 아래보다 <b>6도쯤</b> 낮다고 보면 됩니다</li>
+<li>여기에 <b>바람</b>이 더해져 체감온도는 더 내려갑니다</li>
+</ul>
+
+<h2>옷은 세 겹으로 입습니다</h2>
+
+<p>산행 복장의 기본은 <b>레이어링</b>입니다. 세 겹으로 나눠 입고 상황에 따라 벗고 입어요.</p>
+
+<h3>베이스 레이어</h3>
+
+<p>피부에 닿는 층입니다. <b>땀을 빨리 흡수해 밖으로 내보내는</b> 기능성 소재를 씁니다.</p>
+
+<p>여기에 면 티셔츠를 입으면 안 됩니다. 젖은 채로 있으면 체온을 계속 뺏깁니다.</p>
+
+<h3>미들 레이어</h3>
+
+<p>보온을 담당합니다. 플리스나 얇은 패딩을 씁니다. 오르막에서 더우면 벗는 층이에요.</p>
+
+<h3>아우터 레이어</h3>
+
+<p>바람과 비를 막습니다. <b>방풍과 방수</b>가 되는 재킷이 필요합니다.</p>
+
+<p>산에서는 바람만 막아도 체감온도가 크게 달라집니다. 얇아도 방풍 재킷을 꼭 챙기세요.</p>
+
+<p>얇은 재킷 하나 걸쳤을 뿐인데 체감이 완전히 다르더라고요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4ee,#dbe8db);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3d5c3d;margin-bottom:16px;">배낭에 꼭 넣을 것</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4d2f;">여벌 옷</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:5px;line-height:1.7;">땀에 젖었을 때 갈아입기</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4d2f;">방풍 재킷</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:5px;line-height:1.7;">얇아도 효과가 큽니다</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4d2f;">헤드랜턴</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:5px;line-height:1.7;">해가 빨리 집니다</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4d2f;">따뜻한 음료·행동식</div>
+<div style="font-size:12px;color:#6b7a6b;margin-top:5px;line-height:1.7;">열량이 곧 체온입니다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>땀에 젖었을 때 갈아입을 <b>여벌 옷</b>을 챙깁니다</li>
+<li>가을에는 해가 빨리 져서 <b>헤드랜턴</b>이 필요합니다</li>
+<li>초콜릿이나 견과류 같은 <b>행동식</b>으로 열량을 보충합니다</li>
+</ul>
+
+<h2>저체온증은 이렇게 알아챕니다</h2>
+
+<p>처음엔 <b>몸이 떨리는</b> 것으로 시작합니다. 이때가 초기 신호예요.</p>
+
+<p>더 진행되면 <b>말이 어눌해지고 판단력이 흐려집니다.</b> 본인은 잘 모릅니다.</p>
+
+<p>심해지면 오히려 <b>떨림이 멈춥니다.</b> 이건 좋아진 게 아니라 위험한 단계입니다.</p>
+
+<p>일행 중에 <b>걸음이 흐트러지거나 말이 어눌해지면</b> 즉시 조치해야 합니다.</p>
+
+<blockquote>
+<p>떨림 → 말 어눌 → 떨림 멈춤</p>
+<p>떨림이 멈추면 더 위험한 단계입니다</p>
+</blockquote>
+
+<h3>어떻게 조치하나요?</h3>
+
+<p>바람을 피할 수 있는 곳으로 옮깁니다. <b>젖은 옷을 벗기고</b> 마른 옷으로 갈아입힙니다.</p>
+
+<p>따뜻한 음료를 마시게 합니다. <b>술은 절대 안 됩니다.</b> 혈관이 확장돼 체온을 더 빼앗깁니다.</p>
+
+<p>담요나 비닐로 감싸고 <b>119에 신고</b>합니다. 의식이 흐리면 억지로 마시게 하지 마세요.</p>
+
+<h2>내 위치를 알리는 방법</h2>
+
+<p>산에서 사고가 나면 <b>위치를 설명하는 게</b> 제일 어렵습니다. 주소가 없으니까요.</p>
+
+<p>그래서 <b>국가지점번호</b>가 있습니다. 산악 지역에 설치된 표지판에 적힌 번호예요.</p>
+
+<p>119에 신고할 때 이 번호를 불러주면 <b>정확한 위치</b>가 바로 파악됩니다.</p>
+
+<p>등산로에 있는 <b>다목적 위치표지판</b>도 같은 역할을 합니다. 지나갈 때마다 번호를 눈여겨보세요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f0;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55605c;">
+<div style="flex:1.5;">상황</div><div style="flex:1;text-align:right;">이렇게</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">위치를 모를 때</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#4a6b4a;">국가지점번호 확인</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;background:#fafbfa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">신고</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">119</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">배터리가 부족할 때</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">문자로 위치 전송</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f0;align-items:center;background:#fafbfa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">출발 전</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">가족에게 코스 알리기</div>
+</div>
+</div>
+
+<ul>
+<li><b>국가지점번호</b>를 119에 알리면 위치가 바로 파악됩니다</li>
+<li>출발 전에 <b>가족에게 코스</b>와 예상 하산 시간을 알립니다</li>
+<li>휴대폰 <b>보조배터리</b>를 챙기고 추위에 방전되지 않게 안쪽에 넣으세요</li>
+</ul>
+
+<h2>입산 통제 시간을 확인하세요</h2>
+
+<p>국립공원과 주요 산은 <b>입산 가능 시간</b>이 정해져 있습니다. 계절마다 달라요.</p>
+
+<p>겨울에는 해가 짧아 <b>통제 시간이 앞당겨집니다.</b> 오후 늦게 오르려다 막히는 경우가 생깁니다.</p>
+
+<p>산불 조심 기간에는 <b>일부 등산로가 폐쇄</b>됩니다. 가을과 봄에 주로 적용돼요.</p>
+
+<p>출발 전에 <b>국립공원공단이나 해당 지자체</b> 공지를 확인하는 게 안전합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">하산이 더 위험합니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">산악 사고의 상당수가 <b style="color:#ff8a7a;">내려올 때</b> 일어납니다. 체력이 떨어진 데다 무릎에 하중이 실려서요. <b style="color:#ffd97a;">스틱을 쓰고</b> 보폭을 줄이세요. 정상까지 쓸 체력의 절반은 남겨두고 올라가야 합니다.</p>
+</div>
+
+<ul>
+<li>산악 사고는 <b>하산 중</b>에 많이 발생합니다</li>
+<li><b>등산 스틱</b>을 쓰면 무릎 부담이 크게 줄어듭니다</li>
+<li>체력의 <b>절반은 남겨두고</b> 정상에 올라야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>면 소재 옷은 젖으면 마르지 않아 저체온증 위험을 키운다</p>
+<p>고도 100m마다 0.6도씩 떨어지고 바람이 더해지면 체감은 더 낮다</p>
+<p>베이스·미들·아우터 세 겹으로 입고 여벌 옷을 챙긴다</p>
+<p>떨림이 멈추면 더 위험한 단계이니 즉시 119에 신고한다</p>
+<p>국가지점번호를 알리면 정확한 위치가 파악된다</p>
+</blockquote>
+
+<p>가을 산은 아래는 따뜻해도 위는 겨울입니다. 그 차이를 얕보면 위험해집니다.</p>
+
+<p>저는 이제 여벌 옷이랑 방풍 재킷은 무조건 넣습니다. 안 쓰면 그만이지만 필요할 땐 진짜 필요하거든.</p>
+
+<p>산마다 통제 시간과 폐쇄 구간이 다르니 출발 전에 공식 안내를 한 번 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 고도 100m 상승 시 기온 약 0.6도 하강 (기온 감률), 바람에 의한 체감온도 추가 하강
+ · 저체온증 예방: 면 소재 의류 회피(흡습 후 건조 지연), 레이어링(베이스·미들·아우터) 착용
+ · 저체온증 진행: 오한(떨림) → 언어 불명확·판단력 저하 → 떨림 소실(중증 신호)
+ · 응급 조치: 바람 차단, 젖은 의류 제거 및 건조 의류 착용, 따뜻한 음료 제공(음주 금지), 보온 후 119 신고
+ · 국가지점번호: 산악·해안 등 주소가 없는 지역의 위치 표시 체계, 119 신고 시 활용
+ · 국립공원 등 입산 가능 시간은 계절별로 상이하며 겨울철 단축, 산불조심기간 중 일부 등산로 폐쇄
+ · 산악사고는 하산 중 발생 비중이 높으며 등산 스틱 사용이 무릎 부담 경감에 도움
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 산별 입산 통제 시간과 폐쇄 구간은 시기·지역마다 달라 구체 시간을 적지 않았습니다
+ · 저체온증 단계별 체온 수치는 의학적 판단 영역이라 증상 위주로만 서술했습니다
+ · 산불조심기간의 정확한 기간은 매년 고시로 정해져 구체 날짜를 넣지 않았습니다
+ · "산악사고의 상당수가 하산 중"은 일반적으로 알려진 경향으로, 특정 통계 수치는 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "가볍게 올랐다가 정상에서 떨었다", "여벌 옷과 방풍 재킷을 항상 챙긴다"는 설정입니다

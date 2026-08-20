@@ -1,0 +1,219 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 13일 12:18
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261013_1218]_마이너스통장_신용대출\
+   ├── 📄 [원고 파일]: [20261013_1218]_마이너스통장_신용대출_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-negaccount.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261013_1218]_마이너스통장_신용대출_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-negaccount.html
+
+■ 제목: 마이너스통장 vs 신용대출 뭐가 유리한가. 한도 미사용도 DSR에 잡히는 이유
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 마이너스통장, 신용대출비교, 마통금리, DSR한도, 한도대출, 신용점수영향, 대출이자계산
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>마이너스통장 vs 신용대출 뭐가 유리한가. 한도 미사용도 DSR에 잡히는 이유</p>
+
+<h2>쓴 만큼만 이자를 낸다는 게 핵심입니다</h2>
+
+<p>마이너스통장과 신용대출은 <b>이자를 매기는 방식</b>이 다릅니다. 여기서 유불리가 갈려요.</p>
+
+<p>결론부터 말하면 <b>돈을 언제 얼마나 쓸지 모를 때는 마이너스통장</b>, <b>목돈이 정해져 있으면 신용대출</b>이 맞습니다.</p>
+
+<p>마이너스통장은 <b>실제로 쓴 금액과 기간</b>에만 이자가 붙습니다. 한도를 열어놓고 안 쓰면 이자가 0원이에요.</p>
+
+<p>대신 금리는 신용대출보다 높게 잡히는 게 보통입니다. 편리함의 대가라고 보면 되더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#334f6d;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">이자 매기는 방식이 다릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;">
+<div style="font-size:12.5px;color:#334f6d;font-weight:800;margin-bottom:10px;">마이너스통장</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">쓴 금액 × 쓴 기간<br />안 쓰면 이자 없음<br />금리는 높은 편<br />한도 재사용 가능</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;">
+<div style="font-size:12.5px;color:#1d7050;font-weight:800;margin-bottom:10px;">신용대출</div>
+<div style="font-size:13px;color:#3f5a55;line-height:2;">전액에 이자 발생<br />첫날부터 계산<br />금리는 낮은 편<br />갚으면 끝</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>마이너스통장은 <b>실제 사용액과 사용 기간</b>에만 이자가 붙습니다</li>
+<li>신용대출은 받은 <b>전액에 첫날부터</b> 이자가 계산됩니다</li>
+<li>같은 조건이면 마이너스통장 금리가 <b>더 높게</b> 책정되는 게 보통입니다</li>
+</ul>
+
+<h2>어떤 상황에 뭐가 유리한가요?</h2>
+
+<p>기준은 <b>돈을 계속 쓸 것인지</b>입니다.</p>
+
+<p>전세금이나 학자금처럼 <b>한 번에 나가는 큰돈</b>이면 신용대출이 낫습니다. 어차피 전액을 쓸 거니까 금리가 낮은 쪽이 이깁니다.</p>
+
+<p>반대로 사업 자금이나 비상금처럼 <b>들쭉날쭉하게</b> 쓸 돈이면 마이너스통장이 유리합니다.</p>
+
+<p>단기간에 넣었다 뺐다 하는 자금이면 계산해볼 것도 없습니다. 마이너스통장이 압도적이에요.</p>
+
+<p>두 방식으로 이자를 나란히 계산해보니 차이가 꽤 크더라고요.</p>
+
+<blockquote>
+<p>전액을 계속 쓴다 → 신용대출</p>
+<p>필요할 때만 꺼내 쓴다 → 마이너스통장</p>
+</blockquote>
+
+<h3>둘 다 만들어두는 것도 방법입니다</h3>
+
+<p>큰돈은 신용대출로 받고 <b>비상용 마이너스통장</b>을 따로 열어두는 조합도 씁니다.</p>
+
+<p>다만 한도가 총량으로 관리되니 <b>둘 다 크게 받기는</b> 어렵습니다. 한쪽 한도가 줄어들어요.</p>
+
+<h2>안 써도 한도가 부채로 잡힙니다</h2>
+
+<p>이게 제일 놓치기 쉬운 부분입니다. 마이너스통장은 <b>한 푼도 안 썼어도</b> 부채로 계산됩니다.</p>
+
+<p><b>DSR</b>을 계산할 때 마이너스통장은 <b>약정 한도 전액</b>을 대출로 봅니다. 열어만 뒀는데 빚이 있는 셈이 되는 거죠.</p>
+
+<p>그래서 주택담보대출을 받으려는데 마이너스통장이 크게 열려 있으면 <b>한도가 깎입니다.</b></p>
+
+<p>집을 살 계획이 있으면 미리 정리해두는 게 좋습니다. 해지하고 나서 반영되는 데 시간이 걸리기도 합니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef2f7,#dae2ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#334f6d;margin-bottom:16px;">한도만 열어둬도 이렇게 잡힙니다</div>
+<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+<div style="flex:1 1 130px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;color:#6b7885;font-weight:700;">실제 사용액</div>
+<div style="font-size:24px;font-weight:800;color:#1d7050;margin-top:5px;">0원</div>
+</div>
+<div style="font-size:22px;color:#9db1c5;font-weight:800;">그런데</div>
+<div style="flex:1 1 150px;background:#334f6d;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;color:#b3c6d8;font-weight:700;">DSR 계산 시</div>
+<div style="font-size:24px;font-weight:800;color:#fff;margin-top:5px;">한도 전액</div>
+<div style="font-size:11.5px;color:#b3c6d8;margin-top:4px;">부채로 반영</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>마이너스통장은 사용액이 <b>0원이어도</b> 약정 한도가 부채로 잡힙니다</li>
+<li>주택담보대출 <b>한도가 줄어드는</b> 원인이 됩니다</li>
+<li>큰 대출 계획이 있으면 <b>미리 해지</b>하거나 한도를 낮추세요</li>
+</ul>
+
+<h3>신용점수에는 어떤 영향이 있나요?</h3>
+
+<p>마이너스통장을 <b>한도까지 꽉 채워 쓰면</b> 신용점수에 좋지 않습니다. 상환 여력이 부족하다고 보거든요.</p>
+
+<p>한도의 30%에서 50% 정도만 쓰는 게 무난하다고 봅니다. 계속 최대치로 쓰면 평가가 나빠져요.</p>
+
+<p>반대로 한도를 열어두고 <b>거의 안 쓰면</b> 큰 영향이 없습니다. 다만 여러 개를 열어두는 건 좋지 않습니다.</p>
+
+<h2>마이너스통장의 함정 두 가지</h2>
+
+<p>첫째는 <b>이자가 원금에 붙는다</b>는 점입니다. 이자를 따로 내는 게 아니라 마이너스 잔액에 더해집니다.</p>
+
+<p>신경 안 쓰면 <b>복리처럼</b> 불어납니다. 한도를 넘어서면 연체로 처리되고요.</p>
+
+<p>둘째는 <b>갚았다는 느낌이 안 든다</b>는 겁니다. 통장에 돈이 들어와도 마이너스를 메우는 거라 체감이 없어요.</p>
+
+<p>그래서 오래 끄는 경우가 많습니다. 신용대출은 만기가 있으니 어떻게든 정리되는데 마이너스통장은 그렇지 않습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">항목</div><div style="flex:1;text-align:center;">마이너스통장</div><div style="flex:1;text-align:right;">신용대출</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">이자 기준</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#1d7050;font-weight:700;">쓴 만큼</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">전액</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">금리 수준</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#b8443a;font-weight:700;">높음</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#1d7050;font-weight:700;">낮음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">DSR 반영</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#b8443a;font-weight:700;">한도 전액</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">잔액 기준</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">중도상환수수료</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#1d7050;font-weight:700;">대체로 없음</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#9a6413;">붙을 수 있음</div>
+</div>
+</div>
+
+<ul>
+<li>마이너스통장은 이자가 <b>마이너스 잔액에 더해져</b> 불어납니다</li>
+<li>한도를 넘어가면 <b>연체</b>로 처리됩니다</li>
+<li>마이너스통장은 <b>중도상환수수료가 없는</b> 경우가 대부분입니다</li>
+</ul>
+
+<h2>갱신할 때 한도가 줄 수 있습니다</h2>
+
+<p>마이너스통장은 보통 <b>1년마다 갱신</b>합니다. 이때 다시 심사를 받아요.</p>
+
+<p>소득이 줄었거나 신용점수가 떨어졌으면 <b>한도가 깎이거나</b> 금리가 올라갑니다.</p>
+
+<p>이미 쓰고 있는 금액이 새 한도를 넘으면 <b>차액을 갚아야</b> 합니다. 이게 갑자기 닥치면 곤란해집니다.</p>
+
+<p>갱신 시점을 달력에 적어두고 미리 대비하는 게 좋습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">쓰는 요령</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">마이너스통장은 <b style="color:#ffd97a;">월급 통장과 분리</b>해서 쓰는 게 낫습니다. 같은 통장이면 얼마를 빌려 쓰는지 감이 안 잡혀요. <b style="color:#ff8a7a;">따로 만들어두고</b> 필요할 때만 이체하는 방식이 관리가 쉽습니다.</p>
+</div>
+
+<ul>
+<li>마이너스통장은 <b>월급 통장과 분리</b>해서 쓰는 게 관리에 좋습니다</li>
+<li>갱신 때 <b>한도 축소</b>나 금리 인상이 있을 수 있습니다</li>
+<li>사용액이 새 한도를 넘으면 <b>차액을 갚아야</b> 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>마이너스통장은 쓴 만큼만 이자가 붙고 신용대출은 전액에 붙는다</p>
+<p>목돈을 한 번에 쓰면 신용대출, 들쭉날쭉하면 마이너스통장이 유리하다</p>
+<p>마이너스통장은 안 써도 약정 한도 전액이 DSR에 부채로 잡힌다</p>
+<p>이자가 마이너스 잔액에 더해져 신경 안 쓰면 불어난다</p>
+<p>보통 1년마다 갱신하며 한도가 줄거나 금리가 오를 수 있다</p>
+</blockquote>
+
+<p>집을 살 계획이 있으면 마이너스통장부터 정리하세요. 여기서 한도가 몇천만원씩 깎입니다.</p>
+
+<p>비상금 용도로 하나 열어두는 건 나쁘지 않습니다. 안 쓰면 이자도 없으니까... 다만 자꾸 손이 가는 게 문제지.</p>
+
+<p>금리와 한도는 개인 신용에 따라 다르니 거래 은행에서 조회해보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 마이너스통장(한도대출): 실제 사용액과 사용 기간에 대해서만 이자 발생, 한도 내 반복 사용 가능
+ · 신용대출(건별 대출): 실행 전액에 대해 실행일부터 이자 발생
+ · 동일 조건에서 마이너스통장 금리가 건별 신용대출보다 높게 책정되는 것이 일반적
+ · DSR 산정 시 마이너스통장은 사용액이 아닌 약정 한도 전액을 부채로 반영
+ · 마이너스통장 이자는 마이너스 잔액에 가산되어 누적, 한도 초과 시 연체 처리
+ · 마이너스통장은 통상 1년 단위 갱신 심사, 한도 축소·금리 인상 가능
+ · 마이너스통장은 중도상환수수료가 없는 경우가 대부분
+ · 한도 대비 사용률이 높으면 신용평가에 불리하게 반영
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · "한도의 30~50% 사용이 무난"은 통상적인 신용관리 가이드로, 평가사별 기준이 공개되어 있지 않습니다
+ · 금리 차이의 폭은 은행·상품·개인 신용에 따라 달라 수치를 적지 않았습니다
+ · 신용대출의 중도상환수수료 부과 여부는 상품별로 달라 "붙을 수 있음"으로 적었습니다
+ · 갱신 주기가 1년이 아닌 상품도 있어 "보통"의 의미로 서술했습니다
+ · 해지 후 DSR 반영에 걸리는 기간은 금융회사·신용정보 갱신 주기에 따라 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "비상금 용도로 열어두면 자꾸 손이 간다"는 설정입니다

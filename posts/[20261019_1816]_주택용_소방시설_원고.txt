@@ -1,0 +1,212 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 19일 18:16
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261019_1816]_주택용_소방시설\
+   ├── 📄 [원고 파일]: [20261019_1816]_주택용_소방시설_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-firesafety.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261019_1816]_주택용_소방시설_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-firesafety.html
+
+■ 제목: 주택용 소방시설 설치 의무. 소화기와 단독경보형감지기 어디에 다나
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 주택용소방시설, 단독경보형감지기, 소화기설치의무, 주택화재예방, 아파트소화기, 감지기교체주기, 겨울철화재
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주택용 소방시설 설치 의무. 소화기와 단독경보형감지기 어디에 다나</p>
+
+<h2>단독주택과 빌라는 설치가 의무입니다</h2>
+
+<p>주택용 소방시설은 <b>소화기</b>와 <b>단독경보형감지기</b> 두 가지를 말합니다. 법으로 설치가 의무화돼 있어요.</p>
+
+<p>결론부터 말하면 <b>단독주택, 다가구, 다세대, 연립</b>이 대상입니다. 아파트는 이미 다른 소방설비가 있어서 제외됩니다.</p>
+
+<p>설치는 <b>소유자 책임</b>입니다. 세입자가 아니라 집주인이 해야 하는 일이에요.</p>
+
+<p>겨울에 화재가 몰리는데 감지기 하나가 있고 없고의 차이가 정말 크더라고요. 자다가 알아채느냐가 갈립니다.</p>
+
+<div style="border:1px solid #e4e0dd;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#8a3f3f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">두 가지만 갖추면 됩니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfafa;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #f0eceb;text-align:center;">
+<svg width="54" height="54" viewBox="0 0 54 54"><rect x="18" y="14" width="20" height="32" rx="4" fill="#c0554a"/><rect x="23" y="6" width="10" height="8" rx="2" fill="#8a3f3f"/><path d="M38 16h8l4 6" stroke="#8a3f3f" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="22" y="24" width="12" height="10" rx="2" fill="#fff"/></svg>
+<div style="font-size:14px;font-weight:800;color:#5a2320;margin-top:9px;">소화기</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:4px;">세대별·층별 1대 이상</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;text-align:center;">
+<svg width="54" height="54" viewBox="0 0 54 54"><circle cx="27" cy="24" r="16" fill="#fff" stroke="#8a3f3f" stroke-width="3"/><circle cx="27" cy="24" r="5" fill="#c0554a"/><path d="M13 42c4 4 24 4 28 0" stroke="#e0b4b0" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+<div style="font-size:14px;font-weight:800;color:#5a2320;margin-top:9px;">단독경보형감지기</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:4px;">구획된 실마다 1개</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>소화기</b>는 세대별, 층별로 1대 이상 갖춰야 합니다</li>
+<li><b>단독경보형감지기</b>는 구획된 방마다 하나씩 답니다</li>
+<li>설치 책임은 <b>주택 소유자</b>에게 있습니다</li>
+</ul>
+
+<h2>감지기는 어디에 다나요?</h2>
+
+<p><b>천장 한가운데</b>가 원칙입니다. 연기가 위로 올라와 천장을 따라 퍼지기 때문이에요.</p>
+
+<p>벽에서 <b>일정 거리를 띄워야</b> 합니다. 구석에 붙이면 연기가 늦게 닿습니다.</p>
+
+<p>에어컨이나 환풍구 <b>바로 옆은 피하세요.</b> 바람이 연기를 밀어내서 감지가 늦어집니다.</p>
+
+<p>주방은 조리 연기로 <b>오작동</b>이 잦습니다. 주방용은 열을 감지하는 방식을 쓰기도 합니다.</p>
+
+<h3>침실마다 다는 게 핵심입니다</h3>
+
+<p>불이 났을 때 가장 위험한 게 <b>자는 동안</b>입니다. 연기를 마시면 깨지 못해요.</p>
+
+<p>그래서 침실에 반드시 하나씩 답니다. 거실과 방마다 있으면 더 좋고요.</p>
+
+<div style="background:linear-gradient(135deg,#fbf1f0,#f0dad7);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a3f3f;margin-bottom:16px;">설치할 때 지킬 것</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;">천장 중앙</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">벽에서 띄워서 부착</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;">방마다 하나</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">특히 침실은 필수</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;">바람 피하기</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">에어컨·환풍구 옆 금지</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;">KFI 인증</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">인증 제품만 사용</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>감지기는 <b>천장 중앙</b>에 벽에서 띄워 부착합니다</li>
+<li><b>침실</b>에는 반드시 하나씩 설치합니다</li>
+<li><b>KFI 인증</b>을 받은 제품인지 확인하세요</li>
+</ul>
+
+<h2>소화기는 관리가 반입니다</h2>
+
+<p>사두고 잊어버리면 정작 필요할 때 안 나옵니다. <b>압력계</b>를 정기적으로 봐야 해요.</p>
+
+<p>바늘이 <b>초록색 구간</b>에 있으면 정상입니다. 빨간색이나 노란색이면 교체하거나 충전해야 합니다.</p>
+
+<p>분말소화기는 오래 두면 안의 분말이 굳습니다. 가끔 <b>거꾸로 흔들어</b> 주면 도움이 됩니다.</p>
+
+<p>제조일로부터 <b>10년</b>이 지난 소화기는 성능확인을 받거나 교체합니다.</p>
+
+<blockquote>
+<p>압력계 바늘이 초록 구간이면 정상</p>
+<p>제조 후 10년이 지나면 성능확인 또는 교체</p>
+</blockquote>
+
+<h3>어디에 두나요?</h3>
+
+<p>현관 근처나 <b>눈에 잘 띄는 곳</b>에 둡니다. 창고에 넣어두면 소용이 없어요.</p>
+
+<p>가족이 모두 <b>위치를 아는</b> 게 중요합니다. 불이 나면 찾을 시간이 없습니다.</p>
+
+<p>주방은 화재 발생이 잦으니 근처에 하나 더 두면 좋습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4f0ef;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6a68;">
+<div style="flex:1.5;">주택 유형</div><div style="flex:1;text-align:right;">설치 의무</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">단독주택</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">의무</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;background:#fdfafa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">다가구·다세대·연립</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">의무</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">아파트</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">대상 제외</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;background:#fdfafa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">기숙사</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">대상 제외</div>
+</div>
+</div>
+
+<ul>
+<li><b>아파트</b>는 자동화재탐지설비가 있어 대상에서 빠집니다</li>
+<li>단독주택과 <b>다세대·연립</b>은 설치 의무 대상입니다</li>
+<li>세입자가 살아도 <b>소유자</b>가 설치해야 합니다</li>
+</ul>
+
+<h2>겨울에 특히 조심할 것</h2>
+
+<p>난방기구 화재가 겨울에 몰립니다. <b>전기장판, 전기히터, 화목보일러</b>가 주요 원인이에요.</p>
+
+<p>문어발 콘센트와 <b>낡은 전선</b>도 위험합니다. 피복이 갈라지면 바로 교체하세요.</p>
+
+<p>불이 나면 <b>대피가 먼저</b>입니다. 초기 소화가 안 되면 문을 닫고 나오세요. 산소를 막아 확산을 늦춥니다.</p>
+
+<p>연기가 있으면 <b>낮은 자세</b>로 이동합니다. 젖은 수건으로 코와 입을 막고요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">지원받을 수 있습니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">기초생활수급자와 취약계층에게 <b style="color:#ffd97a;">소방시설을 무상 보급</b>하는 사업이 있습니다. 지역 소방서나 주민센터에 문의해보세요. <b style="color:#ff8a7a;">한 세트에 몇만원</b>이면 사는 물건이지만 그마저 부담되는 가구를 위한 제도입니다.</p>
+</div>
+
+<ul>
+<li>겨울 화재는 <b>난방기구</b>가 주요 원인입니다</li>
+<li>초기 진화가 안 되면 <b>문을 닫고 대피</b>합니다</li>
+<li>취약계층에게 <b>무상 보급</b>하는 사업이 있습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>단독주택과 다가구·다세대·연립은 소방시설 설치가 의무다</p>
+<p>소화기는 세대별·층별 1대, 감지기는 구획된 방마다 설치한다</p>
+<p>감지기는 천장 중앙에 달고 에어컨·환풍구 옆은 피한다</p>
+<p>소화기 압력계가 초록 구간인지 정기적으로 확인한다</p>
+<p>아파트는 자동화재탐지설비가 있어 대상에서 제외된다</p>
+</blockquote>
+
+<p>둘 다 합쳐도 몇만원입니다. 이 정도로 목숨을 지킬 수 있으면 안 살 이유가 없어요.</p>
+
+<p>저희는 방마다 하나씩 달아뒀습니다. 배터리 교체 시기만 놓치지 않으면 되더라고요.</p>
+
+<p>설치 기준과 지원 사업은 지역마다 다르니 관할 소방서에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 주택용 소방시설(소화기 + 단독경보형감지기) 설치 의무: 단독주택, 다가구주택, 다세대주택, 연립주택 등
+ · 아파트와 기숙사는 자동화재탐지설비 등이 별도로 설치되어 대상에서 제외
+ · 설치 책임은 주택의 소유자
+ · 소화기는 세대별·층별 1대 이상, 단독경보형감지기는 구획된 실마다 1개 이상
+ · 감지기는 천장 중앙 부착 권장, 벽으로부터 일정 거리 이격, 에어컨·환기구 인근 회피
+ · 소화기 압력계 바늘이 녹색 범위면 정상, 제조일로부터 10년 경과 시 성능확인 또는 교체
+ · 소방용품은 KFI(한국소방산업기술원) 인증 제품 사용
+ · 화재 시 초기 진화가 어려우면 출입문을 닫고 대피, 연기 속에서는 낮은 자세로 이동
+ · 취약계층 대상 주택용 소방시설 무상 보급 사업 운영(소방서·지자체)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 감지기의 벽면 이격 거리 등 세부 설치 기준은 화재안전기준에 규정되어 있어 수치를 적지 않았습니다
+ · 미설치에 대한 과태료 부과 여부는 규정 운영에 따라 달라 언급하지 않았습니다
+ · 주방용 열감지기 사용 권장 여부는 제품·구조에 따라 달라 "쓰기도 한다"로 적었습니다
+ · 무상 보급 사업의 대상과 규모는 지자체별로 달라 문의로 안내했습니다
+ · 소화기 제품 가격은 종류·용량별로 달라 "몇만원"으로만 표현했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "방마다 하나씩 달아두고 배터리 교체 시기를 챙긴다"는 설정입니다

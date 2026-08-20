@@ -1,0 +1,223 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 1일 07:12
+■ 제목: 청년월세 특별지원 2026 신청방법. 월 20만원 최대 24개월과 소득 기준
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 청년월세지원, 청년월세특별지원, 복지로, 월세지원신청, 청년주거지원
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260901_0712]_청년월세_특별지원\
+   ├── 📄 [원고 파일]: [20260901_0712]_청년월세_특별지원_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_youthrent.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260901_0712]_청년월세_특별지원_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_youthrent.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>청년월세 특별지원 2026 신청방법. 월 20만원 최대 24개월과 소득 기준</p>
+
+<h2>다 채우면 480만원 받습니다</h2>
+
+<p>청년월세 특별지원은 월세를 <b>월 최대 20만원</b>씩 <b>최대 24개월</b> 지원해주는 제도입니다. 끝까지 받으면 480만원이에요.</p>
+
+<p>결론부터 말하면 만 19세에서 34세 무주택 청년이 부모와 따로 살고 있으면 일단 신청 대상입니다. 소득 기준만 통과하면 됩니다.</p>
+
+<p>2026년부터 <b>신청 기한이 없어졌습니다.</b> 예전엔 몇 달짜리 접수 기간을 놓치면 다음 공고까지 기다려야 했는데 지금은 아무 때나 넣으면 돼요.</p>
+
+<p>처제가 서울에서 자취를 시작했는데 이걸 모르고 있길래 주말에 같이 신청해줬습니다. 서류 챙기는 시간까지 합쳐서 30분도 안 걸리더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f9e6e;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">청년월세 특별지원 한눈에 보기</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">월 지원액</div>
+<div style="font-size:26px;font-weight:800;color:#1d7050;letter-spacing:-1px;">20만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">실제 낸 월세까지만</div>
+</div>
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">지원 기간</div>
+<div style="font-size:26px;font-weight:800;color:#1d7050;letter-spacing:-1px;">24개월</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">나눠서 받아도 됨</div>
+</div>
+<div style="flex:1 1 150px;padding:18px 12px;text-align:center;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">최대 총액</div>
+<div style="font-size:26px;font-weight:800;color:#cf4f43;letter-spacing:-1px;">480만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">20만 × 24개월</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>월세 지원액은 <b>월 최대 20만원</b>이고 실제로 낸 월세를 넘지는 않습니다</li>
+<li>지원 기간은 <b>최대 24개월</b>이고 중간에 끊겼다가 다시 이어 받아도 됩니다</li>
+<li>다 채우면 <b>480만원</b>입니다</li>
+</ul>
+
+<h2>나이만 맞으면 되는 게 아니더라고요</h2>
+
+<p>여기서 걸리는 분들이 제일 많습니다. 소득을 <b>두 번</b> 보거든요.</p>
+
+<p>본인과 배우자를 묶은 <b>청년가구</b> 소득이 기준 중위소득 60% 이하여야 합니다. 여기까지는 대부분 압니다.</p>
+
+<p>문제는 <b>원가구</b>입니다. 부모님을 포함한 가구 소득이 기준 중위소득 100% 이하여야 해요. 따로 살아도 부모님 소득을 봅니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:10px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f2f5f7;padding:11px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">누구를 보나</div><div style="flex:1;text-align:right;">소득 기준</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:14px;font-weight:700;">청년가구<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">본인 + 배우자 + 자녀</span></div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1d7050;">중위 60% 이하</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:14px;font-weight:700;">원가구<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">청년가구 + 부모</span></div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">중위 100% 이하</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:14px;font-weight:700;">30세 이상이면<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">혼인·일정 소득 등</span></div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#9a6413;">원가구 제외</div>
+</div>
+</div>
+
+<ul>
+<li>청년가구는 본인과 배우자를 묶어서 <b>기준 중위소득 60% 이하</b>여야 합니다</li>
+<li>원가구는 부모님까지 포함해서 <b>기준 중위소득 100% 이하</b>를 봅니다</li>
+<li><b>30세 이상</b>이거나 혼인했거나 일정 소득이 있으면 원가구 소득을 안 봅니다</li>
+</ul>
+
+<p>서른 넘었으면 부모님 소득은 안 봅니다. 이게 은근히 큰 차이예요.</p>
+
+<p>재산도 봅니다. 청년가구와 원가구 각각 재산가액 상한이 걸려 있어서 부모님 명의 부동산이 크면 여기서 막힙니다.</p>
+
+<h2>사는 집도 조건이 있습니다</h2>
+
+<p>보증금 <b>5천만원 이하</b>, 월세 <b>70만원 이하</b>가 기본선입니다.</p>
+
+<p>월세가 70만원을 넘어도 방법이 있어요. 보증금을 월세로 환산한 금액과 월세를 더해서 <b>90만원 이하</b>면 신청됩니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">신청 됩니다</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">보증금 3,000만 / 월세 55만<br />보증금 5,000만 / 월세 70만<br />부모님과 주소가 분리된 원룸<br />고시원도 계약서가 있으면 가능</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">안 됩니다</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">부모님 소유 주택에 사는 경우<br />전세로만 사는 경우<br />주택을 한 채라도 가진 경우<br />공공임대에 이미 살고 있는 경우</div>
+</div>
+</div>
+
+<ul>
+<li>보증금 <b>5천만원 이하</b>, 월세 <b>70만원 이하</b>가 기본 기준입니다</li>
+<li>보증금 월세환산액과 월세를 더해 <b>90만원 이하</b>면 월세 70만원을 넘어도 됩니다</li>
+<li><b>부모님 소유 주택</b>에 살거나 주택을 가지고 있으면 안 됩니다</li>
+</ul>
+
+<h2>신청은 복지로에서 합니다</h2>
+
+<p>복지로 홈페이지나 앱에서 하면 됩니다. 주소지 주민센터에 가도 되고요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">모의계산</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">복지로에서 먼저</div>
+</div>
+<div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">서류 준비</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">계약서·이체증빙</div>
+</div>
+<div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">온라인 신청</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">복지로 로그인</div>
+</div>
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">심사·지급</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">보통 두세 달</div>
+</div>
+</div>
+
+<ul>
+<li>신청 전에 <b>복지로 모의계산</b>으로 소득 기준을 먼저 돌려보는 게 빠릅니다</li>
+<li>임대차계약서와 <b>최근 3개월 월세 이체 증빙</b>이 핵심 서류입니다</li>
+<li>심사에 <b>두세 달</b>쯤 걸리고 통과되면 신청한 달치부터 소급해서 들어옵니다</li>
+</ul>
+
+<h3>서류는 이체 기록이 제일 중요합니다</h3>
+
+<p>신청서와 소득재산 신고서는 복지로에서 화면 따라 채우면 됩니다. 통장 사본과 가족관계증명서도 필요하고요.</p>
+
+<p>진짜 발목 잡는 건 <b>월세 이체 증빙</b>입니다. 현금으로 드리거나 부모님 통장에서 나가고 있으면 증빙이 안 됩니다.</p>
+
+<p>본인 명의 계좌에서 집주인 계좌로 이체된 기록이 있어야 해요. 지금 현금으로 내고 있다면 오늘부터 계좌이체로 바꾸시는 게 좋습니다.</p>
+
+<h3>심사 중에 이사 가면 어떻게 되나</h3>
+
+<p>이사를 가도 지원은 이어집니다. 다만 <b>변경 신고</b>를 해야 하고 새 집도 보증금과 월세 조건을 만족해야 해요.</p>
+
+<p>신고 없이 이사하면 그 달부터 지급이 멈춥니다. 나중에 소급해서 받기가 꽤 번거롭습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">놓치기 쉬운 3가지</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">주거급여를 받고 있으면 <b style="color:#7ee0b0;">그 금액만큼 빼고</b> 지급됩니다. 군 입대나 90일 이상 해외 체류가 생기면 그 기간은 <b style="color:#7ee0b0;">지급이 멈춥니다.</b> 지원 중에 주택을 사면 <b style="color:#ff8a7a;">그 시점부터 중지</b>됩니다.</p>
+</div>
+
+<ul>
+<li><b>주거급여 수급자</b>는 받는 금액을 뺀 차액만 지원됩니다</li>
+<li>군 입대나 <b>90일 이상 해외 체류</b> 기간은 지급이 멈춥니다</li>
+<li>지원받는 중에 <b>주택을 취득</b>하면 그때부터 중지됩니다</li>
+</ul>
+
+<h2>지자체 지원과 겹치는지 봐야 합니다</h2>
+
+<p>서울이나 경기 같은 곳은 자체 청년월세 지원을 따로 합니다. 이름이 비슷해서 헷갈리는데 <b>다른 사업</b>이에요.</p>
+
+<p>대부분 중복 수급이 안 됩니다. 금액과 기간이 다르니 어느 쪽이 유리한지 보고 하나를 고르는 게 맞습니다.</p>
+
+<p>저희 동네 김포도 청년 지원 사업이 따로 있어서 처제한테 둘 다 계산해보라고 했는데 결국 국비 쪽이 기간이 길어서 그쪽으로 갔습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>월 최대 20만원을 최대 24개월, 다 받으면 480만원이다</p>
+<p>만 19~34세 무주택, 부모와 별도 거주가 기본 조건이다</p>
+<p>청년가구 중위 60% 이하 + 원가구 중위 100% 이하를 본다</p>
+<p>보증금 5천만원 이하, 월세 70만원 이하 (환산 합계 90만원까지 가능)</p>
+<p>2026년부터 상시 신청이라 기한을 놓칠 일이 없다</p>
+</blockquote>
+
+<p>월세 20만원이면 1년에 240만원입니다. 자취하는 청년한테 이 돈이 결코 작지 않아요.</p>
+
+<p>주변에 혼자 사는 동생이나 조카가 있으면 알려주시면 좋겠습니다. 몰라서 못 받는 경우가 진짜 많더라고요. 이런 건 알려주는 사람이 있어야 챙기지...</p>
+
+<p>기준 금액은 사업 공고마다 조금씩 조정되니까 신청 전에 복지로 모의계산을 한 번 돌려보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 썸네일 카드 뼈대 (art/tc_youthrent.html · 800x800)
+ [핵심 롱테일 제목] 청년월세 특별지원 / 월 20만원 24개월
+ [소구 키워드 1줄]  부모님 소득까지 본다는 건 몰랐죠? 480만원 조건 정리
+
+■ 숫자·사실 출처 (2026-08-20 웹 확인)
+ · 월 최대 20만원 × 최대 24개월 = 최대 480만원
+ · 만 19~34세 무주택 청년, 부모와 별도 거주
+ · 청년가구 기준 중위소득 60% 이하 + 원가구 100% 이하
+ · 2026년부터 신청 기한 폐지, 상시 신청으로 전환
+ · 복지로 온라인 또는 주소지 주민센터 신청
+ · 필요 서류: 신청서, 소득재산 신고서, 임대차계약서, 최근 3개월 월세 이체 증빙, 통장 사본, 가족관계증명서
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 청년가구·원가구 재산가액 상한은 공고마다 조정되어 본문에 숫자를 넣지 않았습니다
+ · 보증금 5천만원 / 월세 70만원 / 환산 합계 90만원은 기존 공고 기준입니다. 발행 전 복지로 재확인 권장
+ · 지자체 자체 사업과의 중복 여부는 지역마다 다릅니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "처제가 서울 자취를 시작해 같이 신청해줬다", "김포 청년 사업과 비교했다"는 가정입니다

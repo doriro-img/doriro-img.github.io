@@ -1,0 +1,190 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 2일 12:08
+■ 제목: 예금자보호 1억원 상향 1년. 은행별로 나눠야 하는 기준과 보호 안 되는 상품
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 예금자보호, 예금보호한도1억, 예금보험공사, 저축은행예금, 새마을금고예금
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260902_1208]_예금자보호_1억\
+   ├── 📄 [원고 파일]: [20260902_1208]_예금자보호_1억_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_deposit.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260902_1208]_예금자보호_1억_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_deposit.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>예금자보호 1억원 상향 1년. 은행별로 나눠야 하는 기준과 보호 안 되는 상품</p>
+
+<h2>1억까지 보호됩니다. 신청은 안 해도 됩니다</h2>
+
+<p>예금자보호 한도가 <b>5천만원에서 1억원</b>으로 오른 게 2025년 9월 1일입니다. 이제 1년이 됐어요.</p>
+
+<p>결론부터 말하면 <b>따로 신청할 게 없습니다.</b> 상향 전에 가입한 예금도 자동으로 1억까지 보호됩니다.</p>
+
+<p>중요한 건 이 1억이 <b>금융회사 한 곳당, 사람 한 명당</b>이라는 점입니다. 여기를 헷갈리면 계산이 틀어집니다.</p>
+
+<p>저희도 상향 소식 듣고 아내랑 통장을 다시 나눴거든요. 한 은행에 몰아두고 있었는데 그럴 이유가 없더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6fb0;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">24년 만에 바뀐 예금보호 한도</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:10px;align-items:center;">
+<div style="flex:1 1 140px;background:#f5f7f8;border:1px solid #e2e6ea;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#8a929c;margin-bottom:4px;">2025년 8월까지</div>
+<div style="font-size:24px;font-weight:800;color:#55606c;letter-spacing:-1px;">5,000만원</div>
+</div>
+<div style="font-size:22px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">→</div>
+<div style="flex:1 1 140px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#2f6fb0;margin-bottom:4px;">2025년 9월 1일부터</div>
+<div style="font-size:24px;font-weight:800;color:#1f4a7a;letter-spacing:-1px;">1억원</div>
+</div>
+<div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#2f9e6e;margin-bottom:4px;">적용 방식</div>
+<div style="font-size:17px;font-weight:800;color:#1d7050;letter-spacing:-0.5px;">자동 · 소급</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">기존 예금도 포함</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>2025년 9월 1일부터 예금보호 한도가 <b>5천만원에서 1억원</b>으로 올랐습니다</li>
+<li>별도 신청 없이 <b>자동으로 적용</b>됩니다</li>
+<li>상향 이전에 가입한 예금도 <b>1억까지 보호</b>됩니다</li>
+</ul>
+
+<h2>1억을 어떻게 세는지가 핵심입니다</h2>
+
+<p>보호 한도는 <b>금융회사별로 1인당 1억원</b>입니다. 계좌 수는 상관없어요.</p>
+
+<p>같은 은행에 통장을 세 개 만들어도 <b>다 합쳐서</b> 1억입니다. 지점을 나눠도 마찬가지고요.</p>
+
+<p>그리고 원금만 세는 게 아닙니다. <b>원금과 이자를 합쳐서</b> 1억입니다.</p>
+
+<p>그래서 정기예금을 딱 1억 넣어두면 이자 부분은 보호 밖으로 나갑니다. 여유를 두는 게 맞아요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:10px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f2f5f7;padding:11px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.6;">이렇게 나눠져 있으면</div><div style="flex:1;text-align:right;">보호 범위</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.6;font-size:14px;font-weight:700;">A은행에 통장 3개, 합계 1억 2천</div>
+<div style="flex:1;text-align:right;font-size:14px;font-weight:800;color:#b8463a;">1억까지만</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.6;font-size:14px;font-weight:700;">A은행 1억 + B은행 1억</div>
+<div style="flex:1;text-align:right;font-size:14px;font-weight:800;color:#1d7050;">2억 전액</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.6;font-size:14px;font-weight:700;">본인 1억 + 배우자 1억 (같은 은행)</div>
+<div style="flex:1;text-align:right;font-size:14px;font-weight:800;color:#1d7050;">2억 전액</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.6;font-size:14px;font-weight:700;">같은 은행 다른 지점에 나눠 예치</div>
+<div style="flex:1;text-align:right;font-size:14px;font-weight:800;color:#b8463a;">합산 1억</div>
+</div>
+</div>
+
+<ul>
+<li>한 금융회사 안에서는 <b>통장을 나눠도 합산</b>해서 1억까지입니다</li>
+<li>은행을 나누면 <b>각각 1억씩</b> 보호됩니다</li>
+<li>부부가 각자 명의로 나누면 <b>사람별로 1억씩</b> 잡힙니다</li>
+</ul>
+
+<h2>보호가 안 되는 상품이 있습니다</h2>
+
+<p>은행에서 팔았다고 다 보호되는 게 아니에요. <b>원금이 보장되는 상품</b>만 대상입니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">보호됩니다</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">보통예금·정기예금·적금<br />외화예금<br />원금보전형 신탁<br />개인이 가입한 보험계약<br />퇴직연금(예금형)</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">보호 안 됩니다</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">펀드·주식·채권<br />ELS·DLS 같은 파생결합증권<br />실적배당형 신탁<br />CD·RP<br />후순위채권</div>
+</div>
+</div>
+
+<ul>
+<li>예금과 적금, <b>원금보전형 신탁</b>, 개인 보험계약은 보호 대상입니다</li>
+<li>펀드와 주식, <b>ELS 같은 파생결합증권</b>은 보호되지 않습니다</li>
+<li>은행 창구에서 가입했더라도 <b>실적배당 상품</b>이면 대상이 아닙니다</li>
+</ul>
+
+<p>고금리에 끌려서 가입했는데 나중에 보니 보호 대상이 아니었다는 얘기가 여기서 나옵니다.</p>
+
+<h3>우체국과 새마을금고는 구조가 다릅니다</h3>
+
+<p>우체국 예금은 예금보험공사가 아니라 <b>국가가 전액</b> 지급을 보장합니다. 한도 자체가 없어요.</p>
+
+<p>새마을금고와 신협, 농협 단위조합은 예금보험공사가 아니라 <b>각자의 자체 기금</b>으로 보호합니다.</p>
+
+<p>이쪽도 보호 한도를 1억으로 맞췄습니다. 다만 기금 주체가 다르니 알고는 계시는 게 좋습니다.</p>
+
+<h3>저축은행은 회사별로 셉니다</h3>
+
+<p>저축은행도 1억까지 보호됩니다. <b>저축은행 한 곳당</b>이에요.</p>
+
+<p>같은 브랜드 이름을 쓰더라도 법인이 다르면 별개로 봅니다. 이름만 보고 판단하면 안 됩니다.</p>
+
+<p>금리를 좇아 여러 저축은행에 나눠 넣는 분들이 많은데 그 방식 자체는 맞더라고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">놓치기 쉬움</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">보호 한도는 <b style="color:#7ee0b0;">원금과 이자를 합친 금액</b>입니다. 딱 1억을 넣으면 이자는 보호 밖입니다. 그리고 사고가 나면 <b style="color:#ffd97a;">바로 전액이 나오는 게 아니라</b> 가지급금부터 지급되고 시간이 걸립니다.</p>
+</div>
+
+<ul>
+<li>보호 한도는 <b>원금 + 이자</b> 기준이라 딱 1억을 채우면 이자가 밖으로 나갑니다</li>
+<li>사고 발생 시 <b>가지급금</b>이 먼저 나오고 전액 정리에는 시간이 걸립니다</li>
+<li>급하게 쓸 돈이라면 한 곳에 몰아두지 않는 게 안전합니다</li>
+</ul>
+
+<h2>그럼 어떻게 나누는 게 좋을까</h2>
+
+<p>1억을 훌쩍 넘는 돈이 아니면 사실 크게 신경 쓸 일은 없습니다.</p>
+
+<p>넘는다면 <b>사람 단위와 금융회사 단위</b> 두 가지로 쪼개면 됩니다. 부부면 각자 명의로 나누는 게 제일 간단해요.</p>
+
+<p>정기예금은 이자까지 계산해서 <b>9천만원 선</b>에서 끊는 분들이 많습니다. 1년 이자를 더해도 1억을 안 넘기려는 거죠.</p>
+
+<p>저희는 그냥 주거래 은행 하나에 생활비, 다른 은행에 비상금으로 갈랐습니다. 관리가 복잡해지면 그것도 스트레스라...</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>2025년 9월 1일부터 예금보호 한도가 1억원이다</p>
+<p>신청 없이 자동 적용이고 이전 가입 예금도 소급된다</p>
+<p>금융회사별로, 사람별로 각각 1억이다</p>
+<p>원금과 이자를 합쳐서 1억이니 딱 채우면 이자가 빠진다</p>
+<p>펀드·ELS·후순위채권은 보호 대상이 아니다</p>
+</blockquote>
+
+<p>한도가 올랐다고 무조건 한 곳에 몰아도 된다는 뜻은 아닙니다. 금리 조건이 비슷하면 나누는 게 마음이 편해요.</p>
+
+<p>반대로 1억 아래라면 굳이 쪼개면서 금리를 손해 볼 필요는 없습니다. 이건 계산해보고 정하시면 됩니다.</p>
+
+<p>가지고 계신 상품이 보호 대상인지는 예금보험공사 홈페이지에서 조회하실 수 있습니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-20 웹 확인)
+ · 2025년 9월 1일부터 예금보호 한도 5,000만원 → 1억원 (24년 만의 상향)
+ · 별도 신청 절차 불필요, 상향 이전 가입 예금도 소급 적용
+ · 은행·저축은행뿐 아니라 신협·새마을금고 등 상호금융권도 함께 적용
+ · 한도 기준: 1인당, 금융회사별, 원금과 이자를 합산
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 우체국 예금의 국가 전액 보증은 별도 법 근거로, 예금보험 대상과 구조가 다릅니다
+ · 새마을금고·신협의 자체 기금 보호 한도 조정 시점은 기관별 공지를 확인해야 합니다
+ · 가지급금 지급 비율과 소요 기간은 사고 건별로 달라 수치를 적지 않았습니다
+ · 퇴직연금의 보호 범위는 상품 구성에 따라 달라 "예금형"으로만 표기했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아내와 통장을 다시 나눴다", "주거래 은행에 생활비, 다른 은행에 비상금"은 가정입니다

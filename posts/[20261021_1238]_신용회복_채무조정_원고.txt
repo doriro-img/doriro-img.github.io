@@ -1,0 +1,227 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 21일 12:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261021_1238]_신용회복_채무조정\
+   ├── 📄 [원고 파일]: [20261021_1238]_신용회복_채무조정_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-debtplan.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261021_1238]_신용회복_채무조정_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-debtplan.html
+
+■ 제목: 신용회복위원회 채무조정 종류. 연체 전 신속지원과 개인워크아웃 차이
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 신용회복위원회, 채무조정, 개인워크아웃, 신속채무조정, 프리워크아웃, 연체이자감면, 신용회복지원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>신용회복위원회 채무조정 종류. 연체 전 신속지원과 개인워크아웃 차이</p>
+
+<h2>연체하기 전에도 도움을 받을 수 있습니다</h2>
+
+<p>채무조정은 빚을 갚기 어려운 사람의 <b>상환 조건을 조정</b>해주는 제도입니다. 신용회복위원회가 운영해요.</p>
+
+<p>결론부터 말하면 <b>연체가 시작되기 전에도</b> 신청할 수 있습니다. 이걸 모르고 버티다 상황을 키우는 경우가 많습니다.</p>
+
+<p>연체 기간에 따라 <b>신속채무조정, 프리워크아웃, 개인워크아웃</b>으로 나뉩니다.</p>
+
+<p>빨리 움직일수록 조건이 좋아지더라고요. 이자를 조정하는 단계에서 잡으면 원금은 그대로 갚으면 되니까요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#334f6d;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">연체 기간에 따라 갈립니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 160px;padding:20px 14px;border-right:1px solid #eef1f4;text-align:center;">
+<div style="font-size:12px;color:#1d7050;font-weight:800;">연체 30일 이하</div>
+<div style="font-size:18px;font-weight:800;color:#1d7050;margin:8px 0;">신속채무조정</div>
+<div style="font-size:12.5px;color:#6b7885;line-height:1.75;">연체 전·초기<br />상환 유예와 금리 인하</div>
+</div>
+<div style="flex:1 1 160px;padding:20px 14px;border-right:1px solid #eef1f4;text-align:center;">
+<div style="font-size:12px;color:#9a6413;font-weight:800;">31~89일</div>
+<div style="font-size:18px;font-weight:800;color:#9a6413;margin:8px 0;">프리워크아웃</div>
+<div style="font-size:12.5px;color:#6b7885;line-height:1.75;">이자율 조정<br />상환 기간 연장</div>
+</div>
+<div style="flex:1 1 160px;padding:20px 14px;text-align:center;">
+<div style="font-size:12px;color:#b8443a;font-weight:800;">90일 이상</div>
+<div style="font-size:18px;font-weight:800;color:#b8443a;margin:8px 0;">개인워크아웃</div>
+<div style="font-size:12.5px;color:#6b7885;line-height:1.75;">이자 감면<br />원금 감면도 가능</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>연체 <b>30일 이하</b>면 신속채무조정으로 상환을 유예받습니다</li>
+<li>연체 <b>31일에서 89일</b> 사이는 프리워크아웃 대상입니다</li>
+<li>연체 <b>90일 이상</b>이면 개인워크아웃으로 원금 감면까지 논의됩니다</li>
+</ul>
+
+<h2>단계별로 뭐가 다른가요?</h2>
+
+<p>연체가 길어질수록 감면 폭은 커지지만 <b>신용에 남는 흔적</b>도 커집니다.</p>
+
+<p><b>신속채무조정</b>은 연체 전이나 초기에 쓰는 제도입니다. 원금은 그대로 두고 <b>상환을 미루거나</b> 금리를 낮춥니다.</p>
+
+<p><b>프리워크아웃</b>은 이자율을 조정하고 상환 기간을 늘려줍니다. 연체이자는 감면됩니다.</p>
+
+<p><b>개인워크아웃</b>은 연체이자를 전액 감면하고, 상황에 따라 <b>원금 일부</b>도 깎아줍니다.</p>
+
+<blockquote>
+<p>일찍 신청 → 감면은 적지만 신용 회복이 빠름</p>
+<p>늦게 신청 → 감면은 크지만 회복에 시간이 걸림</p>
+</blockquote>
+
+<h3>원금은 얼마나 깎이나요?</h3>
+
+<p>개인워크아웃에서도 원금 감면은 <b>제한적</b>입니다. 상환 능력을 따져서 정합니다.</p>
+
+<p>기초생활수급자나 중증장애인 같은 <b>취약계층</b>은 감면 폭이 더 큽니다.</p>
+
+<p>담보가 있는 채무는 감면 대상에서 빠지는 경우가 많습니다. 무담보 채무 위주로 조정됩니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef2f7,#dae2ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#334f6d;margin-bottom:16px;">신청부터 확정까지</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">상담 신청</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">온라인·지부 방문</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">서류 제출</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">소득·부채 자료</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#22405c;margin-top:5px;">채권자 동의</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">과반 동의 필요</div>
+</div>
+<div style="flex:1 1 140px;background:#334f6d;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#a9bcd0;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">확정과 상환</div>
+<div style="font-size:11.5px;color:#a9bcd0;margin-top:4px;">매달 정해진 금액</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>신청은 <b>온라인</b>이나 신용회복위원회 지부 방문으로 합니다</li>
+<li>소득과 부채를 증명할 <b>서류</b>가 필요합니다</li>
+<li><b>채권자 동의</b>를 거쳐 조정안이 확정됩니다</li>
+</ul>
+
+<h2>신청하면 추심이 멈춥니다</h2>
+
+<p>채무조정을 신청하면 <b>추심이 중지</b>됩니다. 독촉 전화와 방문이 멈춰요.</p>
+
+<p>이것만으로도 숨통이 트입니다. 심리적 압박이 큰 상황에서 시간을 버는 거죠.</p>
+
+<p>다만 신청했다고 <b>무조건 확정</b>되는 건 아닙니다. 채권자 동의 절차가 있습니다.</p>
+
+<p>확정 후에는 <b>매달 정해진 금액</b>을 성실히 갚아야 합니다. 밀리면 조정이 취소될 수 있어요.</p>
+
+<h3>개인회생·파산과 다릅니다</h3>
+
+<p>채무조정은 <b>사적 조정</b>입니다. 법원을 거치지 않고 채권자와 합의하는 방식이에요.</p>
+
+<p>개인회생과 파산은 <b>법원</b>에서 진행합니다. 절차가 무겁고 시간도 더 걸립니다.</p>
+
+<p>대신 법원 절차는 <b>감면 폭이 크고</b> 강제력이 있습니다. 상황에 따라 어느 쪽이 나은지 갈립니다.</p>
+
+<p>상담을 받아보면 어느 길이 맞는지 안내해줍니다. 혼자 판단하기 어려운 부분입니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.2;">구분</div><div style="flex:1;text-align:center;">채무조정</div><div style="flex:1;text-align:right;">개인회생·파산</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">진행 주체</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#6b7885;">신용회복위원회</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">법원</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">감면 폭</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#9a6413;font-weight:700;">제한적</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#1d7050;font-weight:700;">더 큼</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">소요 기간</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#1d7050;font-weight:700;">짧음</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#9a6413;font-weight:700;">김</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">비용</div>
+<div style="flex:1;text-align:center;font-size:13px;color:#6b7885;">소액 수수료</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">법원 비용 발생</div>
+</div>
+</div>
+
+<ul>
+<li>신청 즉시 <b>추심이 중지</b>돼 압박에서 벗어납니다</li>
+<li>채무조정은 <b>사적 조정</b>이라 절차가 빠릅니다</li>
+<li>감면 폭이 크게 필요하면 <b>법원 절차</b>가 나을 수 있습니다</li>
+</ul>
+
+<h2>대출 중개를 조심하세요</h2>
+
+<p>채무조정을 검색하면 <b>대출을 권하는 광고</b>가 먼저 뜹니다. 빚으로 빚을 막는 방식이에요.</p>
+
+<p>신용회복위원회 상담은 <b>무료</b>이거나 소액 수수료만 냅니다. 수백만원을 요구하는 곳은 이상합니다.</p>
+
+<p>공식 창구는 <b>신용회복위원회</b>와 <b>서민금융통합지원센터</b>입니다. 여기부터 가세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">먼저 상담부터</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">채무조정은 <b style="color:#ff8a7a;">신용에 기록이 남습니다.</b> 일정 기간 신규 대출과 카드 발급이 제한돼요. 그래도 연체를 계속 쌓는 것보다는 낫습니다. <b style="color:#ffd97a;">상담은 무료</b>니 먼저 물어보고 결정하세요.</p>
+</div>
+
+<ul>
+<li>공식 창구는 <b>신용회복위원회</b>와 서민금융통합지원센터입니다</li>
+<li>고액 수수료를 요구하는 <b>중개업체</b>를 조심하세요</li>
+<li>채무조정은 <b>신용 기록</b>에 남아 일정 기간 제약이 따릅니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>연체 전이나 초기에도 신속채무조정으로 도움을 받을 수 있다</p>
+<p>연체 기간에 따라 신속채무조정, 프리워크아웃, 개인워크아웃으로 나뉜다</p>
+<p>일찍 신청할수록 감면은 적지만 신용 회복이 빠르다</p>
+<p>신청하면 추심이 중지되고 채권자 동의를 거쳐 확정된다</p>
+<p>상담은 무료이며 고액 수수료를 요구하는 곳은 공식 창구가 아니다</p>
+</blockquote>
+
+<p>버티다 연체가 쌓이면 선택지가 줄어듭니다. 힘들다 싶을 때 바로 상담받는 게 최선이에요.</p>
+
+<p>상담만 받아도 정리가 되더라고요. 어떤 길이 있는지 아는 것만으로 마음이 달라집니다.</p>
+
+<p>본인 상황에 맞는 제도는 사례마다 다르니 신용회복위원회 상담을 받아보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 신용회복위원회 채무조정: 연체 기간에 따라 신속채무조정(연체 30일 이하), 프리워크아웃(연체 31~89일), 개인워크아웃(연체 90일 이상)으로 구분
+ · 신속채무조정: 상환 유예·금리 인하 중심 / 프리워크아웃: 이자율 조정·상환기간 연장, 연체이자 감면 / 개인워크아웃: 연체이자 전액 감면, 상환 능력에 따라 원금 일부 감면
+ · 취약계층(기초생활수급자·중증장애인 등)은 감면 폭 확대
+ · 담보채무는 감면 대상에서 제외되는 경우가 많고 무담보 채무 중심으로 조정
+ · 채무조정 신청 시 추심 중지, 채권금융회사 동의 절차를 거쳐 조정안 확정
+ · 확정 후 변제계획 미이행 시 조정 효력 상실 가능
+ · 개인회생·파산은 법원 절차로 감면 폭이 크나 소요 기간과 비용이 상이
+ · 공식 창구: 신용회복위원회, 서민금융통합지원센터 (상담 무료 또는 소액 수수료)
+ · 채무조정 이용 사실은 신용정보에 등록되어 일정 기간 신규 여신 제약
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 원금 감면율과 상환 기간 상한은 제도·개인 상황별로 달라 수치를 적지 않았습니다
+ · 채권자 동의 요건(동의 비율)은 제도별로 달라 "과반"은 일반적 설명으로만 적었습니다
+ · 신용정보 등록 기간과 해제 조건은 규정 개정이 있어 구체 기간을 넣지 않았습니다
+ · 신청 수수료 금액은 제도별로 달라 "소액"으로만 표현했습니다
+ · 개인회생·파산의 요건과 효과는 법률 판단 영역이라 비교만 제시했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "상담만 받아도 정리가 된다"는 일반적 관찰로 적었습니다

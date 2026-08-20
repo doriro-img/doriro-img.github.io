@@ -1,0 +1,227 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 19일 12:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261019_1242]_소유권이전_셀프등기\
+   ├── 📄 [원고 파일]: [20261019_1242]_소유권이전_셀프등기_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-selfreg.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261019_1242]_소유권이전_셀프등기_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-selfreg.html
+
+■ 제목: 소유권이전 셀프등기 준비물과 순서. 60일 기한과 법무사 비용 비교
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 셀프등기, 소유권이전등기, 등기신청서, 국민주택채권, 인터넷등기소, 법무사비용, 등기수입증지
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>소유권이전 셀프등기 준비물과 순서. 60일 기한과 법무사 비용 비교</p>
+
+<h2>서류만 갖추면 직접 할 수 있습니다</h2>
+
+<p>소유권이전 등기는 <b>법무사를 꼭 거쳐야</b> 하는 절차가 아닙니다. 본인이 직접 신청할 수 있어요.</p>
+
+<p>결론부터 말하면 <b>서류 준비와 관공서 방문 순서</b>만 알면 됩니다. 하루면 끝나는 일이에요.</p>
+
+<p>아끼는 돈은 <b>법무사 보수</b>입니다. 취득세와 채권, 증지 같은 실비는 어차피 나갑니다.</p>
+
+<p>처음 해보면 겁이 나는데 막상 해보면 순서 문제더라고요. 등기소 직원분들이 잘 알려주시고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#334f6d;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">이 순서로 움직입니다</div>
+<div style="background:#fafbfc;padding:22px 18px;">
+<div style="position:relative;padding-left:22px;">
+<div style="position:absolute;left:6px;top:8px;bottom:8px;width:3px;background:#b3c3d5;border-radius:2px;"></div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#334f6d;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">1. 잔금일에 서류 받기</div>
+<div style="font-size:12.5px;color:#6b7885;">매도인 인감·위임장·등기필정보</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#4a6c8e;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">2. 구청에서 취득세 신고</div>
+<div style="font-size:12.5px;color:#6b7885;">신고 후 납부, 영수증 보관</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#6b8aa8;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">3. 은행에서 채권 매입</div>
+<div style="font-size:12.5px;color:#6b7885;">즉시 매도 선택 가능</div>
+</div>
+<div style="position:relative;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#93aac1;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">4. 등기소 접수</div>
+<div style="font-size:12.5px;color:#6b7885;">신청서와 서류 일괄 제출</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>잔금일에 <b>매도인 서류</b>를 빠짐없이 받는 게 출발점입니다</li>
+<li>구청에서 <b>취득세</b>를 신고·납부한 영수증이 필요합니다</li>
+<li>은행에서 <b>국민주택채권</b>을 매입한 뒤 등기소로 갑니다</li>
+</ul>
+
+<h2>잔금일에 받아야 할 서류</h2>
+
+<p>이걸 못 받으면 등기가 안 됩니다. 목록을 들고 가서 하나씩 확인하세요.</p>
+
+<p>매도인에게 받을 것은 <b>등기필증(등기권리증)</b>, <b>인감증명서</b>, <b>인감도장 날인 위임장</b>, <b>주민등록초본</b>입니다.</p>
+
+<p>인감증명서는 <b>부동산 매도용</b>으로 발급된 것이어야 합니다. 일반용은 안 됩니다.</p>
+
+<p>매수인 본인은 <b>주민등록등본</b>과 신분증, 도장을 준비합니다.</p>
+
+<h3>매매계약서와 신고필증</h3>
+
+<p><b>부동산거래계약 신고필증</b>이 필요합니다. 중개사가 실거래 신고를 하면 발급됩니다.</p>
+
+<p>계약서 원본에는 <b>검인</b>이나 신고 확인이 들어가야 합니다. 이 부분은 중개사가 챙겨줍니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef2f7,#dae2ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#334f6d;margin-bottom:16px;">누가 무엇을 준비하나</div>
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#b8443a;margin-bottom:10px;">매도인이 주는 것</div>
+<div style="font-size:13px;color:#41586b;line-height:1.95;">등기필증<br />매도용 인감증명서<br />위임장(인감 날인)<br />주민등록초본</div>
+</div>
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#1d7050;margin-bottom:10px;">매수인이 챙기는 것</div>
+<div style="font-size:13px;color:#41586b;line-height:1.95;">주민등록등본<br />신분증·도장<br />취득세 영수증<br />채권 매입 영수증</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>인감증명서는 반드시 <b>부동산 매도용</b>이어야 합니다</li>
+<li><b>등기필증</b>을 분실했으면 확인서면 등 별도 절차가 필요합니다</li>
+<li>매수인은 <b>취득세와 채권</b> 영수증을 챙겨 갑니다</li>
+</ul>
+
+<h2>국민주택채권이 뭔가요?</h2>
+
+<p>부동산을 등기할 때 <b>의무로 사야 하는 채권</b>입니다. 시가표준액에 따라 매입 금액이 정해져요.</p>
+
+<p>이걸 <b>계속 보유</b>할 수도 있고 그 자리에서 <b>즉시 매도</b>할 수도 있습니다.</p>
+
+<p>대부분 즉시 매도를 선택합니다. 이때 원금과 시세의 차이인 <b>할인료</b>만 부담합니다.</p>
+
+<p>은행 창구에서 처리하는데 <b>등기소 근처 은행</b>이 익숙해서 빠릅니다. 미리 물어보고 가면 편해요.</p>
+
+<blockquote>
+<p>채권 매입 후 즉시 매도 → 할인료만 부담</p>
+<p>보유 선택 시 만기에 원금과 이자를 받습니다</p>
+</blockquote>
+
+<h2>등기 신청서는 어떻게 쓰나요?</h2>
+
+<p>대법원 <b>인터넷등기소</b>에서 양식을 받을 수 있습니다. 작성 예시도 함께 제공돼요.</p>
+
+<p><b>e-Form</b>으로 미리 작성해 출력해 가면 훨씬 수월합니다. 손으로 다 쓰지 않아도 됩니다.</p>
+
+<p>신청서에는 <b>등기 원인</b>과 부동산 표시, 당사자 정보를 정확히 적습니다.</p>
+
+<p>등기소에 <b>수입증지</b>를 붙여야 합니다. 등기소 안이나 근처에서 살 수 있습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">비용 항목</div><div style="flex:1;text-align:right;">셀프등기 시</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">취득세·지방교육세</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">그대로 발생</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">국민주택채권 할인료</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">그대로 발생</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">등기 수입증지</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#6b7885;">그대로 발생</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">법무사 보수</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">절약됩니다</div>
+</div>
+</div>
+
+<ul>
+<li>세금과 채권, 증지는 <b>셀프등기여도 그대로</b> 나갑니다</li>
+<li>아끼는 건 <b>법무사 보수</b>뿐입니다</li>
+<li>신청서는 <b>인터넷등기소 e-Form</b>으로 미리 작성하면 편합니다</li>
+</ul>
+
+<h2>대출이 있으면 어려워집니다</h2>
+
+<p>여기가 중요합니다. <b>주택담보대출을 끼고</b> 사는 경우 셀프등기가 사실상 어렵습니다.</p>
+
+<p>은행이 <b>근저당권 설정</b>을 동시에 해야 하는데, 대개 은행이 지정한 법무사를 통해 처리합니다.</p>
+
+<p>소유권이전과 근저당 설정이 <b>같은 날 같은 순서</b>로 들어가야 해서 그렇습니다.</p>
+
+<p>그래서 셀프등기는 <b>대출 없이</b> 사는 경우에 주로 합니다. 이 조건을 먼저 확인하세요.</p>
+
+<h3>60일 기한을 지키세요</h3>
+
+<p>취득세는 잔금일부터 <b>60일 이내</b>에 신고·납부해야 합니다.</p>
+
+<p>등기 신청도 미루면 <b>과태료</b>가 생길 수 있습니다. 부동산등기 특별조치법에 기한이 있어요.</p>
+
+<p>실무적으로는 <b>잔금일 당일</b>에 다 처리합니다. 미룰 이유가 없습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">순서가 중요합니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">잔금을 치르기 <b style="color:#ffd97a;">직전에 등기부등본을 다시</b> 떼서 확인하세요. 그 사이 압류나 가압류가 들어올 수 있습니다. <b style="color:#ff8a7a;">깨끗한 상태를 확인하고</b> 돈을 보내는 게 순서입니다.</p>
+</div>
+
+<ul>
+<li>대출을 끼면 <b>은행 지정 법무사</b>를 거치는 경우가 많습니다</li>
+<li>취득세는 <b>60일 이내</b>에 신고·납부해야 합니다</li>
+<li>잔금 직전에 <b>등기부등본</b>을 다시 확인하세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>소유권이전 등기는 본인이 직접 신청할 수 있다</p>
+<p>매도인에게 등기필증과 매도용 인감증명서, 위임장을 받는다</p>
+<p>구청에서 취득세를 내고 은행에서 채권을 산 뒤 등기소에 접수한다</p>
+<p>셀프등기로 아끼는 것은 법무사 보수뿐이다</p>
+<p>대출을 끼면 근저당 설정 때문에 셀프등기가 어렵다</p>
+</blockquote>
+
+<p>서류 목록만 확실히 챙기면 어렵지 않습니다. 하나라도 빠지면 헛걸음이라 그게 문제죠.</p>
+
+<p>미리 등기소에 전화해서 물어보는 게 제일 확실하더라고요. 요즘은 안내를 잘 해주십니다.</p>
+
+<p>사안마다 필요한 서류가 다를 수 있으니 관할 등기소에 확인하고 움직이시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 소유권이전등기는 본인이 직접 신청 가능 (법무사 대리 의무 없음)
+ · 매도인 제공 서류: 등기필증(등기권리증), 부동산 매도용 인감증명서, 인감 날인 위임장, 주민등록초본
+ · 매수인 준비: 주민등록등본, 신분증·도장, 취득세 납부 영수증, 국민주택채권 매입 영수증, 부동산거래계약 신고필증
+ · 절차: 잔금 및 서류 수령 → 구청 취득세 신고·납부 → 은행 국민주택채권 매입(즉시매도 선택 가능) → 등기소 신청서 접수(수입증지 첩부)
+ · 등기 신청서 양식과 e-Form 작성은 대법원 인터넷등기소에서 제공
+ · 국민주택채권은 시가표준액 기준으로 매입 금액 결정, 즉시매도 시 할인료만 부담
+ · 취득세 신고·납부 기한: 취득일(잔금일)부터 60일 이내
+ · 부동산등기 특별조치법상 등기 신청 기한이 있으며 지연 시 과태료 가능
+ · 주택담보대출을 실행하는 경우 근저당권 설정과 동시 진행이 필요해 은행 지정 법무사를 통하는 것이 일반적
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 등기 수입증지 금액과 채권 할인율은 시점·물건별로 달라 수치를 적지 않았습니다
+ · 등기필증 분실 시의 확인서면·확인조서 절차는 사안별로 달라 언급만 했습니다
+ · 등기 신청 기한과 과태료 기준은 거래 유형에 따라 달라 구체 수치를 넣지 않았습니다
+ · 은행별 근저당 설정 실무는 금융회사 정책에 따라 달라 "일반적"으로만 서술했습니다
+ · 법무사 보수는 사무소·거래금액별로 달라 금액을 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "등기소에 미리 전화해 물어보면 안내를 잘 해준다"는 설정입니다

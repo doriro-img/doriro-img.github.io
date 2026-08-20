@@ -1,0 +1,192 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 9일 18:48
+■ 제목: 전자여행허가 총정리. 미국 ESTA와 유럽 ETIAS, 한국 K-ETA 차이 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: ESTA, ETIAS, KETA, 전자여행허가, 무비자입국
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260909_1848]_전자여행허가_ESTA_ETIAS\
+   ├── 📄 [원고 파일]: [20260909_1848]_전자여행허가_ESTA_ETIAS_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_keta.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260909_1848]_전자여행허가_ESTA_ETIAS_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_keta.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>전자여행허가 총정리. 미국 ESTA와 유럽 ETIAS, 한국 K-ETA 차이 정리</p>
+
+<h2>비자가 없어도 허가는 받아야 합니다</h2>
+
+<p>무비자로 갈 수 있는 나라라도 <b>전자여행허가</b>를 미리 받아야 하는 곳이 늘고 있습니다. 미국은 ESTA, 유럽은 ETIAS예요.</p>
+
+<p>결론부터 말하면 <b>없으면 비행기를 못 탑니다.</b> 항공사가 탑승 단계에서 막습니다. 공항에서 알면 이미 늦어요.</p>
+
+<p>유럽 ETIAS는 <b>2026년 4분기 시행</b>을 목표로 준비 중입니다. 수수료는 20유로고 유효기간은 3년이에요.</p>
+
+<p>친구가 미국 갈 때 ESTA를 출발 전날 신청했다가 승인이 늦어져서 조마조마했거든요. 보통은 금방 나오는데 가끔 며칠씩 걸리더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:10px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">주요 전자여행허가 비교</div>
+<div style="display:flex;background:#f2f5f7;padding:11px 16px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.2;">제도</div><div style="flex:1;text-align:center;">대상</div><div style="flex:1;text-align:right;">유효기간</div>
+</div>
+<div style="display:flex;padding:13px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.2;font-size:14px;font-weight:700;">ESTA<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">미국</span></div>
+<div style="flex:1;text-align:center;font-size:13px;color:#5a6672;">한국인 필수</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1f4a7a;">2년</div>
+</div>
+<div style="display:flex;padding:13px 16px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.2;font-size:14px;font-weight:700;">ETIAS<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">유럽 (시행 예정)</span></div>
+<div style="flex:1;text-align:center;font-size:13px;color:#5a6672;">한국인 대상</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#3a4480;">3년</div>
+</div>
+<div style="display:flex;padding:13px 16px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.2;font-size:14px;font-weight:700;">K-ETA<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">한국 입국</span></div>
+<div style="flex:1;text-align:center;font-size:13px;color:#5a6672;">외국인 대상</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#1d7050;">2년</div>
+</div>
+</div>
+
+<ul>
+<li>미국 <b>ESTA</b>는 한국인이 무비자로 갈 때 반드시 받아야 하고 유효기간은 2년입니다</li>
+<li>유럽 <b>ETIAS</b>는 시행 예정이고 유효기간은 3년 또는 여권 만료일까지입니다</li>
+<li><b>K-ETA</b>는 반대로 외국인이 한국에 들어올 때 받는 제도입니다</li>
+</ul>
+
+<h2>유럽 ETIAS, 언제부터 필요한가</h2>
+
+<p>목표 시점은 <b>2026년 4분기</b>입니다. 다만 시행 후 바로 강제되는 게 아니라 <b>과도기</b>를 둡니다.</p>
+
+<p>최소 6개월 이상 유예 기간이 예정돼 있어요. 그동안은 없어도 입국이 가능한 구조입니다.</p>
+
+<p>수수료는 <b>20유로</b>고 <b>만 18세 미만과 70세 이상</b>은 면제입니다. 가족 여행이면 이 부분이 꽤 큽니다.</p>
+
+<p>유효기간은 <b>3년</b>인데 여권 만료일이 더 빠르면 그날까지입니다. 여권을 새로 만들면 ETIAS도 다시 받아야 해요.</p>
+
+<h3>일정이 계속 미뤄져 왔습니다</h3>
+
+<p>ETIAS는 몇 년째 시행이 연기돼 왔습니다. 그래서 <b>출발 전에 다시 확인</b>하는 게 맞습니다.</p>
+
+<p>겨울에 유럽 가시는 분들은 특히요. 시행 시점 근처라 상황이 바뀔 수 있습니다.</p>
+
+<h2>미국 ESTA는 지금도 필수입니다</h2>
+
+<p>미국은 오래전부터 시행 중입니다. 무비자로 가려면 <b>반드시</b> 받아야 해요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">공식 사이트</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">정부 도메인 확인</div>
+</div>
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">여권 정보 입력</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">철자 그대로</div>
+</div>
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">수수료 결제</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">신용카드</div>
+</div>
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">승인 확인</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">보통 금방</div>
+</div>
+</div>
+
+<ul>
+<li>반드시 <b>정부 공식 사이트</b>에서 신청합니다</li>
+<li>여권의 <b>영문 철자와 번호</b>를 그대로 입력해야 합니다</li>
+<li>승인은 대개 빠르지만 <b>며칠 걸리는 경우</b>도 있어 여유를 둡니다</li>
+</ul>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">대행 사이트 주의</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">검색하면 <b style="color:#ff8a7a;">대행 사이트가 위에 뜹니다.</b> 공식 수수료의 몇 배를 받는 곳이 많아요. 주소가 <b style="color:#7ee0b0;">정부 공식 도메인</b>인지 확인하고 들어가세요. 대행을 써도 승인이 더 빨라지지 않습니다.</p>
+</div>
+
+<ul>
+<li>검색 상단에 <b>유료 대행 사이트</b>가 노출되는 경우가 많습니다</li>
+<li>공식 도메인이 맞는지 <b>주소를 확인</b>하고 신청합니다</li>
+<li>대행을 이용해도 <b>승인 속도는 같습니다</b></li>
+</ul>
+
+<h2>한국에 오는 외국인은 K-ETA입니다</h2>
+
+<p>반대 방향입니다. 외국인이 한국에 무비자로 들어올 때 받는 제도예요.</p>
+
+<p>지금은 <b>한시 면제</b>가 적용되고 있습니다. 미국, 캐나다, 일본, 호주, 독일 등이 면제 대상이고 <b>2026년 12월 31일까지</b> 연장돼 있어요.</p>
+
+<p>면제 대상이어도 <b>신청하면 이점</b>이 있습니다. 입국신고서 작성을 생략할 수 있거든요.</p>
+
+<p>수수료는 1만원 수준이고 유효기간은 2년입니다. 자주 오가는 가족이면 받아두는 게 편합니다.</p>
+
+<p>해외 사는 가족이나 지인을 초청할 계획이 있으면 이 부분을 알려주시면 좋습니다.</p>
+
+<h2>이런 것도 같이 챙기세요</h2>
+
+<p>영국도 별도의 전자여행허가 제도를 운영하고 있습니다. 캐나다는 eTA라는 이름으로 쓰고요.</p>
+
+<p>나라마다 이름과 요금, 유효기간이 다 다르더라고요. 하나로 통용되는 게 아니에요.</p>
+
+<p>여권 유효기간도 같이 보세요. <b>입국일 기준 6개월 이상</b>을 요구하는 나라가 많습니다.</p>
+
+<p>전자여행허가는 <b>입국을 보장하지 않습니다.</b> 최종 판단은 현지 입국심사관이 합니다. 이건 알고 계셔야 해요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>무비자 국가라도 전자여행허가가 필요한 곳이 늘고 있다</p>
+<p>미국 ESTA는 지금도 필수이고 유효기간은 2년이다</p>
+<p>유럽 ETIAS는 2026년 4분기 시행 목표, 20유로, 유효기간 3년이다</p>
+<p>18세 미만과 70세 이상은 ETIAS 수수료가 면제된다</p>
+<p>K-ETA는 외국인이 한국에 들어올 때 받는 제도다</p>
+</blockquote>
+
+<p>없으면 탑승 자체가 안 되는 서류라 이건 정말 미리 챙기셔야 합니다.</p>
+
+<p>비행기표 끊고 바로 신청해두는 습관을 들이면 편해요. 어차피 몇 년 쓰니까 미리 해두자...</p>
+
+<p>시행 시점과 수수료는 바뀔 수 있으니 각국 공식 사이트에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 웹 확인)
+ · ETIAS: 2026년 4분기 시행 목표, 시행 후 최소 6개월 이상 과도기 예정
+ · ETIAS 수수료 20유로, 만 18세 미만·70세 이상 면제
+ · ETIAS 유효기간 3년 또는 여권 만료일까지
+ · K-ETA: 한시 면제가 2026년 12월 31일까지 연장 (미국·캐나다·일본·호주·독일 등)
+ · K-ETA 면제 대상도 신청 시 입국신고서 작성 생략 등 혜택, 수수료 1만원 수준, 유효기간 2년
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 미국 ESTA 수수료는 인상 이력이 있어 금액을 적지 않았습니다
+ · ETIAS 시행 일정은 그간 여러 차례 연기되어 "목표"로만 표기했습니다
+ · 영국·캐나다 제도는 이름만 언급하고 요금·기간을 적지 않았습니다
+ · K-ETA 면제 대상 국가의 전체 목록은 변동이 있어 대표 국가만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "친구가 ESTA를 출발 전날 신청해 승인이 늦어졌다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_keta.html 저장 후
+  node make-art.cjs tc_keta   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef1f7,#cdd4e6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#22284a;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#3a4480;color:#fff;border-radius:26px;padding:18px 30px;font-size:32px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">ETIAS 유효기간</span>3년</div>
+<div style="align-self:flex-start;background:#3a4480;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">입국 규정</div>
+<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">전자여행허가<br /><span style="color:#3a4480;">ESTA · ETIAS</span></div>
+<div style="margin-top:28px;font-size:25px;color:#5a628f;font-weight:600;">없으면 비행기를 못 탑니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#9198bb;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

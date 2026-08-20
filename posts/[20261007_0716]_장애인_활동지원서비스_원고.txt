@@ -1,0 +1,222 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 7일 07:16
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261007_0716]_장애인_활동지원서비스\
+   ├── 📄 [원고 파일]: [20261007_0716]_장애인_활동지원서비스_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-disabilitycare.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261007_0716]_장애인_활동지원서비스_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-disabilitycare.html
+
+■ 제목: 장애인 활동지원서비스 신청방법. 서비스 종합조사와 본인부담금 계산 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 장애인활동지원, 활동지원사, 서비스종합조사, 활동지원급여, 본인부담금, 장애인돌봄, 활동지원신청방법
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>장애인 활동지원서비스 신청방법. 서비스 종합조사와 본인부담금 계산 정리</p>
+
+<h2>장애 등급이 아니라 필요한 정도로 정합니다</h2>
+
+<p>장애인 활동지원서비스는 혼자 일상생활이 어려운 장애인에게 <b>활동지원사</b>가 방문해 도와주는 제도입니다.</p>
+
+<p>결론부터 말하면 <b>만 6세 이상 만 65세 미만</b>이면서 <b>서비스 지원 종합조사</b>를 받아야 신청이 됩니다. 등록 장애인이면 장애 유형은 가리지 않습니다.</p>
+
+<p>예전처럼 <b>장애 등급으로 정하지 않습니다.</b> 실제로 얼마나 도움이 필요한지를 조사해서 시간을 정해요.</p>
+
+<p>부모님 지인분이 신청을 미루다가 몇 달을 손해 본 얘기를 들었거든요. 조사부터 받는 게 순서더라고요.</p>
+
+<div style="border:1px solid #dfe3e6;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5d7c;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">신청 자격 세 가지</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;text-align:center;">
+<div style="flex:1 1 150px;padding:22px 12px;border-right:1px solid #eef1f4;">
+<div style="width:56px;height:56px;border-radius:50%;background:#a9cbe0;margin:0 auto;display:flex;align-items:center;justify-content:center;font-size:17px;font-weight:800;color:#1a3a4f;">6~64</div>
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;margin-top:10px;">연령</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:4px;">만 6세 이상 65세 미만</div>
+</div>
+<div style="flex:1 1 150px;padding:22px 12px;border-right:1px solid #eef1f4;">
+<svg width="56" height="56" viewBox="0 0 56 56"><circle cx="28" cy="28" r="24" fill="#a9cbe0"/><path d="M18 28l7 7 14-15" stroke="#fff" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;margin-top:10px;">등록 장애인</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:4px;">장애 유형 무관</div>
+</div>
+<div style="flex:1 1 150px;padding:22px 12px;">
+<svg width="56" height="56" viewBox="0 0 56 56"><rect x="12" y="8" width="32" height="40" rx="4" fill="#fff" stroke="#2f5d7c" stroke-width="3"/><rect x="19" y="18" width="18" height="3.5" rx="1.75" fill="#a9cbe0"/><rect x="19" y="27" width="18" height="3.5" rx="1.75" fill="#a9cbe0"/><rect x="19" y="36" width="10" height="3.5" rx="1.75" fill="#a9cbe0"/></svg>
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;margin-top:10px;">종합조사</div>
+<div style="font-size:12.5px;color:#6b7885;margin-top:4px;">필요 정도를 조사</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>만 6세 이상 만 65세 미만</b> 등록 장애인이 신청할 수 있습니다</li>
+<li>장애 유형과 등급이 아니라 <b>서비스 지원 종합조사</b>로 시간을 정합니다</li>
+<li>혼자 사는지, 가족이 돌볼 수 있는지 같은 <b>환경</b>도 함께 봅니다</li>
+</ul>
+
+<h2>서비스 지원 종합조사가 뭔가요?</h2>
+
+<p>국민연금공단 직원이 <b>집으로 방문</b>해서 조사합니다. 일상생활을 얼마나 혼자 할 수 있는지 항목별로 확인해요.</p>
+
+<p>먹기, 씻기, 옷 입기, 이동하기 같은 <b>기능 제한</b> 항목이 기본입니다.</p>
+
+<p>여기에 <b>사회활동</b> 참여 상황과 <b>가구 환경</b>이 더해집니다. 혼자 사는 분은 점수가 더 붙는 구조예요.</p>
+
+<p>조사 결과로 <b>구간</b>이 정해지고 그 구간에 따라 월 급여량이 결정됩니다.</p>
+
+<p>같은 장애 유형이어도 사는 환경에 따라 결과가 다르게 나오더라고요.</p>
+
+<h3>급여는 시간으로 나옵니다</h3>
+
+<p>돈이 아니라 <b>바우처 시간</b>으로 지급됩니다. 활동지원사가 와서 일한 시간만큼 차감되는 방식이에요.</p>
+
+<p>기본급여에 <b>추가급여</b>가 얹어집니다. 혼자 사는 경우나 출산, 취약 가구 등이 추가급여 대상입니다.</p>
+
+<p>지자체가 자체 예산으로 시간을 더 주는 곳도 있습니다. 이건 지역마다 다릅니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f8,#dae6ef);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5d7c;margin-bottom:16px;">신청부터 이용까지</div>
+<div style="position:relative;padding-left:22px;">
+<div style="position:absolute;left:6px;top:8px;bottom:8px;width:3px;background:#a9c4d8;border-radius:2px;"></div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#2f5d7c;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#1a3a4f;">1. 주민센터 신청</div>
+<div style="font-size:12.5px;color:#6b7885;">본인이나 가족, 대리인도 가능</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#4a7b9c;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#1a3a4f;">2. 방문 조사</div>
+<div style="font-size:12.5px;color:#6b7885;">국민연금공단이 집으로 방문</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#6b98b8;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#1a3a4f;">3. 심의와 결정 통지</div>
+<div style="font-size:12.5px;color:#6b7885;">구간과 월 급여량 확정</div>
+</div>
+<div style="position:relative;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#a9cbe0;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#1a3a4f;">4. 제공기관 계약과 이용</div>
+<div style="font-size:12.5px;color:#6b7885;">활동지원사 배정 후 서비스 시작</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>신청은 주소지 <b>읍면동 주민센터</b>에서 하고 대리 신청도 됩니다</li>
+<li>국민연금공단이 <b>방문 조사</b>를 하고 구간을 판정합니다</li>
+<li>결정 통지를 받은 뒤 <b>제공기관과 계약</b>해야 서비스가 시작됩니다</li>
+</ul>
+
+<h2>본인부담금은 얼마나 내나요?</h2>
+
+<p>전액 무료가 아닙니다. 소득 수준에 따라 <b>본인부담금</b>이 있습니다.</p>
+
+<p>기초생활수급자는 <b>면제</b>이고, 차상위계층은 정액으로 소액만 냅니다.</p>
+
+<p>그 위로는 <b>기준 중위소득 대비 소득 수준</b>에 따라 급여 비용의 일정 비율을 냅니다. 상한선이 있어서 무한정 올라가지는 않아요.</p>
+
+<p>추가급여에 대한 본인부담금은 기본급여와 계산이 다릅니다. 결정 통지서에 금액이 적혀 나옵니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">소득 구간</div><div style="flex:1;text-align:right;">본인부담금</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">기초생활수급자</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">면제</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">차상위계층</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">정액 소액</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">그 외 소득 구간</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">급여비용의 일정 비율</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">부담 상한</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f5d7c;">상한선 있음</div>
+</div>
+</div>
+
+<ul>
+<li>기초생활수급자는 본인부담금이 <b>면제</b>됩니다</li>
+<li>그 외에는 소득 수준에 따라 <b>일정 비율</b>을 부담합니다</li>
+<li>부담금에는 <b>상한선</b>이 있어 무한정 늘어나지 않습니다</li>
+</ul>
+
+<h2>만 65세가 되면 어떻게 되나요?</h2>
+
+<p>여기가 오래 문제가 됐던 부분입니다. 만 65세가 되면 <b>노인장기요양보험</b>으로 넘어갑니다.</p>
+
+<p>그런데 장기요양 급여 시간이 활동지원보다 적은 경우가 많아서, 갑자기 돌봄 시간이 줄어드는 일이 생겼습니다.</p>
+
+<p>지금은 요건을 갖추면 <b>65세 이후에도 활동지원</b>을 신청할 수 있는 길이 열려 있습니다.</p>
+
+<p>다만 조건이 있으니 65세가 가까워지면 미리 주민센터에 상담을 받는 게 좋습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">중복이 안 되는 것</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">노인장기요양급여를 받고 있으면 <b style="color:#ff8a7a;">활동지원과 동시 이용이 제한</b>됩니다. 가사간병 방문지원 같은 <b style="color:#ffd97a;">유사 서비스</b>도 조정 대상이에요. 어느 쪽이 유리한지 주민센터에서 비교해달라고 하세요.</p>
+</div>
+
+<ul>
+<li><b>노인장기요양급여</b>와 동시 이용은 제한됩니다</li>
+<li>가사간병 방문지원 등 <b>유사 서비스</b>와도 조정이 필요합니다</li>
+<li>만 65세가 가까워지면 <b>미리 상담</b>을 받아두세요</li>
+</ul>
+
+<h2>결과가 마음에 안 들면</h2>
+
+<p>판정 구간이 예상보다 낮게 나올 수 있습니다. 이때는 <b>이의신청</b>을 할 수 있습니다.</p>
+
+<p>상태가 나빠졌다면 <b>갱신 신청</b>이나 재조사를 요청하는 방법도 있습니다.</p>
+
+<p>조사할 때 <b>평소 상태를 정확히</b> 알리는 게 중요합니다. 조사 당일 컨디션이 좋으면 실제보다 낮게 나올 수 있어요.</p>
+
+<p>진단서나 소견서, 평소 상황을 적은 메모를 준비해두면 도움이 됩니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>만 6세 이상 65세 미만 등록 장애인이 대상이다</p>
+<p>장애 등급이 아니라 서비스 지원 종합조사로 구간을 정한다</p>
+<p>급여는 현금이 아니라 바우처 시간으로 지급된다</p>
+<p>기초생활수급자는 본인부담금이 면제되고 그 외는 소득별로 낸다</p>
+<p>노인장기요양급여와는 동시 이용이 제한된다</p>
+</blockquote>
+
+<p>조사받는 날 평소 상태를 그대로 알리는 게 제일 중요합니다. 참고 견디는 걸 기준으로 말하면 손해예요.</p>
+
+<p>신청부터 이용까지 시간이 걸리니 필요하다 싶으면 바로 넣으세요. 미루면 그 기간만큼 손해지 뭐.</p>
+
+<p>구간별 급여량과 부담금 기준은 매년 조정되니 주민센터나 복지로에서 올해 기준을 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 장애인 활동지원서비스 대상: 만 6세 이상 만 65세 미만 등록 장애인 (장애 유형·등급 무관)
+ · 2019년 장애등급제 폐지 후 서비스 지원 종합조사로 급여량 결정
+ · 종합조사 항목: 기능 제한(일상생활 수행 능력), 사회활동, 가구 환경 등
+ · 국민연금공단이 방문 조사 수행, 심의 후 구간과 월 급여량 결정 통지
+ · 급여는 바우처(시간) 형태로 지급, 기본급여 + 추가급여(독거·출산·취약가구 등) 구조
+ · 본인부담금: 기초생활수급자 면제, 차상위 정액, 그 외 소득 수준별 정률 부담(상한 있음)
+ · 노인장기요양급여 수급 시 활동지원과 동시 이용 제한, 만 65세 도달 시 장기요양 전환이 원칙이나 요건 충족 시 활동지원 신청 가능
+ · 판정 결과에 대한 이의신청 및 갱신·재조사 신청 가능
+ · 신청: 주소지 읍면동 주민센터 (본인·가족·대리인)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 구간별 월 급여량(시간)과 본인부담금 금액·상한은 매년 보건복지부 고시로 정해져 수치를 적지 않았습니다
+ · 만 65세 이후 활동지원 신청 요건은 제도 변경 이력이 있어 "요건을 갖추면"으로만 적었습니다
+ · 지자체 추가 지원 시간은 지역별 편차가 커서 "지역마다 다름"으로 처리했습니다
+ · 추가급여 대상과 산정 방식은 항목이 세분되어 대표 사례만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "부모님 지인이 신청을 미루다 손해를 봤다"는 설정입니다

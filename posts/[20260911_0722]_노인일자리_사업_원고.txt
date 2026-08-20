@@ -1,0 +1,186 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 11일 07:22
+■ 제목: 노인일자리 사업 종류와 신청방법. 공익활동형 사회서비스형 차이 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 노인일자리, 공익활동형, 사회서비스형, 노인일자리여기, 시니어클럽
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260911_0722]_노인일자리_사업\
+   ├── 📄 [원고 파일]: [20260911_0722]_노인일자리_사업_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_seniorjob.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260911_0722]_노인일자리_사업_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_seniorjob.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>노인일자리 사업 종류와 신청방법. 공익활동형 사회서비스형 차이 정리</p>
+
+<h2>유형에 따라 활동 시간도 수당도 다릅니다</h2>
+
+<p>노인일자리 사업은 크게 <b>공익활동형, 사회서비스형, 시장형, 취업알선형</b>으로 나뉩니다. 어느 유형이냐에 따라 조건이 완전히 달라요.</p>
+
+<p>결론부터 말하면 <b>공익활동형</b>은 만 65세 이상 기초연금 수급자가 대상이고 활동 시간이 짧습니다. <b>사회서비스형</b>은 만 60세 이상이면 되고 시간과 수당이 더 큽니다.</p>
+
+<p>신청은 <b>복지로</b>나 주민센터, 시니어클럽에서 합니다. 모집은 보통 연말에 다음 해 인원을 뽑아요.</p>
+
+<p>아버지 일자리를 알아보다가 유형이 이렇게 갈리는 걸 알았거든요. 조건 맞는 걸 골라야지 아무거나 넣으면 떨어지더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#b0701c;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">노인일자리 4가지 유형</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:18px 16px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#b0701c;font-weight:800;margin-bottom:8px;">공익활동형</div>
+<div style="font-size:13px;color:#5a6672;line-height:1.85;">만 65세 이상<br />기초연금 수급자<br />월 30시간 내외<br />활동비 20만원대 후반</div>
+</div>
+<div style="flex:1 1 200px;padding:18px 16px;">
+<div style="font-size:13px;color:#1d7050;font-weight:800;margin-bottom:8px;">사회서비스형</div>
+<div style="font-size:13px;color:#3f5a4d;line-height:1.85;">만 60세 이상<br />기초연금과 무관<br />월 60시간 내외<br />수당 70만원대</div>
+</div>
+</div>
+<div style="display:flex;flex-wrap:wrap;background:#f5f7f8;border-top:1px solid #eef1f4;">
+<div style="flex:1 1 200px;padding:18px 16px;border-right:1px solid #e6e9ed;">
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:8px;">시장형 사업단</div>
+<div style="font-size:13px;color:#3f5060;line-height:1.85;">만 60세 이상<br />매장 운영·제조 판매<br />수익에 따라 배분<br />근로계약 형태</div>
+</div>
+<div style="flex:1 1 200px;padding:18px 16px;">
+<div style="font-size:13px;color:#55606c;font-weight:800;margin-bottom:8px;">취업알선형</div>
+<div style="font-size:13px;color:#5a6672;line-height:1.85;">만 60세 이상<br />민간 기업에 연계<br />일반 근로조건<br />급여는 사업장 기준</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>공익활동형</b>은 만 65세 이상 기초연금 수급자가 대상이고 월 30시간 내외입니다</li>
+<li><b>사회서비스형</b>은 만 60세 이상이면 되고 월 60시간 내외로 수당이 더 큽니다</li>
+<li><b>시장형과 취업알선형</b>은 실제 근로 형태에 가깝습니다</li>
+</ul>
+
+<h2>공익활동형이 가장 많습니다</h2>
+
+<p>전체 노인일자리에서 <b>비중이 가장 큰</b> 유형입니다. 그래서 경쟁도 있어요.</p>
+
+<p>하는 일은 학교 급식 도우미, 스쿨존 교통 지원, 환경 정화, 노노케어 같은 활동입니다.</p>
+
+<p>노노케어는 <b>어르신이 다른 어르신을 돌보는</b> 활동이에요. 홀로 사는 이웃을 방문해 안부를 확인합니다.</p>
+
+<p>활동비는 월 20만원대 후반 수준입니다. 큰돈은 아니지만 <b>기초연금과 별개</b>로 받는 거라 도움이 됩니다.</p>
+
+<h3>기초연금을 받고 있어야 합니다</h3>
+
+<p>공익활동형은 <b>기초연금 수급자</b>가 조건입니다. 이게 가장 큰 문턱이에요.</p>
+
+<p>기초연금을 안 받고 계시면 사회서비스형이나 시장형 쪽을 보셔야 합니다.</p>
+
+<h2>사회서비스형이 조건은 더 좋습니다</h2>
+
+<p>활동 시간이 두 배쯤 되는 대신 수당도 그만큼 큽니다. 월 70만원대예요.</p>
+
+<p>보육시설 보조, 장애인 시설 지원, 지역아동센터 도우미 같은 일을 합니다.</p>
+
+<p>기초연금 수급 여부를 안 봅니다. 만 <b>60세 이상</b>이면 신청할 수 있어요.</p>
+
+<p>다만 인원이 공익활동형보다 적어서 경쟁률이 높은 편입니다. 관련 경력이나 자격이 있으면 유리합니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 150px;background:#fdf4e8;border:1px solid #f5dfbe;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#55381a;">모집 공고 확인</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">보통 연말</div>
+</div>
+<div style="flex:1 1 150px;background:#fdf4e8;border:1px solid #f5dfbe;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#55381a;">신청서 접수</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">주민센터·복지로</div>
+</div>
+<div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">선발·배치</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">1월부터 활동</div>
+</div>
+</div>
+
+<ul>
+<li>모집 공고는 <b>연말에</b> 다음 해 인원을 대상으로 나옵니다</li>
+<li>주소지 <b>주민센터</b>나 복지로, 노인일자리 포털에서 신청합니다</li>
+<li>선발되면 보통 <b>1월부터</b> 활동을 시작합니다</li>
+</ul>
+
+<p>수행 기관이 지역마다 다릅니다. 시니어클럽, 노인복지관, 대한노인회 같은 곳에서 운영해요.</p>
+
+<p>어느 기관이 어떤 일자리를 맡는지는 지역별로 달라서 <b>주민센터에 물어보는 게</b> 가장 빠릅니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">확인할 것</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">국민기초생활수급자는 <b style="color:#ffd97a;">소득으로 잡혀</b> 급여가 조정될 수 있습니다. 그리고 <b style="color:#ff8a7a;">다른 정부 일자리 사업</b>과는 중복 참여가 제한돼요. 신청 전에 담당자에게 본인 상황을 말씀하고 확인받으세요.</p>
+</div>
+
+<ul>
+<li>기초생활수급자는 활동비가 <b>소득으로 반영</b>될 수 있습니다</li>
+<li>다른 <b>정부 일자리 사업</b>과 중복 참여가 제한됩니다</li>
+<li>건강 상태에 따라 <b>배치되는 활동</b>이 달라집니다</li>
+</ul>
+
+<h2>부모님께 권할 때 알아두면 좋은 것</h2>
+
+<p>돈보다 <b>규칙적인 활동</b>이 주는 효과를 말씀드리는 게 설득이 잘 됩니다.</p>
+
+<p>정해진 시간에 나가서 사람을 만나는 것 자체가 건강에 도움이 되거든요. 실제로 그래서 신청하시는 분들이 많더라고요.</p>
+
+<p>활동 중 사고를 대비한 <b>상해보험</b>이 적용되는 경우가 많습니다. 이 부분도 안심 요소예요.</p>
+
+<p>신청은 자녀가 대신 도와드려도 됩니다. 서류가 복잡하진 않은데 온라인은 어려워하시니까요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>공익활동형은 만 65세 이상 기초연금 수급자, 월 30시간 내외다</p>
+<p>사회서비스형은 만 60세 이상, 월 60시간 내외로 수당이 더 크다</p>
+<p>시장형과 취업알선형은 실제 근로에 가까운 형태다</p>
+<p>모집은 연말에 나오고 활동은 1월부터 시작한다</p>
+<p>다른 정부 일자리 사업과는 중복 참여가 제한된다</p>
+</blockquote>
+
+<p>지금은 다음 해 모집을 준비할 시기입니다. 어떤 유형이 맞는지 미리 봐두시면 좋아요.</p>
+
+<p>공고가 뜨면 금방 마감되는 곳도 있습니다. 미리 알아두면 그때 바로 넣을 수 있으니까...</p>
+
+<p>활동비와 모집 일정은 해마다 조정되니 주민센터나 노인일자리 포털에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처
+ · 노인일자리 유형: 공익활동형, 사회서비스형, 시장형 사업단, 취업알선형
+ · 공익활동형: 만 65세 이상 기초연금 수급자 대상, 월 30시간 내외
+ · 사회서비스형: 만 60세 이상, 월 60시간 내외
+ · 신청 경로: 주소지 주민센터, 복지로, 노인일자리 포털, 수행기관(시니어클럽·노인복지관 등)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 활동비·수당 금액은 "20만원대 후반", "70만원대"로만 적었습니다. 2026년 확정 단가는 확인이 필요합니다
+ · 모집 시기는 지자체·수행기관마다 달라 "보통 연말"로만 표기했습니다
+ · 기초생활수급자의 소득 반영 방식은 급여 종류별로 달라 단정하지 않았습니다
+ · 상해보험 적용 범위는 수행기관에 따라 다를 수 있습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아버지 일자리를 알아보다 유형 차이를 알았다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_seniorjob.html 저장 후
+  node make-art.cjs tc_seniorjob   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#fdf4e8,#f5dfbe);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#55381a;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#b0701c;color:#fff;border-radius:26px;padding:18px 30px;font-size:32px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">유형</span>4가지</div>
+<div style="align-self:flex-start;background:#b0701c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">중장년 지원</div>
+<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">노인일자리 사업<br /><span style="color:#b0701c;">유형부터 고르기</span></div>
+<div style="margin-top:28px;font-size:25px;color:#8a6636;font-weight:600;">조건 안 맞으면 신청해도 떨어집니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#b79a72;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

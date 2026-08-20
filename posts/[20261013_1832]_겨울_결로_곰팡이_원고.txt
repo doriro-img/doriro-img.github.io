@@ -1,0 +1,226 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 13일 18:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261013_1832]_겨울_결로_곰팡이\
+   ├── 📄 [원고 파일]: [20261013_1832]_겨울_결로_곰팡이_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-condensation.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261013_1832]_겨울_결로_곰팡이_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-condensation.html
+
+■ 제목: 겨울 결로 곰팡이 원인과 해결법. 실내 습도 기준과 임대인 책임 범위 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 겨울결로, 곰팡이제거, 실내적정습도, 이슬점, 벽지곰팡이, 임대인수선의무, 환기방법
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 결로 곰팡이 원인과 해결법. 실내 습도 기준과 임대인 책임 범위 정리</p>
+
+<h2>곰팡이는 습도가 아니라 온도 차이 문제입니다</h2>
+
+<p>겨울 결로는 <b>따뜻한 실내 공기가 차가운 벽면에 닿을 때</b> 생깁니다. 공기 중 수증기가 물방울로 맺히는 거예요.</p>
+
+<p>결론부터 말하면 <b>실내 습도를 40%에서 60% 사이</b>로 유지하고 <b>표면 온도를 올리는</b> 게 답입니다.</p>
+
+<p>습도만 낮춰서는 해결이 안 됩니다. 벽이 차가우면 낮은 습도에서도 물이 맺히거든요.</p>
+
+<p>가구를 벽에 딱 붙여놨더니 그 뒤가 온통 곰팡이였던 적이 있습니다. 공기가 안 도니까 그 자리만 차가워지더라고요.</p>
+
+<div style="border:1px solid #e2e6e8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">결로가 생기는 원리</div>
+<div style="background:#fafbfc;padding:22px 18px;">
+<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+<div style="flex:1 1 130px;text-align:center;background:#fff;border-radius:12px;padding:16px 10px;">
+<svg width="46" height="46" viewBox="0 0 46 46"><path d="M8 30c4-7 12-7 16 0s12 7 16 0" stroke="#e8934a" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M8 18c4-7 12-7 16 0s12 7 16 0" stroke="#e8934a" stroke-width="4" fill="none" stroke-linecap="round"/></svg>
+<div style="font-size:13px;font-weight:800;color:#1f5a76;margin-top:7px;">따뜻한 실내 공기</div>
+</div>
+<div style="font-size:22px;color:#9dbdcf;font-weight:800;">+</div>
+<div style="flex:1 1 130px;text-align:center;background:#fff;border-radius:12px;padding:16px 10px;">
+<svg width="46" height="46" viewBox="0 0 46 46"><rect x="10" y="6" width="26" height="34" rx="3" fill="#cfe0ea"/><path d="M23 10v26M14 15l18 16M32 15L14 31" stroke="#7fb0cd" stroke-width="2.6"/></svg>
+<div style="font-size:13px;font-weight:800;color:#1f5a76;margin-top:7px;">차가운 벽면</div>
+</div>
+<div style="font-size:22px;color:#9dbdcf;font-weight:800;">=</div>
+<div style="flex:1 1 130px;text-align:center;background:#2f6b8a;border-radius:12px;padding:16px 10px;">
+<svg width="46" height="46" viewBox="0 0 46 46"><path d="M23 8c7 10 11 15 11 21a11 11 0 01-22 0c0-6 4-11 11-21z" fill="#fff"/></svg>
+<div style="font-size:13px;font-weight:800;color:#fff;margin-top:7px;">결로 발생</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>결로는 <b>따뜻한 공기</b>가 <b>차가운 표면</b>에 닿을 때 생깁니다</li>
+<li>실내 습도는 <b>40~60%</b>가 적정 범위입니다</li>
+<li>습도를 낮추는 것만으로는 <b>해결되지 않습니다</b></li>
+</ul>
+
+<h2>어디에 잘 생기나요?</h2>
+
+<p>패턴이 정해져 있습니다. <b>북향 벽, 외벽과 맞닿은 모서리, 창틀 주변, 붙박이장 안쪽</b>이 단골입니다.</p>
+
+<p>공통점은 <b>공기가 안 돌고 표면이 차갑다</b>는 겁니다.</p>
+
+<p>가구를 벽에 붙여놓으면 그 뒤가 딱 그런 조건이 됩니다. <b>5cm에서 10cm</b>는 띄워두세요.</p>
+
+<h3>습도가 높아지는 원인</h3>
+
+<p>생각보다 실내에서 물이 많이 나옵니다.</p>
+
+<ul>
+<li>빨래 실내 건조</li>
+<li>요리와 물 끓이기</li>
+<li>욕실 사용 후 습기</li>
+<li>가습기 과다 사용</li>
+<li>사람의 호흡</li>
+</ul>
+
+<p>겨울에는 창문을 안 여니까 이 습기가 그대로 갇힙니다. 그래서 <b>환기</b>가 첫 번째 해법이에요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f7,#d9e6ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6b8a;margin-bottom:16px;">겨울 환기 요령</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">짧고 강하게</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">하루 두세 번, 5~10분씩</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">맞바람으로</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">마주보는 창을 함께</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">요리·샤워 직후</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">습기가 퍼지기 전에</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f5a76;">욕실 팬 오래</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">샤워 후 30분 이상</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>환기는 <b>짧고 강하게</b> 하는 게 열 손실이 적습니다</li>
+<li>마주보는 창을 함께 열어 <b>맞바람</b>을 만듭니다</li>
+<li>욕실 환풍기는 샤워 후 <b>30분 이상</b> 더 돌립니다</li>
+</ul>
+
+<h2>표면 온도를 올리는 방법</h2>
+
+<p>환기만으로 부족하면 <b>벽면 온도</b>를 올려야 합니다.</p>
+
+<p>가장 쉬운 건 <b>난방을 약하게라도 계속</b> 트는 겁니다. 껐다 켰다 하면 벽이 계속 차갑습니다.</p>
+
+<p>창문에 <b>단열 필름이나 뽁뽁이</b>를 붙이면 유리 표면 온도가 올라갑니다. 창틀 결로가 확 줄어요.</p>
+
+<p>외벽 쪽에 <b>단열 벽지</b>나 아이소핑크를 시공하는 방법도 있습니다. 근본적이지만 비용이 듭니다.</p>
+
+<p>난방을 약하게 계속 트는 쪽이 껐다 켰다 하는 것보다 가스비도 덜 나오더라고요.</p>
+
+<blockquote>
+<p>습도를 낮추고 + 표면 온도를 올린다</p>
+<p>둘 중 하나만 해서는 잘 안 잡힙니다</p>
+</blockquote>
+
+<h2>이미 생긴 곰팡이는 어떻게 없애나요?</h2>
+
+<p>표면만 닦으면 다시 올라옵니다. <b>포자가 안쪽에 남아</b> 있기 때문이에요.</p>
+
+<p>곰팡이 제거제를 뿌리고 <b>일정 시간 두었다가</b> 닦아냅니다. 바로 문지르면 포자가 공기 중에 퍼집니다.</p>
+
+<p>작업할 때 <b>마스크와 장갑</b>을 꼭 착용하세요. 환기도 반드시 해야 합니다.</p>
+
+<p>벽지 안쪽까지 번졌으면 <b>벽지를 뜯고</b> 곰팡이를 처리한 뒤 다시 발라야 합니다. 덧바르면 소용없어요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">하지 말아야 할 것</div><div style="flex:1;text-align:right;">이유</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">마른 상태로 문지르기</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#b8443a;">포자가 날립니다</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">곰팡이 위에 벽지 덧바르기</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#b8443a;">금방 다시 번집니다</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">가구를 벽에 밀착</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#b8443a;">공기가 안 돕니다</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">환기 없이 제거제 사용</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#b8443a;">호흡기에 해롭습니다</div>
+</div>
+</div>
+
+<ul>
+<li>마른 상태로 문지르면 <b>포자가 공기 중에 퍼집니다</b></li>
+<li>곰팡이 위에 <b>벽지를 덧바르면</b> 금방 다시 올라옵니다</li>
+<li>제거 작업 시 <b>마스크와 환기</b>는 필수입니다</li>
+</ul>
+
+<h2>전세라면 누가 고쳐야 하나요?</h2>
+
+<p>다툼이 많은 부분입니다. 기준은 <b>구조적 하자냐 생활 관리 문제냐</b>입니다.</p>
+
+<p>단열이 부실하거나 <b>누수</b> 때문이면 임대인이 고쳐야 합니다. 주요 설비를 유지할 의무가 있어서요.</p>
+
+<p>반대로 환기를 전혀 안 하거나 빨래를 계속 실내에서 말려 생긴 결로는 <b>임차인 관리 문제</b>로 봅니다.</p>
+
+<p>실제로는 두 요인이 섞인 경우가 많습니다. 그래서 <b>사진과 기록</b>이 중요합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">기록해두세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">곰팡이를 발견하면 <b style="color:#ffd97a;">날짜가 찍힌 사진</b>을 남기고 집주인에게 문자로 알리세요. 입주 초기부터 있었다면 <b style="color:#ff8a7a;">퇴거 시 원상복구 책임</b>에서 벗어날 근거가 됩니다. 말로만 하면 나중에 증명이 안 됩니다.</p>
+</div>
+
+<ul>
+<li>단열 부실이나 <b>누수</b>가 원인이면 임대인 책임입니다</li>
+<li>환기 부족 등 <b>관리 문제</b>면 임차인 책임이 될 수 있습니다</li>
+<li>발견 즉시 <b>사진과 문자</b>로 기록을 남기세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>결로는 따뜻한 공기가 차가운 표면에 닿아 생긴다</p>
+<p>실내 습도 40~60%를 유지하고 표면 온도를 함께 올려야 한다</p>
+<p>가구는 벽에서 5~10cm 띄우고 짧고 강하게 환기한다</p>
+<p>곰팡이는 제거제를 뿌려 불린 뒤 닦고 벽지는 뜯어 처리한다</p>
+<p>단열 하자는 임대인, 관리 부족은 임차인 책임이 원칙이다</p>
+</blockquote>
+
+<p>겨울 들어가기 전에 창틀 실리콘부터 한 번 보세요. 갈라져 있으면 거기서 찬 기운이 들어옵니다.</p>
+
+<p>저희는 뽁뽁이 붙이고 나서 창틀 물맺힘이 확 줄었습니다. 몇천원으로 이 정도면 남는 장사지.</p>
+
+<p>단열 시공이 필요한 수준이면 전문 업체에 진단을 받아보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 결로 발생 원리: 실내 수증기를 머금은 공기가 이슬점 이하의 차가운 표면에 닿아 응결
+ · 실내 적정 습도 40~60% (겨울철 권장 범위)
+ · 결로 취약 부위: 북향 벽, 외벽 접합 모서리, 창틀 주변, 붙박이장 내부 등 공기 순환이 없고 표면 온도가 낮은 곳
+ · 가구는 벽에서 5~10cm 이격 권장
+ · 겨울 환기: 짧고 강하게(하루 2~3회, 5~10분), 맞통풍 활용, 조리·샤워 직후 즉시 환기
+ · 곰팡이 제거: 제거제 도포 후 일정 시간 방치 뒤 제거, 마른 상태 마찰 시 포자 비산, 마스크·장갑·환기 필요
+ · 벽지 내부까지 번진 경우 벽지를 제거하고 처리 후 재시공
+ · 임대차 수선 책임: 단열 하자·누수 등 구조적 원인은 임대인, 환기 부족 등 관리 원인은 임차인이 원칙 (민법상 임대인 수선의무)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 결로·곰팡이의 책임 귀속은 원인 규명에 따라 달라지는 법률 판단 영역이라 원칙만 서술했습니다
+ · 환기 횟수·시간(2~3회, 5~10분)은 통상 권장 수준으로 주거 형태에 따라 다를 수 있습니다
+ · 곰팡이 제거제의 종류별 사용법은 제품 표시를 따라야 하므로 상세히 다루지 않았습니다
+ · 단열 시공 비용과 공법은 현장 조건에 따라 달라 언급하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "가구 뒤에 곰팡이가 생겼다", "뽁뽁이로 창틀 물맺힘이 줄었다"는 설정입니다

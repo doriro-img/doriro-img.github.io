@@ -1,0 +1,209 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 7일 18:36
+■ 제목: 자동차 명의이전 셀프로 하는 법. 15일 기한과 과태료, 자동차365 온라인 절차
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 자동차명의이전, 이전등록, 자동차365, 중고차명의이전, 이전등록과태료
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260907_1836]_자동차_명의이전\
+   ├── 📄 [원고 파일]: [20260907_1836]_자동차_명의이전_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_cartransfer.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260907_1836]_자동차_명의이전_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_cartransfer.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>자동차 명의이전 셀프로 하는 법. 15일 기한과 과태료, 자동차365 온라인 절차</p>
+
+<h2>소유권이 넘어간 날부터 15일입니다</h2>
+
+<p>자동차 명의이전은 차를 사거나 물려받은 날로부터 <b>15일 이내</b>에 끝내야 합니다. 이 기한이 핵심이에요.</p>
+
+<p>결론부터 말하면 넘기면 과태료가 붙고 <b>최대 50만원</b>까지 올라갑니다. 하루하루 늘어나는 구조라 미룰수록 손해입니다.</p>
+
+<p>매매상사를 끼지 않은 개인 거래라면 <b>자동차365</b>에서 온라인으로도 됩니다. 양쪽 다 공동인증서만 있으면 돼요.</p>
+
+<p>지인한테 차를 넘길 때 서로 바쁘다고 미루다가 2주가 훌쩍 갔거든요. 그때 알았습니다. 15일이 생각보다 짧더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a83a52;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">명의이전 기한과 과태료</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">기한</div>
+<div style="font-size:26px;font-weight:800;color:#1d7050;letter-spacing:-1px;">15일</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">소유권 이전일부터</div>
+</div>
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">지연되면</div>
+<div style="font-size:26px;font-weight:800;color:#9a6413;letter-spacing:-1px;">1일 1만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">계속 가산</div>
+</div>
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">상한</div>
+<div style="font-size:26px;font-weight:800;color:#cf4f43;letter-spacing:-1px;">50만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">최대 과태료</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>이전등록 기한은 소유권이 넘어간 날부터 <b>15일</b>입니다</li>
+<li>기한을 넘기면 지연 일수에 따라 <b>하루 1만원씩</b> 가산됩니다</li>
+<li>최대 <b>50만원</b>까지 부과됩니다</li>
+</ul>
+
+<h2>미루면 진짜 곤란해지는 이유</h2>
+
+<p>과태료보다 무서운 게 따로 있습니다. <b>차가 아직 판 사람 명의</b>라는 점이에요.</p>
+
+<p>그 상태에서 산 사람이 사고를 내면 판 사람에게 연락이 갑니다. 과속 단속이나 주차 위반 고지서도 마찬가지고요.</p>
+
+<p>자동차세도 <b>명의자에게</b> 부과됩니다. 이전이 안 됐으면 판 사람이 계속 냅니다.</p>
+
+<p>그래서 차를 파는 쪽이 더 급합니다. 사는 사람이 미루면 계속 재촉하셔야 해요.</p>
+
+<h2>온라인으로 하는 방법</h2>
+
+<p>자동차365 홈페이지에서 개인 간 거래는 온라인 이전등록이 가능합니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 130px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">매도인 신청</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">공동인증서</div>
+</div>
+<div style="flex:1 1 130px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">매수인 동의</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">양쪽 다 필요</div>
+</div>
+<div style="flex:1 1 130px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">세금 납부</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">취득세·인지대</div>
+</div>
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">등록증 발급</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">우편 수령</div>
+</div>
+</div>
+
+<ul>
+<li><b>자동차365</b>에서 매도인이 먼저 신청합니다</li>
+<li><b>매수인이 온라인으로 동의</b>해야 진행됩니다</li>
+<li>양쪽 모두 <b>공동인증서</b>가 있어야 합니다</li>
+</ul>
+
+<p>공동인증서가 없거나 어르신 거래면 온라인이 오히려 더 어렵습니다. 그럴 땐 구청에 가는 게 빠릅니다.</p>
+
+<h3>구청에서 하는 경우</h3>
+
+<p>차량등록사업소나 구청 차량등록 창구로 갑니다. 주소지 관할이 아니어도 되는 곳이 많아요.</p>
+
+<p>매수인 혼자 가도 됩니다. 매도인 서류만 제대로 받아두면요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">매도인에게 받을 것</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">자동차등록증<br />양도증명서 (인감 날인)<br />인감증명서 (자동차 매도용)<br />신분증 사본</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">매수인이 준비할 것</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">신분증<br />자동차보험 가입 증명<br />취득세 납부<br />공채 매입 (지역별)</div>
+</div>
+</div>
+
+<ul>
+<li>매도인에게 <b>자동차 매도용 인감증명서</b>를 꼭 받아야 합니다</li>
+<li>매수인은 <b>자동차보험</b>에 먼저 가입해야 등록이 됩니다</li>
+<li>취득세와 <b>지역개발채권</b> 매입이 함께 발생합니다</li>
+</ul>
+
+<p>보험을 안 들고 가면 그 자리에서 못 합니다. 요즘은 앱으로 즉시 가입되니 창구 앞에서라도 하시면 됩니다.</p>
+
+<h2>돈이 얼마나 드나</h2>
+
+<p>가장 큰 건 <b>취득세</b>입니다. 차량 가액 기준으로 붙고 승용차와 경차가 다릅니다.</p>
+
+<p>여기에 <b>지역개발채권</b>이 붙습니다. 매입하고 바로 되파는 방식이 일반적인데 그때 약간 손해가 납니다.</p>
+
+<p>등록 수수료와 인지대는 몇천원 수준이라 크지 않습니다.</p>
+
+<p>차량 가액을 실제보다 낮게 신고하는 경우가 있는데 <b>과세표준이 따로 정해져</b> 있어서 마음대로 안 됩니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이전 전에 확인</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">차에 <b style="color:#ff8a7a;">압류나 저당</b>이 걸려 있으면 이전이 안 됩니다. <b style="color:#ffd97a;">미납 과태료와 자동차세</b>도 정리돼 있어야 해요. 자동차365에서 차량번호로 <b style="color:#7ee0b0;">저당·압류 여부</b>를 미리 조회할 수 있습니다.</p>
+</div>
+
+<ul>
+<li><b>압류나 저당</b>이 설정돼 있으면 이전등록이 막힙니다</li>
+<li><b>미납 자동차세와 과태료</b>를 먼저 정리해야 합니다</li>
+<li>자동차365에서 <b>차량번호로 조회</b>해 미리 확인할 수 있습니다</li>
+</ul>
+
+<h2>가족끼리 넘길 때도 똑같습니다</h2>
+
+<p>부모 자식 사이라도 이전등록은 해야 합니다. 기한도 15일로 같고요.</p>
+
+<p>다만 <b>무상으로 넘기면 증여</b>가 됩니다. 차량 가액에 따라 증여세를 볼 수도 있어요.</p>
+
+<p>상속인 경우엔 기한이 다릅니다. 사망 후 정해진 기간 안에 상속 이전을 해야 하고 이것도 늦으면 과태료입니다.</p>
+
+<p>가족 거래라고 서류를 대충 하면 나중에 더 복잡해집니다. 양도증명서는 꼭 쓰세요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>이전등록 기한은 소유권 이전일부터 15일이다</p>
+<p>넘기면 하루 1만원씩 가산되어 최대 50만원까지 간다</p>
+<p>개인 거래는 자동차365에서 온라인으로 가능하다</p>
+<p>매도용 인감증명서와 자동차보험 가입이 필수다</p>
+<p>압류·저당이나 미납 세금이 있으면 이전이 막힌다</p>
+</blockquote>
+
+<p>차를 판 쪽이 더 챙기셔야 합니다. 이전이 안 되면 세금도 과태료도 계속 본인에게 옵니다.</p>
+
+<p>거래하는 날 바로 처리하는 게 제일 깔끔해요. 미루면 서로 연락도 잘 안 되고... 진짜 그렇더라고요.</p>
+
+<p>취득세율과 채권 매입 기준은 지역마다 다르니 관할 등록사업소에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 웹 확인)
+ · 이전등록 기한: 소유권 이전일로부터 15일 이내
+ · 기한 초과 시 지연 일수에 따라 가산, 최대 50만원
+ · 자동차365(car365.go.kr)에서 개인 간 온라인 이전등록 가능, 매도인·매수인 모두 공동인증서 필요
+ · 매수인은 자동차보험 가입 후 등록 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 지연 10일 이내 과태료 시작 금액이 자료마다 5만원/10만원으로 엇갈려 본문에 적지 않았습니다
+ · 취득세율·지역개발채권 매입률은 지역·차종별로 달라 금액을 적지 않았습니다
+ · 상속 이전등록 기한은 별도 규정이라 "정해진 기간"으로만 표기했습니다
+ · 가족 간 무상 이전의 증여세 과세 여부는 차량 가액에 따라 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "지인에게 차를 넘기며 2주를 넘길 뻔했다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_cartransfer.html 저장 후
+  node make-art.cjs tc_cartransfer   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#f9eef0,#ecd0d6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#4d2028;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#a83a52;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">최대 과태료</span>50만</div>
+<div style="align-self:flex-start;background:#a83a52;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">자동차</div>
+<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">명의이전 셀프<br /><span style="color:#a83a52;">15일 안에</span></div>
+<div style="margin-top:28px;font-size:25px;color:#8a5060;font-weight:600;">안 넘기면 세금이 계속 나에게 옵니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#b58794;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

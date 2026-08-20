@@ -1,0 +1,186 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 3일 18:22
+■ 제목: 자동차 정기검사 기간과 과태료. 전후 31일 놓치면 4만원부터 60만원까지
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 자동차정기검사, 자동차검사과태료, 자동차종합검사, 한국교통안전공단, 검사예약
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260903_1822]_자동차_정기검사\
+   ├── 📄 [원고 파일]: [20260903_1822]_자동차_정기검사_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_carinspect.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260903_1822]_자동차_정기검사_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_carinspect.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>자동차 정기검사 기간과 과태료. 전후 31일 놓치면 4만원부터 60만원까지</p>
+
+<h2>앞뒤로 31일씩, 62일이 열려 있습니다</h2>
+
+<p>자동차 정기검사는 <b>유효기간 만료일 전후 각각 31일 이내</b>에 받으면 됩니다. 합쳐서 62일짜리 창이에요.</p>
+
+<p>결론부터 말하면 이 62일 안에만 받으면 과태료가 없습니다. 넘기면 <b>4만원부터 시작</b>해서 최대 60만원까지 올라가고요.</p>
+
+<p>안내 우편이 오긴 하는데 이사했거나 우편함을 잘 안 보면 그냥 지나갑니다. 이게 제일 흔한 케이스예요.</p>
+
+<p>아내 차 검사 기간을 한 번 놓친 적이 있는데 며칠 늦었다고 4만원이 나오더라고요. 그 뒤로는 달력에 미리 넣어둡니다.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a83a52;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">검사 가능 기간과 과태료 시작점</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:8px;align-items:center;">
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:4px;">만료일 이전</div>
+<div style="font-size:19px;font-weight:800;color:#1d7050;letter-spacing:-0.6px;">31일</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">받아도 됨</div>
+</div>
+<div style="flex:1 1 130px;background:#fdf6e9;border:1px solid #f0dfc4;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#d4832f;margin-bottom:4px;">유효기간</div>
+<div style="font-size:19px;font-weight:800;color:#9a6413;letter-spacing:-0.6px;">만료일</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">기준점</div>
+</div>
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:4px;">만료일 이후</div>
+<div style="font-size:19px;font-weight:800;color:#1d7050;letter-spacing:-0.6px;">31일</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">여기까지 세이프</div>
+</div>
+<div style="flex:1 1 130px;background:#fdf3f1;border:1px solid #f0b8b1;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#cf4f43;margin-bottom:4px;">그 다음날부터</div>
+<div style="font-size:19px;font-weight:800;color:#b8463a;letter-spacing:-0.6px;">과태료</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">4만원 시작</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>검사 가능 기간은 <b>유효기간 만료일 전후 각 31일</b>, 총 62일입니다</li>
+<li>이 기간 안에 받으면 <b>과태료가 없습니다</b></li>
+<li>기간을 넘기면 <b>4만원</b>부터 과태료가 시작됩니다</li>
+</ul>
+
+<h2>3일마다 2만원씩 늘어납니다</h2>
+
+<p>과태료 구조가 좀 특이합니다. 한 번에 확 오르는 게 아니라 <b>3일 단위로</b> 계속 붙어요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:10px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f2f5f7;padding:11px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">기간 만료 후 경과일</div><div style="flex:1;text-align:right;">과태료</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:14px;font-weight:700;">30일 이내</div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#9a6413;">4만원</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:14px;font-weight:700;">31일째부터<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">3일마다 2만원 추가</span></div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#b8463a;">계속 증가</div>
+</div>
+<div style="display:flex;padding:13px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:14px;font-weight:700;">115일 경과<span style="display:block;font-size:11.5px;color:#8a929c;font-weight:500;margin-top:2px;">상한선</span></div>
+<div style="flex:1;text-align:right;font-size:15px;font-weight:800;color:#b8463a;">60만원</div>
+</div>
+</div>
+
+<ul>
+<li>검사 기간이 끝나고 <b>30일 이내</b>면 과태료는 4만원입니다</li>
+<li><b>31일째부터 3일마다 2만원</b>씩 추가로 붙습니다</li>
+<li><b>115일</b>이 지나면 상한인 <b>60만원</b>까지 올라갑니다</li>
+</ul>
+
+<p>넉 달을 방치하면 60만원입니다. 검사비가 몇만원인 걸 생각하면 아까운 돈이에요.</p>
+
+<p>더 미루면 <b>운행정지</b> 처분까지 갑니다. 그 상태에서 사고가 나면 보험에서도 불리해질 수 있고요.</p>
+
+<h2>내 차는 언제 받아야 하나</h2>
+
+<p>비사업용 승용차 기준으로 <b>신차 등록 후 4년</b>이 지나면 첫 검사입니다. 그 뒤로는 <b>2년마다</b>예요.</p>
+
+<p>차종과 용도에 따라 주기가 다릅니다. 승합차나 화물차는 더 짧고 사업용은 더 자주 받습니다.</p>
+
+<p>차령이 오래된 경유차는 <b>정기검사가 아니라 종합검사</b> 대상이 됩니다. 배출가스 정밀검사가 추가돼서 비용도 더 나옵니다.</p>
+
+<p>내 차가 어느 쪽인지는 자동차등록증이나 검사 안내문에 적혀 있습니다. 헷갈리면 예약할 때 물어보면 알려줘요.</p>
+
+<h3>공단이 쌀까 민간이 편할까</h3>
+
+<p>한국교통안전공단 직영 검사소가 <b>비용이 저렴합니다.</b> 대신 예약이 잘 안 잡히고 대기가 있어요.</p>
+
+<p>동네 지정정비사업소는 <b>가깝고 빠릅니다.</b> 카센터에서 하는 곳들이죠. 비용은 조금 더 나옵니다.</p>
+
+<p>여기서 한 가지 알아두실 게 있습니다. 민간 검사소는 정비까지 같이 권하는 경우가 많아요. 검사만 받고 싶으면 <b>검사만 받겠다</b>고 말하시면 됩니다.</p>
+
+<h2>가져갈 것과 확인할 것</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">가져갈 것</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">자동차등록증<br />신분증<br />검사 수수료<br />(예약했다면 예약번호)</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0dfc4;background:#fdf6e9;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#9a6413;margin-bottom:10px;">미리 확인할 것</div>
+<div style="font-size:13.5px;color:#6b5a45;line-height:1.9;">의무보험 가입 상태<br />전구 나간 등화<br />타이어 마모 상태<br />앞유리 균열</div>
+</div>
+</div>
+
+<ul>
+<li><b>자동차등록증</b>과 신분증, 검사 수수료를 챙깁니다</li>
+<li><b>의무보험</b>이 유효해야 검사를 받을 수 있습니다</li>
+<li>전구 하나 나간 걸로도 부적합이 나오니 <b>등화부터</b> 확인하세요</li>
+</ul>
+
+<p>전조등이나 브레이크등이 나간 채로 갔다가 부적합 받고 돌아오는 경우가 정말 많더라고요.</p>
+
+<h3>부적합이 나와도 다시 받으면 됩니다</h3>
+
+<p>부적합 판정이 나면 정비한 뒤 <b>재검사</b>를 받습니다. 정해진 기간 안에 다시 오면 수수료가 면제됩니다.</p>
+
+<p>다만 그 사이에 검사 기간이 지나가면 과태료는 그대로 붙습니다. 그래서 <b>기간 끝자락에 가는 게 위험</b>해요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이렇게 하면 편합니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">검사는 <b style="color:#7ee0b0;">만료일 전 31일 구간</b>에 받는 게 정답입니다. 부적합이 나와도 고쳐서 다시 올 시간이 남거든요. 예약은 <b style="color:#7ee0b0;">사이버검사소</b>에서 하고 안내 문자를 받아두면 놓칠 일이 없습니다.</p>
+</div>
+
+<ul>
+<li>가급적 <b>만료일 이전 31일</b> 안에 받으면 재검사 여유가 생깁니다</li>
+<li>예약은 <b>TS 사이버검사소</b>나 전화로 미리 잡습니다</li>
+<li>주소가 바뀌었으면 <b>자동차 등록 주소</b>도 같이 바꿔야 안내를 받습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>검사 기간은 유효기간 만료일 전후 각 31일, 총 62일이다</p>
+<p>넘기면 30일까지 4만원, 이후 3일마다 2만원씩 붙는다</p>
+<p>115일이 지나면 상한인 60만원이다</p>
+<p>비사업용 승용은 신차 4년 후 첫 검사, 이후 2년마다</p>
+<p>부적합 대비해서 만료일 전에 미리 받는 게 안전하다</p>
+</blockquote>
+
+<p>안 받고 버틴다고 없어지는 게 아니라 계속 불어납니다. 미루는 게 제일 비싼 선택이에요.</p>
+
+<p>차 안 쓰는 주말에 다녀오면 30분이면 끝납니다. 저는 연근이 태우고 드라이브 겸 다녀와요 ㅎㅎ</p>
+
+<p>내 차의 정확한 만료일은 자동차 민원 대국민포털이나 등록증에서 확인하시면 됩니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-20 웹 확인)
+ · 법정 검사 기간: 유효기간 만료일 전후 각 31일 이내(총 62일)
+ · 과태료: 기간 만료 후 30일 이내 4만원, 31일째부터 3일마다 2만원 추가, 최대 60만원
+ · 115일 경과 시 상한 60만원 도달
+ · 장기 미이행 시 운행정지 처분 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 검사 수수료 금액은 차종·검사 종류·검사소에 따라 달라 본문에 적지 않았습니다
+ · 종합검사 대상 차령·지역 기준은 대기관리권역에 따라 달라 "차령이 오래된 경유차"로만 썼습니다
+ · 재검사 무료 기간(통상 며칠 이내)은 검사소 안내에 따라 달라 일수를 적지 않았습니다
+ · 비사업용 승용 기준 "신차 4년 후 첫 검사, 이후 2년" 외 차종별 주기는 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아내 차 검사를 놓쳐 4만원을 냈다", "연근이 태우고 다녀온다"는 가정입니다

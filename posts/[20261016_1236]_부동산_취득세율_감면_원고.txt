@@ -1,0 +1,228 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 16일 12:36
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261016_1236]_부동산_취득세율_감면\
+   ├── 📄 [원고 파일]: [20261016_1236]_부동산_취득세율_감면_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-acqtax.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261016_1236]_부동산_취득세율_감면_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-acqtax.html
+
+■ 제목: 주택 취득세율 계산법과 생애최초 감면. 60일 신고기한 놓치면 가산세
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 주택취득세율, 생애최초취득세감면, 취득세60일, 다주택취득세, 농어촌특별세, 지방교육세, 1가구1주택
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주택 취득세율 계산법과 생애최초 감면. 60일 신고기한 놓치면 가산세</p>
+
+<h2>집값에 따라 세율이 계단으로 올라갑니다</h2>
+
+<p>주택 취득세는 <b>1주택자 기준으로 1%에서 3%</b> 사이입니다. 취득가액에 따라 달라져요.</p>
+
+<p>결론부터 말하면 <b>6억원 이하는 1%</b>, <b>9억원 초과는 3%</b>입니다. 그 사이 구간은 계산식으로 뽑습니다.</p>
+
+<p>신고 기한도 중요합니다. 잔금을 치른 날부터 <b>60일 이내</b>에 신고하고 내야 해요.</p>
+
+<p>집값만 준비하고 취득세를 계산에 안 넣었다가 당황하는 경우를 여럿 봤습니다. 생각보다 큰돈이더라고요.</p>
+
+<div style="border:1px solid #e3e0d8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7a5c2e;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">1주택 기준 취득세율</div>
+<div style="background:#fdfbf7;padding:22px 18px;">
+<div style="display:flex;align-items:flex-end;gap:14px;height:132px;">
+<div style="flex:1;text-align:center;">
+<div style="font-size:19px;font-weight:800;color:#5c4520;margin-bottom:6px;">1%</div>
+<div style="background:#dcc9a3;height:40px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12.5px;color:#6b5a3f;font-weight:700;margin-top:6px;">6억 이하</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:19px;font-weight:800;color:#5c4520;margin-bottom:6px;">1~3%</div>
+<div style="background:#c9ae82;height:76px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12.5px;color:#6b5a3f;font-weight:700;margin-top:6px;">6억~9억</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:19px;font-weight:800;color:#5c4520;margin-bottom:6px;">3%</div>
+<div style="background:#7a5c2e;height:114px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12.5px;color:#6b5a3f;font-weight:700;margin-top:6px;">9억 초과</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>취득가액 <b>6억원 이하</b>는 1%가 적용됩니다</li>
+<li><b>6억에서 9억</b> 구간은 계산식으로 세율이 정해집니다</li>
+<li><b>9억원 초과</b>는 3%입니다</li>
+</ul>
+
+<h2>취득세만 내는 게 아닙니다</h2>
+
+<p>여기에 <b>지방교육세</b>와 <b>농어촌특별세</b>가 따라붙습니다. 그래서 실제 부담이 더 큽니다.</p>
+
+<p>지방교육세는 취득세율에 연동되고, 농어촌특별세는 <b>전용면적 85제곱미터 초과</b>일 때 붙습니다.</p>
+
+<p>그러니까 <b>85제곱미터 이하</b>면 농어촌특별세가 없습니다. 국민주택 규모라 면제해주는 거예요.</p>
+
+<blockquote>
+<p>총 부담 = 취득세 + 지방교육세 + 농어촌특별세</p>
+<p>전용 85㎡ 이하면 농어촌특별세가 빠집니다</p>
+</blockquote>
+
+<h3>계산은 어디서 해보나요?</h3>
+
+<p><b>위택스</b>에 취득세 계산기가 있습니다. 취득가액과 면적, 주택 수를 넣으면 바로 나와요.</p>
+
+<p>지자체 홈페이지에도 계산기가 있는 경우가 많습니다. 미리 돌려보고 자금 계획을 세우세요.</p>
+
+<p>면적 하나 차이로 세금이 달라지는 게 눈에 보이더라고요.</p>
+
+<h2>다주택자는 세율이 확 뜁니다</h2>
+
+<p>주택 수와 조정대상지역 여부에 따라 세율이 <b>중과</b>됩니다.</p>
+
+<p>2주택부터 올라가고 3주택 이상이면 훨씬 높아집니다. 법인이 취득하는 경우도 중과 대상이고요.</p>
+
+<p>여기서 <b>주택 수 계산</b>이 관건입니다. 세대 기준으로 세고, 분양권과 입주권도 포함됩니다.</p>
+
+<p>일시적 2주택은 <b>기존 집을 정해진 기간 안에 팔면</b> 중과를 피할 수 있습니다.</p>
+
+<div style="background:linear-gradient(135deg,#faf5eb,#eee2cb);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#7a5c2e;margin-bottom:16px;">주택 수에 들어가는 것</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5c4520;">보유 주택</div>
+<div style="font-size:12px;color:#8a7a5e;margin-top:5px;line-height:1.7;">세대원 전체 합산</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5c4520;">분양권</div>
+<div style="font-size:12px;color:#8a7a5e;margin-top:5px;line-height:1.7;">취득 시점 기준 포함</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5c4520;">입주권</div>
+<div style="font-size:12px;color:#8a7a5e;margin-top:5px;line-height:1.7;">재개발·재건축</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#5c4520;">주거용 오피스텔</div>
+<div style="font-size:12px;color:#8a7a5e;margin-top:5px;line-height:1.7;">주택분 재산세 과세분</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>주택 수는 <b>세대 기준</b>으로 합산합니다</li>
+<li><b>분양권과 입주권</b>도 주택 수에 들어갑니다</li>
+<li>일시적 2주택은 <b>기한 내 처분</b>하면 중과를 피합니다</li>
+</ul>
+
+<h2>생애최초 감면을 챙기세요</h2>
+
+<p>생애 처음으로 집을 사는 경우 <b>취득세를 감면</b>받을 수 있습니다.</p>
+
+<p>본인과 배우자가 <b>주택을 소유한 적이 없어야</b> 합니다. 과거에 잠깐이라도 가졌으면 안 돼요.</p>
+
+<p>취득가액에 상한이 있고 감면 한도도 정해져 있습니다. 상속으로 잠깐 지분을 가진 경우 등 예외 규정도 있습니다.</p>
+
+<p>감면을 받으면 <b>실거주 의무</b>가 따라옵니다. 정해진 기간 안에 들어가 살아야 하고 일정 기간 팔면 안 됩니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4f1ea;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6a55;">
+<div style="flex:1.5;">감면 유형</div><div style="flex:1;text-align:right;">주요 조건</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">생애최초 주택</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">무주택 이력, 가액 상한</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;background:#fdfbf7;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">출산·양육 가구</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">자녀 출생 요건</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">서민주택</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">면적·가액 기준</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;background:#fdfbf7;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">공통 사후 의무</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">실거주·처분 제한</div>
+</div>
+</div>
+
+<ul>
+<li>생애최초 감면은 <b>본인과 배우자 모두 무주택</b>이어야 합니다</li>
+<li>감면 후 <b>실거주 의무</b>와 처분 제한이 따라옵니다</li>
+<li>의무를 어기면 <b>감면받은 세액이 추징</b>됩니다</li>
+</ul>
+
+<h3>추징을 조심하세요</h3>
+
+<p>감면을 받고 <b>정해진 기간 안에 입주하지 않으면</b> 세금을 다시 냅니다.</p>
+
+<p>중간에 팔거나 임대를 놓아도 마찬가지입니다. 조건을 지킬 수 있는지 먼저 따져보세요.</p>
+
+<h2>60일을 넘기면 가산세가 붙습니다</h2>
+
+<p>취득일로부터 <b>60일 이내</b>에 신고하고 납부해야 합니다. 상속은 기한이 다릅니다.</p>
+
+<p>기한을 넘기면 <b>무신고 가산세</b>와 <b>납부지연 가산세</b>가 붙습니다.</p>
+
+<p>등기를 하려면 취득세 납부 영수증이 필요해서, 실무적으로는 <b>등기 전에</b> 처리하게 됩니다.</p>
+
+<p>법무사에게 등기를 맡기면 취득세 신고도 함께 해주는 경우가 많습니다. 확인해보세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">자금 계획에 넣으세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">집을 살 때는 취득세 말고도 <b style="color:#ffd97a;">중개보수, 법무사 비용, 국민주택채권</b>이 나갑니다. 대출을 받으면 <b style="color:#ff8a7a;">인지세와 근저당 설정비</b>도 붙고요. 매매가의 몇 퍼센트는 별도로 준비해두는 게 안전합니다.</p>
+</div>
+
+<ul>
+<li>취득일로부터 <b>60일 이내</b>에 신고·납부해야 합니다</li>
+<li>기한을 넘기면 <b>가산세</b>가 부과됩니다</li>
+<li>중개보수와 <b>법무사 비용</b> 등 부대비용도 미리 계산하세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>1주택 기준 취득세율은 6억 이하 1%, 9억 초과 3%다</p>
+<p>지방교육세가 함께 붙고 전용 85㎡ 초과면 농어촌특별세가 추가된다</p>
+<p>주택 수는 세대 기준이며 분양권과 입주권도 포함된다</p>
+<p>생애최초 감면은 무주택 이력이 필요하고 실거주 의무가 따른다</p>
+<p>취득일로부터 60일 이내에 신고하지 않으면 가산세가 붙는다</p>
+</blockquote>
+
+<p>계약 전에 위택스 계산기로 한 번 돌려보세요. 자금 계획이 훨씬 정확해집니다.</p>
+
+<p>감면 조건이 되는데 모르고 그냥 낸 경우도 있습니다. 그건 진짜 아깝지.</p>
+
+<p>세율과 감면 요건은 개정이 잦으니 계약 전에 관할 지자체나 세무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 주택 유상취득 취득세율(1주택 기준): 취득가액 6억원 이하 1%, 6억 초과~9억 이하 구간은 산식에 따라 1~3% 사이, 9억원 초과 3%
+ · 부가세목: 지방교육세(취득세율 연동), 농어촌특별세(전용면적 85㎡ 초과 시 부과, 85㎡ 이하는 비과세)
+ · 다주택·법인 취득 시 중과세율 적용, 조정대상지역 여부와 주택 수에 따라 차등
+ · 주택 수 산정: 세대 기준 합산, 분양권·입주권·주거용 오피스텔(주택분 재산세 과세분) 포함
+ · 일시적 2주택은 종전 주택을 기한 내 처분 시 중과 배제
+ · 생애최초 주택 취득세 감면: 본인·배우자 무주택 요건, 취득가액 상한 및 감면 한도, 실거주 의무와 처분 제한(위반 시 추징)
+ · 신고·납부 기한: 취득일부터 60일 이내 (상속은 별도 기한)
+ · 기한 경과 시 무신고 가산세 및 납부지연 가산세
+ · 취득세 계산: 위택스 취득세 계산기
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 6억~9억 구간 세율 산식과 다주택 중과세율은 개정 이력이 잦아 구체 수치를 적지 않았습니다.
+   발행 전 반드시 최신 지방세법 확인
+ · 생애최초 감면의 취득가액 상한·감면 한도·실거주 기한은 개정되어 수치를 넣지 않았습니다
+ · 일시적 2주택의 종전 주택 처분 기한은 지역·시기별로 달라 기간을 적지 않았습니다
+ · 조정대상지역 지정 현황은 수시로 변경되어 언급하지 않았습니다
+ · 출산·양육 가구 감면과 서민주택 감면의 세부 요건은 별도 규정이 있어 항목만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "취득세를 계산에 안 넣었다가 당황하는 경우를 봤다"는 일반적 관찰로 적었습니다

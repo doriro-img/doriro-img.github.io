@@ -1,0 +1,219 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 29일 18:34
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261029_1834]_노인_낙상예방\
+   ├── 📄 [원고 파일]: [20261029_1834]_노인_낙상예방_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-fallprevent.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261029_1834]_노인_낙상예방_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-fallprevent.html
+
+■ 제목: 어르신 낙상 예방 집안 점검. 화장실과 문턱이 위험한 이유
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 노인낙상예방, 욕실안전손잡이, 문턱제거, 미끄럼방지매트, 복지용구지원, 고관절골절, 겨울빙판
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>어르신 낙상 예방 집안 점검. 화장실과 문턱이 위험한 이유</p>
+
+<h2>사고는 대부분 집 안에서 납니다</h2>
+
+<p>어르신 낙상은 밖에서보다 <b>집 안</b>에서 더 많이 일어납니다. 익숙한 공간이라 방심하거든요.</p>
+
+<p>결론부터 말하면 <b>화장실, 문턱, 계단</b> 이 세 곳만 손봐도 위험이 크게 줄어듭니다.</p>
+
+<p>낙상은 단순한 넘어짐이 아닙니다. <b>고관절 골절</b>로 이어지면 회복이 정말 어려워요.</p>
+
+<p>겨울에는 빙판까지 더해져 사고가 늘더라고요. 미리 점검해두는 게 최선입니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5d7c;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">집 안 위험 구역</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">화장실</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">물기와 좁은 공간</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">문턱·현관</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">발이 걸립니다</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">계단</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">난간과 조명이 관건</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">침실 동선</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">밤에 화장실 갈 때</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>화장실</b>은 물기와 좁은 공간 때문에 가장 위험합니다</li>
+<li><b>문턱</b>은 발이 걸려 넘어지는 흔한 원인입니다</li>
+<li>밤에 <b>화장실 가는 동선</b>에서 사고가 많이 납니다</li>
+</ul>
+
+<h2>화장실부터 손보세요</h2>
+
+<p><b>안전 손잡이</b>를 다는 게 첫 번째입니다. 변기 옆과 샤워 공간에 하나씩 답니다.</p>
+
+<p>바닥에는 <b>미끄럼 방지 매트</b>를 깝니다. 물기가 잘 빠지는 재질이 좋습니다.</p>
+
+<p>욕조가 있으면 넘어 들어가는 동작이 위험합니다. <b>샤워 의자</b>를 두면 안정적이에요.</p>
+
+<p>문턱이 있으면 물이 넘치지 않게 하는 대신 발이 걸립니다. <b>낮은 문턱</b>으로 바꾸거나 경사판을 놓습니다.</p>
+
+<blockquote>
+<p>손잡이 + 미끄럼 방지 + 샤워 의자</p>
+<p>이 세 가지만 해도 화장실 사고가 크게 줄어듭니다</p>
+</blockquote>
+
+<h3>야간 조명이 중요합니다</h3>
+
+<p>밤에 화장실 가다가 넘어지는 경우가 많습니다. <b>어두워서</b> 그렇습니다.</p>
+
+<p>침실에서 화장실까지 <b>동작 감지등</b>을 놓으세요. 발밑을 비추는 낮은 조명이 좋습니다.</p>
+
+<p>스위치를 찾느라 벽을 더듬는 동안 사고가 납니다. <b>자동으로 켜지게</b> 하는 게 안전해요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f8,#dae6ef);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5d7c;margin-bottom:16px;">집 안 점검 목록</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">전선 정리</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">바닥에 늘어진 선</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">러그 고정</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">가장자리가 들리면 위험</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">자주 쓰는 물건</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">손 닿는 높이에</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:15px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">실내화</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">뒤가 막힌 것으로</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>바닥에 늘어진 <b>전선</b>은 벽쪽으로 정리합니다</li>
+<li>러그는 <b>미끄럼 방지 테이프</b>로 고정합니다</li>
+<li>높은 곳의 물건을 내리려다 사고가 나니 <b>손 닿는 높이</b>로 옮기세요</li>
+</ul>
+
+<h2>몸 상태도 원인입니다</h2>
+
+<p>집만 고쳐서 되는 게 아닙니다. <b>근력과 균형</b>이 떨어지면 넘어지기 쉬워요.</p>
+
+<p>가벼운 <b>하지 근력 운동</b>과 균형 운동이 도움이 됩니다. 보건소 프로그램을 활용하세요.</p>
+
+<p>시력도 봐야 합니다. <b>백내장</b>이나 안경 도수가 안 맞으면 위험이 커집니다.</p>
+
+<p>어지럼증을 일으키는 <b>약</b>도 원인이 됩니다. 여러 약을 함께 드시면 의사와 상의하세요.</p>
+
+<h3>골밀도를 확인하세요</h3>
+
+<p>같은 충격이어도 <b>뼈가 약하면</b> 골절로 이어집니다.</p>
+
+<p>골다공증은 증상이 없어서 <b>검사를 해야</b> 압니다. 국가건강검진 항목에 포함되는 연령대가 있어요.</p>
+
+<p>진단을 받으면 치료와 함께 <b>칼슘·비타민D</b> 관리를 병행합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">위험 요인</div><div style="flex:1;text-align:right;">대응</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">근력·균형 저하</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">보건소 운동 프로그램</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">시력 저하</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">안과 검진·도수 조정</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">약물 부작용</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">복용 약 점검</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">골다공증</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">골밀도 검사</div>
+</div>
+</div>
+
+<ul>
+<li><b>하지 근력</b>과 균형 운동이 낙상 위험을 줄입니다</li>
+<li>어지럼증을 일으키는 <b>약물</b>은 의사와 상의해 조정합니다</li>
+<li><b>골밀도 검사</b>로 골다공증 여부를 확인하세요</li>
+</ul>
+
+<h2>지원받을 수 있는 물품</h2>
+
+<p>장기요양등급이 있으면 <b>복지용구</b>를 지원받을 수 있습니다.</p>
+
+<p>안전 손잡이, <b>미끄럼 방지 용품</b>, 지팡이, 보행기 등이 대상입니다.</p>
+
+<p>연간 한도 안에서 <b>구입하거나 대여</b>합니다. 본인부담이 크지 않아요.</p>
+
+<p>등급이 없어도 지자체가 <b>주거 개선 사업</b>으로 손잡이 설치를 지원하는 경우가 있습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">넘어졌다면</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">넘어진 뒤 <b style="color:#ff8a7a;">일어설 수 없거나 통증이 심하면</b> 억지로 움직이지 말고 119를 부르세요. 고관절 골절은 <b style="color:#ffd97a;">겉으로 멀쩡해 보여도</b> 있을 수 있습니다. 참고 지내다 늦게 발견되는 경우가 많습니다.</p>
+</div>
+
+<ul>
+<li>장기요양등급이 있으면 <b>복지용구</b>를 지원받습니다</li>
+<li>등급이 없어도 지자체 <b>주거 개선 사업</b>이 있을 수 있습니다</li>
+<li>넘어진 뒤 통증이 심하면 <b>움직이지 말고</b> 119를 부르세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>어르신 낙상은 밖보다 집 안에서 더 많이 발생한다</p>
+<p>화장실 손잡이와 미끄럼 방지가 가장 효과가 크다</p>
+<p>밤에 화장실 가는 동선에 동작 감지등을 놓는다</p>
+<p>근력·균형 저하와 시력, 약물도 낙상의 원인이다</p>
+<p>장기요양등급이 있으면 복지용구로 안전용품을 지원받는다</p>
+</blockquote>
+
+<p>손잡이 하나 다는 데 몇만원이면 됩니다. 골절 치료비와 비교가 안 되죠.</p>
+
+<p>부모님 댁에 가시면 화장실부터 한 번 둘러보세요. 눈에 보이는 게 꽤 있더라고요.</p>
+
+<p>복지용구 지원 범위와 지자체 사업은 지역마다 다르니 주민센터에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 노인 낙상은 가정 내에서 발생하는 비중이 높으며 화장실·욕실, 문턱·현관, 계단, 야간 이동 동선이 주요 위험 구역
+ · 예방 조치: 욕실 안전 손잡이 설치, 미끄럼 방지 매트, 샤워 의자, 문턱 제거 또는 경사판, 야간 동작 감지 조명
+ · 실내 위험 요인: 바닥에 늘어진 전선, 고정되지 않은 러그, 높은 곳 수납, 뒤가 트인 실내화
+ · 신체 요인: 하지 근력·균형 능력 저하, 시력 저하(백내장·부적합 안경), 어지럼증 유발 약물 복용
+ · 골다공증은 증상이 없어 골밀도 검사로 확인하며 국가건강검진에 해당 연령대 항목 포함
+ · 노인장기요양보험 등급 보유 시 복지용구(안전손잡이·미끄럼방지용품·지팡이·보행기 등) 구입·대여 지원, 연간 한도 적용
+ · 지자체별로 취약계층 주거 안전 개선(손잡이 설치 등) 사업 운영
+ · 고관절 골절은 외견상 이상이 없어도 발생할 수 있어 통증 시 무리한 이동을 피하고 119 신고 권장
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 복지용구 연간 한도액과 본인부담률은 매년 조정되어 수치를 적지 않았습니다
+ · 국가건강검진의 골밀도 검사 대상 연령은 규정이 있어 구체 나이를 적지 않았습니다
+ · 지자체 주거 안전 개선 사업의 대상과 지원 범위는 지역별로 달라 문의로 안내했습니다
+ · 약물과 어지럼증의 인과관계는 의료 판단 영역이라 의사 상의를 권고했습니다
+ · 안전용품 가격은 제품별로 달라 "몇만원"으로만 표현했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "부모님 댁 화장실을 둘러보면 보이는 게 있다"는 설정입니다

@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 10일 18:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261010_1838]_무인민원발급기\
+   ├── 📄 [원고 파일]: [20261010_1838]_무인민원발급기_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-kiosk.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261010_1838]_무인민원발급기_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-kiosk.html
+
+■ 제목: 무인민원발급기 발급 가능 서류와 위치 찾는 법. 주말에 서류 떼는 방법
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 무인민원발급기, 주말서류발급, 등본무인발급, 정부24위치찾기, 가족관계증명서발급, 지문인식발급, 무인발급수수료
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>무인민원발급기 발급 가능 서류와 위치 찾는 법. 주말에 서류 떼는 방법</p>
+
+<h2>주민센터 문 닫아도 서류가 나옵니다</h2>
+
+<p>무인민원발급기는 주민센터가 문을 닫은 <b>주말과 야간에도</b> 각종 증명서를 뽑을 수 있는 기계입니다.</p>
+
+<p>결론부터 말하면 <b>주민등록등본, 초본, 가족관계증명서, 토지대장</b> 같은 자주 쓰는 서류가 대부분 나옵니다.</p>
+
+<p>수수료도 창구보다 <b>쌉니다.</b> 지자체에 따라 아예 무료인 곳도 있어요.</p>
+
+<p>연휴 앞두고 급하게 서류가 필요할 때 이걸 몰라서 며칠 기다리는 분들이 있더라고요. 지하철역에도 있는데 말이죠.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5d7c;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">이런 서류가 나옵니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:11px;padding:14px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">주민등록 등본·초본</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:4px;">가장 많이 쓰는 서류</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:11px;padding:14px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">가족관계증명서</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:4px;">혼인·기본증명서도</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:11px;padding:14px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">토지·건축물대장</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:4px;">부동산 관련</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:11px;padding:14px 12px;">
+<div style="font-size:13.5px;font-weight:800;color:#1a3a4f;">지방세 납세증명</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:4px;">세목별 과세증명도</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>주민등록 등본과 초본</b>이 가장 많이 발급되는 서류입니다</li>
+<li><b>가족관계증명서</b>와 기본·혼인관계증명서도 발급됩니다</li>
+<li>토지대장과 <b>지방세 납세증명</b> 같은 서류도 나옵니다</li>
+</ul>
+
+<h2>어떻게 본인 확인을 하나요?</h2>
+
+<p>가장 흔한 방식이 <b>지문 인식</b>입니다. 주민등록증을 발급받을 때 등록한 지문과 대조해요.</p>
+
+<p>손이 건조하거나 지문이 닳으면 인식이 안 될 수 있습니다. 이럴 땐 손을 살짝 문지르고 다시 대보세요.</p>
+
+<p>기계에 따라 <b>주민등록증 투입</b>이나 <b>모바일 신분증</b>을 지원하기도 합니다.</p>
+
+<h3>지문 인식이 계속 안 되면</h3>
+
+<p>여러 손가락을 바꿔가며 해보세요. 등록된 지문이 여러 개일 수 있습니다.</p>
+
+<p>그래도 안 되면 주민센터에서 <b>지문을 다시 등록</b>해야 합니다. 이건 창구에서만 됩니다.</p>
+
+<p>만 17세 미만은 주민등록증이 없어서 이용이 제한됩니다. 보호자가 대신 떼야 해요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f8,#dae6ef);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5d7c;margin-bottom:16px;">발급 순서는 이렇습니다</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#1a3a4f;margin-top:5px;">서류 선택</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">화면에서 고르기</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#1a3a4f;margin-top:5px;">본인 확인</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">지문 또는 신분증</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#1a3a4f;margin-top:5px;">항목 선택</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">주민번호 표시 여부</div>
+</div>
+<div style="flex:1 1 140px;background:#2f5d7c;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#a9cbe0;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">결제와 출력</div>
+<div style="font-size:11.5px;color:#a9cbe0;margin-top:4px;">현금·카드</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>본인 확인은 <b>지문 인식</b>이 기본이고 신분증 투입 방식도 있습니다</li>
+<li>발급 항목에서 <b>주민등록번호 표시 여부</b>를 반드시 확인하세요</li>
+<li>결제는 <b>현금과 카드</b> 모두 되는 기계가 많습니다</li>
+</ul>
+
+<h2>주민등록번호 표시를 잘못 고르면 다시 떼야 합니다</h2>
+
+<p>이게 실수가 제일 많은 부분입니다. 제출처에 따라 <b>뒷자리 표시</b>가 필요한 곳과 아닌 곳이 갈립니다.</p>
+
+<p>은행이나 관공서 제출용은 대개 <b>전체 표시</b>가 필요합니다. 반대로 회사 제출용은 가리는 게 안전하고요.</p>
+
+<p>어디에 낼지 미리 확인하고 고르세요. 잘못 뽑으면 수수료를 또 내야 합니다.</p>
+
+<p>세대주와의 관계, 과거 주소 이력 표시 여부도 함께 물어봅니다. 필요한 항목을 미리 알아두면 편합니다.</p>
+
+<h2>어디에 있는지 찾는 법</h2>
+
+<p>주민센터 안에만 있는 게 아닙니다. <b>지하철역, 대형마트, 병원, 구청</b> 로비에도 설치돼 있어요.</p>
+
+<p>위치는 <b>정부24</b>에서 검색합니다. 지역을 넣으면 설치 장소와 운영 시간이 나옵니다.</p>
+
+<p>운영 시간이 장소마다 다릅니다. 지하철역은 늦게까지 열려 있고 관공서 안에 있는 건 건물 개방 시간을 따릅니다.</p>
+
+<p>같은 구 안에서도 운영 시간이 제각각이더라고요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">방법</div><div style="flex:1;text-align:center;">비용</div><div style="flex:1;text-align:right;">특징</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">정부24 온라인</div>
+<div style="flex:1;text-align:center;font-size:13px;font-weight:800;color:#1d7050;">무료 많음</div>
+<div style="flex:1;text-align:right;font-size:12.5px;color:#6b7885;">집에서 출력</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">무인민원발급기</div>
+<div style="flex:1;text-align:center;font-size:13px;font-weight:800;color:#2f6fb0;">저렴</div>
+<div style="flex:1;text-align:right;font-size:12.5px;color:#6b7885;">주말·야간 가능</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">주민센터 창구</div>
+<div style="flex:1;text-align:center;font-size:13px;font-weight:800;color:#9a6413;">보통</div>
+<div style="flex:1;text-align:right;font-size:12.5px;color:#6b7885;">평일 낮만</div>
+</div>
+</div>
+
+<ul>
+<li>집에 프린터가 있으면 <b>정부24 온라인</b>이 가장 싸고 편합니다</li>
+<li>프린터가 없거나 <b>주말</b>이면 무인민원발급기가 답입니다</li>
+<li>위치와 운영 시간은 <b>정부24</b>에서 검색할 수 있습니다</li>
+</ul>
+
+<h3>온라인으로 안 되는 서류도 있습니다</h3>
+
+<p>정부24에서 다 되는 건 아닙니다. <b>인감증명서</b>처럼 별도 절차가 필요한 서류가 있어요.</p>
+
+<p>또 온라인 발급은 <b>프린터</b>가 있어야 합니다. 없으면 결국 기계나 창구로 가야 하고요.</p>
+
+<p>제출처가 <b>관인이 찍힌 원본</b>을 요구하는 경우도 있습니다. 미리 확인하세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">연휴 전에</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">긴 연휴에는 <b style="color:#ff8a7a;">관공서 안에 있는 기계</b>도 같이 문을 닫습니다. 건물이 잠기니까요. 연휴에 서류가 필요하면 <b style="color:#ffd97a;">지하철역이나 24시간 운영 장소</b>를 미리 찾아두세요.</p>
+</div>
+
+<ul>
+<li>관공서 안에 있는 기계는 <b>건물 개방 시간</b>을 따릅니다</li>
+<li>연휴에는 <b>지하철역이나 상시 개방 장소</b>를 미리 확인해두세요</li>
+<li>제출처가 <b>원본</b>을 요구하는지 먼저 물어보는 게 안전합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>주민등록 등본·초본, 가족관계증명서, 대장류가 발급된다</p>
+<p>본인 확인은 지문 인식이 기본이고 창구보다 수수료가 싸다</p>
+<p>주민등록번호 표시 여부를 잘못 고르면 다시 떼야 한다</p>
+<p>위치와 운영 시간은 정부24에서 검색한다</p>
+<p>인감증명서 등 일부 서류는 온라인이나 기계로 안 되는 것이 있다</p>
+</blockquote>
+
+<p>급할 때 이걸 알고 있으면 하루를 벌 수 있습니다. 집 근처 위치를 한 번 찾아두세요.</p>
+
+<p>저는 지하철역에 있는 걸 알고 나서 주민센터 갈 일이 확 줄었거든요. 진작 알걸 그랬지.</p>
+
+<p>발급 가능 서류와 수수료는 지자체마다 조금씩 다르니 정부24에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 무인민원발급기: 주민센터 외 지하철역·대형마트·병원·관공서 로비 등에 설치, 주말·야간 이용 가능
+ · 주요 발급 서류: 주민등록 등본·초본, 가족관계·기본·혼인관계증명서, 토지대장·건축물대장, 지방세 납세증명·세목별 과세증명 등
+ · 본인 확인: 지문 인식(주민등록증 발급 시 등록한 지문), 기기에 따라 신분증 투입·모바일 신분증 지원
+ · 수수료는 창구보다 저렴하며 지자체에 따라 면제 운영
+ · 발급 시 주민등록번호 표시 여부, 세대주 관계·과거 주소 표시 여부를 선택
+ · 설치 위치와 운영 시간은 정부24에서 검색 가능
+ · 인감증명서 등 일부 서류는 온라인 발급이 제한됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 발급 가능 서류 목록과 수수료는 지자체·기기별로 달라 대표 항목만 적고 금액을 넣지 않았습니다
+ · 만 17세 미만 이용 제한은 주민등록증 미발급에 따른 것으로, 기기별 대체 인증 지원 여부는 확인이 필요합니다
+ · 모바일 신분증 지원 여부는 기기 보급 상황에 따라 달라 "기계에 따라"로 적었습니다
+ · 인감증명서의 온라인 발급 가능 범위는 제도 변경 이력이 있어 상세히 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "지하철역에 있는 걸 알고 나서 주민센터 갈 일이 줄었다"는 설정입니다

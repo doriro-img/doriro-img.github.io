@@ -1,0 +1,213 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 17일 18:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261017_1842]_장기수선충당금_반환\
+   ├── 📄 [원고 파일]: [20261017_1842]_장기수선충당금_반환_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-repairfund.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261017_1842]_장기수선충당금_반환_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-repairfund.html
+
+■ 제목: 장기수선충당금 세입자가 돌려받는 법. 이사할 때 놓치면 10년 안에 청구
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 장기수선충당금, 장기수선충당금반환, 세입자관리비, 수선유지비차이, 이사정산, 공동주택관리법, 관리비내역
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>장기수선충당금 세입자가 돌려받는 법. 이사할 때 놓치면 10년 안에 청구</p>
+
+<h2>매달 낸 그 돈, 원래 집주인 몫입니다</h2>
+
+<p>장기수선충당금은 아파트의 <b>큰 수선 공사</b>에 쓰려고 미리 적립하는 돈입니다. 관리비 고지서에 항목으로 찍혀 있어요.</p>
+
+<p>결론부터 말하면 이 돈은 <b>소유자가 낼 돈</b>입니다. 세입자는 이사할 때 돌려받을 수 있어요.</p>
+
+<p>매달 몇천원에서 몇만원씩이라도 <b>2년이면 수십만원</b>이 됩니다. 그냥 두면 그대로 손해예요.</p>
+
+<p>이걸 모르고 그냥 이사 나가는 분이 정말 많더라고요. 알려주는 사람이 없으니까요.</p>
+
+<div style="border:1px solid #e2e6e8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">누가 부담하는 돈인가</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;">
+<div style="font-size:12.5px;color:#1f5a76;font-weight:800;margin-bottom:10px;">장기수선충당금</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">건물의 큰 수선용<br />부담 주체: <b>소유자</b><br />세입자는 돌려받음<br />관리비에 별도 표시</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;">
+<div style="font-size:12.5px;color:#9a6413;font-weight:800;margin-bottom:10px;">수선유지비</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">일상적인 소모성 관리<br />부담 주체: <b>거주자</b><br />반환 대상 아님<br />이름이 비슷해 헷갈림</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>장기수선충당금</b>은 소유자가 부담해야 할 돈입니다</li>
+<li><b>수선유지비</b>는 거주자가 내는 돈이라 반환 대상이 아닙니다</li>
+<li>관리비 고지서에서 <b>두 항목을 구분</b>해서 봐야 합니다</li>
+</ul>
+
+<h2>왜 세입자가 먼저 내나요?</h2>
+
+<p>관리사무소는 <b>실제 거주자</b>에게 관리비를 청구합니다. 소유자를 일일이 찾아 받기 어려우니까요.</p>
+
+<p>그래서 세입자가 관리비를 낼 때 이 항목도 함께 나갑니다. 대신 내주는 셈이에요.</p>
+
+<p>공동주택관리법에 <b>소유자가 부담</b>한다고 정해져 있습니다. 그래서 나중에 정산하는 겁니다.</p>
+
+<blockquote>
+<p>관리사무소는 거주자에게 청구 → 세입자가 대신 납부</p>
+<p>이사할 때 소유자에게 정산 요청</p>
+</blockquote>
+
+<h3>계약서 특약이 있으면 어떻게 되나요?</h3>
+
+<p>계약서에 <b>세입자가 부담한다</b>고 적혀 있으면 그 특약이 우선하는 경우가 있습니다.</p>
+
+<p>법 조항이 강행규정인지 임의규정인지에 따라 해석이 갈립니다. 실무에서는 특약을 인정하는 사례가 있어요.</p>
+
+<p>그러니까 <b>계약할 때 특약을 확인</b>하세요. 애매한 문구가 있으면 명확히 정리하고 도장을 찍는 게 좋습니다.</p>
+
+<h2>얼마를 받을 수 있나요?</h2>
+
+<p>거주한 기간 동안 낸 <b>장기수선충당금 총액</b>입니다.</p>
+
+<p>관리사무소에서 <b>납부확인서</b>를 발급받으면 됩니다. 기간을 지정해서 요청하면 총액이 나옵니다.</p>
+
+<p>보통 이사 나가는 날 <b>관리비 정산</b>을 하면서 함께 받습니다. 관리사무소가 확인서를 떼주면 집주인에게 청구하는 거죠.</p>
+
+<div style="background:linear-gradient(135deg,#eef4f7,#d9e6ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6b8a;margin-bottom:16px;">이사할 때 이 순서로</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f5a76;margin-top:5px;">관리사무소 방문</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">이사 며칠 전</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f5a76;margin-top:5px;">납부확인서 발급</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">거주 기간 총액</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f5a76;margin-top:5px;">집주인에게 청구</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">확인서 제시</div>
+</div>
+<div style="flex:1 1 140px;background:#2f6b8a;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#a9cbe0;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">보증금과 함께</div>
+<div style="font-size:11.5px;color:#a9cbe0;margin-top:4px;">정산 수령</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>관리사무소에서 <b>납부확인서</b>를 발급받습니다</li>
+<li>이사 <b>며칠 전에</b> 미리 요청해두면 당일이 수월합니다</li>
+<li>보통 <b>보증금 반환</b>과 함께 정산합니다</li>
+</ul>
+
+<h2>이미 이사했는데 못 받았다면</h2>
+
+<p>지금이라도 청구할 수 있습니다. 이 채권의 소멸시효는 <b>10년</b>입니다.</p>
+
+<p>이전에 살던 아파트 관리사무소에 연락해 <b>납부확인서</b>를 요청하세요. 기록이 남아 있습니다.</p>
+
+<p>집주인 연락처를 모르면 <b>등기부등본</b>을 떼서 소유자를 확인할 수 있습니다.</p>
+
+<p>연락이 안 되거나 거부하면 <b>내용증명</b>을 보내고, 그래도 안 되면 소액 사건으로 다툴 수 있습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">상황</div><div style="flex:1;text-align:right;">방법</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">이사 예정</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">보증금과 함께 정산</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">이미 이사함</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">10년 내 청구 가능</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">집주인이 거부</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">내용증명 발송</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">계약서 특약 존재</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">해석이 갈립니다</div>
+</div>
+</div>
+
+<ul>
+<li>이미 이사했어도 <b>10년 안</b>에는 청구할 수 있습니다</li>
+<li>이전 관리사무소에서 <b>납부확인서</b>를 받을 수 있습니다</li>
+<li>집주인이 거부하면 <b>내용증명</b>으로 기록을 남깁니다</li>
+</ul>
+
+<h2>오피스텔과 빌라는 어떤가요?</h2>
+
+<p>장기수선충당금 적립 의무는 <b>일정 규모 이상의 공동주택</b>에 적용됩니다.</p>
+
+<p>세대수가 적은 빌라나 소규모 건물은 <b>적립 의무가 없는</b> 경우가 많습니다.</p>
+
+<p>오피스텔은 건축물 용도에 따라 다릅니다. 관리비 고지서에 항목이 있는지 확인해보세요.</p>
+
+<p>항목 자체가 없으면 돌려받을 것도 없습니다. <b>고지서 확인</b>이 출발점입니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">계약할 때 확인</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">계약서에 <b style="color:#ff8a7a;">장기수선충당금은 임차인이 부담한다</b>는 특약이 있는지 보세요. 있으면 나중에 못 받을 수 있습니다. <b style="color:#ffd97a;">계약 전에 협의</b>하는 게 이사할 때 다투는 것보다 훨씬 낫습니다.</p>
+</div>
+
+<ul>
+<li>적립 의무는 <b>일정 규모 이상 공동주택</b>에 적용됩니다</li>
+<li>관리비 고지서에 <b>항목이 있는지</b>부터 확인하세요</li>
+<li>계약서에 <b>부담 특약</b>이 있는지 미리 확인합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>장기수선충당금은 소유자가 부담할 돈이라 세입자는 돌려받는다</p>
+<p>수선유지비와는 다른 항목이니 고지서에서 구분해야 한다</p>
+<p>관리사무소에서 납부확인서를 받아 집주인에게 청구한다</p>
+<p>이미 이사했어도 10년 안에는 청구할 수 있다</p>
+<p>계약서에 부담 특약이 있으면 해석이 갈릴 수 있다</p>
+</blockquote>
+
+<p>2년 살았으면 적어도 수십만원입니다. 이사 준비할 때 목록에 꼭 넣어두세요.</p>
+
+<p>저는 이사 일주일 전에 관리사무소부터 갑니다. 당일에 하면 정신없어서 놓치더라고요.</p>
+
+<p>단지마다 적립 방식과 금액이 다르니 관리사무소에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 장기수선충당금: 공동주택의 주요 시설 교체·보수를 위해 적립하는 비용, 공동주택관리법상 소유자가 부담
+ · 관리사무소는 실제 거주자에게 관리비를 청구하므로 임차인이 매월 대신 납부하는 구조
+ · 임차인은 이사(계약 종료) 시 소유자에게 납부액 반환을 청구할 수 있음
+ · 수선유지비는 일상적 소모성 관리비용으로 거주자 부담이며 반환 대상이 아님
+ · 반환 청구권의 소멸시효는 10년 (민법상 일반 채권)
+ · 관리사무소에서 거주 기간 납부확인서 발급 가능
+ · 장기수선충당금 적립 의무는 일정 규모 이상의 공동주택에 적용 (소규모 건물·일부 오피스텔은 미적용)
+ · 계약서 특약으로 임차인 부담을 정한 경우 해석상 다툼이 있을 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 적립 의무 대상 공동주택의 세대수·규모 요건은 법령에 규정되어 있으나 예외가 있어 수치를 적지 않았습니다
+ · 계약 특약의 효력은 법률 해석 영역이라 "해석이 갈린다"로만 서술했습니다
+ · 세대별 월 부담액은 단지·면적·적립 계획에 따라 달라 금액을 적지 않았습니다
+ · 오피스텔의 적용 여부는 건축물 용도와 관리 규약에 따라 달라 단정하지 않았습니다
+ · 소액 사건 절차와 비용은 별도 주제라 언급만 했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "이사 일주일 전에 관리사무소부터 간다"는 설정입니다

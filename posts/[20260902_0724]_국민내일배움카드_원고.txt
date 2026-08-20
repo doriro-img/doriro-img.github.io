@@ -1,0 +1,221 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 2일 07:24
+■ 제목: 국민내일배움카드 신청방법 2026. 300만원 한도와 자부담, 발급 안 되는 사람
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 국민내일배움카드, 내일배움카드신청, 고용24, 직업훈련, 훈련장려금
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260902_0724]_국민내일배움카드\
+   ├── 📄 [원고 파일]: [20260902_0724]_국민내일배움카드_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_hrdcard.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260902_0724]_국민내일배움카드_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_hrdcard.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국민내일배움카드 신청방법 2026. 300만원 한도와 자부담, 발급 안 되는 사람</p>
+
+<h2>5년 동안 300만원이 기본입니다</h2>
+
+<p>국민내일배움카드는 <b>5년간 300만원</b>의 훈련비를 지원해주는 카드입니다. 조건이 맞으면 <b>최대 500만원</b>까지 올라가요.</p>
+
+<p>결론부터 말하면 재직자든 실업자든 자영업자든 다 신청할 수 있습니다. 다만 <b>발급이 안 되는 직군</b>이 정해져 있어서 그것부터 확인하는 게 순서예요.</p>
+
+<p>신청은 고용24에서 온라인으로 합니다. 고용센터에 직접 가도 되고요.</p>
+
+<p>저는 퇴사하고 실업급여 알아보러 갔다가 창구에서 같이 만들었습니다. 어차피 만들 거면 그때 하는 게 제일 편하더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">국민내일배움카드 지원 한도</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">기본 한도</div>
+<div style="font-size:26px;font-weight:800;color:#3a4480;letter-spacing:-1px;">300만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">5년간 사용</div>
+</div>
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">추가지원 대상</div>
+<div style="font-size:26px;font-weight:800;color:#1d7050;letter-spacing:-1px;">500만원</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">요건 충족 시</div>
+</div>
+<div style="flex:1 1 160px;padding:18px 12px;text-align:center;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">자부담</div>
+<div style="font-size:26px;font-weight:800;color:#cf4f43;letter-spacing:-1px;">15~55%</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">과정마다 다름</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>기본 지원 한도는 <b>5년간 300만원</b>입니다</li>
+<li>추가지원 요건에 해당하면 <b>최대 500만원</b>까지 늘어납니다</li>
+<li>훈련비 전액이 아니라 과정에 따라 <b>15%에서 55%</b>의 자부담이 붙습니다</li>
+</ul>
+
+<h2>나는 발급이 될까요</h2>
+
+<p>여기서 막히는 분들이 꽤 있습니다. 소득이나 직장 형태에 따라 아예 대상에서 빠지거든요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">발급 됩니다</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">실업자 (구직 중)<br />재직자 (중소기업 근로자)<br />특수형태근로종사자·프리랜서<br />일정 매출 이하 자영업자<br />졸업 예정인 대학생</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">발급 안 됩니다</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">공무원·사립학교 교직원<br />만 75세 이상<br />졸업예정자가 아닌 재학생<br />대규모기업 근로자 중<br />만 45세 미만 + 월급 300만원 이상</div>
+</div>
+</div>
+
+<ul>
+<li>실업자, 재직자, 프리랜서, 소규모 자영업자는 <b>모두 발급 대상</b>입니다</li>
+<li><b>공무원과 사립학교 교직원</b>, 만 75세 이상은 발급되지 않습니다</li>
+<li>대기업 근로자 중 <b>만 45세 미만이면서 월 임금 300만원 이상</b>이면 제외됩니다</li>
+</ul>
+
+<p>대기업 다니는 후배가 이걸 몰라서 신청했다가 반려됐거든요. 나이랑 월급 조건이 같이 걸려 있어서 헷갈립니다.</p>
+
+<h2>자부담은 과정마다 다릅니다</h2>
+
+<p>훈련비 전액이 지원되는 게 아니에요. 취업이 잘 되는 분야일수록 자부담이 낮습니다.</p>
+
+<div style="border:1px solid #e6e9ed;background:#fafbfc;border-radius:10px;padding:18px 20px 14px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;align-items:center;height:44px;">
+<div style="width:150px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#1d7050;">취약계층</div>
+<div style="flex:1;"><div style="height:24px;width:8%;background:#2f9e6e;border-radius:6px;min-width:8px;"></div></div>
+<div style="width:74px;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">면제·감면</div>
+</div>
+<div style="display:flex;align-items:center;height:44px;">
+<div style="width:150px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#1f4a7a;">국가기간·전략산업</div>
+<div style="flex:1;"><div style="height:24px;width:27%;background:#2f6fb0;border-radius:6px;"></div></div>
+<div style="width:74px;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">15% 수준</div>
+</div>
+<div style="display:flex;align-items:center;height:44px;">
+<div style="width:150px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#9a6413;">일반 훈련과정</div>
+<div style="flex:1;"><div style="height:24px;width:65%;background:#d4832f;border-radius:6px;"></div></div>
+<div style="width:74px;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">35~45%</div>
+</div>
+<div style="display:flex;align-items:center;height:44px;">
+<div style="width:150px;flex-shrink:0;font-size:13.5px;font-weight:800;color:#b8463a;">취업률 낮은 과정</div>
+<div style="flex:1;"><div style="height:24px;width:100%;background:#cf4f43;border-radius:6px;"></div></div>
+<div style="width:74px;text-align:right;font-size:13.5px;font-weight:800;color:#b8463a;">최대 55%</div>
+</div>
+</div>
+
+<ul>
+<li>취약계층과 국민취업지원제도 참여자는 자부담이 <b>면제되거나 크게 줄어듭니다</b></li>
+<li>국가기간·전략산업 직종은 자부담이 <b>15% 수준</b>으로 낮습니다</li>
+<li>취업률이 낮은 과정일수록 자부담이 올라가 <b>최대 55%</b>까지 갑니다</li>
+</ul>
+
+<p>같은 300만원짜리 카드를 들고 있어도 어떤 과정을 고르냐에 따라 실제로 내는 돈이 크게 달라집니다.</p>
+
+<h3>디지털 과정은 한도가 따로 있습니다</h3>
+
+<p>K-디지털 기초역량훈련은 <b>50만원이 별도로</b> 붙습니다. 기존 한도를 깎아먹지 않아요.</p>
+
+<p>대신 그 50만원은 해당 과정 수강료로만 쓸 수 있습니다. 다른 과정에 돌려 쓰는 건 안 됩니다.</p>
+
+<h2>신청은 이렇게 합니다</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">고용24 가입</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">본인인증</div>
+</div>
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">동영상 수강</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">필수 교육</div>
+</div>
+<div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">발급 신청</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">서류 제출</div>
+</div>
+<div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">카드 수령</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">약 2주</div>
+</div>
+</div>
+
+<ul>
+<li>고용24에 가입하고 <b>본인인증</b>을 마칩니다</li>
+<li>발급 전 <b>필수 동영상 교육</b>을 들어야 신청 버튼이 열립니다</li>
+<li>심사와 카드 배송에 <b>2주 정도</b> 걸리니 수강 시작일을 여유 있게 잡으세요</li>
+</ul>
+
+<p>여기서 실수하는 게 <b>카드 나오기 전에 수강료를 먼저 결제</b>하는 겁니다. 그러면 지원이 안 됩니다.</p>
+
+<p>반드시 카드를 받고 그 카드로 결제해야 훈련비 지원이 들어갑니다. 이거 모르고 결제했다가 그냥 날린 사람을 봤어요.</p>
+
+<h3>실업자는 훈련장려금도 나옵니다</h3>
+
+<p>실업 상태에서 훈련을 들으면 <b>훈련장려금</b>이 따로 나옵니다. 훈련비 지원과 별개예요.</p>
+
+<p>단위기간 출석률이 <b>80% 이상</b>이어야 나옵니다. 결석하면 그 달치가 날아가요.</p>
+
+<p>금액은 월 11만원대인데 교통비 정도는 됩니다. 실업급여를 같이 받는 중이면 그건 그대로 나오고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이건 조심</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">중도에 그만두면 <b style="color:#ff8a7a;">지원받은 훈련비를 반환</b>해야 할 수 있습니다. 출석률이 <b style="color:#ffd97a;">80% 미만</b>이면 수료가 안 되고 다음 과정 신청에도 불이익이 생깁니다. 카드 유효기간은 <b style="color:#7ee0b0;">5년</b>이라 안 쓰면 그냥 사라집니다.</p>
+</div>
+
+<ul>
+<li>중도 포기하면 <b>훈련비를 반환</b>해야 할 수 있습니다</li>
+<li>출석률 <b>80% 미만</b>이면 수료 처리가 되지 않습니다</li>
+<li>카드 유효기간은 <b>5년</b>이고 남은 금액은 이월되지 않습니다</li>
+</ul>
+
+<h2>어떤 과정을 들을지가 반이더라고요</h2>
+
+<p>카드만 만들어두고 안 쓰는 사람이 정말 많습니다. 만드는 건 쉬운데 고르는 게 어려워서요.</p>
+
+<p>고용24에서 훈련과정을 검색하면 <b>취업률과 수료율</b>이 같이 나옵니다. 이 숫자를 보고 고르는 게 가장 확실합니다.</p>
+
+<p>기관 후기보다 그 숫자가 정직해요. 저는 그거만 보고 골랐습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>5년간 300만원, 요건에 맞으면 최대 500만원까지 지원된다</p>
+<p>공무원·사립교직원·만 75세 이상은 발급되지 않는다</p>
+<p>대기업 근로자는 만 45세 미만이면서 월급 300만원 이상이면 제외된다</p>
+<p>자부담은 과정에 따라 15%에서 55%까지 차이가 난다</p>
+<p>카드를 받기 전에 결제하면 지원을 못 받는다</p>
+</blockquote>
+
+<p>이직을 생각하고 계시면 일단 만들어두는 게 낫습니다. 발급에 2주가 걸리니까 필요할 때 신청하면 늦어요.</p>
+
+<p>저는 결국 두 과정을 들었는데 하나는 도움이 됐고 하나는 그냥 그랬습니다. 뭐 반타작이면 나쁘지 않지...</p>
+
+<p>제외 대상 기준은 개정이 잦으니 신청 전에 고용24에서 본인 자격을 한 번 조회해보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-20 웹 확인)
+ · 기본 지원 한도 300만원, 추가지원 대상은 최대 500만원
+ · 자부담률 15~55%, 취약계층은 면제 또는 대폭 감면
+ · K-디지털 기초역량훈련은 해당 과정 전용으로 50만원 별도 지원
+ · 발급 제외: 공무원, 사립학교 교직원, 만 75세 이상, 재학생(졸업예정자 제외)
+ · 대규모기업 근로자 중 만 45세 미만이면서 월 임금 300만원 이상은 제외
+ · 신청 경로: 고용24 온라인 또는 고용센터 방문
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 훈련장려금 금액은 "월 11만원대"로만 적었습니다. 정확한 단가는 고용24에서 확인 필요
+ · 자영업자 발급 기준이 되는 연매출 상한은 확인하지 못해 "일정 매출 이하"로 썼습니다
+ · 추가지원 500만원의 세부 요건은 대상별로 달라 나열하지 않았습니다
+ · 카드 발급 소요 기간 "약 2주"는 통상 기준입니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "퇴사 후 실업급여 알아보다 창구에서 같이 만들었다", "두 과정을 들었다", "대기업 다니는 후배가 반려됐다"는 가정입니다

@@ -1,0 +1,226 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 14일 18:14
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261014_1814]_온라인쇼핑_청약철회\
+   ├── 📄 [원고 파일]: [20261014_1814]_온라인쇼핑_청약철회_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-withdraw.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261014_1814]_온라인쇼핑_청약철회_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-withdraw.html
+
+■ 제목: 온라인 쇼핑 청약철회 7일 규정. 단순변심 반품 되는 것과 안 되는 것 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 청약철회7일, 단순변심반품, 전자상거래법, 반품배송비, 주문제작반품, 개봉후반품, 소비자상담센터
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>온라인 쇼핑 청약철회 7일 규정. 단순변심 반품 되는 것과 안 되는 것 정리</p>
+
+<h2>마음이 바뀌어도 7일 안에는 됩니다</h2>
+
+<p>온라인으로 산 물건은 <b>전자상거래법</b>에 따라 <b>받은 날부터 7일 이내</b>에 청약철회를 할 수 있습니다.</p>
+
+<p>결론부터 말하면 <b>단순 변심도 됩니다.</b> 이유를 설명할 필요가 없어요.</p>
+
+<p>판매자가 <b>단순 변심 반품 불가</b>라고 적어놨어도 그 문구는 효력이 없습니다. 법이 우선합니다.</p>
+
+<p>다만 <b>예외 품목</b>이 정해져 있습니다. 여기 걸리면 정말 반품이 안 되더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#5b4b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">기간이 두 갈래입니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fbfafd;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #f0eef4;text-align:center;">
+<div style="font-size:12.5px;color:#5b4b8a;font-weight:800;">단순 변심</div>
+<div style="font-size:40px;font-weight:800;color:#5b4b8a;margin:8px 0;">7일</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">받은 날부터<br />배송비는 소비자 부담</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;text-align:center;">
+<div style="font-size:12.5px;color:#b8443a;font-weight:800;">하자·다른 물건</div>
+<div style="font-size:40px;font-weight:800;color:#b8443a;margin:8px 0;">3개월</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">안 날부터 30일<br />배송비는 판매자 부담</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>단순 변심은 <b>받은 날부터 7일</b> 이내에 철회할 수 있습니다</li>
+<li>물건에 <b>하자</b>가 있거나 광고와 다르면 기간이 훨씬 깁니다</li>
+<li>하자 반품은 <b>배송비를 판매자가</b> 부담합니다</li>
+</ul>
+
+<h2>기간은 언제부터 세나요?</h2>
+
+<p><b>물건을 받은 날</b>이 기준입니다. 주문한 날이나 결제한 날이 아니에요.</p>
+
+<p>배송이 늦어지면 그만큼 기간도 뒤로 밀립니다. 받은 날부터 세면 됩니다.</p>
+
+<p>계약 내용을 적은 서면을 <b>안 받았거나</b> 주소가 잘못돼 반품이 불가능했다면, 그 사유가 해소된 날부터 7일을 셉니다.</p>
+
+<h3>하자가 있으면 기간이 다릅니다</h3>
+
+<p>물건에 문제가 있거나 <b>광고와 다른</b> 경우는 기준이 달라집니다.</p>
+
+<p>그 사실을 <b>안 날부터 30일</b>, 또는 <b>물건을 받은 날부터 3개월</b> 중에 늦게 끝나는 쪽까지 가능합니다.</p>
+
+<p>이 경우 반품 배송비는 <b>판매자가</b> 냅니다. 소비자가 낼 이유가 없어요.</p>
+
+<blockquote>
+<p>단순 변심 → 7일, 배송비 소비자 부담</p>
+<p>하자·광고 상이 → 안 날부터 30일 또는 수령 후 3개월, 배송비 판매자 부담</p>
+</blockquote>
+
+<h2>반품이 안 되는 경우</h2>
+
+<p>법에 예외가 정해져 있습니다. 이건 판매자 주장이 아니라 법 규정이에요.</p>
+
+<div style="background:linear-gradient(135deg,#f2effa,#e0daf0);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#5b4b8a;margin-bottom:16px;">청약철회가 제한되는 경우</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#c0554a;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px;font-weight:800;">1</div>
+<div style="flex:1;"><div style="font-size:13.5px;font-weight:800;color:#463a6b;">소비자 잘못으로 멸실·훼손</div><div style="font-size:12px;color:#6b7885;">확인용 개봉은 예외입니다</div></div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#c0554a;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px;font-weight:800;">2</div>
+<div style="flex:1;"><div style="font-size:13.5px;font-weight:800;color:#463a6b;">사용·소비로 가치가 크게 감소</div><div style="font-size:12px;color:#6b7885;">화장품 사용, 식품 개봉 등</div></div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#c0554a;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px;font-weight:800;">3</div>
+<div style="flex:1;"><div style="font-size:13.5px;font-weight:800;color:#463a6b;">시간이 지나 재판매가 곤란</div><div style="font-size:12px;color:#6b7885;">신선식품, 시즌 상품 등</div></div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#c0554a;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px;font-weight:800;">4</div>
+<div style="flex:1;"><div style="font-size:13.5px;font-weight:800;color:#463a6b;">주문 제작 상품</div><div style="font-size:12px;color:#6b7885;">사전 고지와 동의가 있어야 함</div></div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#c0554a;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:17px;font-weight:800;">5</div>
+<div style="flex:1;"><div style="font-size:13.5px;font-weight:800;color:#463a6b;">복제 가능한 디지털 상품</div><div style="font-size:12px;color:#6b7885;">포장을 훼손한 경우</div></div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>내용 <b>확인을 위한 개봉</b>은 훼손으로 보지 않습니다</li>
+<li><b>주문 제작</b> 상품은 사전 고지와 동의가 있어야 철회가 제한됩니다</li>
+<li>신선식품처럼 <b>재판매가 어려운</b> 물건은 예외입니다</li>
+</ul>
+
+<h3>개봉했다고 무조건 안 되는 게 아닙니다</h3>
+
+<p>이걸 가장 많이 오해합니다. 상자를 열었다고 반품이 막히는 건 아니에요.</p>
+
+<p>물건이 뭔지 <b>확인하려고 개봉</b>한 정도는 인정됩니다. 옷을 입어보는 것도 마찬가지고요.</p>
+
+<p>다만 화장품을 발라 썼거나 식품을 뜯어 먹었다면 <b>가치가 크게 감소</b>한 것으로 봅니다.</p>
+
+<p>이 기준을 알고 나니 판매자와 다툴 일이 확 줄더라고요.</p>
+
+<h2>반품 배송비는 누가 내나요?</h2>
+
+<p>단순 변심이면 <b>소비자</b>가 냅니다. 왕복 배송비를 부담하는 경우가 많아요.</p>
+
+<p>하자나 오배송이면 <b>판매자</b>가 냅니다. 소비자에게 청구할 수 없습니다.</p>
+
+<p>무료배송으로 받은 상품을 반품할 때 <b>보낼 때 든 배송비</b>까지 청구되는 경우가 있습니다. 이건 미리 고지했다면 유효합니다.</p>
+
+<p>상품 페이지에 반품 배송비가 얼마인지 <b>표시돼 있어야</b> 합니다. 없으면 다툴 여지가 있어요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f1eff5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b6480;">
+<div style="flex:1.5;">사유</div><div style="flex:1;text-align:right;">반품 배송비</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">단순 변심</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">소비자 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;background:#fbfafd;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">물건 하자</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">판매자 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">다른 물건 배송</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">판매자 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;background:#fbfafd;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">광고와 다름</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">판매자 부담</div>
+</div>
+</div>
+
+<ul>
+<li>단순 변심이면 반품 배송비를 <b>소비자가</b> 부담합니다</li>
+<li>하자나 오배송, 광고 상이는 <b>판매자</b> 부담입니다</li>
+<li>반품 배송비는 상품 페이지에 <b>미리 표시</b>돼 있어야 합니다</li>
+</ul>
+
+<h2>환불은 언제 되나요?</h2>
+
+<p>판매자는 물건을 돌려받은 날부터 <b>3영업일 이내</b>에 환불해야 합니다.</p>
+
+<p>카드로 결제했으면 판매자가 <b>결제 취소</b>를 요청해야 합니다. 카드사 처리에 며칠이 더 걸릴 수 있어요.</p>
+
+<p>지연되면 <b>지연이자</b>를 청구할 수 있습니다. 법에 이자율이 정해져 있습니다.</p>
+
+<h3>연락이 안 되면 어떻게 하나요?</h3>
+
+<p>판매자가 응답하지 않으면 <b>1372 소비자상담센터</b>에 상담을 신청합니다.</p>
+
+<p>해결이 안 되면 <b>한국소비자원</b>에 피해구제를 신청할 수 있습니다. 무료입니다.</p>
+
+<p>카드 결제였다면 카드사에 <b>결제 취소 요청</b>을 하는 방법도 있습니다. 일정 금액 이상이면 항변권을 쓸 수 있어요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">기록을 남기세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">철회 의사는 <b style="color:#ffd97a;">기록이 남는 방법</b>으로 전하세요. 쇼핑몰 반품 신청 화면이나 문자, 이메일이 좋습니다. 전화로만 하면 <b style="color:#ff8a7a;">7일 안에 알렸다는 증명</b>이 어려워집니다.</p>
+</div>
+
+<ul>
+<li>철회 의사는 <b>기록이 남는 방법</b>으로 전달합니다</li>
+<li>환불은 물건을 돌려받은 날부터 <b>3영업일 이내</b>가 원칙입니다</li>
+<li>해결이 안 되면 <b>1372</b>나 한국소비자원에 도움을 청합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>온라인 구매는 받은 날부터 7일 안에 단순 변심으로도 철회할 수 있다</p>
+<p>판매자가 반품 불가라고 적어도 법이 우선한다</p>
+<p>확인용 개봉은 훼손으로 보지 않는다</p>
+<p>하자나 광고 상이는 안 날부터 30일 또는 수령 후 3개월까지 가능하다</p>
+<p>환불은 물건을 돌려받은 날부터 3영업일 이내가 원칙이다</p>
+</blockquote>
+
+<p>7일이 생각보다 금방 지나갑니다. 마음에 안 들면 미루지 말고 바로 신청하세요.</p>
+
+<p>저는 이제 받자마자 확인부터 합니다. 상자에 며칠 두다가 기간 넘긴 적이 있어서... 그때 진짜 아까웠지.</p>
+
+<p>플랫폼마다 반품 절차가 조금씩 다르니 해당 쇼핑몰 안내를 함께 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 전자상거래 등에서의 소비자보호에 관한 법률(전자상거래법) 기준
+ · 청약철회 기간: 물건을 공급받은 날부터 7일 이내 (계약서 미교부 등 사유 시 사유 해소일부터 기산)
+ · 물건이 광고와 다르거나 하자가 있는 경우: 그 사실을 안 날부터 30일 이내 또는 공급받은 날부터 3개월 이내
+ · 청약철회 제한 사유: 소비자 책임 있는 사유로 멸실·훼손(내용 확인용 개봉 제외), 사용·소비로 가치가 현저히 감소, 시간 경과로 재판매 곤란, 복제 가능한 재화의 포장 훼손, 주문에 따라 개별 생산되는 재화(사전 고지 및 별도 동의 필요)
+ · 단순 변심 시 반품 배송비는 소비자 부담, 하자·오배송·광고 상이 시 판매자 부담
+ · 환불: 재화를 반환받은 날부터 3영업일 이내 대금 환급, 지연 시 지연이자
+ · 분쟁 해결: 1372 소비자상담센터, 한국소비자원 피해구제(무료), 카드 할부항변권
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 지연이자율은 법령으로 정해져 있으나 개정 이력이 있어 수치를 적지 않았습니다
+ · 카드 할부항변권의 금액·기간 요건은 별도 규정이 있어 상세히 다루지 않았습니다
+ · 무료배송 상품 반품 시 최초 배송비 청구 가능 여부는 사전 고지 여부에 따라 달라 원칙만 적었습니다
+ · 개봉 정도에 따른 가치 감소 판단은 사안별로 달라 대표 사례만 서술했습니다
+ · 해외 직구 플랫폼은 국내법 적용 범위가 다를 수 있어 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "상자에 며칠 두다가 기간을 넘긴 적이 있다"는 설정입니다

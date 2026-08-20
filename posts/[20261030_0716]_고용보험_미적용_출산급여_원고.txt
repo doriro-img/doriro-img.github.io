@@ -1,0 +1,236 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 30일 07:16
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261030_0716]_고용보험_미적용_출산급여\
+   ├── 📄 [원고 파일]: [20261030_0716]_고용보험_미적용_출산급여_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-birthpay.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261030_0716]_고용보험_미적용_출산급여_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-birthpay.html
+
+■ 제목: 고용보험 미적용자 출산급여 신청. 프리랜서와 자영업자도 받는 조건
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 고용보험미적용자출산급여, 프리랜서출산급여, 자영업자출산, 특수형태근로, 출산전후급여, 고용24신청, 1년이내신청
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>고용보험 미적용자 출산급여 신청. 프리랜서와 자영업자도 받는 조건</p>
+
+<h2>회사 다니지 않아도 받을 수 있습니다</h2>
+
+<p>출산전후휴가 급여는 <b>고용보험 가입자</b>가 받는 제도입니다. 그럼 프리랜서나 자영업자는 어떻게 될까요.</p>
+
+<p>결론부터 말하면 <b>고용보험 미적용자 출산급여</b>라는 별도 제도가 있습니다.</p>
+
+<p>대상은 <b>소득활동을 하고 있었지만</b> 고용보험 혜택을 못 받는 출산 여성입니다.</p>
+
+<p>이런 제도가 있는 줄 모르고 못 받는 경우가 많더라고요. 신청 기한도 정해져 있습니다.</p>
+
+<div style="border:1px solid #e5e0e2;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a8546b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">누가 대상인가</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfafb;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">프리랜서</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">사업소득 신고자</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">자영업자</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">사업자등록 보유</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">특수형태근로</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">보험설계사 등</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #f0e6ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7d3a4c;">단기 근로자</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">요건 미충족 근로자</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>프리랜서와 자영업자</b>가 대표적인 대상입니다</li>
+<li>보험설계사 같은 <b>특수형태근로종사자</b>도 포함됩니다</li>
+<li>근로자여도 고용보험 <b>요건을 못 채웠으면</b> 대상이 될 수 있습니다</li>
+</ul>
+
+<h2>소득활동 요건이 있습니다</h2>
+
+<p>아무나 받는 건 아닙니다. <b>출산 전에 소득활동</b>을 하고 있었어야 해요.</p>
+
+<p>출산일 기준으로 일정 기간 <b>사업을 하거나 일을 하고 있었다는</b> 사실이 확인돼야 합니다.</p>
+
+<p>소득이 있었다는 걸 <b>서류로 증명</b>해야 합니다. 사업자등록증이나 소득 신고 자료가 쓰입니다.</p>
+
+<p>유산이나 사산도 <b>일정 주수 이상</b>이면 대상이 됩니다.</p>
+
+<blockquote>
+<p>출산 전 소득활동 사실 + 증빙 서류</p>
+<p>이 두 가지가 핵심입니다</p>
+</blockquote>
+
+<h3>얼마를 받나요?</h3>
+
+<p>정액으로 지급됩니다. <b>총액이 정해져</b> 있고 나눠서 받습니다.</p>
+
+<p>고용보험 가입자가 받는 출산전후휴가 급여보다는 <b>적은 편</b>입니다.</p>
+
+<p>그래도 아예 못 받는 것보다는 낫습니다. 신청 절차도 생각보다 간단하더라고요.</p>
+
+<h2>신청 기한이 1년입니다</h2>
+
+<p>가장 중요한 부분입니다. <b>출산일로부터 1년 이내</b>에 신청해야 합니다.</p>
+
+<p>이 기간이 지나면 요건을 다 갖췄어도 <b>받을 수 없습니다.</b></p>
+
+<p>출산하고 정신없이 지내다 보면 1년이 금방 갑니다. 미리 챙겨두세요.</p>
+
+<div style="background:linear-gradient(135deg,#fbf2f4,#f0dce2);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a4557;margin-bottom:16px;">신청 절차</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">서류 준비</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">소득활동 증빙</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">고용24 신청</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">온라인·고용센터</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b08c99;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#7d3a4c;margin-top:5px;">자격 심사</div>
+<div style="font-size:11.5px;color:#b08c99;margin-top:4px;">소득활동 확인</div>
+</div>
+<div style="flex:1 1 140px;background:#a8546b;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#f0d3da;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">분할 지급</div>
+<div style="font-size:11.5px;color:#f0d3da;margin-top:4px;">계좌로 입금</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>신청은 <b>고용24</b> 온라인이나 고용센터 방문으로 합니다</li>
+<li>기한은 <b>출산일로부터 1년</b>이며 넘기면 받을 수 없습니다</li>
+<li>지급은 <b>나눠서</b> 계좌로 들어옵니다</li>
+</ul>
+
+<h2>어떤 서류가 필요한가요?</h2>
+
+<p>신분증과 <b>출산을 증명하는 서류</b>가 기본입니다. 출생증명서나 가족관계증명서요.</p>
+
+<p>소득활동 증빙은 유형에 따라 다릅니다.</p>
+
+<ul>
+<li>자영업자는 <b>사업자등록증</b>과 소득 신고 자료</li>
+<li>프리랜서는 <b>계약서와 소득 지급 내역</b></li>
+<li>특수형태근로는 <b>위촉 관련 서류</b></li>
+</ul>
+
+<p>서류가 애매하면 고용센터에 <b>미리 문의</b>하세요. 어떤 자료가 인정되는지 알려줍니다.</p>
+
+<h3>고용보험 급여와 중복은 안 됩니다</h3>
+
+<p>이미 출산전후휴가 급여를 받았다면 <b>중복 수급이 안 됩니다.</b></p>
+
+<p>고용보험에 가입돼 있는데 요건을 못 채운 경우에 이 제도를 씁니다.</p>
+
+<p>어느 쪽이 유리한지는 <b>고용센터에 확인</b>해보세요. 상황마다 다릅니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4eff1;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6870;">
+<div style="flex:1.4;">구분</div><div style="flex:1;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">신청 기한</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">출산일부터 1년</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;background:#fdfafb;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">지급 방식</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#a8546b;">정액·분할</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">신청처</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">고용24·고용센터</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ebed;align-items:center;background:#fdfafb;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">중복 수급</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">불가</div>
+</div>
+</div>
+
+<ul>
+<li>출산전후휴가 급여와 <b>중복 수급</b>은 안 됩니다</li>
+<li>서류가 애매하면 <b>고용센터에 미리 문의</b>하세요</li>
+<li>유산·사산도 <b>일정 주수 이상</b>이면 대상이 됩니다</li>
+</ul>
+
+<h2>다른 출산 지원과는 별개입니다</h2>
+
+<p>이 급여는 <b>소득 보전</b> 성격입니다. 다른 출산 지원과 성격이 달라요.</p>
+
+<p>임신출산 진료비 바우처, <b>첫만남이용권</b>, 부모급여는 각각 별도로 받습니다.</p>
+
+<p>지자체 출산지원금도 마찬가지입니다. <b>전부 따로</b> 신청해야 합니다.</p>
+
+<p>출생신고할 때 <b>행복출산 원스톱</b>으로 묶어 신청하면 빠뜨리는 게 줄어듭니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">배우자도 확인</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">최근에는 <b style="color:#ffd97a;">배우자 출산휴가</b>도 확대돼 왔습니다. 근로자라면 회사에 신청할 수 있어요. 고용보험 가입 여부에 따라 <b style="color:#ff8a7a;">급여 지원</b>이 달라지니 함께 확인해보세요.</p>
+</div>
+
+<ul>
+<li>진료비 바우처, <b>첫만남이용권</b>, 부모급여와는 별개입니다</li>
+<li>지자체 출산지원금도 <b>따로</b> 신청해야 합니다</li>
+<li><b>행복출산 원스톱</b>으로 묶어 신청하면 편합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>고용보험 미적용자 출산급여는 프리랜서와 자영업자를 위한 제도다</p>
+<p>출산 전 소득활동 사실을 서류로 증명해야 한다</p>
+<p>신청 기한은 출산일로부터 1년이며 넘기면 받을 수 없다</p>
+<p>정액으로 지급되며 출산전후휴가 급여와 중복되지 않는다</p>
+<p>바우처와 부모급여 등 다른 지원과는 별개로 신청한다</p>
+</blockquote>
+
+<p>회사를 안 다닌다고 포기하지 마세요. 소득활동을 했으면 대상이 될 수 있습니다.</p>
+
+<p>1년이라는 기한이 생각보다 빨리 옵니다. 출산하고 좀 안정되면 바로 알아보세요.</p>
+
+<p>지급액과 요건은 사업 연도마다 조정되니 고용24나 고용센터에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 고용보험 미적용자 출산급여: 고용보험 출산전후휴가 급여를 받지 못하는 출산 여성에게 지급하는 제도
+ · 대상: 사업자등록을 한 자영업자, 사업소득·기타소득이 있는 프리랜서, 특수형태근로종사자, 고용보험 피보험 요건을 충족하지 못한 근로자 등
+ · 출산 전 일정 기간의 소득활동 사실을 서류로 증명해야 하며 유산·사산도 일정 주수 이상이면 대상
+ · 지급 방식: 정액으로 총액이 정해져 있으며 분할 지급
+ · 신청 기한: 출산일로부터 1년 이내 (경과 시 신청 불가)
+ · 신청: 고용24 온라인 또는 고용센터 방문
+ · 고용보험 출산전후휴가 급여와 중복 수급 불가
+ · 임신·출산 진료비 바우처, 첫만남이용권, 부모급여, 지자체 출산지원금 등과는 별개 제도로 각각 신청
+ · 정부24 행복출산 원스톱 서비스로 출생신고와 함께 통합 신청 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 총 지급액과 분할 지급 방식은 사업 연도별로 조정되어 금액을 적지 않았습니다
+ · 소득활동 인정 기간과 매출·소득 최소 기준은 지침에 규정되어 있어 수치를 넣지 않았습니다
+ · 유산·사산의 인정 임신 주수는 기준이 있어 구체 주수를 적지 않았습니다
+ · 유형별 인정 증빙 서류의 범위는 사례별로 달라 고용센터 문의를 권했습니다
+ · 배우자 출산휴가의 기간과 급여 지원 요건은 개정 이력이 있어 상세히 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "제도가 있는 줄 모르고 못 받는 경우가 많다"는 일반적 관찰로 적었습니다

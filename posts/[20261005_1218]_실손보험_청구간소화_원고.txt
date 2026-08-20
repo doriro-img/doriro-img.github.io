@@ -1,0 +1,206 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 5일 12:18
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261005_1218]_실손보험_청구간소화\
+   ├── 📄 [원고 파일]: [20261005_1218]_실손보험_청구간소화_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-silson24.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261005_1218]_실손보험_청구간소화_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-silson24.html
+
+■ 제목: 실손보험 청구 간소화 실손24 사용법. 서류 없이 청구되는 병원과 안 되는 경우
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 실손보험청구간소화, 실손24, 실손보험청구방법, 보험청구서류, 실손보험소액청구, 진료비영수증, 보험금청구기한
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>실손보험 청구 간소화 실손24 사용법. 서류 없이 청구되는 병원과 안 되는 경우</p>
+
+<h2>서류를 떼러 병원에 다시 안 가도 됩니다</h2>
+
+<p>실손보험 청구 간소화는 병원 진료기록을 <b>전자적으로 보험사에 바로 보내주는</b> 제도입니다. 창구가 <b>실손24</b>예요.</p>
+
+<p>결론부터 말하면 <b>영수증을 떼러 병원에 다시 갈 필요가 없습니다.</b> 앱에서 병원과 진료일만 고르면 청구가 됩니다.</p>
+
+<p>다만 <b>모든 병원이 되는 건 아닙니다.</b> 참여한 의료기관만 되고 여기가 제일 중요한 부분입니다.</p>
+
+<p>소액이라고 그냥 넘긴 진료비가 저희 집에도 꽤 있었거든요. 서류 떼는 게 귀찮아서 안 하게 되더라고요.</p>
+
+<div style="border:1px solid #e2e0e6;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#5b4b8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">청구 방식이 이렇게 바뀝니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fbfafd;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #f0eef4;">
+<div style="font-size:12.5px;color:#8a7fa8;font-weight:800;margin-bottom:10px;">예전 방식</div>
+<div style="font-size:13.5px;color:#5f5a6b;line-height:2;">병원 재방문<br />영수증·세부내역서 발급<br />사진 찍어 앱에 업로드<br />누락되면 다시 방문</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;">
+<div style="font-size:12.5px;color:#5b4b8a;font-weight:800;margin-bottom:10px;">실손24</div>
+<div style="font-size:13.5px;color:#4a4458;line-height:2;">앱에서 병원 선택<br />진료일 선택<br />전송 버튼<br />서류 발급 없음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>실손24는 진료기록을 <b>전자문서로</b> 보험사에 직접 전송합니다</li>
+<li>영수증과 <b>진료비 세부산정내역서</b>를 따로 뗄 필요가 없습니다</li>
+<li>참여 의료기관에서 받은 진료만 <b>서류 없이</b> 청구됩니다</li>
+</ul>
+
+<h2>어떤 병원이 되나요?</h2>
+
+<p>제도가 <b>단계적으로</b> 확대됐습니다. 규모가 큰 병원부터 시작해서 동네 의원과 약국으로 넓혀갔어요.</p>
+
+<p>실손24 앱이나 홈페이지에서 <b>참여 의료기관 검색</b>이 됩니다. 다니는 병원을 미리 넣어보면 됩니다.</p>
+
+<p>참여하지 않은 병원이라면 예전처럼 서류를 떼서 보험사 앱으로 청구해야 합니다. 그 방법이 없어진 게 아니에요.</p>
+
+<h3>약국은 어떻게 되나요?</h3>
+
+<p>약제비도 청구 대상입니다. 처방전을 받아 약을 산 경우 <b>약국 영수증</b>이 필요했는데 이것도 전송됩니다.</p>
+
+<p>다만 약국 참여율은 병원과 다릅니다. 검색해보고 안 되면 영수증을 챙기는 쪽이 안전해요.</p>
+
+<div style="background:linear-gradient(135deg,#f2effa,#e0daf0);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#5b4b8a;margin-bottom:16px;">실손24 쓰는 순서</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#9a92ad;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#463a6b;margin-top:5px;">앱 설치·가입</div>
+<div style="font-size:11.5px;color:#9a92ad;margin-top:4px;">본인인증</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#9a92ad;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#463a6b;margin-top:5px;">내 보험 조회</div>
+<div style="font-size:11.5px;color:#9a92ad;margin-top:4px;">가입 계약 자동 확인</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#9a92ad;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#463a6b;margin-top:5px;">병원·진료일 선택</div>
+<div style="font-size:11.5px;color:#9a92ad;margin-top:4px;">여러 건 한 번에</div>
+</div>
+<div style="flex:1 1 140px;background:#5b4b8a;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#c9bfe3;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">전송·지급</div>
+<div style="font-size:11.5px;color:#c9bfe3;margin-top:4px;">보험사 심사 후 입금</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>앱에서 <b>본인인증</b>만 하면 가입한 실손보험이 자동으로 조회됩니다</li>
+<li>병원과 진료일을 고르면 <b>여러 건을 한 번에</b> 청구할 수 있습니다</li>
+<li>전송 후에는 보험사 <b>심사를 거쳐</b> 계좌로 입금됩니다</li>
+</ul>
+
+<h2>청구 기한을 넘기면 못 받습니다</h2>
+
+<p>보험금 청구권 소멸시효는 <b>3년</b>입니다. 진료를 받은 날부터 계산해요.</p>
+
+<p>3년이 지나면 서류가 아무리 완벽해도 받을 수 없습니다. 소액이라고 미루다가 시효를 넘기는 경우가 생깁니다.</p>
+
+<p>실손24는 <b>지난 진료 건</b>도 조회해서 청구할 수 있습니다. 밀린 게 있으면 한 번에 정리하기 좋아요.</p>
+
+<blockquote>
+<p>보험금 청구권 소멸시효는 진료일로부터 3년</p>
+<p>소액이라도 미루면 그냥 사라집니다</p>
+</blockquote>
+
+<h3>얼마부터 청구할 수 있나요?</h3>
+
+<p>금액 하한은 없습니다. 다만 실손보험에는 <b>자기부담금</b>이 있어서 그보다 적으면 나올 게 없습니다.</p>
+
+<p>세대별로 자기부담률이 다릅니다. 1세대는 낮고 4세대로 올수록 본인이 더 부담하는 구조예요.</p>
+
+<p>통원의 경우 <b>1회당 공제금액</b>이 있습니다. 의원과 병원, 상급종합병원에 따라 공제액이 다릅니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f1eff5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b6480;">
+<div style="flex:1.5;">이런 경우</div><div style="flex:1;text-align:right;">실손24로 되나요</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">참여 병원 통원 진료</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">됩니다</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;background:#fbfafd;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">미참여 병원</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">기존 방식으로</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">미성년 자녀 진료</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">법정대리인 인증 필요</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eef4;align-items:center;background:#fbfafd;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">고액·조사 필요 건</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">추가 서류 요청 가능</div>
+</div>
+</div>
+
+<ul>
+<li>참여 병원이 아니면 <b>기존 방식</b>으로 서류를 떼서 청구합니다</li>
+<li>자녀 진료는 <b>법정대리인 인증</b> 절차가 따로 필요합니다</li>
+<li>금액이 크거나 심사가 필요한 건은 <b>추가 서류</b>를 요청받을 수 있습니다</li>
+</ul>
+
+<h2>내 실손이 몇 세대인지부터 아세요</h2>
+
+<p>청구를 하기 전에 내가 가입한 실손이 어떤 건지 알아야 합니다. 자기부담률과 보장 범위가 완전히 다르거든요.</p>
+
+<p>가입 시기로 대략 갈립니다. 오래된 계약일수록 자기부담이 적고 보장이 넓은 편입니다.</p>
+
+<p>내 계약 내용은 <b>내보험찾아줌</b>이나 보험사 앱에서 확인됩니다. 증권을 못 찾겠으면 여기서 보면 돼요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">알아두세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">실손24는 <b style="color:#ffd97a;">청구를 대신해주는 통로</b>일 뿐입니다. 보험금을 줄지 말지는 <b style="color:#ff8a7a;">보험사가 약관대로 심사</b>해요. 간소화됐다고 지급 기준이 느슨해지는 건 아닙니다. 비급여 항목은 여전히 심사가 까다롭습니다.</p>
+</div>
+
+<ul>
+<li>실손24는 <b>청구 통로</b>일 뿐 지급 기준을 바꾸지 않습니다</li>
+<li>보험금 지급 여부는 <b>보험사 약관</b>에 따라 심사됩니다</li>
+<li><b>비급여 항목</b>은 간소화와 무관하게 심사가 이뤄집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>실손24를 쓰면 병원에 서류를 떼러 갈 필요가 없다</p>
+<p>참여 의료기관만 되고 앱에서 미리 검색해볼 수 있다</p>
+<p>보험금 청구권 소멸시효는 진료일로부터 3년이다</p>
+<p>자기부담금과 통원 공제액이 있어 소액은 나올 게 없을 수 있다</p>
+<p>간소화는 통로일 뿐 지급 심사 기준은 그대로다</p>
+</blockquote>
+
+<p>서류가 귀찮아서 안 하던 소액 청구가 제일 아깝습니다. 몇 년치를 모아보면 금액이 꽤 됩니다.</p>
+
+<p>저는 이번에 밀린 것부터 한 번에 넣어봤습니다. 진작 할 걸 그랬어... 3년 지난 건 이미 늦었더라고요.</p>
+
+<p>참여 의료기관은 계속 늘고 있으니 다니는 병원이 되는지 실손24에서 한 번 확인해보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 실손보험 청구 전산화(청구 간소화): 보험업법 개정에 따라 시행, 전용 창구 "실손24"
+ · 참여 의료기관에서 진료 시 영수증·진료비 세부산정내역서 등 서류 발급 없이 전자 전송
+ · 병원 규모가 큰 곳부터 단계적으로 확대되어 의원·약국으로 참여 범위가 넓어짐
+ · 미참여 의료기관은 기존 방식(서류 발급 후 보험사 앱 청구)으로 청구
+ · 보험금 청구권 소멸시효 3년 (상법 제662조)
+ · 실손보험 세대별 자기부담률 상이, 통원 시 의료기관 종별 공제금액 차등
+ · 미성년 자녀 청구 시 법정대리인 인증 절차 필요
+ · 내 실손 계약 확인: 내보험찾아줌 또는 보험사 앱
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 참여 의료기관·약국의 범위와 참여율은 계속 변동됩니다. 특정 병원 종별을 단정하지 않았습니다
+ · 세대별 자기부담률과 통원 공제금액은 상품별로 달라 구체 수치를 적지 않았습니다
+ · 실손24 앱의 세부 화면 구성과 기능은 업데이트로 바뀔 수 있어 단계 설명만 적었습니다
+ · 고액 청구 시 추가 서류 요청 기준은 보험사별 내부 기준이라 "요청받을 수 있다"로만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "소액이라 미룬 진료비가 있었고 밀린 것을 한 번에 넣었다"는 설정입니다

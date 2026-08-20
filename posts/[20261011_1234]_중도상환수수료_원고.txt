@@ -1,0 +1,222 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 11일 12:34
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261011_1234]_중도상환수수료\
+   ├── 📄 [원고 파일]: [20261011_1234]_중도상환수수료_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-prepayfee.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261011_1234]_중도상환수수료_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-prepayfee.html
+
+■ 제목: 중도상환수수료 계산법과 면제 조건. 3년 슬라이딩 구조 이해하기
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 중도상환수수료, 대출조기상환, 중도상환수수료면제, 슬라이딩방식, 대출상환순서, 주담대상환, 수수료계산법
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>중도상환수수료 계산법과 면제 조건. 3년 슬라이딩 구조 이해하기</p>
+
+<h2>빨리 갚는데 왜 돈을 더 내나요</h2>
+
+<p>중도상환수수료는 대출을 <b>약속한 기간보다 빨리 갚을 때</b> 은행에 내는 돈입니다. 대출 실행일로부터 <b>3년</b>이 기준이에요.</p>
+
+<p>결론부터 말하면 <b>3년만 지나면 수수료가 0원</b>입니다. 그 안에 갚으면 남은 기간에 비례해서 줄어드는 구조고요.</p>
+
+<p>계산식은 <b>상환금액 × 수수료율 × 남은 기간 ÷ 3년</b>입니다. 이걸 슬라이딩 방식이라고 부릅니다.</p>
+
+<p>여윳돈이 생겨서 대출을 갚으려다 수수료 얘기를 듣고 멈칫한 적이 있거든요. 계산해보니 시점이 중요하더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">시간이 지날수록 줄어듭니다</div>
+<div style="background:#fafbfc;padding:22px 18px;">
+<div style="display:flex;align-items:flex-end;gap:12px;height:132px;">
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#1f4a7a;margin-bottom:6px;">100%</div>
+<div style="background:#c0554a;height:104px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#546e80;font-weight:700;margin-top:6px;">1년 차</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#1f4a7a;margin-bottom:6px;">67%</div>
+<div style="background:#d98a4a;height:70px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#546e80;font-weight:700;margin-top:6px;">2년 차</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#1f4a7a;margin-bottom:6px;">33%</div>
+<div style="background:#e8b34a;height:36px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#546e80;font-weight:700;margin-top:6px;">3년 차</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:14px;font-weight:800;color:#1d7050;margin-bottom:6px;">0%</div>
+<div style="background:#9dd3c5;height:8px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#546e80;font-weight:700;margin-top:6px;">3년 후</div>
+</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>수수료는 <b>대출 실행일로부터 3년</b>에 걸쳐 점점 줄어듭니다</li>
+<li>3년이 지나면 <b>수수료가 없습니다</b></li>
+<li>계산은 <b>상환금액 × 수수료율 × 잔여일수 ÷ 3년</b>으로 합니다</li>
+</ul>
+
+<h2>실제로 계산해봅시다</h2>
+
+<p>1억원을 갚는데 수수료율이 1.2%이고 대출한 지 1년이 지났다고 해봅시다.</p>
+
+<p>남은 기간은 2년입니다. <b>1억 × 1.2% × 2년 ÷ 3년</b>을 계산하면 80만원이 나옵니다.</p>
+
+<p>같은 조건에서 2년이 지났다면 남은 기간이 1년이니 <b>40만원</b>으로 줄어듭니다.</p>
+
+<blockquote>
+<p>1억 × 1.2% × (남은 기간 ÷ 3년)</p>
+<p>1년 경과 시 80만원, 2년 경과 시 40만원</p>
+</blockquote>
+
+<h3>수수료율은 어디서 확인하나요?</h3>
+
+<p><b>대출 약정서</b>에 적혀 있습니다. 은행 앱의 대출 상세 화면에서도 볼 수 있어요.</p>
+
+<p>담보대출이 신용대출보다 수수료율이 높은 편입니다. 고정금리인지 변동금리인지에 따라서도 달라집니다.</p>
+
+<p>같은 조건인데 은행마다 요율이 다르더라고요.</p>
+
+<p>최근에는 은행이 <b>실제 발생 비용</b>을 기준으로 수수료율을 산정하도록 바뀌었습니다. 은행마다 차이가 생겼으니 비교해볼 만합니다.</p>
+
+<h2>수수료를 안 내는 경우도 있습니다</h2>
+
+<p>몇 가지 상황에서는 면제되거나 아예 부과되지 않습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#d8e6f3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">수수료가 없는 경우</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#1d7050;flex-shrink:0;display:flex;align-items:center;justify-content:center;"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M5 10l4 4 7-8" stroke="#fff" stroke-width="2.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">대출 후 3년이 지난 경우</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#1d7050;flex-shrink:0;display:flex;align-items:center;justify-content:center;"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M5 10l4 4 7-8" stroke="#fff" stroke-width="2.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">약정 한도 안에서 일부만 갚는 경우</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#1d7050;flex-shrink:0;display:flex;align-items:center;justify-content:center;"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M5 10l4 4 7-8" stroke="#fff" stroke-width="2.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">수수료 면제 조건이 붙은 상품</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:34px;height:34px;border-radius:50%;background:#1d7050;flex-shrink:0;display:flex;align-items:center;justify-content:center;"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M5 10l4 4 7-8" stroke="#fff" stroke-width="2.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">정책금융 상품 중 면제 대상</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>많은 은행이 <b>연간 일정 비율</b>까지는 수수료 없이 상환하게 해줍니다</li>
+<li>상품에 따라 <b>수수료 면제</b> 조건이 붙은 경우가 있습니다</li>
+<li>약정서에 <b>면제 한도</b>가 적혀 있으니 먼저 확인하세요</li>
+</ul>
+
+<h3>조금씩 나눠 갚는 방법</h3>
+
+<p>연간 면제 한도가 있다면 그 안에서 갚는 게 유리합니다. 예를 들어 원금의 10%까지 면제라면 <b>매년 10%씩</b> 갚는 거죠.</p>
+
+<p>한꺼번에 다 갚는 것보다 수수료가 훨씬 적게 듭니다. 대신 이자를 조금 더 내게 되니 비교해봐야 합니다.</p>
+
+<h2>갈아타기와 어떻게 연결되나요?</h2>
+
+<p>대출을 다른 은행으로 옮기면 기존 대출을 <b>전액 상환</b>하는 게 됩니다. 그러면 수수료가 발생해요.</p>
+
+<p>새 대출의 금리가 낮아 아끼는 이자와 <b>수수료</b>를 비교해야 합니다. 여기서 실익이 갈립니다.</p>
+
+<p>금리 차이가 크지 않은데 대출 초기라면 갈아타기가 손해일 수 있습니다. 3년이 다 되어갈 때가 유리한 시점이고요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">비교할 것</div><div style="flex:1;text-align:right;">확인 포인트</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">남은 수수료</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">은행 앱에서 조회</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">금리 차이</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">연간 절감 이자</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">부대비용</div>
+<div style="flex:1;text-align:right;font-size:13px;color:#6b7885;">근저당 설정·말소</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">회수 기간</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">몇 달 만에 회수되나</div>
+</div>
+</div>
+
+<ul>
+<li>남은 <b>중도상환수수료</b>는 은행 앱에서 바로 조회됩니다</li>
+<li>절감되는 이자로 수수료를 <b>몇 달 만에 회수</b>하는지 계산합니다</li>
+<li>근저당 설정과 말소 <b>부대비용</b>도 함께 넣어야 정확합니다</li>
+</ul>
+
+<h2>상환 순서도 챙기세요</h2>
+
+<p>대출이 여러 개면 <b>금리가 높은 것부터</b> 갚는 게 원칙입니다.</p>
+
+<p>다만 수수료가 붙는 대출과 안 붙는 대출이 섞여 있으면 계산이 달라집니다. 수수료가 없는 쪽을 먼저 정리하는 게 나을 수 있어요.</p>
+
+<p>신용점수를 생각하면 <b>2금융권 대출</b>부터 정리하는 것도 방법입니다. 같은 금액이어도 신용평가에서 다르게 봅니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">상환 전에</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">다 갚고 나면 <b style="color:#ffd97a;">근저당 말소</b>를 꼭 처리하세요. 자동으로 지워지지 않습니다. 그대로 두면 나중에 집을 팔거나 다시 대출받을 때 <b style="color:#ff8a7a;">걸림돌</b>이 됩니다. 은행에서 서류를 받아 등기소에 넣으면 됩니다.</p>
+</div>
+
+<ul>
+<li>대출을 다 갚아도 <b>근저당은 자동으로 말소되지 않습니다</b></li>
+<li>은행에서 <b>해지 서류</b>를 받아 등기 말소를 처리해야 합니다</li>
+<li>말소를 미루면 <b>매매나 재대출</b> 때 문제가 됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>중도상환수수료는 대출 실행일로부터 3년에 걸쳐 줄어든다</p>
+<p>계산은 상환금액 × 수수료율 × 남은 기간 ÷ 3년이다</p>
+<p>3년이 지나면 수수료가 없어진다</p>
+<p>연간 면제 한도 안에서 나눠 갚으면 수수료를 아낄 수 있다</p>
+<p>갈아타기는 수수료와 절감 이자를 비교해 실익을 따진다</p>
+</blockquote>
+
+<p>여윳돈이 생겼을 때 무조건 갚는 게 답은 아닙니다. 시점에 따라 수수료가 확 달라지거든요.</p>
+
+<p>은행 앱에서 <b>중도상환수수료 조회</b>부터 눌러보세요. 숫자를 보고 결정하면 후회가 없지.</p>
+
+<p>상품별 수수료율과 면제 조건은 약정서마다 다르니 거래 은행에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 중도상환수수료: 대출 실행일로부터 통상 3년 부과, 이후 면제
+ · 계산 구조(슬라이딩 방식): 상환금액 × 수수료율 × 잔여기간 ÷ 3년
+ · 수수료율은 대출 약정서에 명시, 담보대출이 신용대출보다 높은 경향
+ · 금융당국 개선에 따라 은행이 실제 발생 비용을 기준으로 수수료율을 산정하도록 변경되어 은행별 차이 발생
+ · 다수 은행이 연간 일정 비율까지 수수료 없이 일부 상환 허용 (약정서에 명시)
+ · 대환(갈아타기) 시 기존 대출 전액 상환으로 수수료 발생, 근저당 설정·말소 부대비용 별도
+ · 대출 완제 후 근저당권 말소는 자동으로 처리되지 않으며 별도 등기 절차 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 수수료율(예시로 든 1.2%)은 계산 설명용 가정이며 실제 요율은 상품·은행별로 다릅니다
+ · 연간 면제 한도 비율은 은행·상품별로 달라 "약정서 확인"으로 안내했습니다
+ · 정책금융 상품의 면제 여부는 상품별로 달라 대표적으로만 언급했습니다
+ · 부과 기간이 3년이 아닌 상품도 있을 수 있어 "통상"의 의미로 서술했습니다
+ · 상환 순서와 신용점수의 관계는 평가사 기준에 따라 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "여윳돈이 생겨 갚으려다 수수료 얘기에 멈칫했다"는 설정입니다

@@ -1,0 +1,229 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 4일 12:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261004_1238]_전세보증금_반환보증\
+   ├── 📄 [원고 파일]: [20261004_1238]_전세보증금_반환보증_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-jeonsebo.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261004_1238]_전세보증금_반환보증_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-jeonsebo.html
+
+■ 제목: 전세보증금 반환보증 가입조건과 보증료. 전세가율 90% 기준과 거절 사유 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 전세보증금반환보증, HUG전세보증, 전세보증보험, 전세가율90, 보증료계산, 깡통전세, 전세사기예방
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>전세보증금 반환보증 가입조건과 보증료. 전세가율 90% 기준과 거절 사유 정리</p>
+
+<h2>집주인이 안 줘도 기관이 대신 줍니다</h2>
+
+<p>전세보증금 반환보증은 계약이 끝났는데 집주인이 보증금을 안 돌려줄 때 <b>보증기관이 대신 지급</b>하는 상품입니다.</p>
+
+<p>결론부터 말하면 <b>전세가율 90%</b>가 통과의 첫 관문입니다. 집값 대비 전세금 비율이 이걸 넘으면 가입이 안 됩니다.</p>
+
+<p>운영 기관은 <b>주택도시보증공사(HUG)</b>, <b>한국주택금융공사(HF)</b>, <b>서울보증보험(SGI)</b> 세 곳입니다. 조건이 조금씩 달라요.</p>
+
+<p>계약할 때 가입이 될 집인지부터 확인하는 게 순서입니다. 계약금 넣고 나서 안 된다는 걸 알면 그때는 늦더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#334f6d;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">가입 여부를 가르는 두 숫자</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;text-align:center;">
+<div style="font-size:12.5px;color:#334f6d;font-weight:800;">전세가율</div>
+<div style="font-size:40px;font-weight:800;color:#334f6d;margin:8px 0;">90%</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">보증금 ÷ 주택가격<br />넘으면 가입 불가</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;text-align:center;">
+<div style="font-size:12.5px;color:#b8443a;font-weight:800;">선순위 채권</div>
+<div style="font-size:40px;font-weight:800;color:#b8443a;margin:8px 0;">주의</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">근저당이 크면<br />합산해서 판단합니다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>전세가율</b>은 보증금을 주택가격으로 나눈 비율입니다</li>
+<li>이 비율이 <b>90%</b>를 넘으면 원칙적으로 가입이 거절됩니다</li>
+<li>등기부에 잡힌 <b>선순위 채권</b>이 있으면 보증금과 합쳐서 판단합니다</li>
+</ul>
+
+<h2>주택가격은 어떻게 정해지나요?</h2>
+
+<p>내가 생각하는 시세가 아니라 <b>기관이 정한 산정 방식</b>을 따릅니다. 여기서 예상과 어긋나는 경우가 많아요.</p>
+
+<p>아파트는 <b>KB시세나 부동산원 시세</b>를 씁니다. 시세가 명확해서 계산이 쉬운 편입니다.</p>
+
+<p>빌라와 다세대는 시세가 잘 안 잡힙니다. 그래서 <b>공시가격에 일정 비율</b>을 곱한 값을 쓰거나 감정평가액을 봅니다.</p>
+
+<p>공시가격 기준으로 계산하면 실거래가보다 낮게 나오는 경우가 흔합니다. 빌라 전세가 가입이 어려워진 이유가 여기 있습니다.</p>
+
+<p>직접 계산해보면 실거래가와 차이가 생각보다 크더라고요.</p>
+
+<h3>선순위 채권이 뭔가요?</h3>
+
+<p>내 전세권보다 <b>먼저 잡혀 있는 빚</b>입니다. 집주인이 그 집을 담보로 받은 대출이 대표적이에요.</p>
+
+<p>경매로 넘어가면 이 채권이 내 보증금보다 먼저 배당받습니다. 그래서 보증기관이 위험하다고 보는 겁니다.</p>
+
+<p>계약 전에 <b>등기부등본</b>을 떼서 근저당권 설정액을 꼭 확인하세요. 채권최고액은 보통 실제 대출의 <b>110%에서 120%</b>로 잡혀 있습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef2f7,#dae2ec);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#334f6d;margin-bottom:16px;">이 순서대로 확인하세요</div>
+<div style="position:relative;padding-left:22px;">
+<div style="position:absolute;left:6px;top:8px;bottom:8px;width:3px;background:#b3c3d5;border-radius:2px;"></div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#334f6d;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">계약 전 · 등기부등본 확인</div>
+<div style="font-size:12.5px;color:#6b7885;">근저당·가압류·신탁 여부를 봅니다</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#4a6c8e;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">계약 시 · 특약 넣기</div>
+<div style="font-size:12.5px;color:#6b7885;">보증 가입 불가 시 계약 해제 조항</div>
+</div>
+<div style="position:relative;margin-bottom:14px;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#6b8aa8;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">잔금일 · 전입신고와 확정일자</div>
+<div style="font-size:12.5px;color:#6b7885;">대항력이 생기는 시점입니다</div>
+</div>
+<div style="position:relative;">
+<div style="position:absolute;left:-22px;top:5px;width:15px;height:15px;border-radius:50%;background:#93aac1;border:3px solid #fff;"></div>
+<div style="font-size:14px;font-weight:800;color:#22405c;">이후 · 보증 가입 신청</div>
+<div style="font-size:12.5px;color:#6b7885;">계약기간 절반이 지나기 전까지</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>계약 전에 <b>등기부등본</b>으로 선순위 채권을 반드시 확인합니다</li>
+<li>계약서에 <b>보증 가입 불가 시 계약 해제</b> 특약을 넣어두면 안전합니다</li>
+<li>보증 신청은 <b>계약기간 절반이 지나기 전</b>까지 해야 합니다</li>
+</ul>
+
+<h2>보증료는 얼마나 드나요?</h2>
+
+<p>보증료는 <b>보증금 × 보증료율 × 기간</b>으로 계산합니다. 한 번에 내거나 나눠 내는 방식이 있습니다.</p>
+
+<p>보증료율은 주택 유형과 부채비율에 따라 달라집니다. 아파트가 낮고 단독·다가구가 높은 편이에요.</p>
+
+<p>2억원짜리 전세를 2년 계약했다면 보증료가 <b>수십만원</b> 수준으로 나옵니다. 보증금 규모를 생각하면 비싼 편은 아닙니다.</p>
+
+<blockquote>
+<p>보증료 = 보증금 × 보증료율 × 보증기간 ÷ 365</p>
+<p>2억 전세 2년이면 대략 수십만원 선입니다</p>
+</blockquote>
+
+<h3>보증료를 지원받을 수도 있습니다</h3>
+
+<p>청년과 신혼부부를 대상으로 <b>보증료를 지원</b>하는 사업이 지자체마다 있습니다.</p>
+
+<p>소득과 나이, 보증금 상한 요건을 채우면 낸 보증료의 전부 또는 일부를 돌려받습니다.</p>
+
+<p>다만 지자체 예산 사업이라 지역마다 조건이 다릅니다. 거주지 시군구 홈페이지를 확인해보세요.</p>
+
+<h2>가입이 거절되는 흔한 경우</h2>
+
+<p>가장 흔한 건 <b>전세가율 초과</b>입니다. 특히 빌라에서 공시가격 기준으로 계산했을 때 많이 걸립니다.</p>
+
+<p>등기부에 <b>압류나 가압류</b>가 있으면 안 됩니다. 신탁등기가 되어 있는 집도 조건이 까다로워요.</p>
+
+<p>계약기간이 <b>1년 미만</b>이면 대상이 아니고, 이미 계약기간의 절반이 지났어도 신청할 수 없습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.6;">이런 경우</div><div style="flex:1;text-align:right;">가입 여부</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.6;font-size:13.5px;font-weight:700;">전세가율 90% 초과</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">거절</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.6;font-size:13.5px;font-weight:700;">압류·가압류 등기</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">거절</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.6;font-size:13.5px;font-weight:700;">계약기간 1년 미만</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">대상 아님</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.6;font-size:13.5px;font-weight:700;">계약기간 절반 경과</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">신청 기한 지남</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.6;font-size:13.5px;font-weight:700;">아파트·전세가율 80%</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">가입 가능</div>
+</div>
+</div>
+
+<ul>
+<li><b>전세가율 초과</b>와 <b>압류·가압류</b>가 대표적인 거절 사유입니다</li>
+<li>계약기간이 <b>1년 미만</b>이면 애초에 대상이 아닙니다</li>
+<li>계약기간의 <b>절반</b>이 지나면 신청 자체가 안 됩니다</li>
+</ul>
+
+<h2>보증에 들었다고 끝이 아닙니다</h2>
+
+<p>계약이 끝나기 전에 <b>계약 해지 통보</b>를 제대로 해야 합니다. 묵시적 갱신이 되면 절차가 복잡해져요.</p>
+
+<p>보통 계약 만료 <b>6개월 전부터 2개월 전까지</b> 사이에 갱신하지 않겠다는 뜻을 명확히 전합니다. 문자나 내용증명으로 기록을 남기세요.</p>
+
+<p>이사를 나가더라도 <b>전입신고를 함부로 빼면 안 됩니다.</b> 대항력이 사라져서 보증에도 영향이 갑니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">놓치면 큰일</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">보증금을 못 받고 이사해야 한다면 <b style="color:#ffd97a;">임차권등기명령</b>을 먼저 신청하세요. 등기가 완료된 뒤에 나가야 대항력과 우선변제권이 유지됩니다. <b style="color:#ff8a7a;">먼저 나가고 나중에 신청하면</b> 순위를 잃을 수 있습니다.</p>
+</div>
+
+<ul>
+<li>만료 전 <b>갱신 거절 의사</b>를 기록이 남는 방법으로 통보합니다</li>
+<li>보증금을 못 받았으면 <b>임차권등기명령</b>부터 신청합니다</li>
+<li>등기가 끝나기 전에 <b>전입신고를 빼면</b> 순위가 사라집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>전세가율 90%를 넘으면 원칙적으로 가입이 안 된다</p>
+<p>빌라는 공시가격 기준으로 주택가격을 잡아 계산이 불리할 수 있다</p>
+<p>선순위 채권은 보증금과 합산해서 판단한다</p>
+<p>신청은 계약기간 절반이 지나기 전까지 해야 한다</p>
+<p>보증금을 못 받고 이사할 땐 임차권등기명령을 먼저 마친다</p>
+</blockquote>
+
+<p>가입이 될 집인지부터 확인하고 계약하는 게 순서입니다. 특약 한 줄이 나중에 계약금을 지켜줍니다.</p>
+
+<p>몇십만원 아끼려다 몇억을 걸 수는 없잖아요. 저라면 무조건 듭니다. 이건 고민할 문제가 아니지.</p>
+
+<p>기관별로 요건과 보증료율이 달라서 HUG나 HF 홈페이지에서 본인 조건으로 조회해보시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 전세보증금 반환보증 운영기관: 주택도시보증공사(HUG), 한국주택금융공사(HF), 서울보증보험(SGI)
+ · HUG 기준 전세가율 90% 이하 요건 (선순위채권 + 보증금 합산 기준)
+ · 주택가격 산정: 아파트는 KB시세·부동산원 시세, 빌라·다세대는 공시가격 적용 비율 또는 감정평가액
+ · 근저당 채권최고액은 통상 실제 대출액의 110~120%로 설정
+ · 보증료 = 보증금 × 보증료율 × 보증기간 ÷ 365 (주택유형·부채비율에 따라 요율 차등)
+ · 신청 기한: 전세계약기간의 1/2이 경과하기 전
+ · 계약기간 1년 미만은 대상 제외, 압류·가압류 등기 시 가입 제한
+ · 청년·신혼부부 대상 지자체 보증료 지원사업 운영
+ · 보증금 미반환 시 임차권등기명령 완료 후 이사해야 대항력·우선변제권 유지
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 전세가율 기준(90%)과 공시가격 적용 비율은 정책 변경 이력이 있어 발행 전 HUG 최신 기준 확인 필수
+ · 보증료율은 기관·주택유형·부채비율별로 세분되어 구체 요율을 적지 않았습니다
+ · "2억 전세 2년이면 수십만원"은 개략 수준으로만 표현했습니다
+ · 지자체 보증료 지원 요건(소득·나이·보증금 상한)은 지역별 편차가 커서 문의로 안내했습니다
+ · 신탁등기 물건의 가입 가능 여부는 사안별로 달라 "조건이 까다롭다"로만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "계약금 넣고 나서 가입 불가를 알면 늦다"는 일반적 주의 환기로, 특정 경험 서술은 아닙니다

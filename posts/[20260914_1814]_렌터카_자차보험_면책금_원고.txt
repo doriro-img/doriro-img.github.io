@@ -1,0 +1,199 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 14일 18:14
+■ 제목: 렌터카 자차보험 면책금 기준. 완전면책과 휴차보상료 함정 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 렌터카자차보험, 면책금, 완전면책, 휴차보상료, 렌터카사고
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260914_1814]_렌터카_자차보험_면책금\
+   ├── 📄 [원고 파일]: [20260914_1814]_렌터카_자차보험_면책금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_rentcar.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260914_1814]_렌터카_자차보험_면책금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_rentcar.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>렌터카 자차보험 면책금 기준. 완전면책과 휴차보상료 함정 정리</p>
+
+<h2>자차 들었다고 0원이 아닙니다</h2>
+
+<p>렌터카 자차보험에 가입해도 사고가 나면 <b>면책금</b>을 냅니다. 자기부담금이라고도 해요.</p>
+
+<p>결론부터 말하면 진짜 함정은 면책금이 아니라 <b>휴차보상료</b>입니다. 차를 수리하는 동안 못 빌려준 손실을 따로 청구하거든요.</p>
+
+<p>자차만 들면 다 되는 줄 알았다가 반납할 때 추가 청구서를 받는 경우가 많습니다.</p>
+
+<p>연휴에 제주에서 렌터카를 빌렸다가 문콕 하나로 실랑이한 적이 있는데, 그때 면책 조건을 제대로 안 읽은 게 문제였더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a83a52;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">렌터카 사고 때 나가는 돈 3가지</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 170px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">1. 면책금</div>
+<div style="font-size:19px;font-weight:800;color:#a83a52;letter-spacing:-0.6px;">자기부담금</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">사고당 정액</div>
+</div>
+<div style="flex:1 1 170px;padding:18px 12px;text-align:center;border-right:1px solid #eef1f4;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">2. 휴차보상료</div>
+<div style="font-size:19px;font-weight:800;color:#b8463a;letter-spacing:-0.6px;">영업 손실</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">수리 기간만큼</div>
+</div>
+<div style="flex:1 1 170px;padding:18px 12px;text-align:center;">
+<div style="font-size:12px;color:#8a929c;font-weight:700;margin-bottom:6px;">3. 감가상각비</div>
+<div style="font-size:19px;font-weight:800;color:#9a6413;letter-spacing:-0.6px;">가치 하락</div>
+<div style="font-size:12px;color:#5a6672;margin-top:6px;">청구하는 곳도 있음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>면책금</b>은 사고가 났을 때 내는 정해진 자기부담금입니다</li>
+<li><b>휴차보상료</b>는 수리 기간 동안의 영업 손실을 청구하는 항목입니다</li>
+<li>업체에 따라 <b>감가상각비</b>까지 청구하는 경우가 있습니다</li>
+</ul>
+
+<p>자차보험은 <b>수리비를 처리</b>해주는 겁니다. 휴차보상료는 별개라 그것까지 면제되는지 확인하셔야 해요.</p>
+
+<h2>완전면책이 뭔가요</h2>
+
+<p>면책금을 <b>0원으로</b> 만들어주는 상품입니다. 요금이 더 비싸죠.</p>
+
+<p>이름이 업체마다 다릅니다. 완전자차, 슈퍼자차, 프리미엄 커버 같은 식으로요.</p>
+
+<p>중요한 건 이름이 아니라 <b>무엇까지 면제되느냐</b>입니다. 계약서의 보장 범위를 봐야 합니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">확인할 항목</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">면책금이 정말 0원인가<br />휴차보상료도 면제되는가<br />타이어·유리도 포함인가<br />단독 사고도 보장되는가</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">보통 제외되는 것</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">음주·무면허 운전<br />등록되지 않은 사람의 운전<br />타이어·휠·유리 단독 파손<br />차량 내부 오염·분실</div>
+</div>
+</div>
+
+<ul>
+<li>완전면책이어도 <b>휴차보상료가 별도</b>인 상품이 있습니다</li>
+<li><b>타이어와 유리</b> 단독 파손은 보장에서 빠지는 경우가 많습니다</li>
+<li><b>등록하지 않은 사람</b>이 운전하다 사고가 나면 보장이 전부 무효입니다</li>
+</ul>
+
+<p>운전자 등록이 정말 중요합니다. 친구랑 번갈아 운전할 계획이면 <b>둘 다 등록</b>하셔야 해요.</p>
+
+<p>등록 안 한 사람이 몰다가 사고 나면 자차든 완전면책이든 <b>전부 본인 부담</b>입니다.</p>
+
+<h2>신용카드 혜택도 확인하세요</h2>
+
+<p>일부 신용카드는 <b>렌터카 손해 보상</b> 서비스를 제공합니다. 카드로 결제하면 자동 적용되는 방식이에요.</p>
+
+<p>이게 있으면 굳이 비싼 완전면책을 안 사도 되는 경우가 있습니다.</p>
+
+<p>다만 보상 한도와 조건이 있으니 <b>미리 카드사에 확인</b>하시는 게 좋습니다. 나라별로 적용이 다르기도 하고요.</p>
+
+<p>해외에서는 <b>이 혜택이 특히 유용</b>합니다. 현지 렌터카 회사가 파는 보험이 비싸거든요.</p>
+
+<h2>빌릴 때와 반납할 때</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 150px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">인수 전</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">차량 촬영</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">사방·내부까지</div>
+</div>
+<div style="flex:1 1 150px;background:#f9eef0;border:1px solid #ecd0d6;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#a83a52;margin-bottom:5px;">인수 시</div>
+<div style="font-size:15px;font-weight:800;color:#4d2028;">기존 흠집 기록</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">직원과 함께</div>
+</div>
+<div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">반납 시</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">다시 촬영</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">주유 상태까지</div>
+</div>
+</div>
+
+<ul>
+<li>인수 전에 <b>차량 사방과 내부를 촬영</b>해둡니다</li>
+<li>기존 흠집은 <b>직원과 함께 확인</b>하고 서류에 기록합니다</li>
+<li>반납할 때도 <b>다시 촬영</b>해두면 나중에 분쟁을 막습니다</li>
+</ul>
+
+<p>사진에 <b>날짜와 시간</b>이 남게 찍으세요. 이게 제일 확실하더라고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">사고 나면 이 순서</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">아무리 작아도 <b style="color:#7ee0b0;">렌터카 회사에 먼저 연락</b>하세요. 임의로 정비소에 맡기면 보장이 안 됩니다. 상대가 있는 사고면 <b style="color:#ffd97a;">경찰 신고</b>도 함께요. 현장에서 합의하고 넘어가면 나중에 더 커집니다.</p>
+</div>
+
+<ul>
+<li>사고가 나면 <b>렌터카 회사에 먼저</b> 연락합니다</li>
+<li>임의로 <b>수리를 맡기면</b> 보장을 못 받을 수 있습니다</li>
+<li>상대 차량이 있으면 <b>경찰 신고</b>를 함께 진행합니다</li>
+</ul>
+
+<h2>해외 렌터카는 이름이 다릅니다</h2>
+
+<p>해외에서는 <b>CDW</b>라는 이름을 씁니다. 자차보험에 해당하는 상품이에요.</p>
+
+<p>여기에 면책금을 줄이는 <b>SCDW</b>나 슈퍼커버가 따로 있습니다. 우리나라 완전면책과 비슷한 개념이고요.</p>
+
+<p>대인·대물 배상은 <b>또 별개</b>입니다. 상대방 피해까지 보장되는지 반드시 확인하셔야 합니다.</p>
+
+<p>보증금을 카드로 잡아두는 방식이 일반적이라 <b>한도가 넉넉한 신용카드</b>를 가져가시는 게 좋습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>자차보험에 들어도 사고 시 면책금은 따로 낸다</p>
+<p>진짜 부담은 수리 기간 동안 청구되는 휴차보상료다</p>
+<p>완전면책 상품도 휴차보상료 면제 여부를 따로 확인해야 한다</p>
+<p>등록하지 않은 사람이 운전하면 보장이 전부 무효가 된다</p>
+<p>인수와 반납 때 사진을 찍어두면 분쟁을 막을 수 있다</p>
+</blockquote>
+
+<p>요금이 싸다고 보험을 빼면 사고 한 번에 몇 배가 나갑니다. 이건 아끼는 항목이 아니에요.</p>
+
+<p>대신 신용카드 혜택이 있으면 그걸 먼저 확인해보세요. 중복해서 살 필요는 없으니까요.</p>
+
+<p>면책금 금액과 휴차보상료 산정 방식은 업체마다 다르니 계약 전에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처
+ · 렌터카 사고 시 부담: 면책금(자기부담금), 휴차보상료, 업체에 따라 감가상각비
+ · 자차보험은 수리비를 처리하는 것으로 휴차보상료는 별도인 경우가 있음
+ · 완전면책(완전자차·슈퍼자차 등)은 면책금을 면제하는 상품이며 보장 범위가 업체별로 다름
+ · 등록되지 않은 운전자의 사고는 보장 제외
+ · 해외 렌터카는 CDW / SCDW 체계, 대인·대물 배상은 별도
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 면책금 금액과 휴차보상료 산정 기준은 업체별 편차가 커서 수치를 적지 않았습니다
+ · 신용카드 렌터카 보상 서비스의 한도·조건은 카드사별로 달라 금액을 적지 않았습니다
+ · 타이어·유리 단독 파손의 보장 여부는 상품별로 달라 "많다"로 표기했습니다
+ · 감가상각비 청구의 적법성은 다툼이 있는 영역이라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "제주에서 문콕으로 실랑이했다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_rentcar.html 저장 후
+  node make-art.cjs tc_rentcar   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#f9eef0,#ecd0d6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#4d2028;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#a83a52;color:#fff;border-radius:26px;padding:18px 30px;font-size:30px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">숨은 청구</span>휴차료</div>
+<div style="align-self:flex-start;background:#a83a52;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">렌터카</div>
+<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">자차보험 면책금<br /><span style="color:#a83a52;">0원이 아닙니다</span></div>
+<div style="margin-top:28px;font-size:25px;color:#8a5060;font-weight:600;">반납할 때 청구서가 또 옵니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#b58794;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝

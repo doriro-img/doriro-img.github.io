@@ -4,24 +4,32 @@
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { background: #fff; }
   #art { width: 800px; height: 800px; padding: 74px 64px;
-    background: linear-gradient(160deg,#f9eef0,#ecd0d6);
-    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #4d2028;
+    background: linear-gradient(160deg,#faf5eb,#e9dbbf);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #4a3616;
     display: flex; flex-direction: column; justify-content: center; position: relative; }
-  .tag { display: inline-block; align-self: flex-start; background: #a83a52; color: #fff;
+  .tag { display: inline-block; align-self: flex-start; background: #7a5c2e; color: #fff;
     font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
-  h1 { font-size: 56px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
-  h1 .hl { color: #a83a52; }
-  .sub { margin-top: 28px; font-size: 25px; color: #8a5060; font-weight: 600; }
-  .sub b { color: #1d7050; }
-  .badge { position: absolute; top: 130px; right: 64px; background: #a83a52; color: #fff;
-    border-radius: 26px; padding: 18px 30px; font-size: 34px; font-weight: 800; letter-spacing: -1px; }
+  h1 { font-size: 58px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #7a5c2e; }
+  .sub { margin-top: 28px; font-size: 25px; color: #8a7250; font-weight: 600; }
+  .sub b { color: #6b4f22; }
+  .badge { position: absolute; top: 118px; right: 64px; background: #7a5c2e; color: #fff;
+    border-radius: 26px; padding: 20px 30px; font-size: 40px; font-weight: 800; text-align: center; }
   .badge small { display: block; font-size: 17px; font-weight: 700; opacity: .9; margin-bottom: 4px; }
-  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #b58794; font-weight: 700; }
+  .scene { position: absolute; bottom: 106px; left: 64px; }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #b09a72; font-weight: 700; }
 </style>
 <div id="art">
-  <div class="badge"><small>만원 이하</small>247</div>
-  <div class="tag">기초연금 2026</div>
-  <h1>단독 247만원<br /><span class="hl">부부 395만원</span></h1>
-  <p class="sub">소득인정액이 <b>이 아래</b>면</p>
+  <div class="badge"><small>어르신 중</small>하위 70%</div>
+  <div class="tag">만 65세 이상</div>
+  <h1>기초연금<br /><span class="hl">소득인정액 계산</span></h1>
+  <p class="sub">집 있어도 <b>받는 경우가 많습니다</b></p>
+  <svg class="scene" width="250" height="104" viewBox="0 0 250 104">
+    <path d="M44 6l40 32v62H4V38z" fill="#fff" stroke="#7a5c2e" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="32" y="62" width="24" height="38" fill="#dcc9a3"/>
+    <path d="M100 54h30M120 44l12 10-12 10" stroke="#7a5c2e" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="146" y="26" width="100" height="58" rx="10" fill="#7a5c2e"/>
+    <text x="196" y="64" font-family="Pretendard,'Malgun Gothic',sans-serif" font-size="30" font-weight="800" fill="#fff" text-anchor="middle">×4%</text>
+  </svg>
   <div class="foot">heelovee.tistory.com</div>
 </div>

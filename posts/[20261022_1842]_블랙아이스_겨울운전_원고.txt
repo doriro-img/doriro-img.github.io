@@ -1,0 +1,223 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 22일 18:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261022_1842]_블랙아이스_겨울운전\
+   ├── 📄 [원고 파일]: [20261022_1842]_블랙아이스_겨울운전_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-blackice.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261022_1842]_블랙아이스_겨울운전_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-blackice.html
+
+■ 제목: 블랙아이스 생기는 곳과 대처법. 겨울 새벽 운전 감속 기준 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 블랙아이스, 겨울철운전, 결빙구간, 살얼음도로, 감속운전, 교량터널출구, ABS브레이크
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>블랙아이스 생기는 곳과 대처법. 겨울 새벽 운전 감속 기준 정리</p>
+
+<h2>눈에 안 보이는 게 가장 위험합니다</h2>
+
+<p>블랙아이스는 도로 표면에 <b>얇게 얼어붙은 살얼음</b>입니다. 아스팔트 색이 그대로 비쳐서 보이지 않아요.</p>
+
+<p>결론부터 말하면 <b>생기는 장소가 정해져</b> 있습니다. 그곳만 알아도 사고를 크게 줄입니다.</p>
+
+<p>교량 위, 터널 출입구, <b>그늘진 커브</b>, 산모퉁이가 대표적입니다.</p>
+
+<p>같은 도로인데 그 구간만 유독 미끄럽더라고요. 노면 온도가 다른 곳보다 낮아서 그렇습니다.</p>
+
+<div style="border:1px solid #e2e6e8;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3d5566;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">여기가 위험합니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;">교량 위</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">아래도 찬 공기라 빨리 업니다</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;">터널 출입구</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">온도 차가 크게 벌어집니다</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;">그늘진 커브</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">해가 안 들어 안 녹습니다</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e6eaec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;">하천·저수지 옆</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">습기가 많아 얼기 쉽습니다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>교량</b>은 아래에서도 찬 공기가 닿아 도로보다 빨리 업니다</li>
+<li><b>터널 출입구</b>는 안팎 온도 차로 살얼음이 잘 생깁니다</li>
+<li>해가 들지 않는 <b>그늘 구간</b>은 낮에도 얼어 있을 수 있습니다</li>
+</ul>
+
+<h2>언제 조심해야 하나요?</h2>
+
+<p><b>새벽과 이른 아침</b>이 가장 위험합니다. 밤새 기온이 떨어져 노면이 얼거든요.</p>
+
+<p>기온이 영상이어도 <b>노면 온도</b>는 더 낮을 수 있습니다. 온도계만 믿으면 안 됩니다.</p>
+
+<p>비나 눈이 온 다음 날 아침이 특히 위험합니다. 젖은 노면이 밤사이 그대로 업니다.</p>
+
+<p>낮에 녹았다가 저녁에 다시 어는 <b>재결빙</b>도 조심해야 합니다.</p>
+
+<blockquote>
+<p>기온이 아니라 노면 온도가 기준입니다</p>
+<p>비 온 다음 날 새벽이 가장 위험합니다</p>
+</blockquote>
+
+<h3>어떻게 알아채나요?</h3>
+
+<p>노면이 유난히 <b>검고 반질반질</b>해 보이면 의심하세요. 젖은 것처럼 보이는데 물이 튀지 않으면 얼음입니다.</p>
+
+<p>앞차의 <b>물보라가 갑자기 사라지면</b> 그 구간이 얼어 있을 수 있습니다.</p>
+
+<p>핸들이 갑자기 <b>가벼워지는 느낌</b>이 들면 이미 접지력을 잃은 상태입니다.</p>
+
+<h2>미끄러지면 어떻게 하나요?</h2>
+
+<p>본능적으로 <b>브레이크를 세게 밟게</b> 되는데 그러면 더 미끄러집니다.</p>
+
+<p>먼저 <b>가속페달에서 발을 뗍니다.</b> 그리고 핸들을 <b>미끄러지는 방향</b>으로 살짝 돌립니다.</p>
+
+<p>차 뒤가 오른쪽으로 밀리면 핸들도 오른쪽으로 조금 돌리는 겁니다. 반대로 꺾으면 차가 돕니다.</p>
+
+<p>브레이크는 <b>나눠 밟습니다.</b> ABS가 있는 차는 밟은 상태를 유지하면 되고요.</p>
+
+<div style="background:linear-gradient(135deg,#eef3f6,#dae4ea);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3d5566;margin-bottom:16px;">미끄러졌을 때 순서</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">1</div>
+<div style="font-size:15px;font-weight:800;color:#2b3f4d;margin-top:5px;">가속 해제</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">발부터 뗍니다</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">2</div>
+<div style="font-size:15px;font-weight:800;color:#2b3f4d;margin-top:5px;">핸들 유지</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">급조작 금지</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#7a8b9c;">3</div>
+<div style="font-size:15px;font-weight:800;color:#2b3f4d;margin-top:5px;">밀리는 쪽으로</div>
+<div style="font-size:11.5px;color:#7a8b9c;margin-top:4px;">살짝만 조향</div>
+</div>
+<div style="flex:1 1 140px;background:#3d5566;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#b3c3d0;">4</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">나눠 제동</div>
+<div style="font-size:11.5px;color:#b3c3d0;margin-top:4px;">ABS면 유지</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>급브레이크와 <b>급조향</b>이 상황을 더 나쁘게 만듭니다</li>
+<li>핸들은 <b>차가 밀리는 방향</b>으로 살짝 돌립니다</li>
+<li>ABS 장착 차량은 <b>브레이크를 꾹 밟은 채</b> 유지합니다</li>
+</ul>
+
+<h2>예방이 훨씬 쉽습니다</h2>
+
+<p>결빙이 의심되면 <b>속도를 절반</b>으로 줄이세요. 법에도 감속 규정이 있습니다.</p>
+
+<p>노면이 얼어 있으면 <b>최고속도의 50%</b>를 줄여야 합니다. 눈이 20mm 이상 쌓였을 때도 마찬가지고요.</p>
+
+<p>앞차와의 거리를 <b>평소보다 두 배</b>로 벌립니다. 제동거리가 그만큼 길어집니다.</p>
+
+<p>커브에 들어가기 <b>전에</b> 속도를 줄이세요. 커브 안에서 브레이크를 밟으면 미끄러집니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">노면 상태</div><div style="flex:1;text-align:right;">감속 기준</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">비로 젖은 노면</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">20% 감속</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">노면 결빙</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">50% 감속</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">눈 20mm 이상</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">50% 감속</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">가시거리 100m 이내</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">50% 감속</div>
+</div>
+</div>
+
+<ul>
+<li>노면이 얼면 최고속도의 <b>50%</b>를 줄여야 합니다</li>
+<li>젖은 노면은 <b>20%</b> 감속이 기준입니다</li>
+<li>앞차와의 거리를 <b>두 배</b>로 벌리세요</li>
+</ul>
+
+<h2>사고가 나면 2차 사고를 조심하세요</h2>
+
+<p>결빙 구간은 <b>연쇄 추돌</b>이 잘 일어납니다. 뒤차도 똑같이 미끄러지거든요.</p>
+
+<p>사고가 나면 차 안에 있지 말고 <b>가드레일 밖</b>으로 대피하세요. 이게 생존을 좌우합니다.</p>
+
+<p>비상등을 켜고 <b>안전삼각대</b>를 세우되, 위험하면 무리하지 말고 먼저 대피합니다.</p>
+
+<p>고속도로에서는 <b>한국도로공사 콜센터</b>나 119에 신고하고 대피 위치를 알립니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">출발 전에</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">겨울 새벽 운전이라면 <b style="color:#ffd97a;">10분 일찍</b> 나서세요. 시간에 쫓기면 속도를 못 줄입니다. <b style="color:#ff8a7a;">결빙 취약구간 안내</b>가 내비게이션에 나오는 경우가 많으니 켜두고 가시고요.</p>
+</div>
+
+<ul>
+<li>결빙 구간은 <b>연쇄 추돌</b> 위험이 큽니다</li>
+<li>사고 시 차 안에 있지 말고 <b>가드레일 밖</b>으로 대피합니다</li>
+<li>내비게이션의 <b>결빙 취약구간 안내</b>를 켜두면 도움이 됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>블랙아이스는 교량, 터널 출입구, 그늘진 커브에 잘 생긴다</p>
+<p>기온이 영상이어도 노면 온도는 더 낮을 수 있다</p>
+<p>미끄러지면 가속을 풀고 밀리는 방향으로 핸들을 살짝 돌린다</p>
+<p>노면이 얼면 최고속도의 50%를 감속해야 한다</p>
+<p>사고가 나면 차에서 내려 가드레일 밖으로 대피한다</p>
+</blockquote>
+
+<p>위험 구간을 미리 알고 그곳에서만 속도를 줄여도 대부분 막을 수 있습니다.</p>
+
+<p>저는 겨울에 새벽 운전할 일이 있으면 무조건 일찍 나섭니다. 급하면 판단이 흐려지더라고요.</p>
+
+<p>도로 상황은 실시간으로 바뀌니 출발 전에 교통정보를 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 블랙아이스: 도로 표면에 형성된 얇고 투명한 결빙, 노면 색이 비쳐 육안 식별이 어려움
+ · 취약 구간: 교량 위, 터널 출입구, 그늘진 커브·산모퉁이, 하천·저수지 인근 등 노면 온도가 낮고 습기가 많은 곳
+ · 발생 시간: 야간~새벽 및 이른 아침, 강우·강설 다음 날, 낮 해빙 후 야간 재결빙
+ · 미끄러짐 대처: 가속페달 해제, 급조향·급제동 금지, 차가 밀리는 방향으로 소폭 조향, ABS 장착 차량은 브레이크 유지
+ · 도로교통법 시행규칙상 감속 운행 기준: 비로 노면이 젖은 때 최고속도의 20% 감속, 노면 결빙·눈 20mm 이상 적설·가시거리 100m 이내인 때 50% 감속
+ · 사고 시 2차 사고 예방을 위해 차량 밖 가드레일 외측 등 안전한 곳으로 대피 후 신고
+ · 내비게이션·도로 전광판의 결빙 취약구간 안내 활용
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 결빙 구간의 실제 마찰계수와 제동거리 증가 배수는 조건에 따라 크게 달라 수치를 적지 않았습니다
+ · "앞차와 거리를 두 배"는 통상 권장 수준으로 법정 기준은 아닙니다
+ · 차량별 안전장치(ESC 등) 작동 방식은 차종마다 달라 ABS 중심으로만 서술했습니다
+ · 고속도로 신고 번호는 기관 안내를 따르도록 하고 본문에 번호를 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "새벽 운전 시 일찍 나선다", "같은 도로에서 특정 구간만 미끄러웠다"는 설정입니다

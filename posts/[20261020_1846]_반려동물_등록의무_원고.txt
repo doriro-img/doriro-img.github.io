@@ -1,0 +1,225 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 20일 18:46
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261020_1846]_반려동물_등록의무\
+   ├── 📄 [원고 파일]: [20261020_1846]_반려동물_등록의무_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-petreg.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261020_1846]_반려동물_등록의무_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-petreg.html
+
+■ 제목: 반려견 동물등록 의무와 과태료. 내장형 외장형 차이와 변경신고 기한
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 동물등록제, 반려견등록, 내장형칩, 외장형인식표, 동물등록변경신고, 미등록과태료, 목줄길이
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>반려견 동물등록 의무와 과태료. 내장형 외장형 차이와 변경신고 기한</p>
+
+<h2>등록은 선택이 아니라 의무입니다</h2>
+
+<p>동물등록제는 <b>생후 2개월 이상</b>의 개를 키우면 반드시 등록해야 하는 제도입니다. 동물보호법에 정해져 있어요.</p>
+
+<p>결론부터 말하면 <b>등록하지 않으면 과태료</b>가 부과됩니다. 단속도 실제로 이뤄집니다.</p>
+
+<p>등록 방식은 <b>내장형</b>과 <b>외장형</b> 두 가지입니다. 각각 장단점이 있어요.</p>
+
+<p>저희 연근이도 등록해뒀는데, 잃어버렸을 때 찾을 확률이 완전히 달라지더라고요. 그게 등록의 본래 목적입니다.</p>
+
+<div style="border:1px solid #e5e0e2;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7a5c2e;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">두 가지 등록 방식</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfbf7;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #f0ece4;">
+<div style="font-size:12.5px;color:#1d7050;font-weight:800;margin-bottom:10px;">내장형</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">피부 아래 칩 삽입<br />분실 위험 없음<br />동물병원에서 시술<br />비용이 조금 더 듦</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;">
+<div style="font-size:12.5px;color:#9a6413;font-weight:800;margin-bottom:10px;">외장형</div>
+<div style="font-size:13px;color:#41586b;line-height:2;">목걸이형 인식표<br />떨어지면 무용지물<br />시술 없이 부착<br />저렴하고 간편</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>내장형</b>은 마이크로칩을 피부 아래에 넣어 분실 위험이 없습니다</li>
+<li><b>외장형</b>은 인식표를 다는 방식이라 떨어지면 소용이 없습니다</li>
+<li>잃어버렸을 때를 생각하면 <b>내장형</b>이 확실합니다</li>
+</ul>
+
+<h2>어디서 등록하나요?</h2>
+
+<p><b>동물등록 대행기관</b>으로 지정된 동물병원에서 합니다. 시군구청에서도 접수해요.</p>
+
+<p>내장형은 <b>수의사가 시술</b>해야 하니 동물병원으로 가야 합니다.</p>
+
+<p>등록하면 <b>동물등록번호</b>가 부여되고 동물보호관리시스템에 정보가 올라갑니다.</p>
+
+<p>지자체가 <b>내장형 등록 지원사업</b>을 하는 경우가 있습니다. 비용을 크게 낮춰주니 확인해보세요.</p>
+
+<h3>고양이도 등록되나요?</h3>
+
+<p>고양이는 <b>의무가 아니라 자율</b>입니다. 다만 등록 자체는 할 수 있습니다.</p>
+
+<p>고양이는 <b>내장형만</b> 가능합니다. 외장형 인식표로는 등록이 안 됩니다.</p>
+
+<p>의무는 아니어도 등록해두면 잃어버렸을 때 도움이 됩니다.</p>
+
+<div style="background:linear-gradient(135deg,#faf5eb,#eee2cb);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#7a5c2e;margin-bottom:16px;">등록 절차</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#8a7a5e;">1단계</div>
+<div style="font-size:15px;font-weight:800;color:#5c4520;margin-top:5px;">대행기관 확인</div>
+<div style="font-size:11.5px;color:#8a7a5e;margin-top:4px;">지정 동물병원</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#8a7a5e;">2단계</div>
+<div style="font-size:15px;font-weight:800;color:#5c4520;margin-top:5px;">방식 선택</div>
+<div style="font-size:11.5px;color:#8a7a5e;margin-top:4px;">내장형·외장형</div>
+</div>
+<div style="flex:1 1 140px;background:#fff;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#8a7a5e;">3단계</div>
+<div style="font-size:15px;font-weight:800;color:#5c4520;margin-top:5px;">등록 신청</div>
+<div style="font-size:11.5px;color:#8a7a5e;margin-top:4px;">신분증 지참</div>
+</div>
+<div style="flex:1 1 140px;background:#7a5c2e;border-radius:12px;padding:16px 12px;text-align:center;">
+<div style="font-size:11.5px;font-weight:800;color:#e0d3b8;">4단계</div>
+<div style="font-size:15px;font-weight:800;color:#fff;margin-top:5px;">등록증 수령</div>
+<div style="font-size:11.5px;color:#e0d3b8;margin-top:4px;">번호 부여</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>등록은 <b>지정 동물병원</b>이나 시군구청에서 합니다</li>
+<li>고양이는 <b>자율 등록</b>이고 내장형만 가능합니다</li>
+<li>지자체 <b>지원사업</b>이 있으면 비용이 크게 줄어듭니다</li>
+</ul>
+
+<h2>변경신고를 놓치면 과태료입니다</h2>
+
+<p>등록만 하고 끝이 아닙니다. 정보가 바뀌면 <b>신고</b>해야 해요.</p>
+
+<p>주소나 <b>전화번호</b>가 바뀌었을 때가 대표적입니다. 이게 안 바뀌어 있으면 찾아도 연락이 안 갑니다.</p>
+
+<p>소유자가 바뀌거나 <b>반려동물이 사망</b>했을 때도 신고 대상입니다.</p>
+
+<p>기한은 <b>변경 사유가 생긴 날부터 30일 이내</b>입니다. 정부24나 동물보호관리시스템에서 처리합니다.</p>
+
+<blockquote>
+<p>주소·연락처 변경, 소유자 변경, 사망, 분실</p>
+<p>모두 30일 안에 신고해야 합니다</p>
+</blockquote>
+
+<h3>잃어버렸을 때</h3>
+
+<p>분실은 <b>10일 이내</b>에 신고해야 합니다. 다른 변경 사항보다 기한이 짧아요.</p>
+
+<p>동물보호관리시스템에 등록하면 <b>보호소에 들어왔을 때</b> 대조가 됩니다.</p>
+
+<p>등록번호가 있으면 유기견이 아니라 <b>잃어버린 개</b>로 처리됩니다. 이게 큰 차이입니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4f1ea;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6a55;">
+<div style="flex:1.5;">상황</div><div style="flex:1;text-align:right;">신고 기한</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">분실</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">10일 이내</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;background:#fdfbf7;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주소·연락처 변경</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">30일 이내</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">소유자 변경</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">30일 이내</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0ece6;align-items:center;background:#fdfbf7;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">사망</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#9a6413;">30일 이내</div>
+</div>
+</div>
+
+<ul>
+<li><b>분실</b>은 10일, 나머지 변경 사항은 <b>30일</b> 이내에 신고합니다</li>
+<li>연락처가 옛날 것이면 <b>찾아도 연락이 안 갑니다</b></li>
+<li>신고는 <b>정부24</b>나 동물보호관리시스템에서 합니다</li>
+</ul>
+
+<h2>외출할 때 지킬 규정</h2>
+
+<p>등록만 하면 끝나는 게 아닙니다. 외출 시 지켜야 할 것들이 있어요.</p>
+
+<p><b>목줄이나 가슴줄</b>을 채워야 하고 길이는 <b>2미터 이내</b>로 유지합니다.</p>
+
+<p>등록번호가 표시된 <b>인식표</b>를 달아야 합니다. 내장형으로 등록했어도 인식표는 별도로 필요해요.</p>
+
+<p>배변을 치우는 것도 <b>법적 의무</b>입니다. 안 치우면 과태료 대상입니다.</p>
+
+<h3>맹견은 규정이 더 엄격합니다</h3>
+
+<p>법에서 정한 <b>맹견</b>은 외출 시 <b>입마개</b>를 반드시 채워야 합니다.</p>
+
+<p>맹견 소유자는 <b>정기 교육</b>을 이수해야 하고 <b>책임보험</b>에도 가입해야 합니다.</p>
+
+<p>어린이집이나 초등학교 같은 <b>특정 시설</b>에는 데리고 들어갈 수 없습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">자진신고 기간</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">정부가 가끔 <b style="color:#ffd97a;">동물등록 자진신고 기간</b>을 운영합니다. 이 기간에 등록하면 <b style="color:#ff8a7a;">과태료가 면제</b>돼요. 아직 등록을 안 했다면 이런 기간을 노리는 것도 방법입니다.</p>
+</div>
+
+<ul>
+<li>외출 시 목줄 길이는 <b>2미터 이내</b>로 유지합니다</li>
+<li>등록번호가 적힌 <b>인식표</b>를 달아야 합니다</li>
+<li><b>자진신고 기간</b>에 등록하면 과태료가 면제됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>생후 2개월 이상 개는 동물등록이 의무이고 미등록은 과태료 대상이다</p>
+<p>내장형은 분실 위험이 없고 외장형은 떨어지면 소용이 없다</p>
+<p>고양이는 자율 등록이며 내장형만 가능하다</p>
+<p>분실은 10일, 주소·연락처 변경 등은 30일 안에 신고한다</p>
+<p>외출 시 2미터 이내 목줄과 인식표 착용이 의무다</p>
+</blockquote>
+
+<p>등록해두고 연락처를 최신으로 유지하는 게 핵심입니다. 등록만 해두고 번호가 바뀌면 소용이 없어요.</p>
+
+<p>내장형 시술이 아플까 걱정하시는 분이 많은데 예방접종이랑 비슷하다고 하더라고요.</p>
+
+<p>지자체마다 지원사업과 자진신고 기간이 다르니 시군구청에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 동물보호법상 동물등록 의무: 주택·준주택 등에서 기르거나 반려 목적으로 기르는 생후 2개월 이상의 개
+ · 등록 방식: 내장형(마이크로칩 삽입, 수의사 시술) / 외장형(인식표 부착)
+ · 등록처: 동물등록 대행기관으로 지정된 동물병원, 시군구청
+ · 고양이는 의무가 아닌 자율 등록이며 내장형만 가능
+ · 미등록 시 과태료 부과, 정부가 자진신고 기간 운영 시 과태료 면제
+ · 변경신고: 분실 10일 이내, 주소·전화번호 변경·소유자 변경·사망 등은 30일 이내 (정부24·동물보호관리시스템)
+ · 외출 시 목줄·가슴줄 착용 의무, 길이 2미터 이내 유지, 등록번호 표시 인식표 부착
+ · 배설물 수거 의무 위반 시 과태료
+ · 맹견은 외출 시 입마개 착용, 소유자 정기교육 이수 및 맹견 책임보험 가입 의무, 특정 시설 출입 제한
+ · 일부 지자체에서 내장형 동물등록 지원사업 운영
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 과태료 금액과 위반 횟수별 기준은 개정 이력이 있어 수치를 적지 않았습니다
+ · 맹견의 구체 품종 목록은 법령 별표로 정해져 있어 나열하지 않았습니다
+ · 지자체 내장형 등록 지원사업의 지원액과 기간은 지역별로 달라 확인으로 안내했습니다
+ · 자진신고 기간은 부정기적으로 운영되어 시기를 적지 않았습니다
+ · 내장형 시술 비용은 병원·지원 여부에 따라 달라 금액을 넣지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "연근이도 등록해뒀다"는 블로그 설정에 따른 서술입니다

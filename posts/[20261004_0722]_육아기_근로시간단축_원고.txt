@@ -1,0 +1,217 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 4일 07:22
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261004_0722]_육아기_근로시간단축\
+   ├── 📄 [원고 파일]: [20261004_0722]_육아기_근로시간단축_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-parentwork.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261004_0722]_육아기_근로시간단축_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-parentwork.html
+
+■ 제목: 육아기 근로시간 단축 급여 계산법. 초등 6학년까지 최대 3년 쓰는 조건 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 육아기근로시간단축, 육아기단축급여, 근로시간단축신청, 초등6학년육아, 통상임금100퍼센트, 육아휴직대신, 워킹맘워킹대디
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>육아기 근로시간 단축 급여 계산법. 초등 6학년까지 최대 3년 쓰는 조건 정리</p>
+
+<h2>일은 줄이고 급여는 거의 그대로 받는 구간이 있습니다</h2>
+
+<p>육아기 근로시간 단축은 아이를 키우면서 <b>근무 시간만 줄이는</b> 제도입니다. 회사를 아예 쉬는 육아휴직과 다릅니다.</p>
+
+<p>결론부터 말하면 <b>주당 처음 10시간을 줄인 부분은 통상임금의 100%</b>가 나옵니다. 그 이상 줄인 시간은 80%고요.</p>
+
+<p>대상 자녀 나이도 넓어졌습니다. 예전엔 만 8세까지였는데 지금은 <b>만 12세 이하 또는 초등학교 6학년 이하</b>까지 됩니다.</p>
+
+<p>아이가 초등학교에 들어가면 오히려 손이 더 간다는 얘기를 주변에서 많이 듣거든요. 그래서 이 확대가 반가웠다는 분들이 많더라고요.</p>
+
+<div style="border:1px solid #e0e5e3;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1d6b5c;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">줄인 시간에 따라 지원율이 다릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 200px;padding:20px 18px;border-right:1px solid #eef1f4;text-align:center;">
+<div style="font-size:12.5px;color:#1d7050;font-weight:800;">주당 최초 10시간</div>
+<div style="font-size:38px;font-weight:800;color:#1d7050;margin:8px 0;">100%</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">통상임금 전액<br />상한이 따로 있습니다</div>
+</div>
+<div style="flex:1 1 200px;padding:20px 18px;text-align:center;">
+<div style="font-size:12.5px;color:#2f6fb0;font-weight:800;">나머지 단축 시간</div>
+<div style="font-size:38px;font-weight:800;color:#2f6fb0;margin:8px 0;">80%</div>
+<div style="font-size:13px;color:#6b7885;line-height:1.8;">통상임금의 80%<br />상한이 더 낮습니다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>주당 <b>처음 10시간</b>을 줄인 부분은 통상임금 <b>100%</b>로 계산합니다</li>
+<li>10시간을 넘겨 줄인 시간은 통상임금의 <b>80%</b>가 적용됩니다</li>
+<li>각 구간마다 <b>월 상한액</b>이 따로 정해져 있습니다</li>
+</ul>
+
+<h2>몇 시간까지 줄일 수 있나요?</h2>
+
+<p>단축 후 근로시간이 <b>주 15시간 이상 35시간 이하</b>가 되도록 맞춰야 합니다.</p>
+
+<p>주 40시간 일하던 사람이면 최소 5시간은 줄여야 하고, 최대 25시간까지 줄일 수 있다는 뜻이에요.</p>
+
+<p>주 15시간 밑으로 내려가면 제도 자체가 적용되지 않습니다. 너무 많이 줄여도 안 되는 거죠.</p>
+
+<h3>기간은 최대 얼마나 되나요?</h3>
+
+<p>기본은 <b>1년</b>입니다. 여기에 육아휴직을 안 쓰고 남겨둔 기간이 있으면 그 기간의 <b>2배</b>를 더할 수 있습니다.</p>
+
+<p>육아휴직 1년을 통째로 안 썼다면 2년이 더해져서 <b>최대 3년</b>까지 늘어납니다.</p>
+
+<p>육아휴직을 6개월만 썼다면 남은 6개월의 2배인 1년이 더해져서 총 2년이 되고요.</p>
+
+<div style="background:linear-gradient(135deg,#eef5f2,#dbeae4);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1d6b5c;margin-bottom:16px;">육아휴직을 아낄수록 단축 기간이 늘어납니다</div>
+<div style="display:flex;align-items:flex-end;gap:14px;height:150px;">
+<div style="flex:1;text-align:center;">
+<div style="font-size:20px;font-weight:800;color:#1d6b5c;margin-bottom:6px;">1년</div>
+<div style="background:#a8d8c9;height:48px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#5f7570;font-weight:700;margin-top:6px;">육아휴직 전부 사용</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:20px;font-weight:800;color:#1d6b5c;margin-bottom:6px;">2년</div>
+<div style="background:#6bb3a1;height:92px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#5f7570;font-weight:700;margin-top:6px;">6개월만 사용</div>
+</div>
+<div style="flex:1;text-align:center;">
+<div style="font-size:20px;font-weight:800;color:#143c34;margin-bottom:6px;">3년</div>
+<div style="background:#1d6b5c;height:132px;border-radius:9px 9px 0 0;"></div>
+<div style="font-size:12px;color:#5f7570;font-weight:700;margin-top:6px;">육아휴직 미사용</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>기본 기간은 <b>1년</b>이고 육아휴직 잔여기간의 <b>2배</b>가 더해집니다</li>
+<li>육아휴직을 아예 안 썼다면 <b>최대 3년</b>까지 쓸 수 있습니다</li>
+<li>단축 후 근로시간은 <b>주 15시간 이상 35시간 이하</b>여야 합니다</li>
+</ul>
+
+<h2>누가 신청할 수 있나요?</h2>
+
+<p>고용보험에 가입한 근로자면서 <b>피보험 단위기간이 180일 이상</b>이어야 합니다.</p>
+
+<p>같은 자녀에 대해 <b>부모가 각각</b> 쓸 수 있습니다. 아빠와 엄마가 시간을 나눠 쓰는 것도 되고요.</p>
+
+<p>사업주는 요건을 갖춘 신청을 원칙적으로 <b>거부할 수 없습니다.</b> 다만 대체인력을 구하지 못한 경우 등 법에 정한 예외는 있습니다.</p>
+
+<h3>신청은 언제 하나요?</h3>
+
+<p>단축을 시작하려는 날의 <b>30일 전까지</b> 회사에 신청서를 냅니다.</p>
+
+<p>급여는 회사가 아니라 고용센터에서 나옵니다. 단축을 시작하고 <b>1개월이 지난 뒤</b>부터 매월 신청해요.</p>
+
+<p>신청 기한은 단축이 끝난 날부터 <b>12개월 이내</b>입니다. 이걸 넘기면 받을 수 없으니 미루지 마세요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.4;">챙길 것</div><div style="flex:1;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">대상 자녀</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">만 12세 · 초6 이하</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">고용보험 기간</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">180일 이상</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">회사 신청 시점</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#2f6fb0;">시작 30일 전</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">급여 신청 기한</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">종료 후 12개월</div>
+</div>
+</div>
+
+<ul>
+<li>대상 자녀는 <b>만 12세 이하 또는 초등학교 6학년 이하</b>입니다</li>
+<li>고용보험 <b>피보험 단위기간 180일</b>을 채워야 급여가 나옵니다</li>
+<li>급여 신청은 단축이 끝난 뒤 <b>12개월 안</b>에 해야 합니다</li>
+</ul>
+
+<h2>육아휴직과 뭐가 다른가요?</h2>
+
+<p>가장 큰 차이는 <b>소득</b>입니다. 육아휴직은 일을 안 하니 급여가 확 줄어듭니다.</p>
+
+<p>단축은 <b>일한 시간만큼 회사 월급</b>을 받고, 줄인 시간에 대해 <b>고용센터 급여</b>를 따로 받습니다. 두 개를 합치면 손실이 훨씬 적어요.</p>
+
+<p>경력이 끊기지 않는 것도 장점입니다. 회사에 계속 나가니까 업무 감각이 유지됩니다.</p>
+
+<p>1년을 통째로 쉬었다가 복직한 분들보다 적응이 훨씬 수월하더라고요.</p>
+
+<blockquote>
+<p>실수령 = 줄어든 회사 월급 + 단축 급여</p>
+<p>10시간 단축까지는 100% 구간이라 손실이 가장 적습니다</p>
+</blockquote>
+
+<h3>주의할 점도 있습니다</h3>
+
+<p>단축 기간 중에는 <b>연장근로를 시킬 수 없습니다.</b> 다만 근로자가 명시적으로 청구하면 주 12시간 안에서 가능합니다.</p>
+
+<p>연차휴가는 근무 시간에 비례해서 계산됩니다. 단축 기간이 길면 연차가 줄어들 수 있어요.</p>
+
+<p>퇴직금 계산에서 불리해지지 않도록 하는 규정도 있습니다. 회사 인사팀에 <b>평균임금 산정</b>을 어떻게 하는지 확인해두세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">회사에 알려주세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">사업주도 <b style="color:#ffd97a;">지원금을 받습니다.</b> 육아기 근로시간 단축을 허용하고 대체인력을 쓰면 별도 지원이 나와요. 회사가 부담스러워하면 이 부분을 같이 알려주는 게 대화가 쉬워집니다. <b style="color:#ff8a7a;">거부는 원칙적으로 안 됩니다.</b></p>
+</div>
+
+<ul>
+<li>사업주에게도 <b>대체인력 지원금</b> 등 별도 지원이 있습니다</li>
+<li>요건을 갖춘 신청은 사업주가 <b>원칙적으로 거부할 수 없습니다</b></li>
+<li>단축 기간 중 <b>연장근로 지시</b>는 제한됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>대상 자녀는 만 12세 이하 또는 초등학교 6학년 이하로 넓어졌다</p>
+<p>주당 최초 10시간 단축분은 통상임금 100%, 나머지는 80%다</p>
+<p>단축 후 근로시간은 주 15시간 이상 35시간 이하여야 한다</p>
+<p>육아휴직을 안 쓰고 남기면 그 2배가 더해져 최대 3년까지 쓴다</p>
+<p>회사에는 시작 30일 전, 급여는 종료 후 12개월 안에 신청한다</p>
+</blockquote>
+
+<p>육아휴직을 다 쓰고 복직했다가 힘들어서 그만두는 경우를 많이 봤습니다. 처음부터 단축을 섞어 쓰면 그럴 일이 줄어요.</p>
+
+<p>1년 통째로 쉬는 것보다 3년을 천천히 가는 게 나을 수도 있습니다. 이건 진짜 집집마다 다른 거지.</p>
+
+<p>상한액과 지원 요건은 개정이 잦으니 고용24에서 최신 기준을 한 번 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 육아기 근로시간 단축 대상 자녀: 만 12세 이하 또는 초등학교 6학년 이하 (2024년 개정으로 만 8세·초2에서 확대)
+ · 단축 후 근로시간: 주 15시간 이상 35시간 이하
+ · 급여: 주당 최초 10시간 단축분은 통상임금 100%, 나머지 단축분은 통상임금 80% (각각 월 상한액 별도)
+ · 사용 기간: 기본 1년 + 육아휴직 미사용 기간의 2배 가산 (최대 3년)
+ · 요건: 고용보험 피보험 단위기간 180일 이상
+ · 신청: 시작 예정일 30일 전까지 사업주에게, 급여는 단축 개시 1개월 후부터 고용센터에 매월 신청
+ · 급여 신청 기한: 단축 종료일부터 12개월 이내
+ · 단축 기간 중 연장근로 제한 (근로자의 명시적 청구 시 주 12시간 내 가능)
+ · 사업주 대상 대체인력 지원금 등 별도 지원 존재
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 100% 구간과 80% 구간의 월 상한액은 매년 고시로 조정되어 구체 금액을 적지 않았습니다.
+   발행 전 고용노동부·고용24 최신 기준 확인 필수
+ · 사업주가 허용하지 않을 수 있는 법정 예외 사유는 요건이 세부적이라 "예외는 있습니다"로만 적었습니다
+ · 연차휴가 비례 산정과 퇴직금 평균임금 산정 방식은 사업장 규정에 따라 달라 단정하지 않았습니다
+ · 사업주 지원금의 금액과 요건은 사업 연도별로 바뀌어 수치를 넣지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "주변에서 초등학교 들어가면 손이 더 간다는 얘기를 들었다"는 설정입니다

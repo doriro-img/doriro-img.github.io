@@ -1,0 +1,228 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 10월 25일 18:48
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202610\[20261025_1848]_음주운전_숙취운전\
+   ├── 📄 [원고 파일]: [20261025_1848]_음주운전_숙취운전_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-drunkdriving.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261025_1848]_음주운전_숙취운전_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-drunkdriving.html
+
+■ 제목: 음주운전 처벌 기준 0.03%와 숙취운전. 다음 날 아침에도 걸리는 이유
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 음주운전기준, 혈중알코올농도003, 숙취운전, 면허취소기준, 윤창호법, 보험할증, 자기부담금
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>음주운전 처벌 기준 0.03%와 숙취운전. 다음 날 아침에도 걸리는 이유</p>
+
+<h2>0.03%면 소주 한 잔으로도 걸립니다</h2>
+
+<p>음주운전 단속 기준은 <b>혈중알코올농도 0.03%</b>입니다. 예전 0.05%에서 낮아졌어요.</p>
+
+<p>결론부터 말하면 <b>소주 한 잔</b>만 마셔도 이 수치에 닿을 수 있습니다. 체격과 체질에 따라 다르고요.</p>
+
+<p>0.03% 이상이면 <b>면허정지</b>, 0.08% 이상이면 <b>면허취소</b>입니다.</p>
+
+<p>연말 모임이 시작되는 시기라 미리 알아두는 게 좋겠더라고요. 한 잔은 괜찮다는 생각이 제일 위험합니다.</p>
+
+<div style="border:1px solid #e4e0dd;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#8a3f3f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">농도에 따른 처분</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfafa;text-align:center;">
+<div style="flex:1 1 160px;padding:22px 12px;border-right:1px solid #f0eceb;">
+<div style="font-size:30px;font-weight:800;color:#9a6413;">0.03%</div>
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;margin-top:9px;">면허정지</div>
+<div style="font-size:12px;color:#6b7885;margin-top:4px;">0.03 이상 0.08 미만</div>
+</div>
+<div style="flex:1 1 160px;padding:22px 12px;border-right:1px solid #f0eceb;">
+<div style="font-size:30px;font-weight:800;color:#c0554a;">0.08%</div>
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;margin-top:9px;">면허취소</div>
+<div style="font-size:12px;color:#6b7885;margin-top:4px;">0.08 이상</div>
+</div>
+<div style="flex:1 1 160px;padding:22px 12px;">
+<div style="font-size:30px;font-weight:800;color:#8a3f3f;">거부</div>
+<div style="font-size:13.5px;font-weight:800;color:#5a2320;margin-top:9px;">측정 거부</div>
+<div style="font-size:12px;color:#6b7885;margin-top:4px;">면허취소·형사처벌</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>0.03% 이상 0.08% 미만</b>은 면허정지 처분입니다</li>
+<li><b>0.08% 이상</b>이면 면허가 취소됩니다</li>
+<li><b>측정을 거부</b>해도 면허취소와 형사처벌 대상입니다</li>
+</ul>
+
+<h2>숙취운전이 진짜 함정입니다</h2>
+
+<p>밤에 마시고 <b>아침에 운전</b>하다 걸리는 경우가 많습니다. 술이 다 깼다고 생각하는 게 문제예요.</p>
+
+<p>알코올은 시간당 일정 속도로만 분해됩니다. <b>개인차</b>가 크지만 생각보다 오래 걸립니다.</p>
+
+<p>많이 마신 날은 <b>다음 날 낮까지</b> 수치가 남을 수 있습니다.</p>
+
+<p>커피나 사우나로 <b>빨리 깨지 않습니다.</b> 시간이 지나는 방법밖에 없어요.</p>
+
+<blockquote>
+<p>알코올 분해 속도는 시간당 일정합니다</p>
+<p>커피·사우나·운동으로 빨라지지 않습니다</p>
+</blockquote>
+
+<h3>얼마나 기다려야 하나요?</h3>
+
+<p>정확한 답은 없습니다. <b>체중, 성별, 간 기능, 마신 양</b>에 따라 다릅니다.</p>
+
+<p>일반적으로 늦게까지 마셨다면 <b>다음 날 오전 운전은 피하는</b> 게 안전합니다.</p>
+
+<p>불안하면 <b>휴대용 측정기</b>로 확인하는 방법도 있습니다. 다만 기기 오차가 있으니 참고용으로만 보세요.</p>
+
+<h2>처벌은 면허만이 아닙니다</h2>
+
+<p>행정처분과 <b>형사처벌</b>이 따로 갑니다. 면허가 정지되는 것과 별개로 벌금이나 징역이 나옵니다.</p>
+
+<p>2회 이상 적발되면 처벌이 훨씬 무거워집니다. <b>가중처벌</b> 규정이 있어요.</p>
+
+<p>사고가 나서 사람이 다치면 <b>특정범죄가중처벌법</b>이 적용됩니다. 형량이 크게 올라갑니다.</p>
+
+<div style="background:linear-gradient(135deg,#fbf1f0,#f0dad7);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a3f3f;margin-bottom:16px;">따라오는 불이익</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:70px;text-align:center;font-size:12px;font-weight:800;color:#8a3f3f;">행정</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#5a2320;">면허 정지 또는 취소, 결격 기간</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:70px;text-align:center;font-size:12px;font-weight:800;color:#8a3f3f;">형사</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#5a2320;">벌금 또는 징역, 재범 시 가중</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:70px;text-align:center;font-size:12px;font-weight:800;color:#8a3f3f;">보험</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#5a2320;">사고부담금 부담, 보험료 할증</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:70px;text-align:center;font-size:12px;font-weight:800;color:#8a3f3f;">직장</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#5a2320;">취업 제한, 징계 사유가 될 수 있음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>행정처분과 <b>형사처벌</b>이 각각 진행됩니다</li>
+<li>음주 사고는 <b>자동차보험 사고부담금</b>을 본인이 부담합니다</li>
+<li>재범이면 <b>가중처벌</b>되고 결격 기간도 길어집니다</li>
+</ul>
+
+<h3>보험 처리가 거의 안 됩니다</h3>
+
+<p>이게 실질적으로 가장 큰 타격입니다. 음주 사고는 <b>보험 보장이 크게 제한</b>됩니다.</p>
+
+<p>대인과 대물 피해는 보험사가 우선 지급하지만 <b>사고부담금</b>을 본인에게 청구합니다.</p>
+
+<p>이 금액이 상당히 큽니다. 게다가 <b>자기차량손해</b>는 아예 보상되지 않습니다.</p>
+
+<p>내 차 수리비를 전액 내가 내야 한다는 뜻이에요.</p>
+
+<h2>동승자도 처벌받을 수 있습니다</h2>
+
+<p>운전자만 문제가 아닙니다. 술을 마신 걸 알면서 <b>운전하게 두면</b> 방조로 볼 수 있습니다.</p>
+
+<p>차 열쇠를 건네주거나 <b>운전을 권했다면</b> 더 그렇습니다.</p>
+
+<p>술을 판 사람도 상황에 따라 책임을 질 수 있습니다. 일행이 말리는 게 중요한 이유입니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f4f0ef;padding:12px 18px;font-size:12.5px;font-weight:800;color:#7a6a68;">
+<div style="flex:1.5;">상황</div><div style="flex:1;text-align:right;">결과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">음주 사실을 알고 동승</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">방조 책임 가능</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;background:#fdfafa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">차 열쇠 제공</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">방조 책임 가능</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">대리운전 이용</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">안전</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f0eceb;align-items:center;background:#fdfafa;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">차를 두고 귀가</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">가장 확실</div>
+</div>
+</div>
+
+<ul>
+<li>음주 사실을 알고 <b>동승</b>하면 방조 책임을 질 수 있습니다</li>
+<li><b>차 열쇠를 건네주는 것</b>도 마찬가지입니다</li>
+<li>가장 확실한 방법은 <b>차를 두고 가는</b> 것입니다</li>
+</ul>
+
+<h2>대리운전도 확인할 게 있습니다</h2>
+
+<p>대리기사가 <b>보험에 가입</b>돼 있는지 확인하세요. 사고가 나면 이게 중요합니다.</p>
+
+<p>정식 업체를 통하면 대개 <b>대리운전자 보험</b>이 적용됩니다.</p>
+
+<p>본인 자동차보험에 <b>대리운전 특약</b>이 있으면 더 든든합니다.</p>
+
+<p>차를 두고 갔다가 다음 날 가지러 갈 때도 <b>숙취 확인</b>은 잊지 마세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이것도 단속 대상</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">자동차만이 아닙니다. <b style="color:#ffd97a;">전동킥보드와 자전거</b>도 음주 상태로 타면 단속됩니다. 원동기 면허가 필요한 기기는 <b style="color:#ff8a7a;">면허 처분</b>까지 받을 수 있어요. 술 마시고는 아무것도 타지 않는 게 답입니다.</p>
+</div>
+
+<ul>
+<li>대리운전 이용 시 <b>보험 가입</b> 여부를 확인하세요</li>
+<li>다음 날 차를 가지러 갈 때도 <b>숙취</b>를 확인합니다</li>
+<li><b>전동킥보드와 자전거</b>도 음주 단속 대상입니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>단속 기준은 혈중알코올농도 0.03%이고 소주 한 잔으로도 닿을 수 있다</p>
+<p>0.03% 이상은 면허정지, 0.08% 이상은 면허취소다</p>
+<p>알코올은 시간이 지나야 분해되며 커피나 사우나로 빨라지지 않는다</p>
+<p>음주 사고는 사고부담금이 부과되고 자기차량손해는 보상되지 않는다</p>
+<p>음주 사실을 알고 동승하거나 열쇠를 주면 방조 책임을 질 수 있다</p>
+</blockquote>
+
+<p>연말이 되면 단속이 늘어납니다. 애초에 차를 안 가져가는 게 제일 간단해요.</p>
+
+<p>다음 날 아침이 진짜 위험합니다. 늦게까지 마셨으면 하루는 대중교통을 타는 게 낫더라고요.</p>
+
+<p>처벌 기준과 사고부담금은 개정될 수 있으니 최신 법령을 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 도로교통법상 음주운전 단속 기준: 혈중알코올농도 0.03% 이상 (2019년 0.05%에서 강화)
+ · 0.03% 이상 0.08% 미만은 운전면허 정지, 0.08% 이상은 운전면허 취소
+ · 음주측정 거부는 면허취소 및 형사처벌 대상
+ · 행정처분(면허 정지·취소, 결격기간)과 형사처벌(벌금·징역)이 별도로 진행
+ · 2회 이상 위반 시 가중처벌, 음주운전 교통사고로 사상 발생 시 특정범죄가중처벌법 적용
+ · 자동차보험: 음주운전 사고 시 대인·대물에 대해 사고부담금 부담, 자기차량손해는 보상 제외
+ · 음주 사실을 알고 동승하거나 차량·열쇠를 제공한 경우 방조 책임 가능
+ · 전동킥보드(개인형 이동장치)와 자전거도 음주 상태 운전 시 단속 대상
+ · 알코올 분해 속도는 개인차가 크며 커피·사우나 등으로 촉진되지 않음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 벌금·징역의 구체 형량과 결격기간은 위반 횟수·농도에 따라 세분되어 수치를 적지 않았습니다
+ · 자동차보험 사고부담금 금액은 개정 이력이 있어 구체 금액을 넣지 않았습니다
+ · "소주 한 잔으로 0.03%"는 체격·체질에 따라 달라 "닿을 수 있다"로만 표현했습니다
+ · 숙취 해소에 필요한 시간은 개인차가 커서 구체 시간을 적지 않았습니다
+ · 동승자 방조 책임 성립 여부는 법률 판단 영역이라 "가능하다"로만 서술했습니다
+ · 휴대용 측정기의 정확도는 기기별 편차가 있어 참고용으로만 안내했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "늦게까지 마신 다음 날은 대중교통을 탄다"는 설정입니다

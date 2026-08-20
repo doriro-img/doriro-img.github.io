@@ -1,0 +1,202 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 6일 18:24
+■ 제목: 국제운전면허증 발급방법. 유효기간 1년과 영문운전면허증 차이 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 국제운전면허증, 국제면허발급, 영문운전면허증, 해외렌터카, 운전면허시험장
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260906_1824]_국제운전면허증\
+   ├── 📄 [원고 파일]: [20260906_1824]_국제운전면허증_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc_idp.png (매크로 변환 이미지 매칭용)
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260906_1824]_국제운전면허증_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_idp.html
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국제운전면허증 발급방법. 유효기간 1년과 영문운전면허증 차이 정리</p>
+
+<h2>당일 발급되고 유효기간은 1년입니다</h2>
+
+<p>국제운전면허증은 운전면허시험장이나 경찰서에서 <b>당일 발급</b>됩니다. 유효기간은 발급일로부터 <b>1년</b>이에요.</p>
+
+<p>결론부터 말하면 여권, 운전면허증, 사진 한 장이면 끝납니다. 예약도 필요 없고 창구에서 10분이면 나옵니다.</p>
+
+<p>다만 <b>이것만 들고 가면 안 됩니다.</b> 국제운전면허증은 국내 면허증과 여권을 같이 제시해야 효력이 있어요. 세 개가 한 세트입니다.</p>
+
+<p>신혼여행 때 렌터카를 빌리려다 국내 면허증을 숙소에 두고 와서 한참 실랑이했거든요. 그때 알았습니다. 진짜 세 개 다 필요하더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1d6b5c;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">해외에서 운전하려면 세 개를 다 챙깁니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:8px;align-items:center;">
+<div style="flex:1 1 140px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#1d6b5c;margin-bottom:4px;">1</div>
+<div style="font-size:18px;font-weight:800;color:#143c34;letter-spacing:-0.5px;">국제운전면허증</div>
+</div>
+<div style="font-size:20px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">+</div>
+<div style="flex:1 1 140px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#1d6b5c;margin-bottom:4px;">2</div>
+<div style="font-size:18px;font-weight:800;color:#143c34;letter-spacing:-0.5px;">국내 면허증</div>
+</div>
+<div style="font-size:20px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">+</div>
+<div style="flex:1 1 140px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:16px 12px;text-align:center;">
+<div style="font-size:12px;font-weight:700;color:#1d6b5c;margin-bottom:4px;">3</div>
+<div style="font-size:18px;font-weight:800;color:#143c34;letter-spacing:-0.5px;">여권</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>국제운전면허증만으로는 <b>효력이 없습니다</b></li>
+<li><b>국내 운전면허증</b>을 반드시 함께 제시해야 합니다</li>
+<li><b>여권</b>까지 세 가지가 한 세트입니다</li>
+</ul>
+
+<h2>영문운전면허증과 뭐가 다른가요</h2>
+
+<p>헷갈리는 분이 많습니다. 둘은 완전히 다른 물건이에요.</p>
+
+<p><b>영문운전면허증</b>은 국내 면허증 뒷면에 영문 정보를 넣은 겁니다. 국내에서도 그대로 쓰는 정식 면허증이고요.</p>
+
+<p><b>국제운전면허증</b>은 해외에서만 쓰는 별도 서류입니다. 국내에서는 효력이 없습니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #c9e0da;background:#eaf3f0;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d6b5c;margin-bottom:10px;">국제운전면허증</div>
+<div style="font-size:13.5px;color:#3f5a55;line-height:1.9;">유효기간 1년<br />종이 책자 형태<br />협약 가입국에서 인정<br />국내 면허증과 함께 제시</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">영문운전면허증</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">국내 면허증 그 자체<br />카드 형태<br />인정하는 나라가 정해져 있음<br />국내에서도 사용</div>
+</div>
+</div>
+
+<ul>
+<li>국제운전면허증은 <b>유효기간 1년</b>짜리 별도 서류입니다</li>
+<li>영문운전면허증은 <b>국내 면허증에 영문 표기</b>를 더한 형태입니다</li>
+<li>가는 나라가 <b>어느 쪽을 인정</b>하는지 미리 확인해야 합니다</li>
+</ul>
+
+<p>영문면허증을 받아주는 나라가 늘긴 했는데 아직 제한적입니다. 렌터카 회사가 안 받는 경우도 있고요.</p>
+
+<p>둘 다 만들어 가는 분들도 있습니다. 비용이 크지 않아서 그게 마음 편하긴 해요.</p>
+
+<h2>어디 가서 어떻게 받나</h2>
+
+<p>운전면허시험장, 경찰서 민원실, 일부 공항에서 발급합니다. 인천공항에도 창구가 있어요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 150px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">준비물 1</div>
+<div style="font-size:15px;font-weight:800;color:#143c34;">여권</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">유효한 것</div>
+</div>
+<div style="flex:1 1 150px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">준비물 2</div>
+<div style="font-size:15px;font-weight:800;color:#143c34;">운전면허증</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">국내 면허</div>
+</div>
+<div style="flex:1 1 150px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">준비물 3</div>
+<div style="font-size:15px;font-weight:800;color:#143c34;">사진 1매</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">여권용 규격</div>
+</div>
+</div>
+
+<ul>
+<li><b>여권과 국내 운전면허증</b>, 여권용 사진 1매를 가져갑니다</li>
+<li>운전면허시험장, 경찰서, <b>일부 공항</b>에서 당일 발급됩니다</li>
+<li>수수료는 <b>1만원 미만</b> 수준이고 현장에서 냅니다</li>
+</ul>
+
+<p>사진을 안 가져가면 현장에서 찍어야 해서 시간이 더 걸리더라고요. 미리 챙기시는 게 좋아요.</p>
+
+<h3>공항에서도 되지만 추천하진 않습니다</h3>
+
+<p>출국 당일에 공항에서 발급받는 것도 가능은 합니다. 다만 운영 시간과 창구 위치가 정해져 있어요.</p>
+
+<p>명절이나 성수기에는 줄이 깁니다. 비행기 놓치면 안 되니까 미리 받아두는 걸 권합니다.</p>
+
+<h2>나라마다 인정 여부가 다릅니다</h2>
+
+<p>국제운전면허증은 <b>협약에 가입한 나라</b>에서만 통합니다. 협약이 여러 개라 좀 복잡해요.</p>
+
+<p>우리나라가 발급하는 건 <b>제네바협약</b> 기준입니다. 비엔나협약만 가입한 나라에서는 인정이 안 될 수 있습니다.</p>
+
+<p>독일이나 중국처럼 별도 절차가 필요한 나라도 있습니다. 미국은 주마다 기준이 다르고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">가기 전 확인</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">가는 나라가 <b style="color:#ffd97a;">국제운전면허증을 인정하는지</b> 외교부 해외안전여행이나 현지 렌터카 회사에 확인하세요. 무면허 운전으로 처리되면 <b style="color:#ff8a7a;">보험도 안 나옵니다.</b> 사고가 나면 전액 본인 부담입니다.</p>
+</div>
+
+<ul>
+<li>나라마다 <b>인정 여부와 조건</b>이 다릅니다</li>
+<li>인정되지 않는데 운전하면 <b>무면허</b>로 처리됩니다</li>
+<li>무면허 상태에서 사고가 나면 <b>보험 처리가 안 됩니다</b></li>
+</ul>
+
+<h2>렌터카 빌릴 때 걸리는 것들</h2>
+
+<p>면허 서류 말고도 조건이 붙습니다. 이것 때문에 현지에서 못 빌리는 경우가 있어요.</p>
+
+<p>대부분 <b>운전 경력</b>을 봅니다. 면허 취득 후 1년 이상을 요구하는 곳이 많습니다.</p>
+
+<p>나이 제한도 있습니다. 만 21세 미만이면 아예 안 되거나 <b>영 드라이버 요금</b>이 붙습니다.</p>
+
+<p>결제는 <b>본인 명의 신용카드</b>여야 합니다. 체크카드는 안 받는 회사가 많아요. 이건 예약할 때 확인하시면 됩니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>국제운전면허증은 당일 발급되고 유효기간은 1년이다</p>
+<p>국제면허·국내면허·여권 세 가지를 함께 제시해야 효력이 있다</p>
+<p>영문운전면허증과는 다른 서류다</p>
+<p>여권, 국내 면허증, 사진 1매면 발급된다</p>
+<p>가는 나라가 인정하는지 미리 확인해야 한다</p>
+</blockquote>
+
+<p>해외에서 운전할 계획이 있으면 출국 전에 미리 받아두세요. 1년짜리라 여행 두세 번은 커버됩니다.</p>
+
+<p>운전할 생각이 없어도 신분증 대용으로 쓸 일이 생기기도 합니다. 뭐 만들어서 손해 볼 건 없어요.</p>
+
+<p>수수료와 발급 장소는 바뀔 수 있으니 도로교통공단 안내를 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처
+ · 국제운전면허증 유효기간 1년, 운전면허시험장·경찰서·일부 공항에서 발급
+ · 필요 서류: 여권, 국내 운전면허증, 여권용 사진 1매
+ · 해외 운전 시 국제면허증·국내면허증·여권을 함께 소지해야 함
+ · 우리나라 발급분은 제네바협약 기준
+ · 영문운전면허증은 국내 면허증에 영문 정보를 병기한 별도 제도
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 수수료는 "1만원 미만 수준"으로만 적었습니다. 정확한 금액은 도로교통공단 확인 필요
+ · 영문운전면허증을 인정하는 국가 수는 변동이 있어 숫자를 적지 않았습니다
+ · 국가별 인정 여부·별도 절차는 예시(독일·중국·미국)만 언급하고 상세를 단정하지 않았습니다
+ · 렌터카 나이·경력 조건은 업체·국가별로 달라 일반 기준으로만 썼습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "신혼여행에서 국내 면허증을 숙소에 두고 와 실랑이했다"는 가정입니다
+
+────────────────────────────────────────────────────────────
+■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_idp.html 저장 후
+  node make-art.cjs tc_idp   (800x800 PNG 생성)
+▶▶▶ 썸네일 소스 시작
+<!doctype html>
+<meta charset="utf-8" />
+<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eaf3f0,#c9e0da);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#143c34;display:flex;flex-direction:column;justify-content:center;position:relative;">
+<div style="position:absolute;top:130px;right:64px;background:#1d6b5c;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">유효기간</span>1년</div>
+<div style="align-self:flex-start;background:#1d6b5c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">해외 운전</div>
+<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">국제운전면허증<br /><span style="color:#1d6b5c;">발급 방법</span></div>
+<div style="margin-top:28px;font-size:25px;color:#4d7d72;font-weight:600;">이것만 들고 가면 무면허입니다</div>
+<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#86a89f;font-weight:700;">heelovee.tistory.com</div>
+</div>
+◀◀◀ 썸네일 소스 끝
