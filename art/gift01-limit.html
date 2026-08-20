@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .cards { display: flex; gap: 11px; margin-bottom: 15px; }
+  .cd { flex: 1; border: 1px solid #e2e6ea; border-radius: 12px; overflow: hidden; }
+  .cd .h { padding: 10px 14px; font-size: 13.5px; font-weight: 800; color: #fff; text-align: center; }
+  .cd .b { padding: 15px 15px 17px; background: #fafbfc; }
+  .cd .v { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 6px; text-align: center; }
+  .cd p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .cd p b { color: #1b1b1b; }
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 22px 14px; margin-bottom: 15px; }
+  .rw { display: flex; align-items: center; height: 46px; }
+  .rw .nm { width: 168px; flex-shrink: 0; font-size: 14.5px; font-weight: 800; }
+  .rw .tr { flex: 1; position: relative; height: 26px; }
+  .rw .fl { height: 26px; border-radius: 6px; }
+  .rw .tg { position: absolute; top: 3px; font-size: 14px; font-weight: 800; white-space: nowrap; }
+  .flow { display: flex; align-items: center; gap: 12px; margin-bottom: 15px; }
+  .fb { flex: 1; border-radius: 11px; padding: 15px 16px; text-align: center; }
+  .fb .k { font-size: 12px; font-weight: 700; margin-bottom: 5px; }
+  .fb .v { font-size: 21px; font-weight: 800; letter-spacing: -0.8px; }
+  .fb .n { font-size: 11.5px; margin-top: 4px; }
+  .op { font-size: 20px; font-weight: 800; color: #b8c2cc; flex-shrink: 0; }
+  .band { border-radius: 11px; padding: 15px 20px; display: flex; align-items: flex-start; gap: 16px; }
+  .band .tag { font-size: 12px; font-weight: 800; padding: 5px 13px; border-radius: 13px;
+               white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .band p { font-size: 13.5px; line-height: 1.75; }
+  .tbl { border: 1px solid #e6e9ed; border-radius: 10px; overflow: hidden; margin-bottom: 14px; }
+  .tbl .th { display: flex; background: #f2f5f7; padding: 11px 18px; font-size: 12.5px; font-weight: 800; color: #55606c; }
+  .tbl .td { display: flex; padding: 13px 18px; border-top: 1px solid #eef1f4; align-items: center; }
+  .tbl .td:nth-child(even) { background: #fafbfc; }
+  .tbl .c1 { flex: 1.4; font-size: 14px; font-weight: 700; }
+  .tbl .c1 small { display: block; font-size: 11.5px; color: #8a929c; font-weight: 500; margin-top: 2px; }
+  .tbl .c2 { flex: 1; text-align: right; font-size: 15px; font-weight: 800; }
+</style>
+<div id="art">
+  <h1>관계에 따라 공제 한도가 다릅니다</h1>
+  <p class="sub">10년 동안 합쳐서 이만큼까지 세금이 없습니다</p>
+  <div class="tbl"><div class="th"><div class="c1">누구에게 받나</div><div class="c2">10년 합산 공제 한도</div></div>
+    <div class="td"><div class="c1">배우자<small>부부 사이</small></div>
+      <div class="c2" style="color:#1d7050">6억원</div></div>
+    <div class="td"><div class="c1">성인 자녀<small>직계존속에게 받을 때</small></div>
+      <div class="c2" style="color:#1f4a7a">5,000만원</div></div>
+    <div class="td"><div class="c1">미성년 자녀<small>만 19세 미만</small></div>
+      <div class="c2" style="color:#9a6413">2,000만원</div></div>
+  </div>
+  <div class="band" style="background:#1b1b1b">
+    <div class="tag" style="background:#7ee0b0;color:#1b1b1b">10년이 기준입니다</div>
+    <p style="color:#d8dee4">한 번에 적용되는 금액이 아니라 <b>10년 동안 합산</b>해서 봅니다.<br />5,000만원을 주고 10년이 지나면 <b>한도가 새로 시작</b>됩니다. 그래서 일찍 시작할수록 나눠 줄 기회가 많아져요</p></div>
+</div>
