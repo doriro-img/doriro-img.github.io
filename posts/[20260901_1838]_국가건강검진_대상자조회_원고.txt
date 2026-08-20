@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 1일 18:38
-■ 제목: 2026 국가건강검진 대상자 조회. 짝수년생 무료 항목과 12월 예약 대란 피하는 법
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 국가건강검진, 건강검진대상자조회, 국가암검진, 건강보험공단, 검진미수검과태료
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260901_1838]_국가건강검진_대상자조회\
    ├── 📄 [원고 파일]: [20260901_1838]_국가건강검진_대상자조회_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_checkup.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-checkup.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260901_1838]_국가건강검진_대상자조회_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_checkup.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-checkup.html
+
+■ 제목: 2026 국가건강검진 대상자 조회. 짝수년생 무료 항목과 12월 예약 대란 피하는 법
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 국가건강검진, 건강검진대상자조회, 국가암검진, 건강보험공단, 검진미수검과태료
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -135,17 +137,17 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 150px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">공단 앱 접속</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">The건강보험</div>
 </div>
 <div style="flex:1 1 150px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">대상 조회</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">검진 항목까지</div>
 </div>
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">기관 찾고 예약</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">전화가 제일 빠름</div>
 </div>
@@ -186,9 +188,6 @@
 ▲▲▲ 여기까지 복사 ▲▲▲
 ────────────────────────────────────────────────────────────
 
-■ 썸네일 카드 뼈대 (art/tc_checkup.html · 800x800)
- [핵심 롱테일 제목] 2026 국가건강검진 / 짝수년생 대상
- [소구 키워드 1줄]  12월엔 자리 없습니다. 무료 항목과 과태료 기준 정리
 
 ■ 숫자·사실 출처 (2026-08-20 웹 확인)
  · 2026년(짝수 해) 일반건강검진 대상 = 출생연도 끝자리 짝수

@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 1일 07:12
-■ 제목: 청년월세 특별지원 2026 신청방법. 월 20만원 최대 24개월과 소득 기준
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 청년월세지원, 청년월세특별지원, 복지로, 월세지원신청, 청년주거지원
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260901_0712]_청년월세_특별지원\
    ├── 📄 [원고 파일]: [20260901_0712]_청년월세_특별지원_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_youthrent.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-youthrent.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260901_0712]_청년월세_특별지원_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_youthrent.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-youthrent.html
+
+■ 제목: 청년월세 특별지원 2026 신청방법. 월 20만원 최대 24개월과 소득 기준
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 청년월세지원, 청년월세특별지원, 복지로, 월세지원신청, 청년주거지원
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -100,11 +102,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">신청 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>신청 됩니다</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">보증금 3,000만 / 월세 55만<br />보증금 5,000만 / 월세 70만<br />부모님과 주소가 분리된 원룸<br />고시원도 계약서가 있으면 가능</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">안 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>안 됩니다</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">부모님 소유 주택에 사는 경우<br />전세로만 사는 경우<br />주택을 한 채라도 가진 경우<br />공공임대에 이미 살고 있는 경우</div>
 </div>
 </div>
@@ -121,22 +123,22 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">모의계산</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">복지로에서 먼저</div>
 </div>
 <div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">서류 준비</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">계약서·이체증빙</div>
 </div>
 <div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">온라인 신청</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">복지로 로그인</div>
 </div>
 <div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>4단계</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">심사·지급</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">보통 두세 달</div>
 </div>
@@ -202,9 +204,6 @@
 ▲▲▲ 여기까지 복사 ▲▲▲
 ────────────────────────────────────────────────────────────
 
-■ 썸네일 카드 뼈대 (art/tc_youthrent.html · 800x800)
- [핵심 롱테일 제목] 청년월세 특별지원 / 월 20만원 24개월
- [소구 키워드 1줄]  부모님 소득까지 본다는 건 몰랐죠? 480만원 조건 정리
 
 ■ 숫자·사실 출처 (2026-08-20 웹 확인)
  · 월 최대 20만원 × 최대 24개월 = 최대 480만원

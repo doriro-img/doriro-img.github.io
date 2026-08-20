@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 11일 12:44
-■ 제목: 퇴직연금 DB형 DC형 차이. 어느 쪽이 유리한지 임금상승률로 판단하는 법
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 퇴직연금DB형, DC형전환, 퇴직급여, 임금피크제, IRP
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260911_1244]_퇴직연금_DB_DC_차이\
    ├── 📄 [원고 파일]: [20260911_1244]_퇴직연금_DB_DC_차이_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_dbdc.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-dbdc.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260911_1244]_퇴직연금_DB_DC_차이_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_dbdc.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-dbdc.html
+
+■ 제목: 퇴직연금 DB형 DC형 차이. 어느 쪽이 유리한지 임금상승률로 판단하는 법
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 퇴직연금DB형, DC형전환, 퇴직급여, 임금피크제, IRP
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -68,11 +70,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cdd4e6;background:#eef1f7;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#3a4480;margin-bottom:10px;">DC가 유리한 경우</div>
+<div style="font-size:13px;font-weight:800;color:#3a4480;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#3a4480" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#3a4480"/></svg>DC가 유리한 경우</div>
 <div style="font-size:13.5px;color:#4a5060;line-height:1.9;">임금상승률이 낮은 편<br />임금피크제 적용 예정<br />투자에 관심이 있음<br />이직이 잦은 편</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">DB가 유리한 경우</div>
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>DB가 유리한 경우</div>
 <div style="font-size:13.5px;color:#3f5060;line-height:1.9;">호봉제로 임금이 꾸준히 오름<br />승진이 예정돼 있음<br />한 회사에 오래 다닐 계획<br />운용에 신경 쓰기 싫음</div>
 </div>
 </div>
@@ -169,17 +171,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "임금상승률이 크지 않아 DC로 옮겼다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_dbdc.html 저장 후
-  node make-art.cjs tc_dbdc   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef1f7,#cdd4e6);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#22284a;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#3a4480;color:#fff;border-radius:26px;padding:18px 30px;font-size:30px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">전환 방향</span>DB→DC</div>
-<div style="align-self:flex-start;background:#3a4480;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">퇴직연금</div>
-<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">DB형 DC형<br /><span style="color:#3a4480;">뭐가 유리할까</span></div>
-<div style="margin-top:28px;font-size:25px;color:#5a628f;font-weight:600;">임금상승률 하나로 판단합니다</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#9198bb;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

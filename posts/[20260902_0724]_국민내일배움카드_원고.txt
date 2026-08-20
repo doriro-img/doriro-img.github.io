@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 2일 07:24
-■ 제목: 국민내일배움카드 신청방법 2026. 300만원 한도와 자부담, 발급 안 되는 사람
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 국민내일배움카드, 내일배움카드신청, 고용24, 직업훈련, 훈련장려금
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260902_0724]_국민내일배움카드\
    ├── 📄 [원고 파일]: [20260902_0724]_국민내일배움카드_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_hrdcard.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-hrdcard.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260902_0724]_국민내일배움카드_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_hrdcard.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-hrdcard.html
+
+■ 제목: 국민내일배움카드 신청방법 2026. 300만원 한도와 자부담, 발급 안 되는 사람
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 국민내일배움카드, 내일배움카드신청, 고용24, 직업훈련, 훈련장려금
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -62,11 +64,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">발급 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>발급 됩니다</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">실업자 (구직 중)<br />재직자 (중소기업 근로자)<br />특수형태근로종사자·프리랜서<br />일정 매출 이하 자영업자<br />졸업 예정인 대학생</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">발급 안 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>발급 안 됩니다</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">공무원·사립학교 교직원<br />만 75세 이상<br />졸업예정자가 아닌 재학생<br />대규모기업 근로자 중<br />만 45세 미만 + 월급 300만원 이상</div>
 </div>
 </div>
@@ -124,22 +126,22 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">고용24 가입</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">본인인증</div>
 </div>
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">동영상 수강</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">필수 교육</div>
 </div>
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">발급 신청</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">서류 제출</div>
 </div>
 <div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>4단계</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">카드 수령</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">약 2주</div>
 </div>

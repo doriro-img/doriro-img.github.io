@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 12일 12:26
-■ 제목: 주택연금 가입조건 2026. 만 55세 공시가 12억 기준과 월 수령액 계산법
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 주택연금, 주택연금가입조건, 역모기지, 한국주택금융공사, 주택연금수령액
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260912_1226]_주택연금_가입조건\
    ├── 📄 [원고 파일]: [20260912_1226]_주택연금_가입조건_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_housepension.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-housepension.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260912_1226]_주택연금_가입조건_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_housepension.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-housepension.html
+
+■ 제목: 주택연금 가입조건 2026. 만 55세 공시가 12억 기준과 월 수령액 계산법
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 주택연금, 주택연금가입조건, 역모기지, 한국주택금융공사, 주택연금수령액
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -78,11 +80,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #c9e0da;background:#eaf3f0;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d6b5c;margin-bottom:10px;">종신 방식</div>
+<div style="font-size:13px;font-weight:800;color:#1d6b5c;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1d6b5c" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1d6b5c"/></svg>종신 방식</div>
 <div style="font-size:13.5px;color:#3f5a55;line-height:1.9;">평생 매달 같은 금액<br />가장 많이 선택함<br />오래 살수록 유리<br />중간에 목돈은 못 뺌</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">혼합 방식</div>
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>혼합 방식</div>
 <div style="font-size:13.5px;color:#3f5060;line-height:1.9;">일부는 목돈으로<br />나머지는 매달 연금<br />의료비·대출상환용<br />월 수령액은 줄어듦</div>
 </div>
 </div>
@@ -172,17 +174,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "부모님 노후를 상의하다 제도를 자세히 봤다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_housepension.html 저장 후
-  node make-art.cjs tc_housepension   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eaf3f0,#c9e0da);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#143c34;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#1d6b5c;color:#fff;border-radius:26px;padding:18px 30px;font-size:32px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">가입 나이</span>만 55세</div>
-<div style="align-self:flex-start;background:#1d6b5c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">노후 준비</div>
-<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">주택연금<br /><span style="color:#1d6b5c;">공시가 12억 이하</span></div>
-<div style="margin-top:28px;font-size:25px;color:#4d7d72;font-weight:600;">집값이 떨어져도 연금은 그대로</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#86a89f;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

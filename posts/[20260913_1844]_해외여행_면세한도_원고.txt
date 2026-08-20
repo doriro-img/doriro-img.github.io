@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 13일 18:44
-■ 제목: 해외여행 면세한도 800달러. 술 담배 향수 별도 기준과 자진신고 감면
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 면세한도, 800달러, 자진신고, 여행자휴대품, 관세
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260913_1844]_해외여행_면세한도\
    ├── 📄 [원고 파일]: [20260913_1844]_해외여행_면세한도_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_duty.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-duty.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260913_1844]_해외여행_면세한도_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_duty.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-duty.html
+
+■ 제목: 해외여행 면세한도 800달러. 술 담배 향수 별도 기준과 자진신고 감면
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 면세한도, 800달러, 자진신고, 여행자휴대품, 관세
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -76,11 +78,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">자진신고하면</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>자진신고하면</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">관세의 30% 감면<br />감면 한도가 있음<br />절차가 빠르게 끝남<br />기록이 남지 않음</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">안 하고 걸리면</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>안 하고 걸리면</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">가산세가 추가로 부과<br />반복되면 가산세율 상승<br />물품 유치될 수 있음<br />다음 입국 때 집중 검사</div>
 </div>
 </div>
@@ -165,17 +167,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "여행 때마다 계산이 헷갈렸다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_duty.html 저장 후
-  node make-art.cjs tc_duty   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef4fa,#cbdcee);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#17325a;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#23508c;color:#fff;border-radius:26px;padding:18px 30px;font-size:32px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">1인 기준</span>800달러</div>
-<div style="align-self:flex-start;background:#23508c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">입국 규정</div>
-<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">해외여행 면세한도<br /><span style="color:#23508c;">술·담배는 별도</span></div>
-<div style="margin-top:28px;font-size:25px;color:#536d95;font-weight:600;">자진신고하면 30% 깎아줍니다</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#8fa4c0;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

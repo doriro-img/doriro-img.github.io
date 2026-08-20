@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 3일 12:42
-■ 제목: 주택담보대출 갈아타기 방법. 중도상환수수료 계산과 손익분기 판단법
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 주택담보대출갈아타기, 대환대출, 중도상환수수료, 대출이동서비스, 주담대금리
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260903_1242]_주담대_갈아타기\
    ├── 📄 [원고 파일]: [20260903_1242]_주담대_갈아타기_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_refinance.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-refinance.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260903_1242]_주담대_갈아타기_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_refinance.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-refinance.html
+
+■ 제목: 주택담보대출 갈아타기 방법. 중도상환수수료 계산과 손익분기 판단법
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 주택담보대출갈아타기, 대환대출, 중도상환수수료, 대출이동서비스, 주담대금리
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -82,11 +84,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">가능한 경우</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>가능한 경우</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">대출 실행 후 6개월 지남<br />연체가 없음<br />시세 조회가 되는 아파트<br />본인 명의 단독 소유</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">막히는 경우</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>막히는 경우</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">연체 이력이 있음<br />정책 대출 상품<br />시세 산정이 어려운 물건<br />DSR 한도가 부족함</div>
 </div>
 </div>
@@ -126,22 +128,22 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">앱에서 조회</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">여러 은행 비교</div>
 </div>
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">서류 제출</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">대부분 자동 연계</div>
 </div>
 <div style="flex:1 1 130px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">심사</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">며칠 걸림</div>
 </div>
 <div style="flex:1 1 130px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">4단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>4단계</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">약정·상환</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">자동 처리</div>
 </div>

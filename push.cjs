@@ -15,7 +15,10 @@ const walk = (dir) => {
     if (f.name === '.git' || f.name === 'node_modules') continue;
     const p = path.join(dir, f.name);
     if (f.isDirectory()) walk(p);
-    else if (!/^[\x20-\x7E]+$/.test(f.name)) bad.push(path.relative(ROOT, p));
+    // 주소로 서빙되는 건 이미지뿐이다. 원고 .txt 파일명은 한글이어도 깨질 일이 없다.
+    else if (/\.(png|jpe?g|gif|webp|svg)$/i.test(f.name) && !/^[\x20-\x7E]+$/.test(f.name)) {
+      bad.push(path.relative(ROOT, p));
+    }
   }
 };
 walk(ROOT);

@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 5일 12:16
-■ 제목: 퇴직연금 디폴트옵션 뭘 고를까. 방치하면 자동 지정되는 구조와 수익률 3.7%
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 디폴트옵션, 사전지정운용제도, 퇴직연금DC, IRP운용, 퇴직연금수익률
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260905_1216]_퇴직연금_디폴트옵션\
    ├── 📄 [원고 파일]: [20260905_1216]_퇴직연금_디폴트옵션_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_defaultoption.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-defaultoption.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260905_1216]_퇴직연금_디폴트옵션_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_defaultoption.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-defaultoption.html
+
+■ 제목: 퇴직연금 디폴트옵션 뭘 고를까. 방치하면 자동 지정되는 구조와 수익률 3.7%
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 디폴트옵션, 사전지정운용제도, 퇴직연금DC, IRP운용, 퇴직연금수익률
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -64,17 +66,17 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 150px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;">1</div>
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>1</div>
 <div style="font-size:15px;font-weight:800;color:#22284a;">입금됨</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">운용 지시 없음</div>
 </div>
 <div style="flex:1 1 150px;background:#fdf6e9;border:1px solid #f0dfc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#d4832f;margin-bottom:5px;">2</div>
+<div style="font-size:11.5px;font-weight:700;color:#d4832f;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#d4832f" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#d4832f"/></svg>2</div>
 <div style="font-size:15px;font-weight:800;color:#9a6413;">통지 발송</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">지시하라는 안내</div>
 </div>
 <div style="flex:1 1 150px;background:#fdf3f1;border:1px solid #f0b8b1;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#cf4f43;margin-bottom:5px;">3</div>
+<div style="font-size:11.5px;font-weight:700;color:#cf4f43;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#cf4f43" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#cf4f43"/></svg>3</div>
 <div style="font-size:15px;font-weight:800;color:#b8463a;">자동 편입</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">사전지정 상품으로</div>
 </div>

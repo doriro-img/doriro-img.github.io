@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 5일 18:32
-■ 제목: 인천공항 스마트패스 등록방법. 자동출입국심사와 뭐가 다른지 정리
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 인천공항스마트패스, 스마트패스등록, 자동출입국심사, 출국수속, 해외여행준비
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260905_1832]_인천공항_스마트패스\
    ├── 📄 [원고 파일]: [20260905_1832]_인천공항_스마트패스_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_smartpass.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-smartpass.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260905_1832]_인천공항_스마트패스_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_smartpass.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-smartpass.html
+
+■ 제목: 인천공항 스마트패스 등록방법. 자동출입국심사와 뭐가 다른지 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 인천공항스마트패스, 스마트패스등록, 자동출입국심사, 출국수속, 해외여행준비
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -89,22 +91,22 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 130px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#1d6b5c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#1d6b5c"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#143c34;">앱 설치</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">스마트패스 앱</div>
 </div>
 <div style="flex:1 1 130px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#1d6b5c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#1d6b5c"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#143c34;">여권 스캔</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">사진면 촬영</div>
 </div>
 <div style="flex:1 1 130px;background:#eaf3f0;border:1px solid #c9e0da;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#1d6b5c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#1d6b5c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#1d6b5c"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#143c34;">얼굴 등록</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">셀카 인식</div>
 </div>
 <div style="flex:1 1 130px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;">4단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>4단계</div>
 <div style="font-size:15px;font-weight:800;color:#1f4a7a;">탑승권 등록</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">여행마다 매번</div>
 </div>

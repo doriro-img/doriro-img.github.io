@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 3일 07:38
-■ 제목: 육아휴직급여 2026 월 250만원. 사후지급금 폐지와 6+6 부모육아휴직 계산
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 육아휴직급여, 사후지급금폐지, 6+6부모육아휴직, 육아휴직1년6개월, 고용24
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260903_0738]_육아휴직급여_2026\
    ├── 📄 [원고 파일]: [20260903_0738]_육아휴직급여_2026_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_parental.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-parental.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260903_0738]_육아휴직급여_2026_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_parental.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-parental.html
+
+■ 제목: 육아휴직급여 2026 월 250만원. 사후지급금 폐지와 6+6 부모육아휴직 계산
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 육아휴직급여, 사후지급금폐지, 6+6부모육아휴직, 육아휴직1년6개월, 고용24
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -126,17 +128,17 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 150px;background:#fdf4e8;border:1px solid #f5dfbe;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;">1단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#b0701c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#b0701c"/></svg>1단계</div>
 <div style="font-size:15px;font-weight:800;color:#55381a;">회사에 신청</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">30일 전까지</div>
 </div>
 <div style="flex:1 1 150px;background:#fdf4e8;border:1px solid #f5dfbe;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;">2단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#b0701c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#b0701c"/></svg>2단계</div>
 <div style="font-size:15px;font-weight:800;color:#55381a;">휴직 시작</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">확인서 발급</div>
 </div>
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">3단계</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>3단계</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">고용24 신청</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">한 달 지난 뒤부터</div>
 </div>

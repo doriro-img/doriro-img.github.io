@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 2일 12:08
-■ 제목: 예금자보호 1억원 상향 1년. 은행별로 나눠야 하는 기준과 보호 안 되는 상품
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 예금자보호, 예금보호한도1억, 예금보험공사, 저축은행예금, 새마을금고예금
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260902_1208]_예금자보호_1억\
    ├── 📄 [원고 파일]: [20260902_1208]_예금자보호_1억_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_deposit.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-deposit.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260902_1208]_예금자보호_1억_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_deposit.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-deposit.html
+
+■ 제목: 예금자보호 1억원 상향 1년. 은행별로 나눠야 하는 기준과 보호 안 되는 상품
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 예금자보호, 예금보호한도1억, 예금보험공사, 저축은행예금, 새마을금고예금
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -99,11 +101,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">보호됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>보호됩니다</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">보통예금·정기예금·적금<br />외화예금<br />원금보전형 신탁<br />개인이 가입한 보험계약<br />퇴직연금(예금형)</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">보호 안 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>보호 안 됩니다</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">펀드·주식·채권<br />ELS·DLS 같은 파생결합증권<br />실적배당형 신탁<br />CD·RP<br />후순위채권</div>
 </div>
 </div>

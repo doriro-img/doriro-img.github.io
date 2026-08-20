@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 12일 18:42
-■ 제목: 기내 액체류 반입 규정. 100ml 용기와 1리터 지퍼백 기준 정리
-■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 기내액체류, 100ml규정, 지퍼백, 기내반입금지물품, 면세점액체
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260912_1842]_기내_액체류_규정\
    ├── 📄 [원고 파일]: [20260912_1842]_기내_액체류_규정_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_liquid.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-liquid.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260912_1842]_기내_액체류_규정_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_liquid.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-liquid.html
+
+■ 제목: 기내 액체류 반입 규정. 100ml 용기와 1리터 지퍼백 기준 정리
+■ 카테고리: 정부 정책 및 생활 규정
+■ 태그: 기내액체류, 100ml규정, 지퍼백, 기내반입금지물품, 면세점액체
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -64,11 +66,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">액체류로 봅니다</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>액체류로 봅니다</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">물·음료·주류<br />로션·에센스·선크림<br />치약·샴푸·헤어젤<br />립글로스·마스카라<br />요거트·잼·김치</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">제한 없이 됩니다</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>제한 없이 됩니다</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">고체 화장품·비누<br />알약 형태 의약품<br />스틱형 향수<br />파우더·팩트<br />초콜릿·과자</div>
 </div>
 </div>
@@ -167,17 +169,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "큰 화장품 통을 검색대에서 버렸고 이후 소분 용기를 쓴다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_liquid.html 저장 후
-  node make-art.cjs tc_liquid   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eef4fa,#cbdcee);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#17325a;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#23508c;color:#fff;border-radius:26px;padding:18px 30px;font-size:32px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">지퍼백</span>1리터</div>
-<div style="align-self:flex-start;background:#23508c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">항공 규정</div>
-<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">기내 액체류<br /><span style="color:#23508c;">용기당 100ml</span></div>
-<div style="margin-top:28px;font-size:25px;color:#536d95;font-weight:600;">치약도 액체인 거 아셨나요</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#8fa4c0;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

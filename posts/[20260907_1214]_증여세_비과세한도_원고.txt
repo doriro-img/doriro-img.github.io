@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 7일 12:14
-■ 제목: 증여세 비과세 한도 정리. 배우자 6억 자녀 5천만원과 10년 합산 기준
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 증여세, 증여재산공제, 증여세신고, 혼인증여공제, 10년합산
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260907_1214]_증여세_비과세한도\
    ├── 📄 [원고 파일]: [20260907_1214]_증여세_비과세한도_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_gifttax.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-gifttaxlimit.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260907_1214]_증여세_비과세한도_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_gifttax.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-gifttaxlimit.html
+
+■ 제목: 증여세 비과세 한도 정리. 배우자 6억 자녀 5천만원과 10년 합산 기준
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 증여세, 증여재산공제, 증여세신고, 혼인증여공제, 10년합산
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -128,17 +130,17 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 150px;background:#f6f1ea;border:1px solid #e6d8c4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#8a6420;margin-bottom:5px;">기한</div>
+<div style="font-size:11.5px;font-weight:700;color:#8a6420;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#8a6420" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#8a6420"/></svg>기한</div>
 <div style="font-size:15px;font-weight:800;color:#46341c;">3개월 이내</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">증여월 말일부터</div>
 </div>
 <div style="flex:1 1 150px;background:#f6f1ea;border:1px solid #e6d8c4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#8a6420;margin-bottom:5px;">어디서</div>
+<div style="font-size:11.5px;font-weight:700;color:#8a6420;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#8a6420" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#8a6420"/></svg>어디서</div>
 <div style="font-size:15px;font-weight:800;color:#46341c;">홈택스</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">세무서도 가능</div>
 </div>
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">기한 내 신고</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>기한 내 신고</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">3% 공제</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">신고세액공제</div>
 </div>
@@ -208,17 +210,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "아내와 자산을 정리하며 부부간 6억 한도를 확인했다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_gifttax.html 저장 후
-  node make-art.cjs tc_gifttax   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#f6f1ea,#e6d8c4);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#46341c;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#8a6420;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">배우자 공제</span>6억</div>
-<div style="align-self:flex-start;background:#8a6420;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">세금</div>
-<div style="font-size:54px;line-height:1.2;letter-spacing:-2px;font-weight:800;">증여세 비과세<br /><span style="color:#8a6420;">10년 합산 기준</span></div>
-<div style="margin-top:28px;font-size:25px;color:#7d6540;font-weight:600;">주는 사람이 아니라 받는 사람 기준입니다</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#ab977a;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

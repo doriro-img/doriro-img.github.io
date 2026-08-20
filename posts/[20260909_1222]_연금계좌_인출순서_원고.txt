@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 09월 9일 12:22
-■ 제목: 연금계좌 인출 순서와 세금. 연금소득세 5.5%와 1,500만원 기준선 정리
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 연금계좌인출, 연금소득세, 연금수령한도, 1500만원종합과세, 연금저축IRP
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260909_1222]_연금계좌_인출순서\
    ├── 📄 [원고 파일]: [20260909_1222]_연금계좌_인출순서_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_pensionwithdraw.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-pensionwithdraw.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260909_1222]_연금계좌_인출순서_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_pensionwithdraw.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-pensionwithdraw.html
+
+■ 제목: 연금계좌 인출 순서와 세금. 연금소득세 5.5%와 1,500만원 기준선 정리
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 연금계좌인출, 연금소득세, 연금수령한도, 1500만원종합과세, 연금저축IRP
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -182,17 +184,3 @@
 ■ 개인 경험 부분 (사실 확인 필요)
  · "연금저축을 부으면서도 인출 순서를 몰랐다"는 가정입니다
 
-────────────────────────────────────────────────────────────
-■ 썸네일 빌드 소스 → C:\dev\blog-cdn\art\tc_pensionwithdraw.html 저장 후
-  node make-art.cjs tc_pensionwithdraw   (800x800 PNG 생성)
-▶▶▶ 썸네일 소스 시작
-<!doctype html>
-<meta charset="utf-8" />
-<div id="art" style="width:800px;height:800px;box-sizing:border-box;padding:74px 64px;background:linear-gradient(160deg,#eaf3f0,#c9e0da);font-family:'Pretendard','Malgun Gothic',-apple-system,sans-serif;color:#143c34;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="position:absolute;top:130px;right:64px;background:#1d6b5c;color:#fff;border-radius:26px;padding:18px 30px;font-size:34px;font-weight:800;letter-spacing:-1px;text-align:center;"><span style="display:block;font-size:17px;font-weight:700;opacity:.9;margin-bottom:4px;">연금소득세</span>5.5%</div>
-<div style="align-self:flex-start;background:#1d6b5c;color:#fff;font-size:21px;font-weight:800;padding:10px 22px;border-radius:30px;margin-bottom:34px;">연금</div>
-<div style="font-size:52px;line-height:1.2;letter-spacing:-2px;font-weight:800;">연금계좌 인출<br /><span style="color:#1d6b5c;">순서가 세금을 정함</span></div>
-<div style="margin-top:28px;font-size:25px;color:#4d7d72;font-weight:600;">1,500만원 넘으면 달라집니다</div>
-<div style="position:absolute;bottom:56px;right:64px;font-size:20px;color:#86a89f;font-weight:700;">heelovee.tistory.com</div>
-</div>
-◀◀◀ 썸네일 소스 끝

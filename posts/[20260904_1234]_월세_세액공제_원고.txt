@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 4일 12:34
-■ 제목: 월세 세액공제 신청방법. 17% 받는 소득 기준과 놓친 5년치 돌려받기
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 월세세액공제, 연말정산월세, 경정청구, 주택임차료현금영수증, 무주택세대주
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260904_1234]_월세_세액공제\
    ├── 📄 [원고 파일]: [20260904_1234]_월세_세액공제_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_rentdeduct.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-rentdeduct.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260904_1234]_월세_세액공제_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_rentdeduct.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-rentdeduct.html
+
+■ 제목: 월세 세액공제 신청방법. 17% 받는 소득 기준과 놓친 5년치 돌려받기
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 월세세액공제, 연말정산월세, 경정청구, 주택임차료현금영수증, 무주택세대주
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -70,11 +72,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">받을 수 있어요</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>받을 수 있어요</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">무주택 세대의 세대주<br />전입신고를 마친 집<br />85㎡ 이하 또는 기준시가 4억 이하<br />본인 명의로 계약<br />오피스텔·고시원도 가능</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">못 받아요</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>못 받아요</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">주택을 보유한 세대<br />전입신고를 안 한 경우<br />계약자가 본인이 아닌 경우<br />총급여 7,000만원 초과<br />전세자금대출 원리금만 낸 경우</div>
 </div>
 </div>
@@ -101,17 +103,17 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">1</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>1</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">임대차계약서</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">사본이면 됨</div>
 </div>
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">2</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>2</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">이체 증빙</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">계좌이체 내역</div>
 </div>
 <div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
-<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;">3</div>
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>3</div>
 <div style="font-size:15px;font-weight:800;color:#1d7050;">주민등록등본</div>
 <div style="font-size:11.5px;color:#5a6672;margin-top:4px;">전입 확인용</div>
 </div>

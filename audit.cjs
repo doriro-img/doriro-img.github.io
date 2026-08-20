@@ -20,7 +20,7 @@ const BANNED = ['뿐만 아니라', '더 나아가', '요약하자면', '결론�
 // perl 등으로 한글 파일을 건드렸을 때 생기는 깨짐 패턴
 const BROKEN = String.fromCharCode(92) + '<p' + String.fromCharCode(92) + '>';
 // 세금·금융 주제는 1,800자
-const HEAVY = /세금|절세|양도세|상속세|증여|종부세|연말정산|부가가치세|소득세|취득세|중도인출|금리|대출|주담대|배당|ETF|채권|연부연납/;
+const HEAVY = /세금|절세|양도세|상속세|증여|종부세|연말정산|부가가치세|소득세|취득세|중도인출|금리|대출|주담대|배당|ETF|채권투자|연부연납/;
 
 const files = fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym));
 let bad = 0;

@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 1일 12:26
-■ 제목: 재산세 9월 납부기간 16일부터 30일까지. 주택 2기분 분납 기준과 가산금
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 재산세, 재산세납부기간, 재산세분납, 위택스, 지방세카드납부
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260901_1226]_재산세_9월_납부\
    ├── 📄 [원고 파일]: [20260901_1226]_재산세_9월_납부_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_propertytax.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-propertytax.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260901_1226]_재산세_9월_납부_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_propertytax.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-propertytax.html
+
+■ 제목: 재산세 9월 납부기간 16일부터 30일까지. 주택 2기분 분납 기준과 가산금
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 재산세, 재산세납부기간, 재산세분납, 위택스, 지방세카드납부
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -66,11 +68,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">9월에 또 나오는 경우</div>
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>9월에 또 나오는 경우</div>
 <div style="font-size:13.5px;color:#3f5060;line-height:1.9;">연 세액이 20만원을 넘는 주택<br />토지를 따로 보유한 경우<br />7월 고지서에 "1기분"이라 적힌 경우</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">9월에 안 나오는 경우</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>9월에 안 나오는 경우</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">연 세액 20만원 이하 주택<br />7월에 전액 부과가 끝난 경우<br />건축물분만 있는 경우</div>
 </div>
 </div>
@@ -181,9 +183,6 @@
 ▲▲▲ 여기까지 복사 ▲▲▲
 ────────────────────────────────────────────────────────────
 
-■ 썸네일 카드 뼈대 (art/tc_propertytax.html · 800x800)
- [핵심 롱테일 제목] 재산세 9월 납부 / 16일 ~ 30일
- [소구 키워드 1줄]  하루 늦으면 3%, 250만원 넘으면 나눠 내는 법
 
 ■ 숫자·사실 출처 (2026-08-20 웹 확인)
  · 주택 1기분 7/16~7/31, 주택 2기분·토지분 9/16~9/30

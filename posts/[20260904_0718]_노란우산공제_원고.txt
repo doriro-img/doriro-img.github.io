@@ -3,16 +3,18 @@
 ════════════════════════════════════════════════════════════
 
 ■ 예약 발행 일시: 2026년 9월 4일 07:18
-■ 제목: 노란우산공제 가입방법. 소득공제 한도와 압류 안 되는 이유, 중도해지 16.5%
-■ 카테고리: 금융 및 경제 정보
-■ 태그: 노란우산공제, 소상공인소득공제, 중소기업중앙회, 노란우산해지, 폐업공제금
 
 📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260904_0718]_노란우산공제\
    ├── 📄 [원고 파일]: [20260904_0718]_노란우산공제_원고.txt
-   └── 🖼️ [썸네일 매칭]: tc_yellowumbrella.png (매크로 변환 이미지 매칭용)
+   └── 🖼️ [썸네일 매칭]: tc-yellowumbrella.png
+
 💾 [깃 레포 백업/빌드 경로]
    ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260904_0718]_노란우산공제_원고.txt
-   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc_yellowumbrella.html
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-yellowumbrella.html
+
+■ 제목: 노란우산공제 가입방법. 소득공제 한도와 압류 안 되는 이유, 중도해지 16.5%
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 노란우산공제, 소상공인소득공제, 중소기업중앙회, 노란우산해지, 폐업공제금
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -102,11 +104,11 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;">공제금이 나오는 경우</div>
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>공제금이 나오는 경우</div>
 <div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">폐업했을 때<br />법인 대표가 퇴임했을 때<br />사망했을 때<br />일정 나이·기간을 채웠을 때</div>
 </div>
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
-<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;">중도해지로 처리되는 경우</div>
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>중도해지로 처리되는 경우</div>
 <div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">단순히 돈이 필요해서<br />다른 데 투자하려고<br />오래 미납해서 실효<br />본인 요청 해지</div>
 </div>
 </div>
