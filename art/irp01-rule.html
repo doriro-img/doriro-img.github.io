@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+  .cond { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+  .b { flex: 1; border-radius: 12px; padding: 17px 20px; text-align: center; }
+  .b .k { font-size: 12px; font-weight: 700; margin-bottom: 5px; }
+  .b .v { font-size: 22px; font-weight: 800; letter-spacing: -0.8px; }
+  .b1, .b2 { background: #eff6fb; border: 1px solid #cfe0f0; }
+  .b1 .k, .b2 .k { color: #4f7ba8; } .b1 .v, .b2 .v { color: #1f4a7a; }
+  .b3 { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4; }
+  .b3 .k { color: #3d9b74; } .b3 .v { color: #1d7050; }
+  .op { font-size: 20px; font-weight: 800; color: #b8c2cc; flex-shrink: 0; }
+  .two { display: flex; gap: 12px; }
+  .c { flex: 1; border-radius: 11px; padding: 14px 17px; }
+  .yes { background: #f4fbf7; border: 1px solid #a9dcc4; }
+  .no { background: #f5f7f8; border: 1px solid #e2e6ea; }
+  .c .t { font-size: 14px; font-weight: 800; margin-bottom: 5px; }
+  .yes .t { color: #1d7050; } .no .t { color: #6b7480; }
+  .c p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .c p b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>퇴직금은 IRP로 받게 되어 있습니다</h1>
+  <p class="sub">본인이 고르는 게 아니라 조건에 걸리면 자동입니다</p>
+  <div class="cond">
+    <div class="b b1"><div class="k">퇴직금이</div><div class="v">300만원 초과</div></div>
+    <div class="op">그리고</div>
+    <div class="b b2"><div class="k">퇴직할 때 나이가</div><div class="v">55세 미만</div></div>
+    <div class="op">=</div>
+    <div class="b b3"><div class="k">그러면</div><div class="v">IRP 이체 의무</div></div>
+  </div>
+  <div class="two">
+    <div class="c yes">
+      <div class="t">이럴 땐 통장으로 바로 받습니다</div>
+      <p>퇴직금이 <b>300만원 이하</b>이거나 <b>55세 넘어서</b> 퇴직하는 경우는 예외예요.
+        이때는 IRP를 안 만들어도 됩니다</p>
+    </div>
+    <div class="c no">
+      <div class="t">IRP 계좌부터 만들어야 합니다</div>
+      <p>은행이나 증권사에서 <b>개인형 퇴직연금(IRP)</b> 계좌를 열고
+        회사에 계좌번호를 알려주면 거기로 들어옵니다</p>
+    </div>
+  </div>
+</div>

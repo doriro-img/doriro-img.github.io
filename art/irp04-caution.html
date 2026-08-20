@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .grid { display: flex; flex-wrap: wrap; gap: 11px; }
+  .c { width: calc(50% - 5.5px); border: 1px solid #e2e6ea; border-radius: 11px;
+       padding: 15px 17px; background: #fafbfc; display: flex; gap: 13px; align-items: flex-start; }
+  .c .ic { flex-shrink: 0; margin-top: 1px; }
+  .c .t { font-size: 14.5px; font-weight: 800; margin-bottom: 4px; }
+  .c p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .c p b { color: #1b1b1b; }
+  .c.warn { background: #fdf3f1; border-color: #f0b8b1; }
+  .c.warn .t { color: #b8463a; }
+</style>
+<div id="art">
+  <h1>IRP를 굴릴 때 조심할 것</h1>
+  <p class="sub">받아만 두고 방치하는 분이 많더라고요</p>
+  <div class="grid">
+    <div class="c warn">
+      <svg class="ic" width="30" height="30" viewBox="0 0 30 30">
+        <circle cx="15" cy="15" r="13" fill="#cf4f43"/>
+        <path d="M15,8 v8 M15,20 v1" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/></svg>
+      <div><div class="t">중간에 깨면 혜택이 사라집니다</div>
+        <p>중도에 해지하면 <b>감면받은 세금을 다시 토해냅니다.</b> 급전이 필요해도 마지막 수단으로 두세요</p></div>
+    </div>
+    <div class="c warn">
+      <svg class="ic" width="30" height="30" viewBox="0 0 30 30">
+        <circle cx="15" cy="15" r="13" fill="#cf4f43"/>
+        <path d="M15,8 v8 M15,20 v1" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/></svg>
+      <div><div class="t">현금으로 놔두면 안 불어납니다</div>
+        <p>IRP는 계좌일 뿐이라 <b>안에서 상품을 골라야</b> 굴러갑니다. 넣어두기만 하면 그냥 예금이에요</p></div>
+    </div>
+    <div class="c">
+      <svg class="ic" width="30" height="30" viewBox="0 0 30 30">
+        <circle cx="15" cy="15" r="13" fill="#e4ecf4"/>
+        <path d="M9,15 l4,4 l8,-9" stroke="#2f6fb0" stroke-width="2.8" fill="none"
+              stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <div><div class="t">수수료를 비교하고 여세요</div>
+        <p>은행과 증권사마다 <b>운용관리 수수료가 다릅니다.</b> 30년 굴릴 계좌라 차이가 쌓입니다</p></div>
+    </div>
+    <div class="c">
+      <svg class="ic" width="30" height="30" viewBox="0 0 30 30">
+        <circle cx="15" cy="15" r="13" fill="#e4ecf4"/>
+        <path d="M9,15 l4,4 l8,-9" stroke="#2f6fb0" stroke-width="2.8" fill="none"
+              stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <div><div class="t">계좌는 옮길 수 있습니다</div>
+        <p>마음에 안 들면 <b>다른 금융사로 이전</b>하면 됩니다. 해지가 아니라 이전이라 불이익이 없어요</p></div>
+    </div>
+  </div>
+</div>
