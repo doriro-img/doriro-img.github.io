@@ -1,0 +1,33 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #f4f2f6;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #2b2b3d; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6e6e80; margin-bottom: 16px; font-weight: 600; }
+  .list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 13px; }
+  .item { background: #fff; border-radius: 13px; padding: 13px 18px; display: flex; align-items: center; gap: 15px;
+    box-shadow: 0 5px 13px rgba(60,50,90,.06); border: 1px solid #e6e2ec; }
+  .role { flex: none; width: 92px; font-size: 13px; font-weight: 800; color: #fff; text-align: center;
+    background: #ec5a52; border-radius: 8px; padding: 7px 0; }
+  .tx { font-size: 14px; color: #3a3a4a; line-height: 1.45; }
+  .tx b { color: #2b2b3d; }
+  .warn { background: #fbeee0; border: 1.5px solid #f0d3a8; border-radius: 12px; padding: 12px 18px;
+    font-size: 13px; color: #8a5a1e; line-height: 1.55; font-weight: 600; }
+  .warn b { color: #b5822a; }
+</style>
+
+<div id="art">
+  <h1>뭘로 만드나요? (AI 도구)</h1>
+  <p class="sub">역할별로 도구가 나뉘어요</p>
+
+  <div class="list">
+    <div class="item"><div class="role">글·대본</div><div class="tx">ChatGPT, <b>클로드</b> 등으로 주제·스크립트 작성</div></div>
+    <div class="item"><div class="role">이미지</div><div class="tx">미드저니, Leonardo 등으로 썸네일·배경 이미지 생성</div></div>
+    <div class="item"><div class="role">음성(TTS)</div><div class="tx">일레븐랩스, Murf 등으로 텍스트를 자연스러운 음성으로</div></div>
+  </div>
+
+  <div class="warn"><b>'무료'라는 말에 속지 마세요.</b> 기획·대본은 공짜여도, 영상·음성을 실제로 뽑는 순간부터 대부분 월 구독(보급형 월 15달러 안팎)이 들어요</div>
+</div>
