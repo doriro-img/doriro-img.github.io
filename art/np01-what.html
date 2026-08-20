@@ -1,0 +1,65 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .cards { display: flex; gap: 11px; margin-bottom: 15px; }
+  .cd { flex: 1; border: 1px solid #e2e6ea; border-radius: 12px; overflow: hidden; }
+  .cd .h { padding: 10px 14px; font-size: 13.5px; font-weight: 800; color: #fff; text-align: center; }
+  .cd .b { padding: 15px 15px 17px; background: #fafbfc; }
+  .cd .v { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 6px; text-align: center; }
+  .cd p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .cd p b { color: #1b1b1b; }
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 22px 14px; margin-bottom: 15px; }
+  .rw { display: flex; align-items: center; height: 46px; }
+  .rw .nm { width: 168px; flex-shrink: 0; font-size: 14.5px; font-weight: 800; }
+  .rw .tr { flex: 1; position: relative; height: 26px; }
+  .rw .fl { height: 26px; border-radius: 6px; }
+  .rw .tg { position: absolute; top: 3px; font-size: 14px; font-weight: 800; white-space: nowrap; }
+  .flow { display: flex; align-items: center; gap: 12px; margin-bottom: 15px; }
+  .fb { flex: 1; border-radius: 11px; padding: 15px 16px; text-align: center; }
+  .fb .k { font-size: 12px; font-weight: 700; margin-bottom: 5px; }
+  .fb .v { font-size: 21px; font-weight: 800; letter-spacing: -0.8px; }
+  .fb .n { font-size: 11.5px; margin-top: 4px; }
+  .op { font-size: 20px; font-weight: 800; color: #b8c2cc; flex-shrink: 0; }
+  .band { border-radius: 11px; padding: 15px 20px; display: flex; align-items: flex-start; gap: 16px; }
+  .band .tag { font-size: 12px; font-weight: 800; padding: 5px 13px; border-radius: 13px;
+               white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .band p { font-size: 13.5px; line-height: 1.75; }
+  .tbl { border: 1px solid #e6e9ed; border-radius: 10px; overflow: hidden; margin-bottom: 14px; }
+  .tbl .th { display: flex; background: #f2f5f7; padding: 11px 18px; font-size: 12.5px; font-weight: 800; color: #55606c; }
+  .tbl .td { display: flex; padding: 13px 18px; border-top: 1px solid #eef1f4; align-items: center; }
+  .tbl .td:nth-child(even) { background: #fafbfc; }
+  .tbl .c1 { flex: 1.4; font-size: 14px; font-weight: 700; }
+  .tbl .c1 small { display: block; font-size: 11.5px; color: #8a929c; font-weight: 500; margin-top: 2px; }
+  .tbl .c2 { flex: 1; text-align: right; font-size: 15px; font-weight: 800; }
+</style>
+<div id="art">
+  <h1>안 낸 기간을 나중에 채우는 제도</h1>
+  <p class="sub">국민연금 가입기간을 돈으로 사는 셈입니다</p>
+  <div class="flow">
+    <div class="fb" style="background:#f5f7f8;border:1px solid #e2e6ea">
+      <div class="k" style="color:#8a929c">안 냈던 기간</div><div class="v" style="color:#55606c">납부예외 · 적용제외</div><div class="n" style="color:#8a929c">실직 사업중단 경력단절</div></div>
+    <div class="op">→</div>
+    <div class="fb" style="background:#eff6fb;border:1px solid #cfe0f0">
+      <div class="k" style="color:#2f6fb0">추납으로</div><div class="v" style="color:#1f4a7a">보험료를 낸다</div></div>
+    <div class="op">→</div>
+    <div class="fb" style="background:#eef9f3;border:1px solid #a9dcc4">
+      <div class="k" style="color:#2f9e6e">그러면</div><div class="v" style="color:#1d7050">가입기간 인정</div><div class="n" style="color:#2f9e6e">연금액이 올라갑니다</div></div>
+  </div>
+  <div class="cards">
+    <div class="cd"><div class="h" style="background:#2f6fb0">최대 기간</div>
+      <div class="b"><div class="v" style="color:#1f4a7a">119개월</div><p>약 <b>10년치</b>까지 채울 수 있습니다</p></div></div>
+    <div class="cd"><div class="h" style="background:#2f9e6e">분할 납부</div>
+      <div class="b"><div class="v" style="color:#1d7050">최대 60회</div><p>한 번에 안 내도 <b>나눠서</b> 낼 수 있어요</p></div></div>
+    <div class="cd"><div class="h" style="background:#d4832f">신청 자격</div>
+      <div class="b"><div class="v" style="color:#9a6413">현재 가입 중</div><p>과거 <b>1개월 이상</b> 낸 이력이 있어야 합니다</p></div></div>
+  </div>
+  <div class="band" style="background:#1b1b1b">
+    <div class="tag" style="background:#7ee0b0;color:#1b1b1b">핵심</div>
+    <p style="color:#d8dee4">국민연금은 <b>가입기간 10년(120개월)</b>을 못 채우면 연금을 못 받습니다. 추납은 그 문턱을 넘는 가장 확실한 방법이에요</p></div>
+</div>
