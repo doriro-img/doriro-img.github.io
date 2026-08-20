@@ -1,0 +1,46 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #fdf1f5;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #3a2530; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #8a6a76; margin-bottom: 16px; font-weight: 600; }
+  .two { display: flex; gap: 13px; }
+  .col { flex: 1; background: #fff; border-radius: 14px; padding: 16px 18px; border: 1px solid #f3dde5;
+    box-shadow: 0 5px 13px rgba(180,80,120,.07); }
+  .col .h { font-size: 15px; font-weight: 800; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .good .h { color: #2f9e78; } .bad .h { color: #d1483f; }
+  .badge { width: 24px; height: 24px; border-radius: 7px; color: #fff; font-size: 14px; font-weight: 800;
+    display: flex; align-items: center; justify-content: center; }
+  .good .badge { background: #35b37e; } .bad .badge { background: #e0574a; }
+  .li { font-size: 13.3px; color: #4a3540; line-height: 1.45; padding: 6px 0; border-top: 1px solid #f3e2e8; }
+  .li:first-of-type { border-top: none; }
+  .li b { color: #3a2530; }
+  .warn { margin-top: 12px; background: #fbeee0; border: 1.5px solid #f0d3a8; border-radius: 12px; padding: 12px 18px;
+    font-size: 13px; color: #8a5a1e; line-height: 1.55; font-weight: 600; }
+  .warn b { color: #b5822a; }
+</style>
+
+<div id="art">
+  <h1>효과가 큰 만큼, 부작용도 있어요</h1>
+  <p class="sub">'양면'을 다 보고 판단해야 해요</p>
+
+  <div class="two">
+    <div class="col good">
+      <div class="h"><span class="badge">◎</span>효과</div>
+      <div class="li">평균 <b>15~22% 체중 감량</b> (약·개인차)</div>
+      <div class="li">식욕이 줄어 <b>과식·폭식이 잡혀요</b></div>
+      <div class="li">혈당·심혈관 지표 개선 보고</div>
+    </div>
+    <div class="col bad">
+      <div class="h"><span class="badge">!</span>부작용</div>
+      <div class="li">구역·구토·설사·변비 (흔함)</div>
+      <div class="li"><b>근육도 함께 빠져요</b> (감량분의 26~40%가 근육·제지방)</div>
+      <div class="li">췌장·담낭·갑상선 병력 시 주의</div>
+    </div>
+  </div>
+
+  <div class="warn"><b>근손실이 특히 중요해요.</b> 살만 빠지는 게 아니라 근육도 빠지기 때문에, 단백질 섭취와 운동을 꼭 병행해야 나중에 요요·건강 문제를 줄일 수 있어요</div>
+</div>
