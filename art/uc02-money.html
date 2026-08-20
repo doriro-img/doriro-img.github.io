@@ -1,0 +1,46 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .flow { display: flex; align-items: center; gap: 11px; margin-bottom: 15px; }
+  .b { flex: 1; border-radius: 11px; padding: 15px 14px; text-align: center; }
+  .b .k { font-size: 11.5px; font-weight: 700; margin-bottom: 5px; }
+  .b .v { font-size: 21px; font-weight: 800; letter-spacing: -0.8px; }
+  .b .n { font-size: 11.5px; margin-top: 3px; }
+  .b1 { background: #eff6fb; border: 1px solid #cfe0f0; }
+  .b1 .k { color: #4f7ba8; } .b1 .v { color: #1f4a7a; } .b1 .n { color: #7b93ad; }
+  .b2 { background: #f5f7f8; border: 1px solid #e2e6ea; }
+  .b2 .k { color: #8a929c; } .b2 .v { color: #45505c; } .b2 .n { color: #9aa6b2; }
+  .b3 { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4; }
+  .b3 .k { color: #3d9b74; } .b3 .v { color: #1d7050; font-size: 24px; } .b3 .n { color: #6aa78d; }
+  .op { font-size: 19px; font-weight: 800; color: #b8c2cc; flex-shrink: 0; }
+  .total { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 16px 22px;
+           display: flex; align-items: center; gap: 20px; }
+  .total .big { font-size: 28px; font-weight: 800; color: #ffd97a; letter-spacing: -1px; white-space: nowrap; }
+  .total p { font-size: 13.5px; line-height: 1.7; color: #d8dee4; }
+  .total p b { color: #7ee0b0; }
+  .note { margin-top: 12px; font-size: 12px; color: #8a929c; line-height: 1.6; }
+</style>
+<div id="art">
+  <h1>한 달에 만 오천원대면 됩니다</h1>
+  <p class="sub">인정소득이 가장 높은 경우로 계산했습니다</p>
+  <div class="flow">
+    <div class="b b1"><div class="k">인정소득 (최대)</div><div class="v">70만원</div><div class="n">직전 3개월 평균의 50%</div></div>
+    <div class="op">×</div>
+    <div class="b b2"><div class="k">국민연금 보험료율</div><div class="v">9%</div><div class="n">63,000원</div></div>
+    <div class="op">×</div>
+    <div class="b b3"><div class="k">내 부담 25%</div><div class="v">15,750원</div><div class="n">한 달치</div></div>
+  </div>
+  <div class="total">
+    <div class="big">12개월 189,000원</div>
+    <p>1년을 꽉 채워도 <b>19만원이 안 됩니다.</b> 이 돈으로 국민연금 <b>가입기간 1년</b>을 사는 셈이에요.<br />
+      나머지 567,000원은 나라가 냅니다</p>
+  </div>
+  <p class="note">※ 인정소득은 실직 직전 3개월 평균소득의 50%이고 <b>70만원을 넘지 않습니다.</b>
+    직전 소득이 낮으면 내 부담도 그만큼 줄어듭니다</p>
+</div>

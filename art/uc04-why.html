@@ -1,0 +1,60 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+  .bar { position: relative; height: 108px; margin-bottom: 18px; }
+  .ends { display: flex; justify-content: space-between; margin-bottom: 7px; }
+  .ends span { font-size: 12.5px; font-weight: 800; color: #45505c; }
+  .track { display: flex; height: 40px; border-radius: 8px; overflow: hidden; background: #e4e9ee; }
+  .f1 { width: 82%; background: linear-gradient(90deg,#9fc4e2,#4f8fc0);
+        display: flex; align-items: center; justify-content: center; color: #fff; font-size: 13.5px; font-weight: 800; }
+  .f2 { width: 8%; background: linear-gradient(90deg,#6cc39b,#2f9e6e); }
+  .f3 { flex: 1; }
+  .mark { position: absolute; top: 24px; left: 82%; width: 3px; height: 58px; background: #cf4f43; }
+  .mtxt { position: absolute; top: 88px; left: 82%; transform: translateX(-50%);
+          font-size: 12.5px; font-weight: 800; color: #b8463a; white-space: nowrap; }
+  .leg { display: flex; gap: 18px; margin-bottom: 16px; }
+  .leg div { font-size: 12.5px; font-weight: 700; display: flex; align-items: center; gap: 7px; color: #55606c; }
+  .leg i { width: 20px; height: 10px; border-radius: 3px; }
+  .box { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4;
+         border-radius: 11px; padding: 15px 20px; display: flex; align-items: flex-start; gap: 16px; }
+  .box .t { font-size: 15.5px; font-weight: 800; color: #1d7050; margin-bottom: 5px; }
+  .box p { font-size: 13.5px; line-height: 1.75; color: #40624f; }
+  .box p b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>10년을 못 채우면 연금을 못 받습니다</h1>
+  <p class="sub">국민연금은 가입기간 120개월이 최소 조건이에요</p>
+  <div class="bar">
+    <div class="ends"><span>가입 시작</span><span>가입기간</span></div>
+    <div class="track">
+      <div class="f1">지금까지 낸 기간</div>
+      <div class="f2"></div>
+      <div class="f3"></div>
+    </div>
+    <div class="mark"></div>
+    <div class="mtxt">10년 (120개월)</div>
+  </div>
+  <div class="leg">
+    <div><i style="background:#4f8fc0"></i>내가 낸 기간</div>
+    <div><i style="background:#2f9e6e"></i>실업크레딧으로 채운 기간</div>
+  </div>
+  <div class="box">
+    <svg width="38" height="38" viewBox="0 0 38 38" style="flex-shrink:0;margin-top:1px">
+      <circle cx="19" cy="19" r="17" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+      <path d="M12,19 l5,5 l10,-11" stroke="#2f9e6e" stroke-width="3.4" fill="none"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div>
+      <div class="t">10년 문턱에 걸려 있으면 결정적입니다</div>
+      <p>가입기간이 <b>120개월에 못 미치면</b> 연금을 평생 못 받고 낸 돈을 일시금으로 돌려받습니다.<br />
+        실업크레딧 12개월은 그 문턱을 넘는 데 쓸 수 있는 <b>가장 싼 방법</b>이에요.
+        이미 10년을 넘겼어도 가입기간이 늘면 <b>매달 받을 연금액이 올라갑니다</b></p>
+    </div>
+  </div>
+</div>
