@@ -1,0 +1,37 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .cards { display: flex; gap: 12px; margin-bottom: 15px; }
+  .c { flex: 1; border: 1px solid #e2e6ea; border-radius: 12px; overflow: hidden; }
+  .ch { padding: 11px 16px; font-size: 14px; font-weight: 800; color: #fff; text-align: center; }
+  .c1 .ch { background: #2f9e6e; } .c2 .ch { background: #4f8fc0; } .c3 .ch { background: #d4832f; }
+  .cb { padding: 15px 16px 17px; background: #fafbfc; text-align: center; }
+  .cb .v { font-size: 15px; font-weight: 800; margin-bottom: 6px; }
+  .c1 .cb .v { color: #1d7050; } .c2 .cb .v { color: #1f4a7a; } .c3 .cb .v { color: #b9741a; }
+  .cb p { font-size: 12.5px; line-height: 1.65; color: #5a6672; text-align: left; }
+  .cb p b { color: #1b1b1b; }
+  .note { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4;
+          border-radius: 11px; padding: 15px 20px; font-size: 13.5px; line-height: 1.75; color: #40624f; }
+  .note b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>가점은 세 가지로 쌓입니다</h1>
+  <p class="sub">민영주택은 이 점수로 순위가 갈립니다</p>
+  <div class="cards">
+    <div class="c c1"><div class="ch">무주택 기간</div><div class="cb"><div class="v">길수록 유리</div>
+      <p>집을 갖지 않은 기간이 <b>길수록</b> 점수가 올라갑니다</p></div></div>
+    <div class="c c2"><div class="ch">부양가족 수</div><div class="cb"><div class="v">많을수록 유리</div>
+      <p>세대에 함께 사는 <b>가족이 많을수록</b> 점수가 큽니다</p></div></div>
+    <div class="c c3"><div class="ch">통장 가입기간</div><div class="cb"><div class="v">오래될수록 유리</div>
+      <p>넣은 금액이 아니라 <b>가입한 기간</b>을 봅니다</p></div></div>
+  </div>
+  <div class="note"><b>세 번째가 핵심입니다.</b> 통장은 얼마를 넣었느냐보다 <b>언제 만들었느냐</b>가 점수를 만듭니다.<br />
+    당장 청약할 생각이 없어도 <b>일단 만들어서 시간을 쌓아두는 게</b> 유리한 이유예요.
+    월 2만원부터 넣을 수 있으니 부담이 크지도 않습니다</div>
+</div>

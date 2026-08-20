@@ -1,0 +1,44 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 22px 14px; margin-bottom: 15px; }
+  .r { display: flex; align-items: center; height: 46px; }
+  .nm { width: 128px; flex-shrink: 0; font-size: 15px; font-weight: 800; }
+  .track { flex: 1; position: relative; height: 26px; }
+  .fill { height: 26px; border-radius: 6px; }
+  .tag { position: absolute; top: 3px; font-size: 14px; font-weight: 800; white-space: nowrap; }
+  .r1 .fill { background: linear-gradient(90deg,#9fb6cc,#7d99b3); } .r1 .nm, .r1 .tag { color: #4a6d8f; }
+  .r2 .fill { background: linear-gradient(90deg,#6cc39b,#2f9e6e); } .r2 .nm, .r2 .tag { color: #1d7050; }
+  .r3 .fill { background: repeating-linear-gradient(45deg,#c3ccd6,#c3ccd6 7px,#b3bdc8 7px,#b3bdc8 14px); }
+  .r3 .nm, .r3 .tag { color: #8a929c; }
+  .box { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 20px;
+         display: flex; align-items: flex-start; gap: 16px; }
+  .box .t2 { background: #7ee0b0; color: #1b1b1b; font-size: 12px; font-weight: 800;
+             padding: 5px 13px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .box p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .box p b { color: #7ee0b0; }
+</style>
+<div id="art">
+  <h1>25만원까지만 인정됩니다</h1>
+  <p class="sub">국민주택 청약은 넣은 돈이 아니라 인정된 금액으로 순위를 매깁니다</p>
+  <div class="rows">
+    <div class="r r1"><div class="nm">월 10만원</div>
+      <div class="track"><div class="fill" style="width:200px"></div><div class="tag" style="left:210px">10만원 인정</div></div></div>
+    <div class="r r2"><div class="nm">월 25만원</div>
+      <div class="track"><div class="fill" style="width:500px"></div><div class="tag" style="left:510px">25만원 인정</div></div></div>
+    <div class="r r3"><div class="nm">월 50만원</div>
+      <div class="track"><div class="fill" style="width:500px"></div><div class="tag" style="left:510px">25만원까지만</div></div></div>
+  </div>
+  <div class="box">
+    <div class="t2">그래서</div>
+    <p>월 50만원을 넣어도 <b>청약 순위 계산에는 25만원만</b> 들어갑니다.
+      나머지 25만원은 그냥 저축이에요.<br />
+      국민주택을 노린다면 <b>딱 25만원</b>이 가장 효율적입니다. 여유가 없으면 10만원부터 시작해도 됩니다</p>
+  </div>
+</div>

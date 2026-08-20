@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eef4fa,#cbdcee);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #17325a;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #23508c; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 56px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #23508c; }
+  .sub { margin-top: 28px; font-size: 25px; color: #536d95; font-weight: 600; }
+  .sub b { color: #1d7050; }
+  .ill { position: absolute; top: 88px; right: 44px;
+    filter: drop-shadow(0 14px 26px rgba(20,50,90,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #8fa4c0; font-weight: 700; }
+</style>
+<div id="art">
+  <div class="ill">
+    <svg width="310" height="240" viewBox="0 0 310 240">
+      <path d="M28,120 L110,52 L192,120 L192,196 Q192,204 184,204 L36,204 Q28,204 28,196 Z" fill="#4f8fc0"/>
+      <path d="M18,122 L110,44 L202,122" fill="none" stroke="#23508c" stroke-width="8" stroke-linecap="round"/>
+      <rect x="92" y="152" width="36" height="52" rx="3" fill="#e3edf5"/>
+      <rect x="52" y="140" width="26" height="26" rx="3" fill="#cfe0f0"/>
+      <rect x="142" y="140" width="26" height="26" rx="3" fill="#cfe0f0"/>
+      <circle cx="252" cy="92" r="40" fill="#f5c95a"/>
+      <text x="252" y="105" text-anchor="middle" font-size="30" font-weight="800" fill="#fff"
+            font-family="Pretendard, Malgun Gothic, sans-serif">25</text>
+      <rect x="196" y="158" width="112" height="42" rx="21" fill="#1d7050"/>
+      <text x="252" y="186" text-anchor="middle" font-size="19" font-weight="800" fill="#fff"
+            font-family="Pretendard, Malgun Gothic, sans-serif">만원까지</text>
+    </svg>
+  </div>
+  <div class="tag">주택청약통장</div>
+  <h1>25만원까지만<br /><span class="hl">인정됩니다</span></h1>
+  <p class="sub">소득공제 <b>연 300만원</b>과 가점</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
