@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #edf4f9;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1e3346; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b8497; margin: 4px 0 15px; font-weight: 600; }
+  .wrap { display: flex; gap: 14px; }
+  .bag { flex: none; width: 196px; background: #fff; border-radius: 16px; border: 1px solid #d8e6ef;
+    box-shadow: 0 6px 15px rgba(30,80,120,.07); padding: 14px 16px 16px; text-align: center; }
+  .bag .h { font-size: 14px; font-weight: 800; color: #1f6f9c; margin-top: 6px; }
+  .bag .x { font-size: 12.5px; font-weight: 700; color: #7b95a8; margin-top: 5px; line-height: 1.45; }
+  .list { flex: 1; display: flex; flex-direction: column; gap: 9px; }
+  .i { background: #fff; border-radius: 13px; border: 1px solid #d8e6ef; padding: 12px 15px;
+    display: flex; gap: 12px; align-items: flex-start; box-shadow: 0 4px 11px rgba(30,80,120,.05); }
+  .ck { flex: none; width: 23px; height: 23px; border-radius: 7px; background: #1f6f9c; display: flex;
+    align-items: center; justify-content: center; }
+  .t { font-size: 14.2px; font-weight: 800; }
+  .d { font-size: 12.7px; font-weight: 700; color: #7b95a8; margin-top: 3px; line-height: 1.45; }
+  .d b { color: #c0392b; }
+</style>
+<div id="art">
+  <h1>공항 가기 전 체크리스트</h1>
+  <p class="sub">보안검색에서 걸리면 그 자리에서 버리고 가야 해요</p>
+  <div class="wrap">
+    <div class="bag">
+      <svg width="150" height="132" viewBox="0 0 150 132">
+        <rect x="34" y="26" width="82" height="94" rx="10" fill="#4a9bc9"/>
+        <rect x="44" y="36" width="62" height="42" rx="6" fill="#cfe4f1"/>
+        <rect x="62" y="10" width="26" height="18" rx="6" fill="none" stroke="#4a9bc9" stroke-width="6"/>
+        <circle cx="52" cy="126" r="6" fill="#2f4a5e"/><circle cx="98" cy="126" r="6" fill="#2f4a5e"/>
+        <rect x="56" y="46" width="24" height="16" rx="3" fill="#2e9e6b"/>
+        <rect x="80" y="51" width="5" height="7" rx="2" fill="#2e9e6b"/>
+        <rect x="56" y="88" width="38" height="9" rx="4" fill="#7fb9da"/>
+      </svg>
+      <div class="h">보조배터리는 손가방에</div>
+      <div class="x">캐리어에 넣어 부치면 안 돼요. 기내에 들고 타는 가방에 넣으세요</div>
+    </div>
+    <div class="list">
+      <div class="i"><div class="ck"><svg width="12" height="12" viewBox="0 0 12 12"><path d="M2,6 L5,9 L10,3" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">용량 표기가 지워지지 않았는지</div><div class="d">Wh·mAh 표기가 안 보이면 <b>반입을 거절당할 수 있어요</b></div></div></div>
+      <div class="i"><div class="ck"><svg width="12" height="12" viewBox="0 0 12 12"><path d="M2,6 L5,9 L10,3" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">개수는 2개까지만</div><div class="d">가족끼리 나눠 들어도 <b>1인 2개</b> 기준이에요</div></div></div>
+      <div class="i"><div class="ck"><svg width="12" height="12" viewBox="0 0 12 12"><path d="M2,6 L5,9 L10,3" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">단자는 감싸두기</div><div class="d">비닐팩이나 절연테이프로 <b>합선(단락)</b>을 막아요</div></div></div>
+      <div class="i"><div class="ck"><svg width="12" height="12" viewBox="0 0 12 12"><path d="M2,6 L5,9 L10,3" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div><div><div class="t">전자담배·노트북 배터리도 같은 규정</div><div class="d">리튬 배터리가 든 건 전부 <b>기내 휴대</b>가 원칙이에요</div></div></div>
+    </div>
+  </div>
+</div>

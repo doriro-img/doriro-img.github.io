@@ -1,0 +1,51 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #edf4f9;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1e3346; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b8497; margin: 4px 0 15px; font-weight: 600; }
+  .scene { background: #fff; border-radius: 16px; border: 1px solid #d8e6ef; padding: 16px 20px;
+    box-shadow: 0 6px 15px rgba(30,80,120,.07); display: flex; align-items: center; gap: 20px; }
+  .lg { flex: 1; display: flex; flex-direction: column; gap: 10px; }
+  .r { display: flex; gap: 12px; align-items: flex-start; }
+  .mk { flex: none; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center;
+    justify-content: center; font-size: 15px; font-weight: 800; color: #fff; }
+  .mk.o { background: #2e9e6b; } .mk.x { background: #e05c50; }
+  .t { font-size: 14.6px; font-weight: 800; }
+  .t.o { color: #1d7a54; } .t.x { color: #c0392b; }
+  .d { font-size: 12.7px; font-weight: 700; color: #7b95a8; margin-top: 3px; line-height: 1.45; }
+</style>
+<div id="art">
+  <h1>어디에 두고 타야 하나요?</h1>
+  <p class="sub">불이 나면 바로 알아채야 해서 눈에 보이는 곳에 둡니다</p>
+  <div class="scene">
+    <svg width="290" height="212" viewBox="0 0 290 212">
+      <!-- 기내 선반 -->
+      <path d="M14,10 h262 a16,16 0 0 1 16,16 v30 a16,16 0 0 1 -16,16 h-262 Z" fill="#dbe8f1"/>
+      <path d="M14,40 h262" stroke="#b8cfdf" stroke-width="2.4"/>
+      <text x="146" y="32" text-anchor="middle" font-size="13" font-weight="800" fill="#7b95a8">머리 위 선반</text>
+      <circle cx="146" cy="52" r="15" fill="#e05c50"/>
+      <path d="M139,52 h14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <!-- 좌석 -->
+      <path d="M40,196 h130 v-16 h-130 Z" fill="#8fa9bd"/>
+      <path d="M56,180 v-84 a14,14 0 0 1 14,-14 h56 a14,14 0 0 1 14,14 v84 Z" fill="#a9c2d4"/>
+      <path d="M62,178 v-70 h68 v70 Z" fill="#c9dbe8"/>
+      <!-- 앞주머니 -->
+      <path d="M66,150 h60 v26 h-60 Z" fill="#7e9bb1"/>
+      <rect x="86" y="140" width="26" height="20" rx="4" fill="#2e9e6b"/>
+      <rect x="112" y="146" width="5" height="8" rx="2" fill="#2e9e6b"/>
+      <circle cx="200" cy="132" r="17" fill="#2e9e6b"/>
+      <path d="M192,132 l6,6 l11,-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="228" y="176" text-anchor="middle" font-size="13" font-weight="800" fill="#1d7a54">앞주머니 OK</text>
+    </svg>
+    <div class="lg">
+      <div class="r"><div class="mk o">O</div><div><div class="t o">몸에 지니거나 좌석 앞주머니</div><div class="d">주머니·손가방처럼 바로 꺼낼 수 있는 곳에 둬요</div></div></div>
+      <div class="r"><div class="mk x">X</div><div><div class="t x">머리 위 선반 보관</div><div class="d">연기가 나도 늦게 발견돼서 금지예요</div></div></div>
+      <div class="r"><div class="mk x">X</div><div><div class="t x">부치는 짐(위탁수하물)</div><div class="d">리튬 배터리는 화물칸에 못 실어요. 짐 쌀 때 빼두세요</div></div></div>
+      <div class="r"><div class="mk x">X</div><div><div class="t x">비행 중 충전·사용</div><div class="d">이륙부터 착륙까지 계속 금지입니다</div></div></div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,53 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #edf4f9;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1e3346; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b8497; margin: 4px 0 15px; font-weight: 600; }
+  .eq { background: #fff; border-radius: 15px; border: 1px solid #d8e6ef; padding: 18px 20px;
+    box-shadow: 0 6px 15px rgba(30,80,120,.07); display: flex; align-items: center; justify-content: center;
+    gap: 12px; margin-bottom: 12px; }
+  .box { text-align: center; }
+  .box .v { font-size: 26px; font-weight: 800; color: #1f6f9c; letter-spacing: -1px; }
+  .box .k { font-size: 12.4px; font-weight: 700; color: #7b95a8; margin-top: 2px; }
+  .op { font-size: 24px; font-weight: 800; color: #a8c1d2; }
+  .res { background: #e6f5ee; border-radius: 12px; padding: 10px 18px; }
+  .res .v { color: #1d7a54; font-size: 30px; }
+  .ex { display: flex; gap: 11px; }
+  .c { flex: 1; background: #fff; border-radius: 14px; border: 1px solid #d8e6ef; padding: 14px 16px;
+    box-shadow: 0 5px 13px rgba(30,80,120,.06); display: flex; align-items: center; gap: 13px; }
+  .c svg { flex: none; }
+  .c .t { font-size: 15px; font-weight: 800; }
+  .c .d { font-size: 12.6px; font-weight: 700; color: #7b95a8; margin-top: 3px; }
+  .c.a .t { color: #1d7a54; } .c.b .t { color: #b5701a; } .c.c2 .t { color: #c0392b; }
+</style>
+<div id="art">
+  <h1>mAh만 적혀 있으면 이렇게 계산해요</h1>
+  <p class="sub">보조배터리는 보통 3.7V라서 이 식이면 대충 맞아요</p>
+  <div class="eq">
+    <div class="box"><div class="v">20,000</div><div class="k">mAh</div></div>
+    <div class="op">×</div>
+    <div class="box"><div class="v">3.7</div><div class="k">V (전압)</div></div>
+    <div class="op">÷</div>
+    <div class="box"><div class="v">1,000</div><div class="k">단위 환산</div></div>
+    <div class="op">=</div>
+    <div class="box res"><div class="v">74</div><div class="k">Wh · 반입 가능</div></div>
+  </div>
+  <div class="ex">
+    <div class="c a">
+      <svg width="46" height="46" viewBox="0 0 46 46"><rect x="6" y="12" width="30" height="22" rx="4" fill="#2e9e6b"/><rect x="36" y="19" width="5" height="8" rx="2" fill="#2e9e6b"/><rect x="10" y="17" width="14" height="6" rx="2" fill="#fff" opacity=".8"/></svg>
+      <div><div class="t">10,000mAh ≒ 37Wh</div><div class="d">가장 흔한 크기 · 문제 없어요</div></div>
+    </div>
+    <div class="c b">
+      <svg width="46" height="46" viewBox="0 0 46 46"><rect x="4" y="10" width="34" height="26" rx="4" fill="#e0a92f"/><rect x="38" y="19" width="5" height="8" rx="2" fill="#e0a92f"/><rect x="8" y="15" width="18" height="6" rx="2" fill="#fff" opacity=".8"/></svg>
+      <div><div class="t">27,000mAh ≒ 100Wh</div><div class="d">여기가 딱 경계선이에요</div></div>
+    </div>
+    <div class="c c2">
+      <svg width="46" height="46" viewBox="0 0 46 46"><rect x="3" y="8" width="36" height="30" rx="4" fill="#c0392b"/><rect x="39" y="18" width="5" height="10" rx="2" fill="#c0392b"/><rect x="7" y="13" width="20" height="6" rx="2" fill="#fff" opacity=".8"/></svg>
+      <div><div class="t">43,000mAh 초과</div><div class="d">160Wh를 넘어 반입 불가</div></div>
+    </div>
+  </div>
+</div>

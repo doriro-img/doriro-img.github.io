@@ -1,0 +1,60 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #eef4fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #23303f; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b7f95; margin: 4px 0 15px; font-weight: 600; }
+  .row { display: flex; gap: 12px; }
+  .c { flex: 1; background: #fff; border-radius: 14px; border: 1px solid #dde7f2; padding: 15px 16px 17px;
+    box-shadow: 0 6px 15px rgba(40,90,150,.07); }
+  .t { font-size: 13.5px; font-weight: 800; color: #55697e; }
+  .amt { font-size: 30px; font-weight: 800; letter-spacing: -1.5px; color: #2f6fb5; margin-top: 6px; }
+  .amt span { font-size: 15px; }
+  .bar { height: 10px; border-radius: 6px; background: #e6eef7; margin-top: 11px; overflow: hidden; }
+  .bar i { display: block; height: 100%; border-radius: 6px; background: linear-gradient(90deg,#4a86c4,#2f6fb5); }
+  .d { font-size: 12.6px; font-weight: 700; color: #7b8ea3; margin-top: 8px; line-height: 1.4; }
+  .cut { margin-top: 14px; background: #fff6e6; border: 1px solid #f3dfba; border-radius: 14px;
+    padding: 14px 18px; display: flex; align-items: center; gap: 16px; }
+  .cut svg { flex: none; }
+  .cut .k { font-size: 16px; font-weight: 800; color: #b5701a; }
+  .cut .v { font-size: 13.4px; font-weight: 700; color: #7a6a4a; margin-top: 4px; line-height: 1.45; }
+</style>
+<div id="art">
+  <h1>내 기준금액은 얼마일까? (수도권 일반형 기준)</h1>
+  <p class="sub">이 금액을 넘긴 교통비가 환급 대상이 돼요</p>
+  <div class="row">
+    <div class="c">
+      <div class="t">일반</div>
+      <div class="amt">62,000<span>원</span></div>
+      <div class="bar"><i style="width:100%"></i></div>
+      <div class="d">성인 기본 기준금액</div>
+    </div>
+    <div class="c">
+      <div class="t">청년 · 어르신 · 2자녀</div>
+      <div class="amt">55,000<span>원</span></div>
+      <div class="bar"><i style="width:88%"></i></div>
+      <div class="d">기준이 낮아 환급이 더 빨리 시작돼요</div>
+    </div>
+    <div class="c">
+      <div class="t">3자녀 이상 · 저소득층</div>
+      <div class="amt">45,000<span>원</span></div>
+      <div class="bar"><i style="width:72%"></i></div>
+      <div class="d">가장 유리한 구간</div>
+    </div>
+  </div>
+  <div class="cut">
+    <svg width="54" height="54" viewBox="0 0 54 54">
+      <circle cx="27" cy="27" r="24" fill="#f6dfb4"/>
+      <path d="M16,34 L38,17" stroke="#c9761d" stroke-width="4" stroke-linecap="round"/>
+      <path d="M34,15 L40,15 L40,21" stroke="#c9761d" stroke-width="4" stroke-linecap="round" fill="none"/>
+      <rect x="15" y="36" width="24" height="5" rx="2.5" fill="#e0a94f"/>
+    </svg>
+    <div>
+      <div class="k">2026년 4월 ~ 9월 30일은 기준금액 한시 인하</div>
+      <div class="v">이 기간엔 기준금액이 더 낮아져서 환급이 커집니다. 10월부터는 원래 기준으로 돌아가요<br />(지역·유형별로 금액이 달라서 정확한 내 기준은 K-패스 앱에서 확인)</div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,53 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #eef4fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #23303f; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b7f95; margin: 4px 0 15px; font-weight: 600; }
+  .wrap { display: flex; gap: 14px; }
+  .cal { flex: none; width: 232px; background: #fff; border-radius: 15px; border: 1px solid #dde7f2;
+    box-shadow: 0 6px 15px rgba(40,90,150,.07); padding: 15px 16px 17px; text-align: center; }
+  .cal .h { font-size: 13px; font-weight: 800; color: #55697e; }
+  .cal .big { font-size: 40px; font-weight: 800; color: #c0392b; letter-spacing: -2px; line-height: 1.1; margin-top: 4px; }
+  .cal .u { font-size: 14px; font-weight: 800; color: #8c4b45; }
+  .cal .d { font-size: 12.6px; font-weight: 700; color: #7b8ea3; margin-top: 9px; line-height: 1.45; }
+  .list { flex: 1; display: flex; flex-direction: column; gap: 9px; }
+  .i { background: #fff; border-radius: 13px; border: 1px solid #dde7f2; padding: 12px 15px;
+    display: flex; gap: 12px; align-items: flex-start; box-shadow: 0 4px 11px rgba(40,90,150,.05); }
+  .i .em { flex: none; font-size: 21px; }
+  .i .t { font-size: 14.3px; font-weight: 800; color: #23303f; }
+  .i .x { font-size: 12.8px; font-weight: 700; color: #7b8ea3; margin-top: 3px; line-height: 1.45; }
+  .i .x b { color: #c0392b; }
+</style>
+<div id="art">
+  <h1>이건 놓치면 손해예요</h1>
+  <p class="sub">환급이 안 들어오는 이유는 대부분 이 넷 중 하나예요</p>
+  <div class="wrap">
+    <div class="cal">
+      <div class="h">한시 인하 종료까지</div>
+      <div class="big">9/30</div>
+      <div class="u">까지</div>
+      <svg width="150" height="76" viewBox="0 0 150 76" style="margin-top:8px">
+        <rect x="20" y="8" width="110" height="62" rx="8" fill="#f4f8fc" stroke="#c9d8e8" stroke-width="2"/>
+        <rect x="20" y="8" width="110" height="16" rx="8" fill="#2f6fb5"/>
+        <rect x="20" y="18" width="110" height="6" fill="#2f6fb5"/>
+        <g fill="#c9d8e8">
+          <rect x="30" y="32" width="16" height="10" rx="2"/><rect x="52" y="32" width="16" height="10" rx="2"/>
+          <rect x="74" y="32" width="16" height="10" rx="2"/><rect x="96" y="32" width="16" height="10" rx="2"/>
+          <rect x="30" y="48" width="16" height="10" rx="2"/><rect x="52" y="48" width="16" height="10" rx="2"/>
+        </g>
+        <rect x="74" y="48" width="38" height="10" rx="5" fill="#e05c50"/>
+      </svg>
+      <div class="d">10월부터는 원래 기준금액으로<br />돌아갑니다</div>
+    </div>
+    <div class="list">
+      <div class="i"><div class="em">🎫</div><div><div class="t">월 15회를 못 채웠다</div><div class="x">아무리 많이 써도 <b>15회 미만이면 환급 없음</b> (가입 첫 달은 예외)</div></div></div>
+      <div class="i"><div class="em">💳</div><div><div class="t">카드를 앱에 등록 안 했다</div><div class="x">발급만 받고 등록을 안 하면 <b>이용 실적이 안 잡혀요</b></div></div></div>
+      <div class="i"><div class="em">📅</div><div><div class="t">환급이 바로 안 들어온다</div><div class="x">이용한 달의 <b>다음 달 초 7영업일</b>쯤 카드사로 넘어가요</div></div></div>
+      <div class="i"><div class="em">🚌</div><div><div class="t">환급 안 되는 교통수단이 있다</div><div class="x">시내버스·지하철 중심이라 <b>탑승 수단·지역</b>을 미리 확인</div></div></div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,57 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 30px 40px 26px; background: #eef4fb;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #23303f; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; }
+  .sub { font-size: 13.5px; color: #6b7f95; margin: 4px 0 14px; font-weight: 600; }
+  .wrap { display: flex; gap: 22px; align-items: stretch; }
+  .card { background: #fff; border-radius: 15px; border: 1px solid #dde7f2;
+    box-shadow: 0 6px 15px rgba(40,90,150,.07); padding: 16px 18px; }
+  .chart { flex: none; width: 350px; }
+  .right { flex: 1; display: flex; flex-direction: column; gap: 11px; }
+  .step { display: flex; gap: 12px; align-items: center; }
+  .num { flex: none; width: 30px; height: 30px; border-radius: 50%; background: #2f6fb5; color: #fff;
+    font-size: 15px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+  .tx { font-size: 14.5px; font-weight: 700; color: #33455a; line-height: 1.45; }
+  .tx b { color: #1d7a54; }
+  .tx i { font-style: normal; color: #c0392b; }
+  .note { margin-top: 13px; background: #e7f5ee; border-radius: 11px; padding: 11px 14px;
+    font-size: 13.5px; font-weight: 700; color: #1d7a54; }
+</style>
+<div id="art">
+  <h1>모두의카드, 기준금액 넘긴 만큼 100% 돌려줍니다</h1>
+  <p class="sub">덜 쓰면 0원, 많이 쓸수록 환급이 커지는 구조예요</p>
+  <div class="wrap">
+    <div class="card chart">
+      <svg width="310" height="215" viewBox="0 0 310 215">
+        <!-- 축 -->
+        <line x1="34" y1="188" x2="296" y2="188" stroke="#c9d8e8" stroke-width="2"/>
+        <!-- 기준선 -->
+        <line x1="34" y1="118" x2="296" y2="118" stroke="#e08b2f" stroke-width="2" stroke-dasharray="6 5"/>
+        <text x="34" y="110" font-size="12.5" font-weight="800" fill="#c9761d">기준금액 62,000원</text>
+        <!-- 막대 A: 5만원 -->
+        <rect x="62" y="132" width="66" height="56" rx="5" fill="#9fb9d4"/>
+        <text x="95" y="205" text-anchor="middle" font-size="12.5" font-weight="800" fill="#6b7f95">50,000원</text>
+        <text x="95" y="152" text-anchor="middle" font-size="12.5" font-weight="800" fill="#fff">환급 0원</text>
+        <!-- 막대 B: 9만원 -->
+        <rect x="196" y="118" width="66" height="70" rx="5" fill="#4a86c4"/>
+        <rect x="196" y="56" width="66" height="62" rx="5" fill="#2e9e6b"/>
+        <text x="229" y="205" text-anchor="middle" font-size="12.5" font-weight="800" fill="#33455a">90,000원</text>
+        <text x="229" y="46" text-anchor="middle" font-size="13" font-weight="800" fill="#1d7a54">28,000원 환급</text>
+        <text x="229" y="92" text-anchor="middle" font-size="12.5" font-weight="800" fill="#fff">초과분</text>
+      </svg>
+    </div>
+    <div class="right">
+      <div class="card" style="flex:1; display:flex; flex-direction:column; justify-content:center; gap:13px;">
+        <div class="step"><div class="num">1</div><div class="tx">한 달 대중교통비를 다 더해요</div></div>
+        <div class="step"><div class="num">2</div><div class="tx">기준금액(일반 62,000원)을 넘겼는지 봐요</div></div>
+        <div class="step"><div class="num">3</div><div class="tx">넘긴 금액은 <b>한도 없이 전액</b> 돌려받아요</div></div>
+        <div class="step"><div class="num">!</div><div class="tx">단, <i>월 15회 이상</i> 타야 해요</div></div>
+      </div>
+      <div class="note">K-패스 기본 환급과 자동 비교해서 더 유리한 쪽으로 적용됩니다</div>
+    </div>
+  </div>
+</div>
