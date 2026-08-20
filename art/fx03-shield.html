@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .flow { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+  .b { flex: 1; border-radius: 11px; padding: 16px 18px; text-align: center; }
+  .b .k { font-size: 12px; font-weight: 700; margin-bottom: 5px; }
+  .b .v { font-size: 27px; font-weight: 800; letter-spacing: -1px; }
+  .b .n { font-size: 12px; margin-top: 3px; }
+  .b1 { background: #fdf2f1; border: 1px solid #f0b8b1; }
+  .b1 .k { color: #a8695f; } .b1 .v { color: #c0503f; } .b1 .n { color: #b0837b; }
+  .b2 { background: #eff6fb; border: 1px solid #cfe0f0; }
+  .b2 .k { color: #4f7ba8; } .b2 .v { color: #1f4a7a; } .b2 .n { color: #7b93ad; }
+  .b3 { background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4; }
+  .b3 .k { color: #3d9b74; } .b3 .v { color: #1d7050; } .b3 .n { color: #6aa78d; }
+  .op { font-size: 22px; font-weight: 800; color: #b8c2cc; flex-shrink: 0; }
+
+  .shield { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 16px 22px;
+            display: flex; align-items: flex-start; gap: 18px; margin-bottom: 14px; }
+  .shield .ic { flex-shrink: 0; margin-top: 2px; }
+  .shield .t { font-size: 15.5px; font-weight: 800; color: #7ee0b0; margin-bottom: 5px; }
+  .shield p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .shield p b { color: #ffd97a; }
+
+  .note { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+          padding: 13px 18px; font-size: 12.5px; line-height: 1.7; color: #6b7480; }
+  .note b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>위기가 오면 환율이 방패가 됩니다</h1>
+  <p class="sub">미국 주식이 크게 빠지는 날은 보통 환율이 오르는 날이에요</p>
+
+  <div class="flow">
+    <div class="b b1"><div class="k">달러로 본 주가</div><div class="v">-30%</div><div class="n">폭락했다고 치면</div></div>
+    <div class="op">×</div>
+    <div class="b b2"><div class="k">환율</div><div class="v">+30%</div><div class="n">달러가 오르고</div></div>
+    <div class="op">=</div>
+    <div class="b b3"><div class="k">원화로 본 내 계좌</div><div class="v">-9%</div><div class="n">이 정도로 막힙니다</div></div>
+  </div>
+
+  <div class="shield">
+    <svg class="ic" width="40" height="44" viewBox="0 0 40 44">
+      <path d="M20,3 L37,10 V24 C37,34 29,40 20,42 C11,40 3,34 3,24 V10 Z" fill="none" stroke="#7ee0b0" stroke-width="3"/>
+      <path d="M12,22 l6,6 l11,-12" fill="none" stroke="#7ee0b0" stroke-width="3.4"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div>
+      <div class="t">달러는 겁이 나면 사람들이 몰리는 돈입니다</div>
+      <p>세계 경제가 흔들리면 안전한 곳을 찾아 <b>달러로 돈이 몰립니다.</b>
+        그래서 주식이 빠지는 바로 그때 환율이 올라요.<br />
+        미국 주식을 환율 그대로 들고 있으면 <b>이 둘이 서로 상쇄됩니다.</b> 2008년이 그랬습니다</p>
+    </div>
+  </div>
+
+  <p class="note">※ 늘 이렇게 맞아떨어지는 건 아닙니다. 주가와 환율이 <b>같이 나쁜 쪽으로 갈 때도</b> 있어요.
+    다만 지난 위기들에서는 대체로 이 방향으로 움직였습니다</p>
+</div>

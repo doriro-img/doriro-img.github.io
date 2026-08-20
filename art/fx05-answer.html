@@ -1,0 +1,86 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+
+  .stage { display: flex; gap: 12px; margin-bottom: 16px; }
+  .s { flex: 1; border-radius: 12px; overflow: hidden; border: 1px solid #e2e6ea; }
+  .sh { padding: 12px 16px; display: flex; align-items: center; gap: 9px; }
+  .s1 .sh { background: linear-gradient(160deg,#eef9f3,#d3f0e1); }
+  .s2 .sh { background: linear-gradient(160deg,#eff6fb,#d6e8f5); }
+  .s3 .sh { background: linear-gradient(160deg,#fdf6e9,#f8e7c5); }
+  .sh .t { font-size: 15px; font-weight: 800; letter-spacing: -0.3px; }
+  .s1 .sh .t { color: #1d7050; } .s2 .sh .t { color: #1f4a7a; } .s3 .sh .t { color: #9a6413; }
+  .sb { padding: 14px 16px 16px; background: #fff; }
+  .want { font-size: 13px; font-weight: 800; padding: 6px 12px; border-radius: 11px;
+          display: inline-block; margin-bottom: 9px; }
+  .s1 .want { background: #d3f0e1; color: #1d7050; }
+  .s2 .want { background: #d6e8f5; color: #1f4a7a; }
+  .s3 .want { background: #f8e7c5; color: #9a6413; }
+  .sb p { font-size: 12.5px; line-height: 1.7; color: #4a5561; }
+  .sb p b { color: #1b1b1b; }
+
+  .final { background: #1b1b1b; color: #fff; border-radius: 12px; padding: 18px 24px; }
+  .final .t { font-size: 16.5px; font-weight: 800; color: #7ee0b0; margin-bottom: 9px; }
+  .final p { font-size: 14px; line-height: 1.8; color: #d8dee4; }
+  .final p b { color: #ffd97a; }
+</style>
+
+<div id="art">
+  <h1>그래서 답은 이렇습니다</h1>
+  <p class="sub">지금 내가 어느 구간에 있느냐로 정해집니다</p>
+
+  <div class="stage">
+    <div class="s s1">
+      <div class="sh">
+        <svg width="26" height="26" viewBox="0 0 26 26"><circle cx="13" cy="13" r="12" fill="#2f9e6e"/>
+          <path d="M13,7 v12 M8,14 l5,5 l5,-5" stroke="#fff" stroke-width="2.4" fill="none"
+                stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <div class="t">모으는 중</div>
+      </div>
+      <div class="sb">
+        <div class="want">환율이 낮으면 좋다</div>
+        <p>같은 돈으로 <b>더 많이 삽니다.</b> 환율이 내려가면 세일 기간이라고 생각하시면 돼요</p>
+      </div>
+    </div>
+
+    <div class="s s2">
+      <div class="sh">
+        <svg width="26" height="26" viewBox="0 0 26 26"><circle cx="13" cy="13" r="12" fill="#2f6fb0"/>
+          <path d="M8,13 h10" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>
+        <div class="t">그냥 들고 있는 중</div>
+      </div>
+      <div class="sb">
+        <div class="want">별 의미 없다</div>
+        <p>계좌 숫자만 왔다 갔다 합니다. <b>팔지 않으면 실제로 생긴 돈이 아니에요</b></p>
+      </div>
+    </div>
+
+    <div class="s s3">
+      <div class="sh">
+        <svg width="26" height="26" viewBox="0 0 26 26"><circle cx="13" cy="13" r="12" fill="#d4832f"/>
+          <path d="M13,19 v-12 M8,12 l5,-5 l5,5" stroke="#fff" stroke-width="2.4" fill="none"
+                stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <div class="t">꺼내 쓸 때</div>
+      </div>
+      <div class="sb">
+        <div class="want">환율이 높으면 좋다</div>
+        <p>달러를 원화로 바꾸니까요. 다만 <b>세금도 같이 늘어납니다</b></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="final">
+    <div class="t">20년을 보고 간다면</div>
+    <p>사는 기간도 길고 파는 기간도 깁니다. <b>어차피 양쪽을 다 지나가요.</b><br />
+      매달 꾸준히 사면 환율도 저절로 평균이 됩니다. 그러니 환율을 맞히려 하지 마시고
+      <b>환헤지 없이 그대로 들고 가는 쪽</b>을 저는 택했습니다. 위기 때 방패가 되니까요</p>
+  </div>
+</div>

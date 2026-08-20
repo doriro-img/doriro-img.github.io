@@ -1,0 +1,76 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 18px; }
+
+  .f { background: linear-gradient(160deg,#fdf2f1,#f8ded9); border: 1px solid #f0b8b1;
+       border-radius: 11px; padding: 14px 20px; margin-bottom: 15px; }
+  .f .eq { font-size: 15.5px; font-weight: 800; color: #b8463a; letter-spacing: -0.3px; }
+  .f p { font-size: 12.5px; color: #8f5a52; margin-top: 5px; }
+
+  .case { border: 1px solid #e6e9ed; border-radius: 11px; overflow: hidden; margin-bottom: 14px; }
+  .ch { background: #f2f5f7; padding: 10px 18px; font-size: 12.5px; font-weight: 800; color: #55606c; }
+  .cr { display: flex; align-items: center; padding: 13px 18px; border-top: 1px solid #eef1f4; }
+  .cr .k { width: 138px; flex-shrink: 0; font-size: 13px; font-weight: 700; color: #7b848f; }
+  .cr .m { flex: 1; font-size: 14.5px; }
+  .cr .m b { font-weight: 800; }
+  .cr .w { width: 152px; text-align: right; font-size: 16px; font-weight: 800; letter-spacing: -0.4px; }
+  .cr.buy .w { color: #4f7ba8; }
+  .cr.sell .w { color: #4f7ba8; }
+  .cr.res { background: #fdf2f1; }
+  .cr.res .k { color: #a8695f; } .cr.res .w { color: #b8463a; font-size: 18px; }
+
+  .out { display: flex; gap: 11px; }
+  .o { flex: 1; border-radius: 10px; padding: 13px 16px; }
+  .o1 { background: #fafbfc; border: 1px solid #e2e6ea; }
+  .o2 { background: #fafbfc; border: 1px solid #e2e6ea; }
+  .o3 { background: #1b1b1b; }
+  .o .k { font-size: 11.5px; font-weight: 700; margin-bottom: 4px; }
+  .o1 .k, .o2 .k { color: #8a929c; } .o3 .k { color: #9aa6b2; }
+  .o .v { font-size: 19px; font-weight: 800; letter-spacing: -0.5px; }
+  .o1 .v, .o2 .v { color: #1b1b1b; } .o3 .v { color: #ff8a7a; }
+  .o .n { font-size: 11.5px; margin-top: 3px; }
+  .o1 .n, .o2 .n { color: #7b848f; } .o3 .n { color: #b8c2cc; }
+</style>
+
+<div id="art">
+  <h1>주가가 그대로여도 세금이 나옵니다</h1>
+  <p class="sub">양도차익을 원화로 계산하기 때문이에요</p>
+
+  <div class="f">
+    <div class="eq">양도차익 = (판 달러 × 매도 결제일 환율) − (산 달러 × 매수 결제일 환율)</div>
+    <p>환율로 생긴 차익도 그대로 양도차익에 들어갑니다</p>
+  </div>
+
+  <div class="case">
+    <div class="ch">주가는 1원도 안 오른 경우</div>
+    <div class="cr buy">
+      <div class="k">살 때</div>
+      <div class="m">5만 달러 · 환율 <b>1,200원</b></div>
+      <div class="w">6,000만원</div>
+    </div>
+    <div class="cr sell">
+      <div class="k">팔 때</div>
+      <div class="m">5만 달러 · 환율 <b>1,400원</b></div>
+      <div class="w">7,000만원</div>
+    </div>
+    <div class="cr res">
+      <div class="k">양도차익</div>
+      <div class="m">전부 환율 때문에 생긴 차익입니다</div>
+      <div class="w">1,000만원</div>
+    </div>
+  </div>
+
+  <div class="out">
+    <div class="o o1"><div class="k">기본공제</div><div class="v">250만원</div><div class="n">해마다 한 번</div></div>
+    <div class="o o2"><div class="k">과세표준</div><div class="v">750만원</div><div class="n">1,000만 − 250만</div></div>
+    <div class="o o3"><div class="k">내야 할 세금 (22%)</div><div class="v">165만원</div><div class="n">주가는 그대로인데</div></div>
+  </div>
+</div>

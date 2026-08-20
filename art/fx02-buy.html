@@ -1,0 +1,69 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 20px 14px; }
+  .r { display: flex; align-items: center; height: 46px; }
+  .fx { width: 106px; flex-shrink: 0; font-size: 15px; font-weight: 800; }
+  .track { flex: 1; position: relative; height: 28px; }
+  .fill { height: 28px; border-radius: 6px; }
+  .amt { position: absolute; top: 4px; font-size: 14.5px; font-weight: 800; white-space: nowrap; }
+
+  .r1 .fill { background: linear-gradient(90deg,#6cc39b,#2f9e6e); } .r1 .fx, .r1 .amt { color: #1d7050; }
+  .r2 .fill { background: linear-gradient(90deg,#8ecdb0,#4faa84); } .r2 .fx, .r2 .amt { color: #23805a; }
+  .r3 .fill { background: linear-gradient(90deg,#e8c48a,#dda13f); } .r3 .fx, .r3 .amt { color: #b9741a; }
+  .r4 .fill { background: linear-gradient(90deg,#e8a09a,#d4675c); } .r4 .fx, .r4 .amt { color: #c0503f; }
+  .r5 .fill { background: linear-gradient(90deg,#dc8a82,#c14a3e); } .r5 .fx, .r5 .amt { color: #b03828; }
+
+  .now { font-size: 10.5px; font-weight: 800; background: #1b1b1b; color: #fff;
+         padding: 2px 8px; border-radius: 9px; margin-left: 7px; vertical-align: middle; }
+
+  .gap { margin-top: 15px; background: linear-gradient(160deg,#eef9f3,#d3f0e1);
+         border: 1px solid #a9dcc4; border-radius: 10px; padding: 14px 20px;
+         display: flex; align-items: center; gap: 18px; }
+  .gap .big { font-size: 27px; font-weight: 800; color: #1d7050; letter-spacing: -1px; white-space: nowrap; }
+  .gap p { font-size: 13.5px; line-height: 1.7; color: #4a5561; }
+  .gap p b { color: #1b1b1b; }
+</style>
+
+<div id="art">
+  <h1>매달 100만원으로 몇 달러를 사나</h1>
+  <p class="sub">모으는 중이라면 환율이 낮을수록 많이 삽니다</p>
+
+  <div class="rows">
+    <div class="r r1">
+      <div class="fx">1,100원</div>
+      <div class="track"><div class="fill" style="width:540px"></div><div class="amt" style="left:550px">909달러</div></div>
+    </div>
+    <div class="r r2">
+      <div class="fx">1,200원</div>
+      <div class="track"><div class="fill" style="width:495px"></div><div class="amt" style="left:505px">833달러</div></div>
+    </div>
+    <div class="r r3">
+      <div class="fx">1,300원</div>
+      <div class="track"><div class="fill" style="width:457px"></div><div class="amt" style="left:467px">769달러</div></div>
+    </div>
+    <div class="r r4">
+      <div class="fx">1,400원<span class="now">요즘</span></div>
+      <div class="track"><div class="fill" style="width:424px"></div><div class="amt" style="left:434px">714달러</div></div>
+    </div>
+    <div class="r r5">
+      <div class="fx">1,500원</div>
+      <div class="track"><div class="fill" style="width:396px"></div><div class="amt" style="left:406px">667달러</div></div>
+    </div>
+  </div>
+
+  <div class="gap">
+    <div class="big">36% 차이</div>
+    <p>환율 1,100원일 때와 1,500원일 때는 <b>같은 100만원으로 사는 양이 36%나 벌어집니다.</b><br />
+      아직 모으는 중이라면 환율이 내려가는 게 반가운 일이에요</p>
+  </div>
+</div>

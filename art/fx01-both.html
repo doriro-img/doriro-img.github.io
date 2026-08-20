@@ -1,0 +1,71 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard', 'Malgun Gothic', -apple-system, sans-serif; color: #1b1b1b;
+  }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+
+  .top { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 13px 20px;
+         margin-bottom: 14px; display: flex; align-items: center; gap: 16px; }
+  .top .big { font-size: 19px; font-weight: 800; color: #ffd97a; white-space: nowrap; }
+  .top p { font-size: 13.5px; color: #d8dee4; }
+
+  .two { display: flex; gap: 14px; }
+  .p { flex: 1; border-radius: 12px; overflow: hidden; border: 1px solid; }
+  .pa { border-color: #a9dcc4; } .pb { border-color: #f0b8b1; }
+  .ph { padding: 12px 18px; font-size: 15px; font-weight: 800; color: #fff;
+        display: flex; align-items: center; justify-content: space-between; }
+  .pa .ph { background: #2f9e6e; } .pb .ph { background: #cf4f43; }
+  .ph .em { font-size: 12px; font-weight: 700; opacity: .95; }
+  .pb2 { padding: 18px; }
+  .pa .pb2 { background: #f4fbf7; } .pb .pb2 { background: #fdf3f1; }
+
+  .line { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .line .l { font-size: 12.5px; color: #7b848f; font-weight: 700; width: 74px; flex-shrink: 0; }
+  .line .v { font-size: 17px; font-weight: 800; letter-spacing: -0.4px; }
+  .pa .line .v { color: #1d7050; } .pb .line .v { color: #b8463a; }
+
+  .verdict { border-radius: 9px; padding: 11px 14px; font-size: 13.5px; line-height: 1.65; }
+  .pa .verdict { background: #dff2e8; color: #1d5c45; }
+  .pb .verdict { background: #f9dcd8; color: #8f382e; }
+  .verdict b { font-weight: 800; }
+</style>
+
+<div id="art">
+  <h1>같은 환율 상승인데 정반대입니다</h1>
+  <p class="sub">환율이 1,200원에서 1,400원으로 올랐을 때</p>
+
+  <div class="top">
+    <div class="big">환율은 방향이 아니라</div>
+    <p>내가 지금 <b>사는 중인지 파는 중인지</b>에 따라 좋고 나쁨이 완전히 뒤집힙니다</p>
+  </div>
+
+  <div class="two">
+
+    <div class="p pa">
+      <div class="ph"><span>이미 다 사둔 사람</span><span class="em">파는 쪽</span></div>
+      <div class="pb2">
+        <div class="line"><div class="l">가진 것</div><div class="v">1만 달러</div></div>
+        <div class="line"><div class="l">전에는</div><div class="v">1,200만원</div></div>
+        <div class="line"><div class="l">지금은</div><div class="v">1,400만원</div></div>
+        <div class="verdict">달러를 원화로 바꿀 때 <b>200만원을 더 받습니다.</b> 환율이 오르면 좋아요</div>
+      </div>
+    </div>
+
+    <div class="p pb">
+      <div class="ph"><span>지금 모으는 중인 사람</span><span class="em">사는 쪽</span></div>
+      <div class="pb2">
+        <div class="line"><div class="l">넣는 돈</div><div class="v">매달 100만원</div></div>
+        <div class="line"><div class="l">전에는</div><div class="v">833달러어치</div></div>
+        <div class="line"><div class="l">지금은</div><div class="v">714달러어치</div></div>
+        <div class="verdict">같은 돈으로 <b>주식을 덜 삽니다.</b> 환율이 오르면 손해예요</div>
+      </div>
+    </div>
+
+  </div>
+</div>

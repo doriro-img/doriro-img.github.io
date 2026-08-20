@@ -1,0 +1,54 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eaf3f0,#c9e0da);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #143c34;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #1d6b5c; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 56px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #1d6b5c; }
+  .sub { margin-top: 28px; font-size: 25px; color: #4d7d72; font-weight: 600; }
+  .sub b { color: #b06a1e; }
+  .ill { position: absolute; top: 80px; right: 42px;
+    filter: drop-shadow(0 14px 26px rgba(20,60,52,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #86a89f; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="330" height="250" viewBox="0 0 330 250">
+      <!-- 저울 기둥 -->
+      <rect x="158" y="70" width="10" height="126" rx="5" fill="#8a6b4a"/>
+      <path d="M118,206 Q163,186 208,206 L208,216 Q163,198 118,216 Z" fill="#8a6b4a"/>
+      <!-- 저울 대 (기울어짐) -->
+      <g transform="rotate(-11 163 74)">
+        <rect x="44" y="68" width="238" height="11" rx="5.5" fill="#a5825c"/>
+        <!-- 왼쪽 접시 (원화) -->
+        <line x1="70" y1="74" x2="70" y2="112" stroke="#a5825c" stroke-width="4"/>
+        <path d="M34,112 h72 l-14,30 h-44 z" fill="#e8695c"/>
+        <text x="70" y="135" text-anchor="middle" font-size="24" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">₩</text>
+        <!-- 오른쪽 접시 (달러) -->
+        <line x1="256" y1="74" x2="256" y2="112" stroke="#a5825c" stroke-width="4"/>
+        <path d="M220,112 h72 l-14,30 h-44 z" fill="#2f7d5c"/>
+        <text x="256" y="135" text-anchor="middle" font-size="24" font-weight="800" fill="#fff"
+              font-family="Pretendard, Malgun Gothic, sans-serif">$</text>
+      </g>
+      <!-- 물음표 -->
+      <g>
+        <circle cx="290" cy="34" r="26" fill="#fff" opacity=".9"/>
+        <text x="290" y="46" text-anchor="middle" font-size="36" font-weight="800" fill="#1d6b5c"
+              font-family="Pretendard, Malgun Gothic, sans-serif">?</text>
+      </g>
+    </svg>
+  </div>
+
+  <div class="tag">미국주식 · 환율</div>
+  <h1>환율 오르면<br /><span class="hl">좋은 걸까?</span></h1>
+  <p class="sub">모으는 중이면 <b>반대</b>입니다</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
