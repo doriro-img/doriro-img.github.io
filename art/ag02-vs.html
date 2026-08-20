@@ -1,0 +1,38 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #eef3f5;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #232838; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #647079; margin-bottom: 18px; font-weight: 600; }
+  .two { display: flex; gap: 13px; }
+  .col { flex: 1; background: #fff; border-radius: 15px; padding: 18px 20px; border: 1px solid #d8e6e8;
+    box-shadow: 0 5px 13px rgba(20,110,120,.07); }
+  .col .badge { display: inline-block; font-size: 13px; font-weight: 800; padding: 5px 14px; border-radius: 20px; margin-bottom: 12px; }
+  .bot .badge { background: #eef1f4; color: #778089; } .agent .badge { background: #d7f2f0; color: #0a7783; }
+  .col .tt { font-size: 17px; font-weight: 800; margin-bottom: 10px; }
+  .bot .tt { color: #56606b; } .agent .tt { color: #0e9aa7; }
+  .ex { font-size: 13.3px; color: #3a434e; line-height: 1.6; font-weight: 600; }
+  .ex .q { color: #647079; } .ex .a { color: #232838; font-weight: 700; }
+  .agent .ex .a { color: #0a7783; }
+</style>
+
+<div id="art">
+  <h1>챗봇이랑 뭐가 달라요?</h1>
+  <p class="sub">한마디로 '말해주는 AI'와 '해주는 AI'의 차이예요</p>
+
+  <div class="two">
+    <div class="col bot">
+      <div class="badge">기존 챗봇</div>
+      <div class="tt">말해주는 AI</div>
+      <div class="ex"><span class="q">"맛집 예약하고 싶어"</span><br/>→ <span class="a">"이런 식당들이 있어요"</span><br/>(목록만 알려주고 끝)</div>
+    </div>
+    <div class="col agent">
+      <div class="badge">에이전틱 AI</div>
+      <div class="tt">해주는 AI</div>
+      <div class="ex"><span class="q">"맛집 예약해줘"</span><br/>→ <span class="a">검색·전화·예약·확인까지</span><br/>(직접 실행해서 끝냄)</div>
+    </div>
+  </div>
+</div>
