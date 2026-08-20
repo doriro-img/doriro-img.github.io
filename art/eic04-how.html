@@ -1,0 +1,74 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .cards { display: flex; gap: 11px; margin-bottom: 15px; }
+  .c { flex: 1; border: 1px solid #e2e6ea; border-radius: 12px; overflow: hidden; }
+  .top { height: 88px; display: flex; align-items: center; justify-content: center; }
+  .c1 .top { background: linear-gradient(160deg,#eef9f3,#d3f0e1); }
+  .c2 .top { background: linear-gradient(160deg,#eff6fb,#d6e8f5); }
+  .c3 .top { background: linear-gradient(160deg,#fdf6e9,#f8e7c5); }
+  .bd { padding: 13px 15px 15px; }
+  .bd .t { font-size: 14.5px; font-weight: 800; margin-bottom: 5px; }
+  .bd p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .bd p b { color: #1b1b1b; }
+  .fast { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 20px;
+          display: flex; align-items: flex-start; gap: 16px; }
+  .fast .tag { background: #7ee0b0; color: #1b1b1b; font-size: 12px; font-weight: 800;
+               padding: 5px 13px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .fast p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .fast p b { color: #7ee0b0; }
+</style>
+<div id="art">
+  <h1>신청은 세 가지 방법이 있습니다</h1>
+  <p class="sub">안내문을 받았다면 1분이면 끝납니다</p>
+  <div class="cards">
+    <div class="c c1">
+      <div class="top">
+        <svg width="58" height="58" viewBox="0 0 58 58">
+          <rect x="12" y="8" width="34" height="42" rx="5" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+          <rect x="19" y="17" width="20" height="20" rx="2" fill="#c9ead9"/>
+          <g fill="#2f9e6e"><rect x="22" y="20" width="5" height="5"/><rect x="31" y="20" width="5" height="5"/>
+            <rect x="22" y="29" width="5" height="5"/><rect x="31" y="29" width="5" height="5"/></g>
+          <rect x="21" y="42" width="16" height="3" rx="1.5" fill="#a9dcc4"/>
+        </svg>
+      </div>
+      <div class="bd"><div class="t">안내문 QR</div>
+        <p>종이 안내문의 QR을 찍거나 알림톡에서 <b>신청하기</b>를 누릅니다. 주민번호 뒷자리만 넣으면 끝이에요</p></div>
+    </div>
+    <div class="c c2">
+      <div class="top">
+        <svg width="58" height="58" viewBox="0 0 58 58">
+          <rect x="8" y="12" width="42" height="30" rx="4" fill="#fff" stroke="#2f6fb0" stroke-width="3"/>
+          <rect x="15" y="19" width="28" height="4" rx="2" fill="#bcd8ee"/>
+          <rect x="15" y="27" width="20" height="4" rx="2" fill="#dbe8f6"/>
+          <rect x="20" y="45" width="18" height="4" rx="2" fill="#9fc4e2"/>
+        </svg>
+      </div>
+      <div class="bd"><div class="t">홈택스</div>
+        <p>로그인하고 <b>근로·자녀장려금 신청</b> 메뉴로 들어갑니다. 모바일 손택스도 됩니다</p></div>
+    </div>
+    <div class="c c3">
+      <div class="top">
+        <svg width="58" height="58" viewBox="0 0 58 58">
+          <path d="M14,12 q-4,4 -2,12 q3,12 12,20 q9,7 18,8 q6,0 8,-5 l-9,-6 q-3,3 -6,1 q-7,-4 -11,-12 q-1,-3 2,-5 z"
+                fill="#d4832f"/>
+          <circle cx="42" cy="18" r="9" fill="none" stroke="#d4832f" stroke-width="3"/>
+          <path d="M42,13 v5 l3,2" stroke="#d4832f" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="bd"><div class="t">ARS 전화</div>
+        <p><b>1544-9944</b>로 걸어서 안내에 따라 진행합니다. 컴퓨터가 어려우면 이게 편해요</p></div>
+    </div>
+  </div>
+  <div class="fast">
+    <div class="tag">안내문이 안 왔어도</div>
+    <p>국세청이 자격이 될 것 같은 사람에게 안내문을 보내지만 <b>안 왔다고 자격이 없는 건 아닙니다.</b>
+      요건에 맞는다고 생각되면 <b>홈택스에서 직접 신청</b>하면 됩니다. 심사는 국세청이 알아서 합니다</p>
+  </div>
+</div>
