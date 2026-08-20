@@ -1,0 +1,67 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .two { display: flex; gap: 14px; margin-bottom: 15px; }
+  .p { flex: 1; border-radius: 12px; overflow: hidden; border: 1px solid; }
+  .pa { border-color: #a9dcc4; } .pb { border-color: #f0b8b1; }
+  .ph { padding: 12px 18px; font-size: 15px; font-weight: 800; color: #fff;
+        display: flex; justify-content: space-between; align-items: center; }
+  .pa .ph { background: #2f9e6e; } .pb .ph { background: #cf4f43; }
+  .ph .e { font-size: 12px; font-weight: 700; opacity: .95; }
+  .bd { padding: 16px 18px 18px; }
+  .pa .bd { background: #f4fbf7; } .pb .bd { background: #fdf3f1; }
+  .item { display: flex; align-items: center; gap: 11px; margin-bottom: 10px; }
+  .item:last-child { margin-bottom: 0; }
+  .item .t { font-size: 14px; font-weight: 700; }
+  .item .n { font-size: 12px; color: #7b848f; margin-top: 1px; }
+  .foot { margin-top: 14px; padding-top: 13px; border-top: 1px dashed #c9d3dc; font-size: 13px; line-height: 1.65; }
+  .pa .foot { color: #1d5c45; } .pb .foot { color: #8f382e; }
+  .foot b { font-weight: 800; }
+</style>
+<div id="art">
+  <h1>부과 기준이 통째로 바뀝니다</h1>
+  <p class="sub">퇴사하면 직장가입자에서 지역가입자로 넘어갑니다</p>
+  <div class="two">
+    <div class="p pa">
+      <div class="ph"><span>다닐 때 · 직장가입자</span><span class="e">월급에만</span></div>
+      <div class="bd">
+        <div class="item">
+          <svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="16" fill="#c9ead9"/>
+            <rect x="9" y="12" width="16" height="11" rx="2" fill="#2f9e6e"/>
+            <circle cx="17" cy="17.5" r="3" fill="#c9ead9"/></svg>
+          <div><div class="t">월급(보수월액)</div><div class="n">이거 하나만 봅니다</div></div>
+        </div>
+        <div class="foot">보험료의 <b>절반을 회사가 냅니다.</b><br />내 통장에서 빠지는 건 나머지 절반이에요</div>
+      </div>
+    </div>
+    <div class="p pb">
+      <div class="ph"><span>퇴사 후 · 지역가입자</span><span class="e">세 가지에</span></div>
+      <div class="bd">
+        <div class="item">
+          <svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="16" fill="#f6d5d0"/>
+            <rect x="9" y="12" width="16" height="11" rx="2" fill="#cf4f43"/>
+            <circle cx="17" cy="17.5" r="3" fill="#f6d5d0"/></svg>
+          <div><div class="t">소득</div><div class="n">일을 안 해도 이자·배당이 잡힙니다</div></div>
+        </div>
+        <div class="item">
+          <svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="16" fill="#f6d5d0"/>
+            <path d="M8,18 L17,10 L26,18 L26,25 Q26,26 25,26 L9,26 Q8,26 8,25 Z" fill="#cf4f43"/></svg>
+          <div><div class="t">재산</div><div class="n">집, 전세보증금까지 점수로</div></div>
+        </div>
+        <div class="item">
+          <svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="16" fill="#f6d5d0"/>
+            <path d="M8,20 L10,15 Q10.5,14 12,14 L22,14 Q23.5,14 24,15 L26,20 L26,23 L8,23 Z" fill="#cf4f43"/>
+            <circle cx="12" cy="23" r="2.5" fill="#8f382e"/><circle cx="22" cy="23" r="2.5" fill="#8f382e"/></svg>
+          <div><div class="t">자동차</div><div class="n">차가 있으면 또 붙습니다</div></div>
+        </div>
+        <div class="foot"><b>전액 본인 부담입니다.</b><br />내주던 회사가 없어졌으니까요</div>
+      </div>
+    </div>
+  </div>
+</div>

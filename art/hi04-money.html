@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 18px; }
+  .f { background: linear-gradient(160deg,#eef4fb,#dbe8f6); border: 1px solid #cfe0f0;
+       border-radius: 11px; padding: 14px 20px; margin-bottom: 16px; }
+  .f .eq { font-size: 15.5px; font-weight: 800; color: #1f4a7a; letter-spacing: -0.3px; }
+  .f p { font-size: 12.5px; color: #5a7391; margin-top: 5px; }
+  .chart { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px;
+           padding: 20px 24px 14px; display: flex; align-items: flex-end; gap: 28px; height: 250px; }
+  .col { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; }
+  .v { font-size: 19px; font-weight: 800; letter-spacing: -0.6px; margin-bottom: 7px; }
+  .bar { width: 100%; border-radius: 8px 8px 0 0; }
+  .lab { height: 52px; padding-top: 10px; text-align: center; }
+  .lab .n { font-size: 14px; font-weight: 800; }
+  .lab .c { font-size: 11.5px; color: #8a929c; margin-top: 3px; }
+  .c1 .bar { background: linear-gradient(180deg,#9fb6cc,#7d99b3); } .c1 .v { color: #4a6d8f; }
+  .c2 .bar { background: linear-gradient(180deg,#6cc39b,#2f9e6e); } .c2 .v { color: #1d7050; }
+  .c3 .bar { background: repeating-linear-gradient(45deg,#e8a09a,#e8a09a 8px,#dc8a82 8px,#dc8a82 16px); }
+  .c3 .v { color: #c0503f; }
+  .note { margin-top: 12px; font-size: 12px; color: #7b848f; line-height: 1.65; }
+  .note b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>결국 다닐 때 내던 만큼 냅니다</h1>
+  <p class="sub">보수월액 400만원이었던 사람 기준으로 계산해봤습니다</p>
+  <div class="f">
+    <div class="eq">퇴직 전 12개월 보수월액 평균 × 7.19% × 50% 경감</div>
+    <p>2026년 건강보험료율은 7.19%입니다. 장기요양보험료는 여기에 따로 붙습니다</p>
+  </div>
+  <div class="chart">
+    <div class="col c1">
+      <div class="v">143,800원</div>
+      <div class="bar" style="height:96px"></div>
+      <div class="lab"><div class="n">다닐 때</div><div class="c">회사가 절반 부담</div></div>
+    </div>
+    <div class="col c2">
+      <div class="v">143,800원</div>
+      <div class="bar" style="height:96px"></div>
+      <div class="lab"><div class="n">임의계속가입</div><div class="c">50% 경감받아서 같아짐</div></div>
+    </div>
+    <div class="col c3">
+      <div class="v">사람마다 다름</div>
+      <div class="bar" style="height:168px"></div>
+      <div class="lab"><div class="n">그냥 지역가입자</div><div class="c">집·차가 있으면 확 올라감</div></div>
+    </div>
+  </div>
+  <p class="note">※ 지역가입자 보험료는 소득·재산·자동차 점수로 매겨져 사람마다 완전히 다릅니다.
+    <b>내 지역보험료가 얼마인지는 첫 고지서를 봐야 압니다.</b> 위 막대는 방향만 보여주는 것이고 실제 금액이 아닙니다</p>
+</div>

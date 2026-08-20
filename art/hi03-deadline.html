@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+  .tl { position: relative; height: 150px; margin-bottom: 16px; }
+  .rail { position: absolute; top: 62px; left: 0; right: 0; height: 12px; border-radius: 6px;
+          background: linear-gradient(90deg,#c9d3dc 0 6%, #a9dcc4 6% 72%, #f0b8b1 72% 100%); }
+  .n { position: absolute; top: 48px; width: 22px; height: 22px; border-radius: 50%;
+       background: #fff; border: 4px solid #4faa84; transform: translateX(-50%); }
+  .n.last { border-color: #cf4f43; background: #cf4f43; }
+  .t { position: absolute; top: 8px; font-size: 13.5px; font-weight: 800; transform: translateX(-50%);
+       white-space: nowrap; text-align: center; }
+  .d { position: absolute; top: 30px; font-size: 11.5px; color: #7b848f; font-weight: 600;
+       transform: translateX(-50%); white-space: nowrap; }
+  .z { position: absolute; top: 88px; font-size: 12.5px; font-weight: 800; transform: translateX(-50%); white-space: nowrap; }
+  .warn { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 15px 20px;
+          display: flex; align-items: flex-start; gap: 16px; }
+  .warn .tag { background: #ff8a7a; color: #1b1b1b; font-size: 12px; font-weight: 800;
+               padding: 5px 13px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .warn p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .warn p b { color: #ff8a7a; }
+</style>
+<div id="art">
+  <h1>기한을 놓치면 그걸로 끝입니다</h1>
+  <p class="sub">퇴사한 날부터가 아니라 첫 고지서를 받은 날부터 셉니다</p>
+  <div class="tl">
+    <div class="rail"></div>
+    <div class="n" style="left:6%"></div>
+    <div class="t" style="left:6%">퇴사</div>
+    <div class="d" style="left:6%">직장 자격 상실</div>
+    <div class="n" style="left:34%"></div>
+    <div class="t" style="left:34%">첫 고지서 도착</div>
+    <div class="d" style="left:34%">지역가입자 보험료</div>
+    <div class="n" style="left:56%"></div>
+    <div class="t" style="left:56%">납부기한</div>
+    <div class="d" style="left:56%">고지서에 적힌 날</div>
+    <div class="n last" style="left:88%"></div>
+    <div class="t" style="left:88%; color:#b8463a">여기까지</div>
+    <div class="d" style="left:88%; color:#b8463a">납부기한 + 2개월</div>
+    <div class="z" style="left:45%; color:#1d7050">신청할 수 있는 구간</div>
+    <div class="z" style="left:94%; color:#b8463a">마감</div>
+  </div>
+  <div class="warn">
+    <div class="tag">이것만은</div>
+    <p>기준은 <b>지역가입자 보험료를 처음 고지받은 날</b>입니다.
+      그 고지서에 적힌 납부기한에서 <b>2개월이 지나기 전까지</b> 신청해야 해요.<br />
+      퇴사하자마자 서두를 필요는 없지만 <b>첫 고지서가 오면 그때부터는 시계가 돕니다.</b>
+      한 번 넘기면 3년치 혜택이 통째로 날아갑니다</p>
+  </div>
+</div>

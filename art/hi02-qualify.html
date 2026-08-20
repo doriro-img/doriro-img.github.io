@@ -1,0 +1,51 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+  .box { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 11px; padding: 20px 24px 16px; margin-bottom: 15px; }
+  .lab { font-size: 13px; font-weight: 700; color: #55606c; margin-bottom: 12px; }
+  .bar { position: relative; height: 62px; }
+  .track { position: absolute; top: 14px; left: 0; right: 0; height: 34px; border-radius: 7px;
+           background: #e4e9ee; display: flex; overflow: hidden; }
+  .fill { width: 66.6%; background: linear-gradient(90deg,#6cc39b,#2f9e6e);
+          display: flex; align-items: center; justify-content: center;
+          color: #fff; font-size: 14px; font-weight: 800; }
+  .rest { flex: 1; display: flex; align-items: center; justify-content: center;
+          color: #9aa6b2; font-size: 13px; font-weight: 700; }
+  .end { position: absolute; top: 4px; right: 0; font-size: 12.5px; font-weight: 800; color: #45505c; }
+  .start { position: absolute; top: 4px; left: 0; font-size: 12.5px; font-weight: 800; color: #45505c; }
+  .note { position: absolute; top: 52px; left: 0; font-size: 12px; color: #7b848f; }
+  .two { display: flex; gap: 11px; }
+  .c { flex: 1; border-radius: 10px; padding: 13px 16px; font-size: 13px; line-height: 1.65; }
+  .ok { background: #eef9f3; border: 1px solid #a9dcc4; color: #1d5c45; }
+  .no { background: #fdf2f1; border: 1px solid #f0b8b1; color: #8f382e; }
+  .c b { font-weight: 800; }
+  .c .h { display: block; font-size: 13.5px; font-weight: 800; margin-bottom: 4px; }
+</style>
+<div id="art">
+  <h1>퇴직 전 18개월에 직장 12개월</h1>
+  <p class="sub">이 조건만 넘으면 신청할 수 있습니다</p>
+  <div class="box">
+    <div class="lab">퇴직일에서 거꾸로 18개월을 셉니다</div>
+    <div class="bar">
+      <div class="start">18개월 전</div>
+      <div class="end">퇴직일</div>
+      <div class="track">
+        <div class="fill">직장가입자로 통산 12개월 이상</div>
+        <div class="rest">나머지</div>
+      </div>
+      <div class="note">이어져 있지 않아도 됩니다. 다 더해서 12개월이면 통과예요</div>
+    </div>
+  </div>
+  <div class="two">
+    <div class="c ok"><span class="h">이런 경우 됩니다</span>
+      한 회사를 1년 넘게 다녔거나, <b>여러 회사를 옮겨 다녔어도 합쳐서 12개월</b>이면 통과입니다</div>
+    <div class="c no"><span class="h">이런 경우 안 됩니다</span>
+      18개월 안에 직장 다닌 기간이 <b>다 합쳐도 12개월이 안 되면</b> 신청 자격이 없습니다</div>
+  </div>
+</div>
