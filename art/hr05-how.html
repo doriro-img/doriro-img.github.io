@@ -1,0 +1,35 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 32px 40px 30px; background: #edf4f6;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #263640; }
+  h1 { font-size: 23px; letter-spacing: -0.6px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #5f7480; margin-bottom: 18px; font-weight: 600; }
+  .flow { display: flex; flex-direction: column; gap: 9px; }
+  .row { background: #fff; border-radius: 12px; padding: 13px 18px; display: flex; align-items: center; gap: 15px;
+    box-shadow: 0 5px 13px rgba(40,110,140,.06); border: 1px solid #d7e6ea; }
+  .n { flex: none; width: 28px; height: 28px; border-radius: 50%; background: #2984a8; color: #fff;
+    font-size: 14px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+  .tx { font-size: 14px; color: #37474f; line-height: 1.45; }
+  .tx b { color: #263640; }
+  .tx .who { font-size: 12px; color: #2984a8; font-weight: 800; margin-left: 6px; }
+  .warn { margin-top: 14px; background: #fff8ec; border: 1.5px solid #f0dcb0; border-radius: 12px; padding: 13px 18px;
+    font-size: 13px; color: #8a6a2e; line-height: 1.6; font-weight: 600; }
+  .warn b { color: #a5771e; }
+</style>
+
+<div id="art">
+  <h1>신청 순서, 이렇게예요</h1>
+  <p class="sub">순서가 있어요. 산정특례가 먼저예요</p>
+
+  <div class="flow">
+    <div class="row"><div class="n">1</div><div class="tx"><b>희귀질환 확진받기</b><span class="who">병원</span> — 담당 의사에게 진단·확인</div></div>
+    <div class="row"><div class="n">2</div><div class="tx"><b>산정특례 등록</b><span class="who">병원 → 건보공단</span> — 신청서 작성 (본인부담 10%)</div></div>
+    <div class="row"><div class="n">3</div><div class="tx"><b>의료비 지원사업 신청</b><span class="who">보건소</span> — 소득 기준 되면 (산정특례 등록 후)</div></div>
+    <div class="row"><div class="n">4</div><div class="tx"><b>재난적 의료비 신청</b><span class="who">건보공단</span> — 부담이 클 때 (50~80%)</div></div>
+  </div>
+
+  <div class="warn"><b>제도와 기준(대상 질환·소득·지원율)은 해마다 바뀔 수 있어요.</b> 정확한 대상 여부와 서류는 국민건강보험공단(1577-1000)이나 관할 보건소에서 꼭 확인하세요. 이 글은 참고용이에요</div>
+</div>
