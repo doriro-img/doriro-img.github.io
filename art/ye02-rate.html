@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 20px; }
+  .rows { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 18px 22px 14px; }
+  .r { display: flex; align-items: center; height: 46px; }
+  .nm { width: 150px; flex-shrink: 0; font-size: 14.5px; font-weight: 800; }
+  .track { flex: 1; position: relative; height: 26px; }
+  .fill { height: 26px; border-radius: 6px; }
+  .pct { position: absolute; top: 3px; font-size: 15px; font-weight: 800; white-space: nowrap; }
+  .r1 .fill { background: linear-gradient(90deg,#9fb6cc,#7d99b3); } .r1 .nm, .r1 .pct { color: #4a6d8f; }
+  .r2 .fill { background: linear-gradient(90deg,#7fc4a4,#4fae83); } .r2 .nm, .r2 .pct { color: #23805a; }
+  .r3 .fill { background: linear-gradient(90deg,#6cc39b,#2f9e6e); } .r3 .nm, .r3 .pct { color: #1d7050; }
+  .tip { margin-top: 15px; background: linear-gradient(160deg,#eef9f3,#d3f0e1); border: 1px solid #a9dcc4;
+         border-radius: 11px; padding: 15px 20px; display: flex; align-items: flex-start; gap: 16px; }
+  .tip .t { font-size: 15px; font-weight: 800; color: #1d7050; margin-bottom: 5px; }
+  .tip p { font-size: 13.5px; line-height: 1.75; color: #40624f; }
+  .tip p b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>같은 돈을 써도 공제율이 다릅니다</h1>
+  <p class="sub">문턱을 넘긴 뒤부터는 무엇으로 쓰느냐가 중요해집니다</p>
+  <div class="rows">
+    <div class="r r1"><div class="nm">신용카드</div>
+      <div class="track"><div class="fill" style="width:150px"></div><div class="pct" style="left:160px">15%</div></div></div>
+    <div class="r r2"><div class="nm">체크카드 · 현금영수증</div>
+      <div class="track"><div class="fill" style="width:300px"></div><div class="pct" style="left:310px">30%</div></div></div>
+    <div class="r r3"><div class="nm">전통시장 · 대중교통</div>
+      <div class="track"><div class="fill" style="width:400px"></div><div class="pct" style="left:410px">40%</div></div></div>
+  </div>
+  <div class="tip">
+    <svg width="36" height="36" viewBox="0 0 36 36" style="flex-shrink:0;margin-top:1px">
+      <circle cx="18" cy="18" r="16" fill="#fff" stroke="#2f9e6e" stroke-width="3"/>
+      <path d="M11,18 l5,5 l9,-10" stroke="#2f9e6e" stroke-width="3.2" fill="none"
+            stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div>
+      <div class="t">순서를 이렇게 잡으면 유리합니다</div>
+      <p>연초에는 혜택이 좋은 <b>신용카드로 문턱(25%)까지 채우고</b>,
+        문턱을 넘긴 뒤로는 공제율이 두 배인 <b>체크카드와 현금영수증</b>으로 갈아타는 방식입니다.<br />
+        10월에 미리보기를 돌려보는 건 <b>지금 내가 어디쯤인지</b> 알려고 하는 거예요</p>
+    </div>
+  </div>
+</div>

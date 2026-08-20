@@ -1,0 +1,44 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+  .steps { position: relative; padding-left: 44px; }
+  .rail { position: absolute; left: 14px; top: 14px; bottom: 14px; width: 3px;
+          background: linear-gradient(180deg,#cfe0f0,#2f9e6e); border-radius: 2px; }
+  .s { position: relative; margin-bottom: 11px; }
+  .s:last-child { margin-bottom: 0; }
+  .dot { position: absolute; left: -44px; top: 11px; width: 30px; height: 30px; border-radius: 50%;
+         background: #fff; border: 3px solid #4f8fc0; color: #1f4a7a;
+         font-size: 13px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+  .s.last .dot { border-color: #2f9e6e; background: #2f9e6e; color: #fff; }
+  .bd { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 10px; padding: 13px 17px; }
+  .s.last .bd { background: #eef9f3; border-color: #a9dcc4; }
+  .bd .t { font-size: 14.5px; font-weight: 800; margin-bottom: 4px; }
+  .s.last .bd .t { color: #1d7050; }
+  .bd p { font-size: 12.5px; line-height: 1.65; color: #5a6672; }
+  .bd p b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>미리보기는 이렇게 돌립니다</h1>
+  <p class="sub">홈택스에서 10분이면 끝납니다</p>
+  <div class="steps">
+    <div class="rail"></div>
+    <div class="s"><div class="dot">1</div><div class="bd">
+      <div class="t">홈택스 로그인</div>
+      <p>10월 말부터 <b>연말정산 미리보기</b> 메뉴가 열립니다</p></div></div>
+    <div class="s"><div class="dot">2</div><div class="bd">
+      <div class="t">1월부터 9월까지 카드 사용액 불러오기</div>
+      <p>버튼 한 번이면 <b>국세청이 갖고 있는 자료</b>가 자동으로 들어옵니다</p></div></div>
+    <div class="s"><div class="dot">3</div><div class="bd">
+      <div class="t">10월부터 12월까지 쓸 돈을 입력</div>
+      <p>남은 석 달에 <b>얼마나 더 쓸지 예상해서</b> 넣습니다. 여기가 핵심이에요</p></div></div>
+    <div class="s last"><div class="dot">4</div><div class="bd">
+      <div class="t">예상 환급액 확인</div>
+      <p>계산을 누르면 <b>지금 흐름대로 갔을 때 얼마를 돌려받는지</b> 나옵니다</p></div></div>
+  </div>
+</div>

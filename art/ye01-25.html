@@ -1,0 +1,55 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 24px; }
+  .bar { margin-bottom: 18px; }
+  .ends { display: flex; justify-content: space-between; margin-bottom: 7px; }
+  .ends span { font-size: 12.5px; font-weight: 800; color: #45505c; }
+  .track { display: flex; height: 44px; border-radius: 8px; overflow: hidden; }
+  .z1 { width: 25%; background: repeating-linear-gradient(45deg,#c3ccd6,#c3ccd6 8px,#b3bdc8 8px,#b3bdc8 16px);
+        display: flex; align-items: center; justify-content: center; color: #fff; font-size: 13.5px; font-weight: 800; }
+  .z2 { flex: 1; background: linear-gradient(90deg,#6cc39b,#2f9e6e);
+        display: flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; font-weight: 800; }
+  .note { margin-top: 9px; font-size: 12px; color: #7b848f; }
+  .ex { background: #fafbfc; border: 1px solid #e6e9ed; border-radius: 11px; padding: 16px 20px; margin-bottom: 14px; }
+  .ex .t { font-size: 13px; font-weight: 800; color: #55606c; margin-bottom: 11px; }
+  .r { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px dashed #dfe4e9; }
+  .r:last-child { border-bottom: none; }
+  .r .k { font-size: 13px; color: #7b848f; font-weight: 700; }
+  .r .v { font-size: 15px; font-weight: 800; color: #1b1b1b; }
+  .r.hi .v { color: #1d7050; font-size: 16px; }
+  .warn { background: #1b1b1b; color: #fff; border-radius: 11px; padding: 14px 20px;
+          display: flex; align-items: flex-start; gap: 16px; }
+  .warn .tag { background: #ffd97a; color: #1b1b1b; font-size: 12px; font-weight: 800;
+               padding: 5px 13px; border-radius: 13px; white-space: nowrap; flex-shrink: 0; margin-top: 1px; }
+  .warn p { font-size: 13.5px; line-height: 1.75; color: #d8dee4; }
+  .warn p b { color: #ffd97a; }
+</style>
+<div id="art">
+  <h1>연봉의 25%를 넘게 써야 공제가 시작됩니다</h1>
+  <p class="sub">그 아래로 쓴 돈은 아무리 많아도 공제가 0원이에요</p>
+  <div class="bar">
+    <div class="ends"><span>0원</span><span>카드로 쓴 돈</span></div>
+    <div class="track">
+      <div class="z1">공제 없음</div>
+      <div class="z2">여기서부터 공제 대상</div>
+    </div>
+    <p class="note">왼쪽 25% 구간은 아무리 채워도 돌려받는 게 없습니다. 문턱을 넘겨야 비로소 시작돼요</p>
+  </div>
+  <div class="ex">
+    <div class="t">연봉 4,000만원인 사람이라면</div>
+    <div class="r"><span class="k">공제가 시작되는 문턱 (25%)</span><span class="v">1,000만원</span></div>
+    <div class="r"><span class="k">올해 카드로 900만원 썼다면</span><span class="v">공제 0원</span></div>
+    <div class="r hi"><span class="k">1,300만원 썼다면</span><span class="v">300만원분이 공제 대상</span></div>
+  </div>
+  <div class="warn">
+    <div class="tag">10월에 봐야 하는 이유</div>
+    <p>지금 내가 문턱을 넘겼는지 아닌지에 따라 <b>연말에 할 일이 정반대</b>가 됩니다.<br />
+      아직 못 넘겼으면 <b>큰 지출을 올해로 당기고</b>, 이미 넘겼으면 <b>공제율이 높은 수단</b>으로 갈아타는 게 유리해요</p>
+  </div>
+</div>
