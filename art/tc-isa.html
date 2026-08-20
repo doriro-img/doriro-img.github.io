@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 62px; background: linear-gradient(160deg,#eef1fa,#cdd6ee);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1f2942;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #2456a8; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 30px; }
+  h1 { font-size: 57px; line-height: 1.22; letter-spacing: -2px; font-weight: 800; color: #1a4080; }
+  h1 .hl { color: #d99310; }
+  .sub { margin-top: 26px; font-size: 24px; color: #52608a; font-weight: 600; }
+  .sub b { color: #d99310; }
+  .ill { position: absolute; top: 92px; right: 56px; filter: drop-shadow(0 12px 24px rgba(40,60,130,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 62px; font-size: 20px; color: #7a84a5; font-weight: 700; }
+</style>
+
+<div id="art">
+  <div class="ill">
+    <svg width="220" height="216" viewBox="0 0 220 216">
+      <!-- 통장/계좌 카드 -->
+      <rect x="42" y="70" width="120" height="86" rx="12" fill="#2456a8"/>
+      <rect x="42" y="70" width="120" height="24" rx="12" fill="#1a4080"/>
+      <rect x="56" y="108" width="60" height="8" rx="4" fill="#7c93c4"/>
+      <rect x="56" y="124" width="86" height="8" rx="4" fill="#5c76b4"/>
+      <!-- % 배지 -->
+      <circle cx="164" cy="66" r="30" fill="#e0a020" stroke="#c2851a" stroke-width="3"/>
+      <text x="164" y="79" font-family="Pretendard,sans-serif" font-size="32" font-weight="800" fill="#fff" text-anchor="middle">%</text>
+      <!-- U턴 화살표 (하려다 되돌림) -->
+      <path d="M58,186 q0,-22 24,-22 q24,0 24,22" fill="none" stroke="#d1483f" stroke-width="7" stroke-linecap="round"/>
+      <path d="M58,186 l-8,-10 m8,10 l10,-8" fill="none" stroke="#d1483f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+
+  <div class="tag">재테크 이슈</div>
+  <h1>ISA 개편<br /><span class="hl">하려다</span> 왜 멈췄나?</h1>
+  <p class="sub">절세 통장 <b>논란</b> 총정리</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
