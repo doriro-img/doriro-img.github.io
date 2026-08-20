@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 860px; padding: 34px 36px 30px; background: #fff;
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #1b1b1b; }
+  h1 { font-size: 20px; letter-spacing: -0.4px; margin-bottom: 4px; }
+  .sub { font-size: 13.5px; color: #6b6b6b; margin-bottom: 22px; }
+  .bar { margin-bottom: 18px; }
+  .ends { display: flex; justify-content: space-between; margin-bottom: 7px; }
+  .ends span { font-size: 12.5px; font-weight: 800; color: #45505c; }
+  .track { display: flex; height: 42px; border-radius: 8px; overflow: hidden; }
+  .z1 { width: 60%; background: repeating-linear-gradient(45deg,#e8a09a,#e8a09a 8px,#dc8a82 8px,#dc8a82 16px);
+        display: flex; align-items: center; justify-content: center; color: #fff; font-size: 13.5px; font-weight: 800; }
+  .z2 { flex: 1; background: linear-gradient(90deg,#6cc39b,#2f9e6e);
+        display: flex; align-items: center; justify-content: center; color: #fff; font-size: 13.5px; font-weight: 800; }
+  .note { margin-top: 9px; font-size: 12px; color: #7b848f; }
+  .two { display: flex; gap: 12px; }
+  .c { flex: 1; border-radius: 11px; padding: 15px 18px; }
+  .bad { background: #fdf3f1; border: 1px solid #f0b8b1; }
+  .ok { background: #eef9f3; border: 1px solid #a9dcc4; }
+  .c .t { font-size: 14.5px; font-weight: 800; margin-bottom: 5px; }
+  .bad .t { color: #b8463a; } .ok .t { color: #1d7050; }
+  .c p { font-size: 13px; line-height: 1.7; color: #4a5561; }
+  .c p b { color: #1b1b1b; }
+</style>
+<div id="art">
+  <h1>3년을 못 채우면 손해가 큽니다</h1>
+  <p class="sub">청년도약계좌 기준입니다</p>
+  <div class="bar">
+    <div class="ends"><span>가입</span><span>만기 5년</span></div>
+    <div class="track">
+      <div class="z1">3년 미만에 해지</div>
+      <div class="z2">3년 넘기고 해지</div>
+    </div>
+    <p class="note">같은 중도해지인데 3년이라는 선을 넘었느냐로 결과가 갈립니다</p>
+  </div>
+  <div class="two">
+    <div class="c bad"><div class="t">3년을 못 채웠다면</div>
+      <p>정부기여금을 <b>못 받고</b> 이자에 붙던 <b>비과세 혜택도 사라집니다.</b>
+        그냥 일반 적금을 든 것과 비슷해져요</p></div>
+    <div class="c ok"><div class="t">3년을 넘겼다면</div>
+      <p><b>비과세는 그대로</b> 유지되고 정부기여금도 <b>60% 수준</b>은 받습니다.
+        급하면 이 선을 넘기고 나서 판단하는 게 낫습니다</p></div>
+  </div>
+</div>

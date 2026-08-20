@@ -1,0 +1,39 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art { width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg,#eef1f7,#cdd4e6);
+    font-family: 'Pretendard','Malgun Gothic',-apple-system,sans-serif; color: #22284a;
+    display: flex; flex-direction: column; justify-content: center; position: relative; }
+  .tag { display: inline-block; align-self: flex-start; background: #3a4480; color: #fff;
+    font-size: 21px; font-weight: 800; padding: 10px 22px; border-radius: 30px; margin-bottom: 34px; }
+  h1 { font-size: 54px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; }
+  h1 .hl { color: #b03a3a; }
+  .sub { margin-top: 28px; font-size: 25px; color: #5a628f; font-weight: 600; }
+  .sub b { color: #1d7050; }
+  .ill { position: absolute; top: 90px; right: 44px;
+    filter: drop-shadow(0 14px 26px rgba(35,40,75,.2)); }
+  .foot { position: absolute; bottom: 56px; right: 64px; font-size: 20px; color: #9198bb; font-weight: 700; }
+</style>
+<div id="art">
+  <div class="ill">
+    <svg width="310" height="240" viewBox="0 0 310 240">
+      <rect x="30" y="46" width="150" height="112" rx="12" fill="#fff" stroke="#3a4480" stroke-width="5"/>
+      <text x="105" y="94" text-anchor="middle" font-size="18" font-weight="700" fill="#5a628f"
+            font-family="Pretendard, Malgun Gothic, sans-serif">신규 가입</text>
+      <text x="105" y="130" text-anchor="middle" font-size="30" font-weight="800" fill="#b03a3a"
+            font-family="Pretendard, Malgun Gothic, sans-serif">마감</text>
+      <circle cx="246" cy="98" r="40" fill="#b03a3a"/>
+      <path d="M230,82 L262,114 M262,82 L230,114" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+      <rect x="52" y="182" width="206" height="44" rx="22" fill="#1d7050"/>
+      <text x="155" y="211" text-anchor="middle" font-size="19" font-weight="800" fill="#fff"
+            font-family="Pretendard, Malgun Gothic, sans-serif">가입자는 유지가 답</text>
+    </svg>
+  </div>
+  <div class="tag">청년도약계좌</div>
+  <h1>신규 가입은<br /><span class="hl">이미 끝났습니다</span></h1>
+  <p class="sub">가입자는 <b>3년</b>을 넘겨야 합니다</p>
+  <div class="foot">heelovee.tistory.com</div>
+</div>
