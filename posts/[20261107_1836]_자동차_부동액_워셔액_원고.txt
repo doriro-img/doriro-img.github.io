@@ -1,0 +1,230 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 7일 18:36
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261107_1836]_자동차_부동액_워셔액\
+   ├── 📄 [원고 파일]: [20261107_1836]_자동차_부동액_워셔액_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-antifreeze.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261107_1836]_자동차_부동액_워셔액_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-antifreeze.html
+
+■ 제목: 겨울 전 부동액 워셔액 점검법. 색이 다르면 섞으면 안 됩니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 부동액점검, 냉각수보충, 겨울용워셔액, 워셔액어는점, 자동차월동준비, 라디에이터, 와이퍼교체
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 전 부동액 워셔액 점검법. 색이 다르면 섞으면 안 됩니다</p>
+
+<h2>겨울에 얼면 수리비가 큽니다</h2>
+
+<p>겨울 차량 점검에서 <b>부동액</b>과 <b>워셔액</b>은 가장 싸고 가장 효과가 큰 항목입니다.</p>
+
+<p>결론부터 말하면 <b>부동액은 농도</b>, <b>워셔액은 어는점 표시</b>를 확인하면 됩니다.</p>
+
+<p>부동액이 얼면 라디에이터나 엔진 쪽이 상합니다. 몇만 원 아끼려다 수십만 원이 나가요.</p>
+
+<p>저희 차도 몇 년 전 겨울에 워셔액이 얼어서 앞이 안 보인 적이 있었습니다. 그날 이후로 11월에 무조건 갈더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5f6b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">겨울 전 4가지 점검</div>
+<div style="display:flex;flex-wrap:wrap;background:#f8fcfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eaea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f6b;">부동액 양</div>
+<div style="font-size:12px;color:#6b7d7d;margin-top:5px;line-height:1.7;">보조탱크 눈금 사이</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eaea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f6b;">부동액 농도</div>
+<div style="font-size:12px;color:#6b7d7d;margin-top:5px;line-height:1.7;">어는점 측정</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eaea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f6b;">워셔액 종류</div>
+<div style="font-size:12px;color:#6b7d7d;margin-top:5px;line-height:1.7;">겨울용 표시 확인</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eaea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f6b;">와이퍼</div>
+<div style="font-size:12px;color:#6b7d7d;margin-top:5px;line-height:1.7;">고무 상태 확인</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>부동액은 <b>양과 농도</b>를 함께 봐야 합니다</li>
+<li>워셔액은 <b>어는점 표시</b>가 있는 겨울용으로 바꿉니다</li>
+<li>와이퍼 고무가 굳었으면 <b>같이 교체</b>하는 게 낫습니다</li>
+</ul>
+
+<h2>부동액은 어떻게 확인하나요?</h2>
+
+<p>보닛을 열면 반투명한 <b>보조탱크</b>가 있습니다. 옆에 눈금이 있어요.</p>
+
+<p>액체 높이가 최소와 최대 눈금 <b>사이</b>에 있으면 양은 정상입니다.</p>
+
+<p>반드시 <b>엔진이 식은 상태</b>에서 봐야 합니다. 뜨거울 때 뚜껑을 열면 압력으로 뿜어져 나와 화상을 입습니다.</p>
+
+<p>양이 자꾸 줄어든다면 어딘가 새는 겁니다. 보충만 하지 말고 점검을 받아야 해요.</p>
+
+<h3>농도가 더 중요합니다</h3>
+
+<p>양이 충분해도 <b>물이 많이 섞여</b> 있으면 겨울에 얼 수 있습니다.</p>
+
+<p>여름에 물을 보충했다면 특히 확인이 필요합니다. 이 상태로 겨울을 나면 위험해요.</p>
+
+<p>카센터에서 <b>비중계</b>로 어는점을 재줍니다. 몇 분이면 끝나고 대부분 무료로 봐줍니다.</p>
+
+<p>측정값이 우리 지역 최저기온보다 여유 있게 낮아야 안심입니다.</p>
+
+<div style="background:linear-gradient(135deg,#eaf6f6,#cde6e6);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5f6b;margin-bottom:16px;">부동액 점검 순서</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#2f5f6b;">1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a3a;">엔진이 완전히 식은 뒤 보닛 열기</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#2f5f6b;">2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a3a;">보조탱크 눈금 사이인지 확인</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#2f5f6b;">3</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a3a;">색이 탁하거나 침전물이 있는지 보기</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#b8443a;">4</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a3a;">카센터에서 어는점 측정</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>점검은 반드시 <b>엔진이 식은 상태</b>에서 합니다</li>
+<li>양이 계속 줄면 <b>누수</b>를 의심해야 합니다</li>
+<li>물을 보충한 적이 있으면 <b>어는점</b>을 꼭 재보세요</li>
+</ul>
+
+<h2>색이 다른 부동액을 섞지 마세요</h2>
+
+<p>부동액은 색으로 종류를 구분합니다. 녹색 계열과 분홍이나 주황 계열이 대표적이에요.</p>
+
+<p>색이 다르면 <b>첨가제 성분이 다릅니다.</b> 섞으면 반응해서 침전물이 생길 수 있습니다.</p>
+
+<p>침전물이 냉각 통로를 막으면 과열로 이어집니다. 이게 진짜 무서운 상황이죠.</p>
+
+<p>보충할 때는 <b>지금 들어 있는 것과 같은 종류</b>를 쓰는 게 원칙입니다.</p>
+
+<p>뭐가 들어 있는지 모르겠으면 카센터에서 <b>전체 교환</b>을 하는 게 깔끔합니다.</p>
+
+<h3>물을 넣어도 되나요?</h3>
+
+<p>급할 때 <b>임시방편</b>으로는 됩니다. 일단 주행은 할 수 있어요.</p>
+
+<p>다만 물을 넣으면 어는점이 올라갑니다. 겨울에는 특히 위험합니다.</p>
+
+<p>수돗물보다는 증류수가 낫지만 어차피 임시입니다. 되도록 빨리 정상 농도로 맞추세요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef4f4;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55666a;">
+<div style="flex:1.3;">상황</div><div style="flex:1.7;text-align:right;">대응</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f2;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">양이 부족</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">같은 종류로 보충</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f2;align-items:center;background:#f8fcfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">색을 모름</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">전체 교환 권장</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f2;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">색이 탁함</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">교환 시기 도래</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f2;align-items:center;background:#f8fcfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">계속 줄어듦</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">누수 점검 필요</div>
+</div>
+</div>
+
+<ul>
+<li>색이 다른 부동액을 <b>섞지 않습니다</b></li>
+<li>뭐가 들어 있는지 모르면 <b>전체 교환</b>이 안전합니다</li>
+<li>물 보충은 <b>임시방편</b>이고 겨울에는 특히 위험합니다</li>
+</ul>
+
+<h2>워셔액은 겨울용으로 바꾸세요</h2>
+
+<p>여름용이나 사계절용을 그대로 두면 한파에 <b>탱크 안에서 업니다.</b></p>
+
+<p>얼면 분사가 안 되고 심하면 펌프나 노즐, 배관이 손상됩니다.</p>
+
+<p>겨울용 워셔액에는 <b>어는점</b>이 표시돼 있습니다. 그 숫자를 보고 고르세요.</p>
+
+<p>남아 있는 여름용을 어느 정도 쓴 뒤에 겨울용을 채우는 게 좋습니다. 섞이면 어는점이 올라가니까요.</p>
+
+<h3>얼어버렸다면</h3>
+
+<p>따뜻한 곳에 차를 두고 녹기를 기다리는 게 안전합니다.</p>
+
+<p>뜨거운 물을 유리에 붓는 건 절대 하면 안 됩니다. 온도 차로 유리가 깨질 수 있어요.</p>
+
+<p>워셔액이 안 나오는데 계속 버튼을 누르면 <b>펌프가 탑니다.</b> 몇 번 해보고 안 되면 멈추세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">같이 보면 좋은 것</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">겨울에는 기온이 내려가면서 <b style="color:#ffd97a;">타이어 공기압</b>이 낮아지고 <b style="color:#ff8a7a;">배터리 성능</b>도 떨어집니다. 부동액 보러 간 김에 이 둘도 같이 봐달라고 하면 시간이 절약돼요.</p>
+</div>
+
+<ul>
+<li>워셔액은 <b>어는점 표시</b>가 있는 겨울용으로 바꿉니다</li>
+<li>얼었을 때 <b>뜨거운 물</b>을 유리에 붓지 않습니다</li>
+<li>분사가 안 되는데 계속 누르면 <b>펌프가 손상</b>됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>부동액은 양과 농도를 함께 확인한다</p>
+<p>점검은 엔진이 식은 상태에서 한다</p>
+<p>색이 다른 부동액을 섞으면 침전물이 생길 수 있다</p>
+<p>워셔액은 어는점이 표시된 겨울용으로 교체한다</p>
+<p>얼었을 때 뜨거운 물을 붓거나 계속 분사 버튼을 누르지 않는다</p>
+</blockquote>
+
+<p>이 두 가지는 셀프로도 되고 카센터에 가도 금방 끝납니다. 11월 안에 해두면 마음이 편해요.</p>
+
+<p>겨울에 앞이 안 보이는 상황은 진짜 무섭습니다. 미리 갈아두는 게 제일 싼 보험이더라고요.</p>
+
+<p>차종별 부동액 규격과 교환 주기는 취급설명서에 나와 있으니 그걸 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 부동액(냉각수)은 물과 혼합해 사용하며 혼합 비율에 따라 어는점이 달라짐
+ · 냉각수 보조탱크에는 최소·최대 눈금이 있어 그 사이에 액면이 있어야 정상
+ · 냉각계통은 가압 상태이므로 엔진이 뜨거울 때 캡을 열면 분출로 화상 위험이 있어 냉각 후 점검해야 함
+ · 부동액은 첨가제 계열에 따라 색상이 구분되며(녹색·청색 계열, 분홍·주황 계열 등) 계열이 다른 제품을 혼합하면 침전물이 생길 수 있음
+ · 침전물이 냉각 통로를 막으면 엔진 과열로 이어질 수 있음
+ · 물을 보충하면 어는점이 상승해 겨울철 동결 위험이 커지므로 임시 조치로만 사용
+ · 어는점(농도)은 비중계 등으로 측정할 수 있으며 정비소에서 확인 가능
+ · 워셔액은 계절용 구분이 있으며 겨울용 제품에는 어는점이 표시됨
+ · 워셔액이 동결되면 분사가 되지 않고 워셔 펌프·노즐·배관 손상으로 이어질 수 있음
+ · 결빙된 유리에 뜨거운 물을 부으면 급격한 온도 차로 유리가 손상될 수 있음
+ · 기온이 낮아지면 타이어 공기압이 감소하고 배터리 성능도 저하됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 부동액 교환 주기(주행거리·기간)는 차종과 제품 종류에 따라 달라 수치를 적지 않았습니다
+ · 권장 혼합 비율과 목표 어는점은 지역 기온과 제조사 기준에 따라 달라 숫자를 넣지 않았습니다
+ · 워셔액 제품별 어는점 수치는 제품마다 달라 특정 값을 적지 않았습니다
+ · 색상별 부동액의 구체적 규격 명칭은 제조사 표기가 달라 계열 구분만 언급했습니다
+ · 와이퍼 블레이드 교체 주기는 사용 환경에 따라 달라 기간을 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "몇 년 전 겨울에 워셔액이 얼어 앞이 안 보였다"는 화자 설정으로 지어낸 문장입니다
+ · "그날 이후 11월에 무조건 간다"는 서술은 설정입니다

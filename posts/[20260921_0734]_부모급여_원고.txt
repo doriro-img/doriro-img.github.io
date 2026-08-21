@@ -1,0 +1,185 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 21일 07:34
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260921_0734]_부모급여\
+   ├── 📄 [원고 파일]: [20260921_0734]_부모급여_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-parentpay.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260921_0734]_부모급여_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-parentpay.html
+
+■ 제목: 부모급여 신청방법. 60일 안에 넣어야 소급되는 이유와 보육료 전환
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 부모급여, 출생후60일, 보육료바우처, 아동수당중복, 복지로, 행복출산원스톱, 어린이집
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>부모급여 신청방법. 60일 안에 넣어야 소급되는 이유와 보육료 전환</p>
+
+<h2>60일이 기한입니다</h2>
+
+<p>부모급여는 만 <b>0세와 1세</b> 아이를 키우는 가정에 매달 지급되는 돈입니다. 0세가 금액이 더 큽니다.</p>
+
+<p>결론부터 말하면 <b>출생일을 포함해 60일 이내</b>에 신청하면 <b>출생한 달부터 소급</b>해서 받습니다.</p>
+
+<p>60일을 넘기면 <b>신청한 달부터</b>만 나옵니다. 지나간 몇 달치가 그냥 사라지는 거예요.</p>
+
+<p>출산 직후는 정신이 없어서 놓치기 쉽습니다. 출생신고할 때 같이 넣는 게 제일 확실하더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f9e6e;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">신청 시점이 금액을 가릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 220px;padding:18px 16px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#1d7050;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>60일 이내 신청</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">출생한 달부터 소급 지급<br />밀린 달치를 한꺼번에<br />손해가 없음<br />출생신고와 함께 처리</div>
+</div>
+<div style="flex:1 1 220px;padding:18px 16px;">
+<div style="font-size:13px;color:#b8463a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>60일 넘겨 신청</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">신청한 달부터만 지급<br />지나간 달치는 소멸<br />소급 요청이 안 됨<br />몇십만원 단위 손해</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>출생일을 포함해 <b>60일 이내</b>에 신청하면 출생한 달부터 소급됩니다</li>
+<li>기한을 넘기면 <b>신청한 달부터</b>만 지급됩니다</li>
+<li>지나간 기간은 <b>나중에 소급 요청이 되지 않습니다</b></li>
+</ul>
+
+<p>60일은 생각보다 빨리 갑니다. 산후조리원 다녀오고 정신 차리면 이미 한 달이 지나 있더라고요.</p>
+
+<h2>어린이집에 가면 형태가 바뀝니다</h2>
+
+<p>집에서 키우면 <b>현금</b>으로 받습니다. 계좌로 들어와요.</p>
+
+<p>어린이집이나 종일제 아이돌봄을 이용하면 <b>보육료 바우처</b>로 전환됩니다.</p>
+
+<p>이때 부모급여 금액이 보육료보다 크면 <b>차액을 현금으로</b> 받습니다. 0세반이 여기 해당하는 경우가 많아요.</p>
+
+<p>어린이집을 다니다 그만두면 다시 현금으로 바뀝니다. 이 변경도 <b>신청해야</b> 반영됩니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>가정 양육</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">전액 현금 지급<br />계좌로 입금<br />매달 정해진 날<br />사용처 제한 없음</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>어린이집 이용</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">보육료 바우처로 전환<br />어린이집에 직접 결제<br />남는 금액은 현금<br />변경 신청 필요</div>
+</div>
+</div>
+
+<ul>
+<li>집에서 키우면 <b>전액 현금</b>으로 계좌에 들어옵니다</li>
+<li>어린이집을 이용하면 <b>보육료 바우처</b>로 바뀝니다</li>
+<li>부모급여가 보육료보다 크면 <b>차액을 현금</b>으로 받습니다</li>
+</ul>
+
+<h2>다른 지원과 겹쳐 받습니다</h2>
+
+<p>부모급여와 <b>아동수당</b>은 별개입니다. 둘 다 받아요.</p>
+
+<p><b>첫만남이용권</b>도 별개고요. 출산 직후에는 셋이 함께 들어옵니다.</p>
+
+<p>지자체 출산장려금까지 더하면 항목이 꽤 많습니다. <b>각각 신청</b>해야 하는 게 원칙이에요.</p>
+
+<p>다만 <b>아이돌봄서비스 종일제</b>를 정부 지원으로 이용하면 부모급여와 조정될 수 있습니다. 이건 상담이 필요합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이럴 때 지급이 멈춥니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">아이가 <b style="color:#ff8a7a;">90일 이상 해외에 체류</b>하면 지급이 정지됩니다. 돌아온 뒤 다시 신청해야 재개돼요. 주소가 바뀌었는데 <b style="color:#ffd97a;">전입신고를 안 하면</b> 지급이 밀릴 수 있습니다.</p>
+</div>
+
+<ul>
+<li>아이가 <b>90일 이상 해외에 체류</b>하면 지급이 정지됩니다</li>
+<li>귀국 후 <b>다시 신청</b>해야 지급이 재개됩니다</li>
+<li>이사했으면 <b>전입신고</b>를 해야 지급이 정상적으로 이어집니다</li>
+</ul>
+
+<h2>신청 방법</h2>
+
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 150px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>가장 편한 방법</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">원스톱 신청</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">출생신고와 함께</div>
+</div>
+<div style="flex:1 1 150px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>온라인</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">복지로·정부24</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">본인인증 필요</div>
+</div>
+<div style="flex:1 1 150px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:14px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>방문</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">주민센터</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">주소지 관할</div>
+</div>
+</div>
+
+<ul>
+<li>출생신고하면서 <b>행복출산 원스톱</b>으로 신청하는 게 가장 간단합니다</li>
+<li><b>복지로나 정부24</b>에서 온라인으로도 됩니다</li>
+<li>부모 중 <b>한 명이 신청</b>하면 되고 지급 계좌를 지정합니다</li>
+</ul>
+
+<p>온라인 신청은 <b>부모 명의</b>로 해야 합니다. 조부모가 대신 하려면 위임 절차가 필요해요.</p>
+
+<h3>지급일은 매달 정해져 있습니다</h3>
+
+<p>부모급여는 <b>매달 정해진 날</b>에 들어옵니다. 아동수당도 같은 날 함께 지급되는 경우가 많아요.</p>
+
+<p>첫 지급은 신청 후 심사를 거쳐야 해서 <b>한 달쯤 걸릴 수</b> 있습니다.</p>
+
+<p>소급분이 있으면 첫 달에 <b>몰아서</b> 들어옵니다. 금액이 커서 놀라는 분들이 있어요.</p>
+
+<h3>계좌를 잘못 적으면 지급이 밀립니다</h3>
+
+<p>신청할 때 지정한 계좌로 들어옵니다. <b>부모 명의 계좌</b>여야 하고 아이 명의는 안 됩니다.</p>
+
+<p>계좌를 바꾸려면 <b>변경 신청</b>을 따로 해야 해요. 그냥 통장을 해지하면 지급이 반송됩니다.</p>
+
+<p>반송되면 다시 신청해야 하고 그만큼 늦어집니다. 통장을 정리할 때 이 부분을 챙기시면 좋습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>만 0세와 1세 아이에게 매달 지급되고 0세 금액이 더 크다</p>
+<p>출생일 포함 60일 이내 신청하면 출생월부터 소급된다</p>
+<p>기한을 넘기면 신청한 달부터만 나오고 소급되지 않는다</p>
+<p>어린이집을 이용하면 보육료 바우처로 전환되고 차액은 현금이다</p>
+<p>아동수당, 첫만남이용권과 중복해서 받는다</p>
+</blockquote>
+
+<p>기한 하나 때문에 수십만원이 갈립니다. 출산 예정이면 이것만 기억해두세요.</p>
+
+<p>이미 60일이 지났어도 지금 신청하면 <b>앞으로 받을 몫</b>은 나옵니다. 포기하지 마시고요.</p>
+
+<p>지급 금액과 지급일은 해마다 조정되니 복지로에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 부모급여는 만 0세와 1세 아동에게 매월 지급되며 0세 지원액이 더 큼
+ · 출생일을 포함해 60일 이내 신청 시 출생한 달부터 소급 지급
+ · 60일 경과 후 신청하면 신청한 달부터 지급되며 소급되지 않음
+ · 어린이집·종일제 아이돌봄 이용 시 보육료 바우처로 전환되고 차액은 현금 지급
+ · 아동수당, 첫만남이용권과 중복 수급 가능
+ · 아동의 90일 이상 해외 체류 시 지급 정지
+ · 신청: 행복출산 원스톱, 복지로·정부24 온라인, 주민센터 방문
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 0세와 1세의 월 지급액은 해마다 조정되어 수치를 적지 않았습니다
+ · 보육료 바우처 단가와 차액 계산 방식은 연령반별로 달라 금액을 적지 않았습니다
+ · 매월 지급일은 지자체 처리에 따라 달라질 수 있어 날짜를 명시하지 않았습니다
+ · 아이돌봄서비스 종일제와의 조정 방식은 사례별로 달라 상담을 권했습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · 개인 사례 없이 제도 설명 중심으로 작성했습니다

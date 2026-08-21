@@ -1,0 +1,245 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 18일 12:36
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261118_1236]_대주주_양도소득세_기준\
+   ├── 📄 [원고 파일]: [20261118_1236]_대주주_양도소득세_기준_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-majorshare.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261118_1236]_대주주_양도소득세_기준_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-majorshare.html
+
+■ 제목: 상장주식 대주주 판정 기준과 연말 결제일. 하루 차이로 갈립니다
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 대주주양도소득세, 대주주판정, 연말기준일, 결제일, 종목당보유금액, 지분율, 예정신고
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>상장주식 대주주 판정 기준과 연말 결제일. 하루 차이로 갈립니다</p>
+
+<h2>보통은 안 내지만 예외가 있습니다</h2>
+
+<p>국내 상장주식을 팔아 번 돈에는 원칙적으로 <b>양도소득세가 붙지 않습니다.</b></p>
+
+<p>결론부터 말하면 <b>대주주로 판정되면</b> 얘기가 달라집니다. 그때부터 과세 대상이에요.</p>
+
+<p>판정 기준일은 <b>직전 사업연도 종료일</b>입니다. 대부분 기업이 12월 말이라 연말이 갈림길이 됩니다.</p>
+
+<p>그래서 12월만 되면 매도 물량이 나온다는 얘기가 도는 거더라고요. 이 규정 때문입니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">판정의 두 갈래</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">지분율</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">시장별로 기준 비율이 다름</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">보유금액</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">종목당 평가액 기준</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">기준일</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">직전 사업연도 종료일</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">효과</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">다음 해 양도분에 과세</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>대주주 판정은 <b>지분율</b>이나 <b>보유금액</b> 중 하나만 넘겨도 됩니다</li>
+<li>기준일은 <b>직전 사업연도 종료일</b>입니다</li>
+<li>판정되면 <b>다음 해에 파는 물량</b>이 과세 대상이 됩니다</li>
+</ul>
+
+<h2>어떻게 판정하나요?</h2>
+
+<p>먼저 <b>지분율</b>을 봅니다. 코스피, 코스닥, 코넥스마다 기준 비율이 다릅니다.</p>
+
+<p>그다음 <b>종목당 보유 평가액</b>을 봅니다. 한 종목을 얼마어치 들고 있는지죠.</p>
+
+<p>둘 중 하나라도 기준을 넘으면 대주주가 됩니다. 둘 다 넘겨야 하는 게 아니에요.</p>
+
+<p>중요한 건 <b>종목별로</b> 따진다는 점입니다. 전체 계좌 평가액이 아닙니다.</p>
+
+<h3>여러 계좌를 갖고 있다면</h3>
+
+<p>증권사가 달라도 <b>같은 종목</b>이면 합산해서 봅니다.</p>
+
+<p>A 증권사에 절반, B 증권사에 절반 나눠 담아도 소용이 없습니다.</p>
+
+<p>본인 명의 보유분을 모두 더해 판정합니다. 이 부분을 헷갈리는 분들이 있더라고요.</p>
+
+<p>본인 계좌를 한 번에 조회해 종목별 평가액을 확인해두는 게 좋습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#d5e4f2);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">헷갈리기 쉬운 지점</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1f4a7a;">종목 단위</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">계좌 총액이 아니라 한 종목 기준</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1f4a7a;">계좌 합산</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">증권사가 달라도 합쳐서 판정</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">결제일</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">매도해도 결제가 끝나야 반영</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">해외주식</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">기준이 완전히 다른 별개 제도</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>판정은 <b>종목별</b>로 하고 계좌 총액과는 무관합니다</li>
+<li>증권사가 달라도 <b>같은 종목이면 합산</b>합니다</li>
+<li>매도해도 <b>결제가 끝나야</b> 보유에서 빠집니다</li>
+</ul>
+
+<h2>결제일이 왜 중요한가요?</h2>
+
+<p>주식은 <b>매도 주문이 체결된 날</b> 바로 결제가 되지 않습니다. 며칠 뒤에 결제가 이뤄져요.</p>
+
+<p>기준일 시점의 보유 상태는 <b>결제 기준</b>으로 봅니다.</p>
+
+<p>그래서 12월 마지막 거래일에 팔면 결제가 다음 해로 넘어가 <b>기준일에 여전히 보유</b>한 것으로 잡힐 수 있습니다.</p>
+
+<p>연말 매도를 계획한다면 <b>며칠 앞당겨</b> 처리해야 하는 이유가 여기 있습니다.</p>
+
+<p>증권사에 결제일이 언제인지 확인하고 일정을 잡는 게 안전합니다.</p>
+
+<h3>연말 거래일도 확인하세요</h3>
+
+<p>연말에는 <b>폐장일</b>이 따로 있습니다. 12월 31일까지 장이 열리는 게 아니에요.</p>
+
+<p>거래소가 매년 폐장 일정을 공지합니다. 그 일정에 맞춰 계산해야 합니다.</p>
+
+<p>휴장일이 겹치면 결제일이 더 밀립니다. 여유를 두는 게 맞습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">시점</div><div style="flex:1.7;text-align:right;">확인할 것</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">11~12월 초</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">종목별 보유 평가액 점검</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">12월 중순</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">폐장일과 결제일 확인</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">매도 시점</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">결제가 연내에 끝나도록 배치</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">다음 해 양도 시</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">예정신고 기한 챙기기</div>
+</div>
+</div>
+
+<ul>
+<li>연말 <b>폐장일</b>이 12월 31일이 아닐 수 있습니다</li>
+<li>매도 <b>결제일</b>이 연내에 끝나도록 앞당겨야 합니다</li>
+<li>휴장일이 겹치면 결제가 <b>더 밀립니다</b></li>
+</ul>
+
+<h2>과세되면 어떻게 신고하나요?</h2>
+
+<p>대주주로 판정되면 다음 해에 양도한 물량에 대해 <b>양도소득세</b>를 냅니다.</p>
+
+<p>양도차익에 세율을 적용하고 <b>기본공제</b>를 뺀 금액이 과세 대상이 됩니다.</p>
+
+<p>신고는 <b>반기 단위로 예정신고</b>를 하는 방식입니다. 양도한 시점에 따라 기한이 달라져요.</p>
+
+<p>증권사가 대신 처리해주지 않습니다. <b>본인이 신고</b>해야 합니다.</p>
+
+<h3>손실이 났다면</h3>
+
+<p>같은 기간에 이익과 손실이 있으면 <b>통산</b>해서 계산합니다.</p>
+
+<p>이익만 골라 과세하는 게 아니라 손실을 빼준다는 뜻이죠.</p>
+
+<p>그래서 매도 시점을 조절해 같은 해에 손익을 맞추는 전략을 쓰기도 합니다.</p>
+
+<p>금액이 크면 <b>세무 전문가</b>와 상의하는 게 낫습니다. 계산이 단순하지 않습니다.</p>
+
+<h3>취득가액 자료를 챙겨두세요</h3>
+
+<p>양도차익은 판 금액에서 <b>산 금액</b>을 뺀 값입니다. 그러니 취득가액 증빙이 필요합니다.</p>
+
+<p>오래 보유한 종목일수록 매수 기록을 찾기 어려워집니다. 증권사를 옮겼다면 더 그렇고요.</p>
+
+<p>거래 내역은 <b>미리 내려받아</b> 보관해두는 게 좋습니다. 나중에 조회 기간이 지나면 곤란해지더라고요.</p>
+
+<p>무상증자나 액면분할이 있었다면 <b>취득가액 조정</b>이 들어갑니다. 이 계산도 챙겨야 합니다.</p>
+
+<p>배당으로 받은 주식이나 상속·증여받은 주식은 <b>기준이 또 다릅니다.</b> 전문가 확인이 필요한 구간이에요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">해외주식은 별개</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">해외주식은 대주주 여부와 <b style="color:#ff8a7a;">상관없이</b> 양도소득세 대상입니다. 기본공제와 신고 시기도 국내 상장주식과 달라요. <b style="color:#ffd97a;">두 제도를 섞어 생각하면</b> 계산이 어긋납니다.</p>
+</div>
+
+<ul>
+<li>대주주가 되면 <b>다음 해 양도분</b>이 과세 대상입니다</li>
+<li>신고는 <b>반기 단위 예정신고</b>로 본인이 합니다</li>
+<li>같은 기간의 <b>이익과 손실</b>은 통산해 계산합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>국내 상장주식은 원칙적으로 비과세지만 대주주는 과세된다</p>
+<p>판정은 지분율과 종목당 보유금액 중 하나만 넘겨도 적용된다</p>
+<p>기준일은 직전 사업연도 종료일이고 결제 기준으로 본다</p>
+<p>연말 매도는 결제일을 감안해 며칠 앞당겨야 한다</p>
+<p>과세되면 반기 단위 예정신고를 본인이 해야 한다</p>
+</blockquote>
+
+<p>지금 종목별 평가액을 한 번 확인해두시는 걸 권합니다. 12월에 급하게 보면 늦습니다.</p>
+
+<p>기준 금액이 바뀌면 대상 범위도 달라지니 그해 기준을 꼭 확인해야 합니다.</p>
+
+<p>판정 기준과 세율, 신고 기한은 세법 개정으로 바뀌니 국세청 안내나 세무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 국내 상장주식의 장내 양도차익은 원칙적으로 양도소득세 과세 대상이 아니며, 세법상 대주주에 해당하는 경우 과세됨
+ · 대주주 판정은 지분율 기준과 종목당 보유 평가액 기준 중 어느 하나에 해당하면 적용됨
+ · 지분율 기준은 코스피, 코스닥, 코넥스 등 시장별로 다르게 정해져 있음
+ · 판정 기준일은 직전 사업연도 종료일이며 대부분 상장법인의 사업연도 종료일이 12월 31일임
+ · 판정은 종목 단위로 하며 여러 증권사에 나누어 보유해도 동일 종목은 합산해 계산함
+ · 보유 여부는 결제 기준으로 판단되므로 연말 매도 시 결제일이 해를 넘기면 기준일 현재 보유로 잡힐 수 있음
+ · 연말에는 증권시장 폐장일이 별도로 정해지며 거래소가 매년 일정을 공지함
+ · 대주주로 판정되면 다음 연도에 양도하는 주식의 양도차익에 대해 양도소득세가 부과됨
+ · 양도소득세는 반기 단위 예정신고 방식으로 납세자가 직접 신고해야 하며 증권사가 대신 처리하지 않음
+ · 같은 과세 기간의 양도차익과 양도차손은 통산해 과세표준을 계산함
+ · 해외주식 양도소득은 대주주 여부와 무관하게 과세되며 기본공제와 신고 시기가 국내 상장주식과 다름
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 시장별 지분율 기준 비율과 종목당 보유금액 기준 금액은 개정이 있어 수치를 적지 않았습니다
+ · 양도소득세 세율과 과세표준 구간, 기본공제 금액은 세법 개정 대상이라 넣지 않았습니다
+ · 결제일까지 걸리는 영업일 수는 시장과 제도 변경에 따라 달라 일수를 적지 않았습니다
+ · 예정신고 기한의 구체 날짜는 양도 시기에 따라 달라 특정하지 않았습니다
+ · 특수관계인 보유분의 합산 여부와 범위는 규정 변경이 있어 단정하지 않았습니다
+ · 연말 폐장일은 매년 달라 날짜를 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "12월만 되면 매도 물량이 나온다는 얘기가 돈다"는 일반적 관찰로 적었습니다
+ · "이 부분을 헷갈리는 분들이 있더라"는 서술은 화자 설정으로 지어낸 문장입니다

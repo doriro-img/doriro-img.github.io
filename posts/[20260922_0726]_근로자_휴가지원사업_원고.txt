@@ -1,0 +1,179 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 22일 07:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260922_0726]_근로자_휴가지원사업\
+   ├── 📄 [원고 파일]: [20260922_0726]_근로자_휴가지원사업_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-workvacation.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260922_0726]_근로자_휴가지원사업_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-workvacation.html
+
+■ 제목: 근로자 휴가지원사업 신청방법. 내 돈보다 두 배로 쓰는 구조와 전용몰 제한
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 근로자휴가지원사업, 휴가지원금, 한국관광공사, 전용몰, 중소기업복지, 적립금, 선착순
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>근로자 휴가지원사업 신청방법. 내 돈보다 두 배로 쓰는 구조와 전용몰 제한</p>
+
+<h2>내가 낸 돈에 두 배가 얹힙니다</h2>
+
+<p>근로자 휴가지원사업은 <b>근로자와 기업, 정부가 함께 돈을 모아</b> 여행 경비로 쓰는 제도입니다.</p>
+
+<p>결론부터 말하면 근로자가 낸 금액에 <b>기업과 정부가 각각 보태는</b> 구조예요. 내 돈보다 훨씬 큰 금액이 적립됩니다.</p>
+
+<p>대상은 <b>중소기업과 소상공인</b> 등의 근로자입니다. 대기업은 해당하지 않아요.</p>
+
+<p>회사에서 안내를 안 해주면 이런 게 있는지도 모르고 지나가더라고요. 근로자가 먼저 알고 요청하는 경우도 많습니다.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f9e6e;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">셋이 나눠서 적립합니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:8px;align-items:center;">
+<div style="flex:1 1 140px;background:#eef9f3;border:1px solid #a9dcc4;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f9e6e;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f9e6e" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f9e6e"/></svg>근로자</div>
+<div style="font-size:15px;font-weight:800;color:#1d7050;">본인 부담</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">가장 큰 몫</div>
+</div>
+<div style="font-size:18px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">+</div>
+<div style="flex:1 1 140px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>기업</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">사업주 부담</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">복지 비용</div>
+</div>
+<div style="font-size:18px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">+</div>
+<div style="flex:1 1 140px;background:#fdf4e8;border:1px solid #f5dfbe;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#b0701c;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#b0701c" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#b0701c"/></svg>정부</div>
+<div style="font-size:15px;font-weight:800;color:#55381a;">지원금</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">예산 범위 내</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>근로자와 기업, 정부가 <b>각각 정해진 비율</b>로 적립합니다</li>
+<li>근로자 본인 부담이 가장 크지만 <b>최종 적립액은 훨씬 큽니다</b></li>
+<li>적립된 금액은 <b>전용 온라인몰</b>에서만 사용합니다</li>
+</ul>
+
+<p>본인이 낸 돈보다 쓸 수 있는 돈이 많으니 <b>여행 계획이 있으면</b> 확실히 이득입니다.</p>
+
+<h2>기업이 먼저 신청해야 합니다</h2>
+
+<p>이게 이 사업의 특징입니다. 근로자가 혼자 신청할 수 없어요.</p>
+
+<p><b>기업이 참여 신청</b>을 하고 승인받은 뒤에 소속 근로자가 개별 참여하는 구조입니다.</p>
+
+<p>회사 입장에서는 <b>복지 비용을 일부만 내고</b> 직원 복지를 챙기는 셈이라 부담이 크지 않습니다.</p>
+
+<p>사업주가 관심이 없으면 아예 시작이 안 됩니다. 인사 담당자에게 <b>먼저 알려주는</b> 게 방법이에요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>참여할 수 있는 곳</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">중소기업<br />소상공인<br />비영리 민간단체<br />사회복지법인 등</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>제외되는 곳</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">대기업<br />공공기관<br />일부 업종 제한<br />기업이 신청 안 한 경우</div>
+</div>
+</div>
+
+<ul>
+<li><b>중소기업과 소상공인</b>, 비영리단체 근로자가 대상입니다</li>
+<li><b>대기업과 공공기관</b>은 참여할 수 없습니다</li>
+<li>기업이 신청하지 않으면 <b>근로자도 참여할 수 없습니다</b></li>
+</ul>
+
+<h2>전용몰에서만 쓸 수 있습니다</h2>
+
+<p>적립금은 현금이 아닙니다. <b>지정된 온라인몰</b>에서 결제하는 방식이에요.</p>
+
+<p>숙박, 항공권, 렌터카, 레저 시설 이용권 등을 살 수 있습니다. 국내 여행 상품이 중심입니다.</p>
+
+<p>해외여행 상품은 <b>제한되는 경우</b>가 많습니다. 이 사업이 국내 관광 활성화 목적이라서요.</p>
+
+<p>전용몰 가격이 시중보다 비싼지 <b>비교해보고</b> 결제하시는 게 좋습니다. 늘 싸지는 않더라고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">선착순으로 마감됩니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">예산이 정해져 있어서 <b style="color:#ff8a7a;">모집 인원이 차면 마감</b>됩니다. 인기가 있어서 시작 직후에 닫히는 해도 있어요. 그리고 적립금은 <b style="color:#ffd97a;">사용 기한</b>이 있어서 그 안에 안 쓰면 소멸됩니다.</p>
+</div>
+
+<ul>
+<li>예산 범위 안에서 <b>선착순</b>으로 모집합니다</li>
+<li>적립금에는 <b>사용 기한</b>이 있고 넘기면 소멸됩니다</li>
+<li>중도에 <b>퇴사</b>하면 적립금 처리 기준이 따로 있습니다</li>
+</ul>
+
+<h2>이런 점은 알고 시작하세요</h2>
+
+<p>본인 부담금은 <b>먼저 내야</b> 합니다. 나중에 정산받는 방식이 아니에요.</p>
+
+<p>여행 계획이 확실할 때 신청하는 게 좋습니다. 안 쓰면 <b>본인 돈까지</b> 묶이니까요.</p>
+
+<p>가족과 함께 쓸 수 있습니다. 근로자 본인만 쓰라는 제약은 없어요.</p>
+
+<p>회사가 부담한 금액은 <b>복리후생비</b>로 처리됩니다. 사업주에게도 세무상 이점이 있습니다.</p>
+
+<h3>회사에 제안할 때</h3>
+
+<p>사업주가 부담하는 금액이 <b>1인당 크지 않다</b>는 점을 말씀드리면 설득이 쉽습니다.</p>
+
+<p>직원 복지 항목을 늘리면서 <b>정부 지원까지</b> 끌어오는 구조라 회사 입장에서도 나쁘지 않아요.</p>
+
+<p>한국관광공사에서 운영하는 사업이라 <b>공고와 안내문</b>이 잘 정리돼 있습니다. 그걸 인쇄해서 드리면 됩니다.</p>
+
+<h3>퇴사하면 어떻게 되나요</h3>
+
+<p>참여 중에 회사를 그만두면 적립금 처리 기준이 따로 적용됩니다.</p>
+
+<p>이미 적립된 <b>기업 부담분과 정부 지원금</b>은 회수될 수 있습니다. 본인이 낸 돈은 환급 절차를 밟고요.</p>
+
+<p>이직 계획이 있다면 <b>여행을 먼저 다녀오는</b> 편이 안전합니다. 적립만 해두고 미루면 애매해집니다.</p>
+
+<p>휴직 중에도 참여가 제한될 수 있으니 상황이 바뀌면 담당자에게 알리는 게 좋습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>근로자와 기업, 정부가 함께 적립해 여행 경비로 쓰는 제도다</p>
+<p>중소기업과 소상공인 근로자가 대상이고 대기업은 제외된다</p>
+<p>기업이 먼저 참여 신청을 해야 근로자가 참여할 수 있다</p>
+<p>적립금은 지정된 전용몰에서만 사용할 수 있다</p>
+<p>예산 범위 안에서 선착순 마감되고 사용 기한이 있다</p>
+</blockquote>
+
+<p>여행을 자주 가는 편이라면 확실히 이득인 제도입니다. 안 쓸 거면 신청하지 않는 게 낫고요.</p>
+
+<p>회사가 모르고 있을 가능성이 큽니다. 관심 있으면 인사팀에 한번 물어보세요.</p>
+
+<p>적립 금액과 모집 일정, 사용 기한은 해마다 달라지니 한국관광공사 공고로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 근로자 휴가지원사업은 근로자·기업·정부가 함께 적립해 국내 여행 경비로 사용하는 제도
+ · 대상: 중소기업, 소상공인, 비영리 민간단체 등의 근로자 (대기업·공공기관 제외)
+ · 기업이 참여 신청 후 승인받아야 소속 근로자가 개별 참여 가능
+ · 적립금은 지정된 전용 온라인몰에서만 사용하며 국내 여행 상품 중심
+ · 예산 범위 내 선착순 모집이며 적립금에 사용 기한이 있음
+ · 기업 부담금은 복리후생비로 처리
+ · 운영 기관은 한국관광공사
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 근로자·기업·정부의 적립 금액과 비율은 해마다 조정되어 수치를 적지 않았습니다
+ · 모집 시기와 인원, 사용 기한은 연도별 공고 기준이라 명시하지 않았습니다
+ · 참여 제외 업종의 구체 목록은 나열하지 않았습니다
+ · 중도 퇴사 시 적립금 처리 기준은 운영 지침에 따라 달라 상세를 다루지 않았습니다
+ · 해외여행 상품의 사용 가능 여부는 연도별 운영 방침에 따릅니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "회사가 안내를 안 해서 모르고 지나가는 경우를 봤다"는 관찰형 서술입니다

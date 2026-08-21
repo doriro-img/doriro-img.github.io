@@ -1,0 +1,227 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 9일 18:48
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261109_1848]_패딩_세탁_분쟁\
+   ├── 📄 [원고 파일]: [20261109_1848]_패딩_세탁_분쟁_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-padding.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261109_1848]_패딩_세탁_분쟁_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-padding.html
+
+■ 제목: 패딩 세탁 사고 대처법. 인수증과 취급표시가 근거가 됩니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 패딩세탁, 다운자켓세탁, 세탁분쟁, 세탁물인수증, 취급표시, 소비자분쟁해결기준, 섬유제품심의
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>패딩 세탁 사고 대처법. 인수증과 취급표시가 근거가 됩니다</p>
+
+<h2>맡기기 전에 두 가지를 확보하세요</h2>
+
+<p>패딩 세탁 사고는 매년 겨울에 반복됩니다. 다투게 되면 결국 <b>증거</b> 싸움이에요.</p>
+
+<p>결론부터 말하면 <b>세탁물 인수증</b>을 꼭 받고, 맡기기 전에 <b>옷 상태를 사진</b>으로 남기면 됩니다.</p>
+
+<p>그리고 옷 안쪽 <b>취급표시 라벨</b>이 판정의 기준이 됩니다. 라벨대로 세탁했는지가 책임을 가릅니다.</p>
+
+<p>저희도 아내 패딩을 맡겼다가 소매 부분이 얼룩진 적이 있었는데, 사진이 없어서 그냥 넘어갔더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3f4a6b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">맡기기 전 확인 4가지</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfd;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">인수증</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">품목과 접수일 기재</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">사진</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">전체와 오염 부위</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">취급표시</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">물세탁 가능 여부</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">기존 손상 고지</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">미리 말하고 기록</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>인수증</b>이 없으면 맡긴 사실을 증명하기 어렵습니다</li>
+<li>맡기기 전 <b>사진</b>을 찍어두면 상태 비교가 됩니다</li>
+<li>옷의 <b>취급표시</b>가 세탁 방법의 기준이 됩니다</li>
+</ul>
+
+<h2>책임은 누가 지나요?</h2>
+
+<p>세탁 사고는 크게 세 가지로 갈립니다. <b>제조 하자</b>, <b>세탁 과실</b>, <b>소비자 과실</b>이죠.</p>
+
+<p>제조 하자는 옷 자체에 문제가 있었던 경우입니다. 이때는 제조·판매자 책임입니다.</p>
+
+<p>세탁 과실은 세탁소가 방법을 잘못 썼거나 관리를 잘못한 경우고요.</p>
+
+<p>소비자 과실은 착용 중 손상이나 보관 잘못처럼 사용자 쪽 문제입니다.</p>
+
+<h3>판정은 어디서 하나요?</h3>
+
+<p>당사자끼리 합의가 안 되면 <b>한국소비자원</b>에 도움을 요청할 수 있습니다.</p>
+
+<p>섬유제품을 심의하는 절차가 있어서 <b>어느 쪽 책임인지</b>를 가려줍니다.</p>
+
+<p>이 판정을 받으려면 옷과 인수증, 구매 정보가 있어야 합니다. 준비물이 갖춰져야 진행돼요.</p>
+
+<p>상담은 국번 없이 <b>1372</b>로 전화하면 됩니다.</p>
+
+<div style="background:linear-gradient(135deg,#f0f2f8,#dbdfea);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3f4a6b;margin-bottom:16px;">책임 구분</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#3f4a6b;">제조 하자</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">봉제 불량, 염색 불량 등</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#3f4a6b;">세탁 과실</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">표시와 다른 방법, 후처리 미흡</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#3f4a6b;">소비자 과실</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">착용 중 손상, 보관 잘못</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">판정 기관</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">한국소비자원 심의 절차</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>사고 원인은 <b>제조·세탁·소비자</b> 셋 중 하나로 갈립니다</li>
+<li>합의가 안 되면 <b>한국소비자원</b>에 상담할 수 있습니다</li>
+<li>상담 전화는 국번 없이 <b>1372</b>입니다</li>
+</ul>
+
+<h2>배상은 얼마나 받나요?</h2>
+
+<p>전액을 다 받는 경우는 드뭅니다. <b>얼마나 오래 입었는지</b>를 반영하거든요.</p>
+
+<p>구입 가격에 <b>남은 가치 비율</b>을 곱해 산정하는 방식이 일반적입니다.</p>
+
+<p>그래서 <b>구입 시점과 가격</b>을 알 수 있는 자료가 있으면 유리합니다. 카드 내역이나 영수증이요.</p>
+
+<p>또 하나 중요한 건 <b>기한</b>입니다. 옷을 찾아온 뒤 일정 기간이 지나면 청구가 어려워집니다.</p>
+
+<h3>찾아오자마자 확인하세요</h3>
+
+<p>세탁소에서 받자마자 그 자리에서 <b>펼쳐보는</b> 게 가장 좋습니다.</p>
+
+<p>비닐째 옷장에 걸어두고 겨울 다 지나서 발견하면 곤란해집니다.</p>
+
+<p>문제가 보이면 <b>바로 사진</b>을 찍고 세탁소에 알립니다. 시간이 지날수록 불리해져요.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eff1f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">시점</div><div style="flex:1.7;text-align:right;">할 일</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">맡길 때</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">인수증 수령, 상태 사진</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">찾을 때</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">그 자리에서 펼쳐 확인</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">문제 발견</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">사진 촬영 후 즉시 통보</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">협의 결렬</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">1372 상담 후 심의 요청</div>
+</div>
+</div>
+
+<ul>
+<li>배상액은 <b>구입가에 남은 가치</b>를 반영해 산정합니다</li>
+<li>구입 시점과 가격을 <b>증빙</b>할 수 있으면 유리합니다</li>
+<li>찾아온 뒤 <b>시간이 지나면</b> 청구가 어려워집니다</li>
+</ul>
+
+<h2>집에서 빨아도 되나요?</h2>
+
+<p>취급표시에 <b>물세탁 가능</b> 표시가 있으면 집에서 할 수 있습니다.</p>
+
+<p>중성세제를 쓰고 미온수로 단독 세탁합니다. 다른 빨래와 같이 돌리지 마세요.</p>
+
+<p>가장 중요한 건 <b>완전히 말리는</b> 겁니다. 속이 덜 마르면 냄새가 나고 충전재가 뭉칩니다.</p>
+
+<p>건조기에 넣을 때 테니스공을 같이 넣으면 뭉친 게 풀립니다. 중간중간 두드려주면 더 좋고요.</p>
+
+<h3>드라이클리닝을 자주 하면</h3>
+
+<p>다운은 기름 성분이 있어야 부풀어 오릅니다. 드라이클리닝은 그 성분을 빼갈 수 있어요.</p>
+
+<p>반복하면 <b>보온력이 떨어질</b> 수 있습니다. 그래서 매년 맡기는 게 꼭 좋은 건 아닙니다.</p>
+
+<p>소매나 목 부분만 더러우면 <b>그 부분만</b> 부분 세탁하는 것도 방법입니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">압축팩 주의</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">보관할 때 <b style="color:#ff8a7a;">압축팩</b>에 오래 눌러두면 충전재가 눌려 복원이 안 될 수 있습니다. <b style="color:#ffd97a;">통풍되는 커버</b>에 넉넉히 걸어두는 편이 안전해요.</p>
+</div>
+
+<ul>
+<li>취급표시에 <b>물세탁 가능</b>이면 집에서 할 수 있습니다</li>
+<li>충전재가 뭉치지 않게 <b>완전히 건조</b>시켜야 합니다</li>
+<li>보관은 <b>압축팩보다 통풍되는 커버</b>가 낫습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>맡길 때 인수증을 받고 옷 상태를 사진으로 남긴다</p>
+<p>취급표시 라벨이 세탁 방법과 책임 판정의 기준이 된다</p>
+<p>합의가 안 되면 1372 상담을 거쳐 심의를 요청할 수 있다</p>
+<p>배상액은 구입가에 사용 기간을 반영해 산정된다</p>
+<p>찾아온 즉시 확인해야 청구가 가능하다</p>
+</blockquote>
+
+<p>겨울 초입에 한 번 세탁해두면 시즌 내내 깔끔하게 입습니다. 지금이 딱 그 시기예요.</p>
+
+<p>다만 맡기기 전에 사진 한 장 찍는 데 10초면 됩니다. 그 10초가 나중에 큰 차이를 만들더라고요.</p>
+
+<p>배상 기준과 세부 절차는 사안마다 달라 한국소비자원 상담으로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 세탁 사고 책임은 제조 하자, 세탁 과실, 소비자 과실로 구분해 판단함
+ · 의류 안쪽의 취급표시(케어 라벨)는 세탁 방법의 기준이 되며 표시와 다른 방법으로 세탁한 경우 세탁업자 과실로 판단될 수 있음
+ · 당사자 간 합의가 어려운 경우 한국소비자원에 상담·심의를 요청할 수 있으며 섬유제품 관련 심의 절차가 운영됨
+ · 소비자 상담은 국번 없이 1372 소비자상담센터를 통해 접수
+ · 세탁물 인수증은 접수 사실과 품목을 증명하는 자료로 분쟁 시 필요
+ · 배상액은 물품 구입가격에 사용 기간과 내용연수를 반영한 잔존가치 비율을 적용해 산정하는 방식이 일반적임
+ · 세탁 완성물을 인도받은 뒤 일정 기간이 지나면 하자에 대한 배상 청구가 어려워짐
+ · 다운(우모) 제품은 유지 성분이 부피 회복에 관여하므로 반복적인 드라이클리닝이 보온성 저하로 이어질 수 있음
+ · 물세탁 가능 표시가 있는 제품은 중성세제와 미온수로 단독 세탁하고 충분히 건조해야 충전재 뭉침과 냄새를 막을 수 있음
+ · 압축 보관은 충전재를 눌러 복원력을 떨어뜨릴 수 있어 통기성 있는 커버 보관이 권장됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 배상비율 산정에 쓰이는 내용연수와 잔존가치율 표는 품목별로 정해져 있어 수치를 옮기지 않았습니다
+ · 세탁물 인도 후 하자 배상 청구가 가능한 기간의 개월 수는 기준 개정 가능성이 있어 적지 않았습니다
+ · 세탁 요금과 부분 세탁 비용은 업소마다 달라 금액을 넣지 않았습니다
+ · 제품별 권장 세탁 주기는 소재와 착용 빈도에 따라 달라 단정하지 않았습니다
+ · 건조기 사용 가능 여부는 제품 표시에 따라야 해 일반적인 내용만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아내 패딩 소매가 얼룩졌는데 사진이 없어 넘어갔다"는 화자 설정으로 지어낸 문장입니다
+ · "비닐째 걸어두고 겨울 다 지나 발견한다"는 서술은 일반적 관찰로 적었습니다

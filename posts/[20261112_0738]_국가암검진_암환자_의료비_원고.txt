@@ -1,0 +1,224 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 12일 07:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261112_0738]_국가암검진_암환자_의료비\
+   ├── 📄 [원고 파일]: [20261112_0738]_국가암검진_암환자_의료비_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-cancercare.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261112_0738]_국가암검진_암환자_의료비_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-cancercare.html
+
+■ 제목: 국가암검진 대상 암종과 주기. 암환자 의료비 지원 신청 창구 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 국가암검진, 6대암검진, 검진주기, 산정특례, 암환자의료비지원, 보건소신청, 고위험군
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국가암검진 대상 암종과 주기. 암환자 의료비 지원 신청 창구 정리</p>
+
+<h2>암종마다 시작 나이와 주기가 다릅니다</h2>
+
+<p><b>국가암검진</b>은 몇 가지 암을 대상으로 정해진 나이부터 정해진 주기로 받는 검진입니다.</p>
+
+<p>결론부터 말하면 <b>암종별로 시작 연령과 주기가 제각각</b>이고, 일부는 <b>고위험군</b>만 대상입니다.</p>
+
+<p>그래서 올해 대상인 암종과 아닌 암종이 섞여 있습니다. 안내문을 잘 봐야 해요.</p>
+
+<p>아버지가 안내문을 받고 작년에 했으니 올해는 안 해도 되는 줄 아셨더라고요. 암종이 다른 거였습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7a2f4a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">검진 대상 암종</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdf8fa;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedae1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a2f4a;">위암·대장암</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">연령 기준으로 대상 선정</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedae1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a2f4a;">간암</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">고위험군 대상, 주기 짧음</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedae1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a2f4a;">유방암·자궁경부암</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">여성 대상</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedae1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a2f4a;">폐암</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">흡연력 기준 고위험군</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>암종마다 <b>시작 연령과 주기</b>가 다르게 정해져 있습니다</li>
+<li>간암과 폐암은 <b>고위험군</b>만 대상이 됩니다</li>
+<li>안내문에 <b>올해 받을 항목</b>이 적혀 있으니 확인하세요</li>
+</ul>
+
+<h2>고위험군은 어떻게 정하나요?</h2>
+
+<p>간암은 <b>간염 바이러스 보유자</b>나 간경변증 환자 같은 기준이 있습니다.</p>
+
+<p>건강보험공단이 진료 기록을 바탕으로 대상자를 선정해 안내합니다.</p>
+
+<p>폐암은 <b>흡연력</b>을 기준으로 봅니다. 하루 담배량과 흡연 기간을 곱한 값으로 계산해요.</p>
+
+<p>본인이 대상인지 헷갈리면 공단에 조회해보면 됩니다. 안내문이 안 왔어도 확인이 가능합니다.</p>
+
+<h3>검진 비용은 얼마인가요?</h3>
+
+<p>국가암검진은 <b>비용 대부분을 공단이 부담</b>합니다. 본인부담이 있는 항목과 없는 항목이 나뉩니다.</p>
+
+<p>의료급여 수급자나 보험료가 일정 수준 이하인 가구는 <b>전액 무료</b>입니다.</p>
+
+<p>검진 결과 이상이 나오면 <b>확진 검사</b>로 이어집니다. 이건 별도 진료라 비용 구조가 다릅니다.</p>
+
+<p>확진 검사 비용도 지원받을 수 있는 경우가 있으니 보건소에 물어보세요.</p>
+
+<div style="background:linear-gradient(135deg,#fdeff3,#f2d6df);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#7a2f4a;margin-bottom:16px;">검진에서 치료까지</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#7a2f4a;">1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">공단 안내문 수령, 대상 항목 확인</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#7a2f4a;">2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">검진기관 예약 후 검진</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#7a2f4a;">3</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">이상 소견 시 확진 검사</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#b8443a;">4</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">확진 시 산정특례 등록과 지원 신청</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>고위험군 여부는 <b>공단이 자료로</b> 선정해 안내합니다</li>
+<li>소득이 일정 수준 이하면 <b>전액 무료</b>입니다</li>
+<li>이상 소견 시 <b>확진 검사</b>로 넘어갑니다</li>
+</ul>
+
+<h2>확진되면 뭘 먼저 해야 하나요?</h2>
+
+<p>가장 먼저 <b>산정특례</b> 등록입니다. 병원에서 신청서를 써주면 공단에 접수됩니다.</p>
+
+<p>등록되면 정해진 기간 동안 <b>본인부담률이 크게 낮아집니다.</b></p>
+
+<p>이건 소득과 무관하게 적용됩니다. 확진받은 모든 환자가 대상이에요.</p>
+
+<p>다만 <b>비급여 항목</b>은 산정특례로 안 줄어듭니다. 여기서 부담이 커지죠.</p>
+
+<h3>암환자 의료비 지원</h3>
+
+<p>소득 기준을 충족하면 <b>의료비 지원 사업</b>을 신청할 수 있습니다.</p>
+
+<p>의료급여 수급자와 차상위 계층이 주 대상입니다. 폐암 환자에 대한 별도 기준이 있는 해도 있습니다.</p>
+
+<p>소아암 환자는 <b>별도 기준</b>으로 지원합니다.</p>
+
+<p>신청은 주소지 관할 <b>보건소</b>에서 합니다. 진단서와 소득 관련 서류가 필요합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f5eef1;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b5a5f;">
+<div style="flex:1.3;">제도</div><div style="flex:1.7;text-align:right;">특징</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">산정특례</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">소득 무관, 급여 본인부담률 인하</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;background:#fdf8fa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">의료비 지원</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">소득 기준 충족 시 보건소 신청</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">본인부담상한제</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">연간 급여 본인부담 초과분 환급</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;background:#fdf8fa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">재난적의료비</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">과도한 부담 발생 시 별도 지원</div>
+</div>
+</div>
+
+<ul>
+<li>확진되면 <b>산정특례</b>부터 등록합니다</li>
+<li>산정특례는 <b>비급여</b>에는 적용되지 않습니다</li>
+<li>의료비 지원 신청은 <b>보건소</b>에서 합니다</li>
+</ul>
+
+<h2>지원 제도를 겹쳐 쓸 수 있나요?</h2>
+
+<p>제도마다 성격이 달라서 <b>같이 적용되는 경우</b>가 있습니다.</p>
+
+<p>산정특례로 본인부담이 줄고, 그래도 많이 나갔으면 본인부담상한제로 사후 환급을 받는 식이죠.</p>
+
+<p>여기에 재난적의료비나 암환자 의료비 지원이 더해질 수 있습니다.</p>
+
+<p>다만 <b>같은 비용을 두 번</b> 받는 건 안 됩니다. 중복 정산이 이뤄집니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">영수증을 모으세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">지원 신청에는 <b style="color:#ffd97a;">진료비 영수증과 세부내역서</b>가 필요합니다. 치료가 길어지면 서류가 흩어져요. <b style="color:#ff8a7a;">받을 때마다 한곳에</b> 모아두는 습관이 나중에 큰 도움이 됩니다.</p>
+</div>
+
+<ul>
+<li>제도마다 성격이 달라 <b>함께 적용</b>되기도 합니다</li>
+<li>같은 비용을 <b>중복해서</b> 지원받을 수는 없습니다</li>
+<li>신청을 위해 <b>영수증과 세부내역서</b>를 모아두세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>국가암검진은 암종마다 시작 연령과 주기가 다르다</p>
+<p>간암과 폐암은 고위험군만 대상이며 공단이 선정해 안내한다</p>
+<p>소득이 일정 수준 이하면 검진비가 전액 무료다</p>
+<p>확진되면 산정특례부터 등록해 본인부담률을 낮춘다</p>
+<p>암환자 의료비 지원은 보건소에서 신청한다</p>
+</blockquote>
+
+<p>안내문이 오면 미루지 말고 예약부터 하시는 걸 권합니다. 연말에 몰리면 자리가 없어요.</p>
+
+<p>부모님 검진은 자식이 대신 예약해드리면 훨씬 잘 가시더라고요. 전화 한 통이면 됩니다.</p>
+
+<p>암종별 대상 연령과 주기, 본인부담 기준은 개정되니 건강보험공단이나 보건소에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 국가암검진사업은 암관리법에 근거해 국민건강보험공단이 대상자를 선정·안내하고 지정 검진기관에서 시행함
+ · 검진 대상 암종은 위암, 대장암, 간암, 유방암, 자궁경부암, 폐암이며 암종별로 대상 연령과 검진 주기가 다르게 정해져 있음
+ · 간암은 간염 바이러스 보유자, 간경변증 등 고위험군을 대상으로 하며 다른 암종보다 검진 주기가 짧음
+ · 폐암은 흡연력(하루 흡연량과 흡연 기간을 반영한 지표) 기준의 고위험군을 대상으로 함
+ · 검진 비용은 공단이 대부분 부담하며 암종에 따라 본인부담이 있는 항목과 없는 항목이 나뉨
+ · 의료급여 수급자와 건강보험료가 일정 기준 이하인 가입자는 검진비 전액을 지원받음
+ · 검진 결과 이상 소견이 있으면 확진 검사를 받게 되며 확진 검사비 지원 제도가 운영되는 경우가 있음
+ · 암으로 확진되면 본인일부부담금 산정특례에 등록해 정해진 기간 동안 급여 진료의 본인부담률을 낮출 수 있으며 소득과 무관하게 적용됨
+ · 산정특례는 비급여 항목에는 적용되지 않음
+ · 암환자 의료비 지원사업은 의료급여 수급자·차상위계층 등 소득 기준 대상자에게 지원하며 소아암 환자는 별도 기준이 적용됨
+ · 암환자 의료비 지원 신청은 주소지 관할 보건소에서 접수하며 진단서와 소득 관련 서류가 필요
+ · 본인부담상한제, 재난적의료비 지원 등 다른 제도와 함께 적용될 수 있으나 동일 비용에 대한 중복 지원은 정산됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 암종별 검진 시작 연령과 주기는 개정될 수 있어 구체 나이와 연수를 적지 않았습니다
+ · 검진비 본인부담 비율과 무료 대상 보험료 기준은 매년 달라져 수치를 넣지 않았습니다
+ · 산정특례 적용 기간과 본인부담률은 고시 사항이라 비율을 생략했습니다
+ · 폐암 고위험군 판정 기준(흡연량 지표 수치)은 확인이 필요해 적지 않았습니다
+ · 암환자 의료비 지원의 연간 한도액과 지원 기간은 사업 연도별로 달라 금액을 넣지 않았습니다
+ · 확진 검사비 지원의 대상과 범위는 지자체 운영에 따라 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아버지가 작년에 했으니 올해는 안 해도 되는 줄 아셨다"는 화자 설정으로 지어낸 문장입니다
+ · "자식이 대신 예약해드리면 잘 가신다"는 서술은 설정입니다

@@ -1,0 +1,245 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 26일 18:52
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261126_1852]_온열기구_저온화상\
+   ├── 📄 [원고 파일]: [20261126_1852]_온열기구_저온화상_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-lowburn.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261126_1852]_온열기구_저온화상_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-lowburn.html
+
+■ 제목: 저온화상이 생기는 온도. 뜨겁지 않아도 피부가 익습니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 저온화상, 전기장판, 핫팩, 온수매트, 당뇨감각저하, 화상응급처치, 물집
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>저온화상이 생기는 온도. 뜨겁지 않아도 피부가 익습니다</p>
+
+<h2>따뜻한 정도에도 화상이 됩니다</h2>
+
+<p><b>저온화상</b>은 뜨겁지 않은 온도에 <b>오래 닿아</b> 생기는 화상입니다.</p>
+
+<p>결론부터 말하면 <b>체온보다 조금 높은 정도</b>라도 몇 시간 접촉하면 피부가 손상됩니다.</p>
+
+<p>통증이 약해서 <b>자는 동안</b> 진행되는 게 특히 위험합니다.</p>
+
+<p>겨울마다 전기장판이나 핫팩 때문에 병원을 찾는 사람이 늘어난다고 하더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#8a4a3f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">주요 원인</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdf9f8;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedcd6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a4a3f;">전기장판</div>
+<div style="font-size:12px;color:#7d6b66;margin-top:5px;line-height:1.7;">밤새 같은 자세로 접촉</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedcd6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a4a3f;">핫팩</div>
+<div style="font-size:12px;color:#7d6b66;margin-top:5px;line-height:1.7;">피부에 직접 부착</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedcd6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a4a3f;">온수매트</div>
+<div style="font-size:12px;color:#7d6b66;margin-top:5px;line-height:1.7;">장시간 고정된 부위</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedcd6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a4a3f;">노트북·난로</div>
+<div style="font-size:12px;color:#7d6b66;margin-top:5px;line-height:1.7;">무릎이나 다리에 오래</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>저온화상은 <b>낮은 온도</b>에 오래 닿아 생깁니다</li>
+<li>통증이 약해 <b>자는 동안</b> 진행되기 쉽습니다</li>
+<li>전기장판과 <b>핫팩</b>이 대표적인 원인입니다</li>
+</ul>
+
+<h2>어떤 증상이 나타나나요?</h2>
+
+<p>처음에는 붉은 반점이나 <b>그물 모양 자국</b>이 생깁니다.</p>
+
+<p>가렵거나 따끔한 정도라 대수롭지 않게 넘기기 쉽습니다.</p>
+
+<p>진행되면 <b>물집</b>이 잡히고 색이 진하게 변합니다.</p>
+
+<p>겉보기보다 <b>속이 더 깊이</b> 손상된 경우가 많아 치료가 오래 걸립니다.</p>
+
+<h3>특히 위험한 사람</h3>
+
+<p>당뇨가 있는 분은 <b>감각이 둔해</b> 뜨거운 줄 모르고 오래 두게 됩니다.</p>
+
+<p>술을 마시고 잠들면 깨지 않아 그대로 노출됩니다.</p>
+
+<p>수면제나 진통제를 복용한 경우도 마찬가지고요.</p>
+
+<p>영유아와 고령자는 <b>피부가 약해</b> 같은 조건에서도 손상이 큽니다.</p>
+
+<div style="background:linear-gradient(135deg,#fdf1ee,#f2d9d1);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a4a3f;margin-bottom:16px;">예방 수칙</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">천 한 겹</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2823;">피부에 직접 닿지 않게 한다</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">타이머</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2823;">잘 때는 꺼지도록 설정</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">낮은 온도</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2823;">필요 이상으로 올리지 않는다</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">핫팩</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2823;">옷 위에 붙이고 취침 시 금지</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>붉은 반점이나 <b>그물 모양 자국</b>이 초기 신호입니다</li>
+<li>당뇨나 <b>음주 후 수면</b>은 위험을 크게 높입니다</li>
+<li>영유아와 고령자는 <b>피부가 약해</b> 더 조심해야 합니다</li>
+</ul>
+
+<h2>어떻게 예방하나요?</h2>
+
+<p>가장 기본은 <b>피부에 직접</b> 닿지 않게 하는 겁니다. 이불이나 수건을 한 겹 깔아주세요.</p>
+
+<p>온도를 <b>필요 이상 높이지</b> 않는 것도 중요합니다. 따뜻한 정도면 충분합니다.</p>
+
+<p>잘 때는 <b>타이머</b>를 걸어 자동으로 꺼지게 하는 게 좋습니다.</p>
+
+<p>같은 자세로 오래 있으면 특정 부위에 집중됩니다. <b>자세를 바꿔주는</b> 것도 방법이에요.</p>
+
+<h3>핫팩 사용법</h3>
+
+<p>핫팩은 <b>옷 위</b>에 붙이는 게 원칙입니다. 맨살에 직접 대지 마세요.</p>
+
+<p>주머니에 넣고 오래 두는 것도 그 부위가 계속 노출됩니다.</p>
+
+<p>자면서 쓰는 건 <b>피해야 합니다.</b> 몸을 못 움직이니까요.</p>
+
+<p>붙이는 형태의 제품은 사용 시간을 지키고 <b>같은 자리에</b> 반복해 붙이지 않습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f5efed;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b5a55;">
+<div style="flex:1.3;">상황</div><div style="flex:1.7;text-align:right;">대처</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ebe9;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">붉게 변함</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">사용 중단하고 식히기</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ebe9;align-items:center;background:#fdf9f8;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">물집 발생</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">터뜨리지 말고 진료</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ebe9;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">통증 지속</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">병원에서 깊이 확인</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ebe9;align-items:center;background:#fdf9f8;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">민간요법</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">절대 금지</div>
+</div>
+</div>
+
+<ul>
+<li>피부에 <b>직접 닿지 않게</b> 한 겹을 둡니다</li>
+<li>잘 때는 <b>타이머</b>로 꺼지게 설정합니다</li>
+<li>핫팩은 <b>옷 위</b>에 붙이고 자면서 쓰지 않습니다</li>
+</ul>
+
+<h2>생겼을 때 어떻게 하나요?</h2>
+
+<p>먼저 <b>미지근한 흐르는 물</b>로 충분히 식힙니다. 얼음을 직접 대지는 마세요.</p>
+
+<p>물집이 잡혔다면 <b>터뜨리지 않습니다.</b> 감염 위험이 커집니다.</p>
+
+<p>된장이나 소주 같은 <b>민간요법</b>은 절대 안 됩니다. 상태만 나빠집니다.</p>
+
+<p>깨끗한 거즈로 덮고 <b>병원</b>에 가는 게 맞습니다.</p>
+
+<h3>왜 병원에 가야 하나요?</h3>
+
+<p>저온화상은 겉보기와 실제 손상 깊이가 <b>다른 경우</b>가 많습니다.</p>
+
+<p>가벼워 보여도 진피 아래까지 상해 있으면 치료가 길어집니다.</p>
+
+<p>방치하면 흉이 남거나 <b>감염</b>으로 번질 수 있습니다.</p>
+
+<p>초기에 제대로 보는 게 결국 빨리 낫는 길입니다.</p>
+
+<h3>흔한 발생 부위</h3>
+
+<p>등과 허리, 엉덩이처럼 <b>바닥에 닿는</b> 부위가 많습니다. 자면서 눌리는 자리죠.</p>
+
+<p>종아리와 발목도 자주 생깁니다. 이불 밖으로 나와 장판에 직접 닿는 경우예요.</p>
+
+<p>핫팩을 붙이는 <b>배와 허리</b>도 흔한 자리입니다.</p>
+
+<p>노트북을 무릎에 올려놓고 오래 쓰면 <b>허벅지</b>에 자국이 남기도 하더라고요.</p>
+
+<p>아침에 일어나 그 부위가 유난히 붉다면 한 번 살펴보시는 게 좋습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">반려동물도 조심하세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">강아지나 고양이는 따뜻한 곳에서 <b style="color:#ffd97a;">잘 안 움직입니다.</b> 전기장판 위에 오래 누워 있으면 같은 문제가 생겨요. <b style="color:#ff8a7a;">온도를 낮추고</b> 담요를 깔아주세요.</p>
+</div>
+
+<ul>
+<li>미지근한 물로 식히고 <b>얼음</b>을 직접 대지 않습니다</li>
+<li>물집은 <b>터뜨리지 않고</b> 병원에 갑니다</li>
+<li>겉보기보다 <b>속 손상</b>이 깊은 경우가 많습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>저온화상은 낮은 온도에 오래 닿아 생기는 화상이다</p>
+<p>통증이 약해 자는 동안 진행되기 쉽다</p>
+<p>당뇨나 음주 후 수면은 위험을 크게 높인다</p>
+<p>피부에 직접 닿지 않게 하고 타이머로 꺼지게 설정한다</p>
+<p>물집이 생기면 터뜨리지 말고 병원 진료를 받는다</p>
+</blockquote>
+
+<p>겨울 내내 쓰는 물건이라 습관 하나가 결과를 바꿉니다.</p>
+
+<p>온도를 한 단계만 낮춰도 훨씬 안전해집니다. 저희도 이제 낮은 단계로만 쓰고 있어요.</p>
+
+<p>제품별 권장 사용 시간과 온도는 설명서에 나와 있으니 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 저온화상은 체온보다 다소 높은 정도의 온도에 장시간 접촉해 발생하는 화상으로 고온 화상과 달리 즉각적인 통증이 약함
+ · 전기장판, 온수매트, 핫팩, 발열 기기 등이 주요 원인으로 지목됨
+ · 초기 증상은 접촉 부위의 홍반이나 그물 모양 색소 변화이며 진행되면 물집과 색소침착이 나타남
+ · 겉으로 보이는 것보다 피부 깊은 층까지 손상되는 경우가 있어 치료 기간이 길어질 수 있음
+ · 당뇨병 등으로 말초 감각이 저하된 경우, 음주 후 수면, 수면제·진통제 복용 상태에서는 위험이 높아짐
+ · 영유아와 고령자는 피부가 얇고 약해 같은 조건에서도 손상이 크게 나타날 수 있음
+ · 예방을 위해 피부에 직접 닿지 않도록 천을 한 겹 두고, 온도를 필요 이상 높이지 않으며, 취침 시 타이머로 자동 소등하는 것이 권장됨
+ · 핫팩은 맨살에 직접 부착하지 않고 옷 위에 사용하며 수면 중 사용은 권장되지 않음
+ · 화상 응급처치는 미지근한 흐르는 물로 충분히 식히는 것이며 얼음을 직접 대는 것은 권장되지 않음
+ · 물집은 터뜨리지 않고 청결한 거즈로 덮은 뒤 진료를 받는 것이 권장됨
+ · 된장·소주 등 민간요법은 감염 위험을 높이므로 사용해서는 안 됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 저온화상이 발생하는 구체적인 온도와 접촉 시간의 조합은 개인차와 조건에 따라 달라 수치를 적지 않았습니다
+ · 냉각 처치의 권장 시간은 안내마다 차이가 있어 분 단위를 넣지 않았습니다
+ · 화상 깊이 분류와 치료 방법은 의료진 판단 사항이라 다루지 않았습니다
+ · 제품별 권장 사용 온도와 연속 사용 시간은 제조사 표기에 따라 달라 생략했습니다
+ · 겨울철 저온화상 환자 수 통계는 매년 달라 수치를 적지 않았습니다
+ · 핫팩 제품의 최고 온도와 지속 시간은 제품마다 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "겨울마다 병원을 찾는 사람이 늘어난다고 하더라"는 전언 형식의 화자 설정입니다
+ · "이제 낮은 단계로만 쓰고 있다"는 서술은 설정입니다

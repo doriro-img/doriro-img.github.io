@@ -1,0 +1,217 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 5일 07:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261105_0726]_아동수당_신청\
+   ├── 📄 [원고 파일]: [20261105_0726]_아동수당_신청_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-childallow.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261105_0726]_아동수당_신청_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-childallow.html
+
+■ 제목: 아동수당 신청 방법과 지급 기간. 60일 안에 신청해야 소급됩니다
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 아동수당, 아동수당신청, 만8세미만, 행복출산원스톱, 복지로, 아동수당소급, 국외체류정지
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>아동수당 신청 방법과 지급 기간. 60일 안에 신청해야 소급됩니다</p>
+
+<h2>소득을 보지 않는 몇 안 되는 지원입니다</h2>
+
+<p><b>아동수당</b>은 만 8세가 되기 전 아동에게 매달 나오는 돈입니다. <b>소득과 재산을 따지지 않아요.</b></p>
+
+<p>결론부터 말하면 <b>신청한 달부터</b> 나오는 게 원칙이고, 출생 후 <b>60일 안에</b> 신청하면 태어난 달까지 거슬러 받습니다.</p>
+
+<p>이 60일이 핵심 조건입니다. 늦게 신청하면 그 사이 개월 수는 그냥 날아가요.</p>
+
+<p>주변에 출생신고만 하고 아동수당은 따로 신청하는 줄 몰랐다는 분이 있더라고요. 다행히 기간 안에 넣긴 했지만 아찔했습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f6b4a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">아동수당 기본 구조</div>
+<div style="display:flex;flex-wrap:wrap;background:#f9fcfa;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dcebe3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f6b4a;">대상</div>
+<div style="font-size:12px;color:#6b7d73;margin-top:5px;line-height:1.7;">만 8세 미만 아동</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dcebe3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f6b4a;">소득 기준</div>
+<div style="font-size:12px;color:#6b7d73;margin-top:5px;line-height:1.7;">없음</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dcebe3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f6b4a;">신청</div>
+<div style="font-size:12px;color:#6b7d73;margin-top:5px;line-height:1.7;">주민센터·복지로·정부24</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dcebe3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f6b4a;">소급</div>
+<div style="font-size:12px;color:#6b7d73;margin-top:5px;line-height:1.7;">출생 후 60일 이내</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>만 <b>8세가 되기 전</b>까지 매달 지급됩니다</li>
+<li><b>소득과 재산</b>을 보지 않는 보편 지원입니다</li>
+<li>출생 후 <b>60일 안에</b> 신청해야 태어난 달까지 소급됩니다</li>
+</ul>
+
+<h2>언제까지 나오나요?</h2>
+
+<p>만 8세 생일이 속한 달의 <b>바로 전달</b>까지 나옵니다. 개월 수로는 95개월까지예요.</p>
+
+<p>생일이 지난 달에는 끊깁니다. 마지막 달을 헷갈리는 분들이 있는데 생일 달은 안 나옵니다.</p>
+
+<p>중간에 이사를 가도 계속 나옵니다. 다만 <b>전입신고</b>는 해야 행정 처리가 이어져요.</p>
+
+<h3>지급이 멈추는 경우</h3>
+
+<p>아동이 <b>국외에 90일 이상</b> 머무르면 지급이 정지됩니다.</p>
+
+<p>귀국하면 다시 신청해서 재개할 수 있습니다. 자동으로 살아나지는 않아요.</p>
+
+<p>해외에 오래 나갈 계획이 있으면 미리 주민센터에 물어보는 게 좋습니다.</p>
+
+<p>아동이 사망하거나 국적을 잃은 경우도 당연히 중단 사유가 됩니다.</p>
+
+<div style="background:linear-gradient(135deg,#eaf7f0,#cfe9dc);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f6b4a;margin-bottom:16px;">지급 기간과 정지 사유</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">시작</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1f3c2f;">신청한 달 (60일 이내면 출생월부터)</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">종료</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1f3c2f;">만 8세 생일이 속한 달의 전달</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">정지</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1f3c2f;">국외 체류 90일 이상</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">재개</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1f3c2f;">귀국 후 다시 신청해야 함</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>지급은 만 8세 생일이 속한 달의 <b>전달</b>에 끝납니다</li>
+<li>국외에 <b>90일 이상</b> 머물면 지급이 멈춥니다</li>
+<li>귀국해도 <b>다시 신청</b>해야 재개됩니다</li>
+</ul>
+
+<h2>어떻게 신청하나요?</h2>
+
+<p>아동의 <b>주민등록상 주소지</b> 읍면동 주민센터에 방문하면 됩니다.</p>
+
+<p>온라인은 <b>복지로</b>나 정부24에서 가능합니다. 보호자 본인 인증이 필요해요.</p>
+
+<p>출생신고를 하면서 같이 신청하는 방법이 제일 편합니다. <b>행복출산 원스톱 서비스</b>라고 부릅니다.</p>
+
+<p>이 서비스로 출생신고와 여러 지원을 한 번에 접수할 수 있습니다. 창구에서 안내해줍니다.</p>
+
+<h3>준비할 것</h3>
+
+<p>신청서와 신분증이 기본입니다. 아동과 보호자의 관계를 확인할 수 있어야 합니다.</p>
+
+<p>지급받을 <b>계좌</b>를 정해야 합니다. 보호자 명의 계좌가 일반적이에요.</p>
+
+<p>부모가 아닌 사람이 아동을 보호하고 있다면 서류가 더 필요할 수 있습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef4f0;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55665c;">
+<div style="flex:1.3;">방법</div><div style="flex:1.7;text-align:right;">특징</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2ef;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">주민센터 방문</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">서류 확인을 바로 받을 수 있음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2ef;align-items:center;background:#f9fcfa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">복지로</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">온라인 접수, 인증 필요</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2ef;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">정부24</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">다른 민원과 함께 처리</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2ef;align-items:center;background:#f9fcfa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">행복출산 원스톱</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">출생신고와 동시 접수</div>
+</div>
+</div>
+
+<ul>
+<li>신청은 <b>주민센터, 복지로, 정부24</b> 어디서든 됩니다</li>
+<li><b>행복출산 원스톱</b>으로 출생신고와 같이 처리하면 편합니다</li>
+<li>지급 계좌는 보통 <b>보호자 명의</b>로 정합니다</li>
+</ul>
+
+<h2>다른 지원과 겹쳐도 되나요?</h2>
+
+<p>됩니다. 아동수당은 <b>부모급여나 첫만남이용권과 별개</b>입니다.</p>
+
+<p>이름이 비슷해서 하나만 받는 줄 아는 분들이 있는데 각각 신청하고 각각 받습니다.</p>
+
+<p>어린이집에 다녀도 아동수당은 그대로 나옵니다. 보육료 지원과도 별개예요.</p>
+
+<p>다만 각각 <b>신청 창구와 시점</b>이 다르니 빠뜨리지 않게 목록을 만들어두는 게 좋습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">지역화폐로 주는 곳도 있어요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">일부 지자체는 아동수당을 <b style="color:#ffd97a;">지역화폐</b>로 지급합니다. 쓸 수 있는 가맹점과 <b style="color:#ff8a7a;">사용 기한</b>이 정해져 있으니 받은 뒤 확인해두세요.</p>
+</div>
+
+<ul>
+<li>부모급여, 첫만남이용권과 <b>중복 수령</b>이 가능합니다</li>
+<li>어린이집 <b>보육료 지원</b>과도 별개로 나옵니다</li>
+<li>지자체에 따라 <b>지역화폐</b>로 지급하기도 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>만 8세가 되기 전까지 소득 상관없이 매달 나온다</p>
+<p>출생 후 60일 안에 신청하면 태어난 달까지 소급된다</p>
+<p>만 8세 생일이 속한 달의 전달이 마지막 지급이다</p>
+<p>국외에 90일 이상 머물면 정지되고 귀국 후 다시 신청해야 한다</p>
+<p>부모급여와 첫만남이용권과는 중복해서 받을 수 있다</p>
+</blockquote>
+
+<p>출생신고 하러 갈 때 아예 목록을 적어 가시는 걸 권합니다. 창구에서 한 번에 끝내는 게 제일 편해요.</p>
+
+<p>이사를 하면 전입신고를 해야 지급이 매끄럽게 이어집니다. 이것도 잊기 쉬운 부분이더라고요.</p>
+
+<p>지급 금액과 지자체별 운영 방식은 바뀔 수 있으니 주민센터나 복지로에서 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 아동수당은 아동수당법에 근거한 보편 지원으로 소득·재산 기준 없이 지급
+ · 지급 대상은 만 8세 미만 아동(95개월까지)이며 만 8세 생일이 속한 달의 전달까지 지급
+ · 원칙적으로 신청한 달부터 지급되며, 출생일로부터 60일 이내에 신청하면 출생일이 속한 달부터 소급 지급
+ · 신청권자는 아동의 보호자이며 아동의 주민등록상 주소지 읍면동에서 접수
+ · 신청 창구: 주민센터 방문, 복지로, 정부24
+ · 출생신고와 동시에 여러 출산 지원을 한 번에 신청하는 행복출산 원스톱 서비스 운영
+ · 아동이 국외에 90일 이상 체류하면 지급이 정지되며 귀국 후 재신청 필요
+ · 부모급여, 첫만남이용권, 어린이집 보육료 지원과 중복 수령 가능
+ · 일부 지자체는 아동수당을 지역화폐 형태로 지급하며 사용처와 기한 제한이 있을 수 있음
+ · 지급 결정에 이의가 있으면 이의신청 절차를 이용할 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 월 지급 금액은 제도 개정에 따라 달라질 수 있어 수치를 적지 않았습니다
+ · 매월 지급일은 지자체 운영에 따라 차이가 있어 날짜를 특정하지 않았습니다
+ · 지역화폐 지급 여부와 사용 가능 가맹점 범위는 지자체마다 달라 일반적인 내용만 적었습니다
+ · 보호자가 부모가 아닌 경우 필요한 추가 서류는 사안별로 달라 세부를 생략했습니다
+ · 지급 계좌를 아동 명의로 지정할 수 있는지는 지자체 안내에 따라 달라 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "주변에 출생신고만 하고 아동수당은 따로 신청하는 줄 몰랐던 분이 있었다"는 화자 설정으로 지어낸 문장입니다
+ · "이사 후 전입신고를 잊기 쉽다"는 서술은 일반적 관찰로 적었습니다

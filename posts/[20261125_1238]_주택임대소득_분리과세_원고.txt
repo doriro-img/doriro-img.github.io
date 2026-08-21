@@ -1,0 +1,236 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 25일 12:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261125_1238]_주택임대소득_분리과세\
+   ├── 📄 [원고 파일]: [20261125_1238]_주택임대소득_분리과세_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-rentincome.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261125_1238]_주택임대소득_분리과세_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-rentincome.html
+
+■ 제목: 주택임대소득 과세 기준. 1주택도 월세면 낼 수 있습니다
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 주택임대소득, 분리과세, 간주임대료, 사업자등록, 등록임대주택, 필요경비율, 종합소득세
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주택임대소득 과세 기준. 1주택도 월세면 낼 수 있습니다</p>
+
+<h2>주택 수와 임대 방식에 따라 갈립니다</h2>
+
+<p>집을 세놓고 받는 돈에도 <b>세금</b>이 붙습니다. 다만 모든 경우가 아닙니다.</p>
+
+<p>결론부터 말하면 <b>보유 주택 수</b>와 <b>월세인지 전세인지</b>에 따라 과세 여부가 달라집니다.</p>
+
+<p>1주택자라도 <b>고가 주택</b>을 월세로 놓으면 과세 대상이 됩니다.</p>
+
+<p>내 집 한 채니까 상관없다고 생각하다 통지를 받는 경우가 있더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">과세 여부의 갈림길</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">1주택</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">월세는 고가 주택이면 과세</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">2주택</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">월세는 과세, 보증금은 제외</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">3주택 이상</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">보증금도 간주임대료로 과세</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1f4a7a;">수입금액</div>
+<div style="font-size:12px;color:#6b7885;margin-top:5px;line-height:1.7;">기준 이하면 분리과세 선택</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>1주택자도 <b>고가 주택</b>을 월세로 놓으면 과세됩니다</li>
+<li>2주택자는 <b>월세</b>가 과세 대상입니다</li>
+<li>3주택 이상이면 <b>보증금</b>도 계산에 들어갑니다</li>
+</ul>
+
+<h2>간주임대료가 뭔가요?</h2>
+
+<p>전세보증금은 월세처럼 매달 들어오는 돈이 아닙니다. 그래서 <b>임대료로 환산</b>합니다.</p>
+
+<p>보증금 합계에서 일정 금액을 뺀 뒤 비율을 곱해 계산하는 방식이에요.</p>
+
+<p>이걸 <b>간주임대료</b>라고 부릅니다. 실제로 받은 돈이 아니어도 수입으로 봅니다.</p>
+
+<p>주택 수가 기준 이상일 때만 적용됩니다. 소형 주택은 <b>제외 특례</b>가 있기도 합니다.</p>
+
+<h3>주택 수는 어떻게 세나요?</h3>
+
+<p>부부 <b>합산</b>으로 계산합니다. 각자 한 채씩이면 2주택이 됩니다.</p>
+
+<p>공동명의 주택은 지분에 따라 계산 방식이 정해져 있습니다.</p>
+
+<p>본인이 살고 있는 집도 <b>주택 수에 포함</b>됩니다.</p>
+
+<p>이 부분에서 착각이 생기기 쉬우니 <b>정확히 세어보는</b> 게 좋습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#d5e4f2);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">신고 방식 선택</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1f4a7a;">기준 이하</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">분리과세와 종합과세 중 선택</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1f4a7a;">기준 초과</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">종합과세로 신고</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">등록 임대</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">필요경비율과 공제가 유리</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">미등록</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1a3a4f;">가산세가 붙을 수 있음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>보증금은 <b>간주임대료</b>로 환산해 수입으로 봅니다</li>
+<li>주택 수는 <b>부부 합산</b>으로 계산합니다</li>
+<li>본인 <b>거주 주택</b>도 주택 수에 포함됩니다</li>
+</ul>
+
+<h2>분리과세가 유리한가요?</h2>
+
+<p>수입금액이 기준 이하면 <b>분리과세</b>를 고를 수 있습니다.</p>
+
+<p>다른 소득과 합치지 않고 <b>따로</b> 낮은 세율로 계산하는 방식입니다.</p>
+
+<p>다른 소득이 많은 사람은 분리과세가 유리한 경우가 많습니다.</p>
+
+<p>반대로 다른 소득이 거의 없다면 <b>종합과세</b>가 나을 수도 있습니다.</p>
+
+<h3>등록 여부가 차이를 만듭니다</h3>
+
+<p>임대사업자로 <b>등록</b>하면 필요경비율과 기본공제가 더 유리하게 적용됩니다.</p>
+
+<p>등록하지 않으면 인정되는 경비 비율이 낮아집니다.</p>
+
+<p>다만 등록하면 <b>임대료 인상 제한</b> 같은 의무가 따라옵니다.</p>
+
+<p>세금만 보고 결정하기보다 <b>운영 계획</b>까지 함께 고려해야 합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">항목</div><div style="flex:1.7;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">사업자등록</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">주택임대사업자는 세무서 등록 의무</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">미등록</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">가산세 부과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">신고 시기</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">다음 해 5월 종합소득세 기간</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">건강보험료</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">소득으로 반영될 수 있음</div>
+</div>
+</div>
+
+<ul>
+<li>수입금액이 기준 이하면 <b>분리과세</b>를 선택할 수 있습니다</li>
+<li><b>등록 임대주택</b>은 경비율과 공제가 더 유리합니다</li>
+<li>등록에는 <b>임대료 제한</b> 같은 의무가 따라옵니다</li>
+</ul>
+
+<h2>신고는 어떻게 하나요?</h2>
+
+<p>다음 해 <b>5월 종합소득세</b> 신고 기간에 함께 신고합니다.</p>
+
+<p>홈택스에서 임대 수입과 필요경비를 입력하면 계산됩니다.</p>
+
+<p>임대차 정보는 <b>확정일자와 전월세 신고</b> 자료로 국세청이 파악하고 있습니다.</p>
+
+<p>신고를 안 하면 나중에 <b>가산세</b>와 함께 고지될 수 있습니다.</p>
+
+<h3>건강보험료도 봐야 합니다</h3>
+
+<p>임대소득이 잡히면 <b>건강보험료</b> 산정에 반영될 수 있습니다.</p>
+
+<p>직장가입자라면 보수 외 소득으로 추가 부과될 수 있고요.</p>
+
+<p>피부양자로 등록된 상태라면 <b>자격이 상실</b>될 가능성도 있습니다.</p>
+
+<p>세금만 계산하고 보험료를 빼먹으면 <b>실제 부담</b>이 예상과 달라집니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">기록을 남기세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">수선비나 중개보수 같은 <b style="color:#ffd97a;">실제 지출</b>은 종합과세를 선택할 때 경비로 넣을 수 있습니다. 영수증과 이체 내역을 <b style="color:#ff8a7a;">그때그때</b> 모아두세요.</p>
+</div>
+
+<ul>
+<li>신고는 <b>5월 종합소득세</b> 기간에 함께 합니다</li>
+<li>국세청이 <b>임대차 자료</b>를 확보하고 있습니다</li>
+<li>임대소득은 <b>건강보험료</b>에도 영향을 줄 수 있습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>주택 수와 임대 방식에 따라 과세 여부가 달라진다</p>
+<p>1주택자도 고가 주택을 월세로 놓으면 과세 대상이다</p>
+<p>3주택 이상이면 보증금도 간주임대료로 환산해 계산한다</p>
+<p>수입금액이 기준 이하면 분리과세를 선택할 수 있다</p>
+<p>임대소득은 건강보험료 산정에도 영향을 줄 수 있다</p>
+</blockquote>
+
+<p>올해 임대 수입이 얼마인지 지금 한 번 정리해두면 5월이 수월합니다.</p>
+
+<p>등록 여부를 고민 중이라면 세금과 의무를 같이 놓고 비교해보세요. 한쪽만 보면 판단이 어긋나더라고요.</p>
+
+<p>기준 금액과 경비율, 공제 금액은 세법 개정으로 바뀌니 국세청 안내나 세무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 주택임대소득은 보유 주택 수와 임대 형태(월세·보증금)에 따라 과세 여부가 달라짐
+ · 1주택자의 월세 임대소득은 원칙적으로 비과세이나 기준시가가 일정 금액을 초과하는 고가 주택은 과세 대상
+ · 2주택자의 월세 임대소득은 과세 대상이며 보증금에 대한 간주임대료는 과세하지 않음
+ · 3주택 이상 보유자의 경우 보증금 합계에 대해 간주임대료를 계산해 수입금액에 포함함
+ · 간주임대료는 보증금 합계에서 일정 금액을 공제한 뒤 정해진 비율을 적용해 산정하며 소형주택 등에 대한 제외 특례가 있음
+ · 주택 수는 부부 합산으로 계산하며 본인 거주 주택도 포함됨
+ · 주택임대 수입금액이 기준 이하이면 분리과세와 종합과세 중 선택할 수 있고, 기준을 초과하면 종합과세 대상이 됨
+ · 세무서에 등록한 임대주택은 미등록에 비해 필요경비율과 기본공제가 유리하게 적용됨
+ · 주택임대사업자는 사업자등록 의무가 있으며 미등록 시 가산세가 부과될 수 있음
+ · 신고는 다음 해 5월 종합소득세 신고 기간에 함께 이뤄짐
+ · 국세청은 확정일자와 주택임대차 신고 자료 등을 통해 임대 현황을 파악함
+ · 임대소득은 건강보험료 산정에 반영될 수 있고 피부양자 자격에도 영향을 줄 수 있음
+ · 등록 임대주택에는 임대료 인상 제한 등 운영상 의무가 따름
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 고가 주택 판정 기준시가 금액은 개정될 수 있어 수치를 적지 않았습니다
+ · 분리과세를 선택할 수 있는 수입금액 기준과 적용 세율은 세법 사항이라 넣지 않았습니다
+ · 등록·미등록 임대주택의 필요경비율과 기본공제 금액은 개정 대상이라 생략했습니다
+ · 간주임대료 산정 시 공제하는 금액과 적용 이자율은 매년 달라져 수치를 적지 않았습니다
+ · 소형주택 간주임대료 제외 특례의 요건과 적용 기한은 확인이 필요해 다루지 않았습니다
+ · 미등록 가산세의 부과 비율은 세법 사항이라 넣지 않았습니다
+ · 건강보험료 반영 방식과 피부양자 자격 기준은 별도 규정이라 세부를 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "내 집 한 채니까 상관없다고 생각하다 통지를 받는 경우가 있다"는 일반적 관찰로 적었습니다
+ · "한쪽만 보면 판단이 어긋나더라"는 서술은 화자 설정으로 지어낸 문장입니다

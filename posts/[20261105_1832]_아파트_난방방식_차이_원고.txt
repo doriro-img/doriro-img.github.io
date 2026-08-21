@@ -1,0 +1,219 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 5일 18:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261105_1832]_아파트_난방방식_차이\
+   ├── 📄 [원고 파일]: [20261105_1832]_아파트_난방방식_차이_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-heatingtype.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261105_1832]_아파트_난방방식_차이_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-heatingtype.html
+
+■ 제목: 아파트 난방 방식 3가지 차이. 개별 중앙 지역난방 요금 구조 비교
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 아파트난방방식, 개별난방, 중앙난방, 지역난방, 공동난방비, 난방비고지서, 열량계
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>아파트 난방 방식 3가지 차이. 개별 중앙 지역난방 요금 구조 비교</p>
+
+<h2>내 집이 어느 방식인지부터 알아야 합니다</h2>
+
+<p>아파트 난방은 <b>개별난방, 중앙난방, 지역난방</b> 세 가지로 나뉩니다. 요금이 붙는 방식이 아예 달라요.</p>
+
+<p>결론부터 말하면 <b>개별난방은 도시가스 요금</b>으로, <b>중앙과 지역난방은 관리비 안에</b> 난방비 항목으로 나옵니다.</p>
+
+<p>그래서 관리비만 보고 난방비가 싸다고 좋아했다가 가스요금 고지서를 따로 받는 경우가 생깁니다.</p>
+
+<p>저희도 이사 알아볼 때 이걸 몰라서 두 집 관리비를 그대로 비교했다가 계산이 이상하더라고요. 방식이 달랐던 겁니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#8a5a1f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">세 가지 방식</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfaf6;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 220px;background:#fff;border:1px solid #eee3d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a5a1f;">개별난방</div>
+<div style="font-size:12px;color:#7d6b5a;margin-top:5px;line-height:1.7;">세대마다 보일러, 도시가스 요금</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #eee3d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a5a1f;">중앙난방</div>
+<div style="font-size:12px;color:#7d6b5a;margin-top:5px;line-height:1.7;">단지 기계실에서 공급, 시간 제한</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #eee3d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a5a1f;">지역난방</div>
+<div style="font-size:12px;color:#7d6b5a;margin-top:5px;line-height:1.7;">외부 열원에서 온수 배관 공급</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #eee3d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a5a1f;">확인 방법</div>
+<div style="font-size:12px;color:#7d6b5a;margin-top:5px;line-height:1.7;">관리사무소나 관리비 고지서</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>개별난방은 <b>도시가스 요금</b>이 따로 청구됩니다</li>
+<li>중앙과 지역난방은 <b>관리비 고지서</b> 안에 난방비가 들어갑니다</li>
+<li>집을 비교할 때는 <b>방식이 같은지</b> 먼저 확인해야 합니다</li>
+</ul>
+
+<h2>개별난방은 어떻게 다른가요?</h2>
+
+<p>집집마다 보일러가 있고 도시가스를 직접 씁니다. <b>쓴 만큼만</b> 나옵니다.</p>
+
+<p>안 틀면 요금이 거의 안 나옵니다. 절약 여지가 가장 큰 구조예요.</p>
+
+<p>대신 보일러가 <b>세대 재산</b>입니다. 고장 나면 수리비도 교체비도 본인 부담이죠.</p>
+
+<p>겨울에 장기간 집을 비우면 <b>동파</b> 위험도 있습니다. 외출 모드로 두고 나가야 합니다.</p>
+
+<h3>온수도 보일러가 만듭니다</h3>
+
+<p>개별난방은 온수를 쓸 때마다 보일러가 돌아갑니다. 물을 틀고 조금 기다려야 따뜻해지죠.</p>
+
+<p>여름에도 온수 때문에 가스요금이 일정 부분 나옵니다.</p>
+
+<p>이 구조를 알아두면 요금 고지서를 볼 때 이해가 빠릅니다.</p>
+
+<div style="background:linear-gradient(135deg,#fdf5ea,#f0dfc5);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a5a1f;margin-bottom:16px;">요금이 붙는 자리</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#8a5a1f;">개별난방</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2a17;">도시가스 고지서 (별도 청구)</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#8a5a1f;">중앙난방</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2a17;">관리비 난방비 항목</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#8a5a1f;">지역난방</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2a17;">관리비 난방비 + 온수 사용료</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">공통</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d2a17;">공동난방비는 안 써도 부과</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>개별난방은 <b>쓴 만큼</b> 나오지만 보일러 관리가 세대 몫입니다</li>
+<li>중앙과 지역난방은 <b>관리비</b>에 난방비가 포함됩니다</li>
+<li><b>공동난방비</b>는 난방을 안 써도 부과됩니다</li>
+</ul>
+
+<h2>지역난방은 왜 편한가요?</h2>
+
+<p>외부 열원 시설에서 데운 물을 배관으로 받아 씁니다. 집에 보일러가 없어요.</p>
+
+<p>온수가 <b>바로 나옵니다.</b> 기다릴 필요가 없죠. 이게 살아보면 꽤 편합니다.</p>
+
+<p>보일러 고장이나 동파 걱정이 없다는 것도 큰 장점입니다.</p>
+
+<p>대신 세대별 <b>열량계</b>로 사용량을 재고 기본요금이 붙는 구조입니다.</p>
+
+<h3>공동난방비가 뭔가요?</h3>
+
+<p>단지 배관을 도는 동안 열이 빠져나갑니다. 그 손실분과 공용 부분 난방을 <b>세대가 나눠</b> 부담합니다.</p>
+
+<p>그래서 난방 밸브를 다 잠가도 난방비가 0원이 되지는 않습니다.</p>
+
+<p>밸브를 잠그면 세대 사용료는 줄지만 공동난방비는 그대로 나옵니다.</p>
+
+<p>게다가 집이 너무 차가워지면 <b>결로와 동파</b> 문제가 생겨요. 아예 잠그는 건 권하기 어렵습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f5efe8;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b5a49;">
+<div style="flex:1.2;">구분</div><div style="flex:1;text-align:center;">조절 자유도</div><div style="flex:1;text-align:right;">관리 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece5;align-items:center;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">개별난방</div>
+<div style="flex:1;text-align:center;font-size:13.5px;font-weight:800;color:#1d7050;">높음</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">세대 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece5;align-items:center;background:#fdfaf6;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">중앙난방</div>
+<div style="flex:1;text-align:center;font-size:13.5px;font-weight:800;color:#b8443a;">낮음</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">단지 부담</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece5;align-items:center;">
+<div style="flex:1.2;font-size:13.5px;font-weight:700;">지역난방</div>
+<div style="flex:1;text-align:center;font-size:13.5px;font-weight:800;color:#1d7050;">보통</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">단지 부담</div>
+</div>
+</div>
+
+<ul>
+<li>지역난방은 <b>온수가 바로</b> 나오고 보일러 관리가 필요 없습니다</li>
+<li>세대별 <b>열량계</b>로 사용량을 재고 기본요금이 있습니다</li>
+<li>밸브를 잠가도 <b>공동난방비</b>는 남습니다</li>
+</ul>
+
+<h2>중앙난방은 시간이 정해져 있습니다</h2>
+
+<p>단지 기계실 보일러가 정해진 <b>공급 시간</b>에만 난방을 돌립니다.</p>
+
+<p>그 시간이 아니면 아무리 틀어도 안 따뜻해집니다. 새벽에 추운 게 이 방식의 특징이에요.</p>
+
+<p>오래된 단지에 많이 남아 있습니다. 요즘 새 아파트는 거의 개별이나 지역난방이죠.</p>
+
+<p>세대 계량기가 없는 단지는 <b>면적 비례</b>로 나누는 경우도 있습니다. 이러면 아껴도 표가 안 납니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">고지서 볼 때</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">난방비는 <b style="color:#ffd97a;">검침 기간</b>이 청구 월과 다릅니다. 12월분이 1월 고지서에 찍히는 식이에요. <b style="color:#ff8a7a;">추웠던 달과 많이 나온 달</b>이 한 달 어긋나 보이는 이유가 이겁니다.</p>
+</div>
+
+<ul>
+<li>중앙난방은 <b>공급 시간</b> 외에는 난방이 안 됩니다</li>
+<li>계량기가 없으면 <b>면적 비례</b>로 나누기도 합니다</li>
+<li>난방비는 <b>검침 기간</b>과 청구 월이 어긋납니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>개별난방은 도시가스 요금으로 따로 청구된다</p>
+<p>중앙과 지역난방은 관리비 안에 난방비로 들어간다</p>
+<p>지역난방은 온수가 바로 나오고 보일러 관리가 필요 없다</p>
+<p>밸브를 잠가도 공동난방비는 계속 부과된다</p>
+<p>중앙난방은 공급 시간 외에 난방이 되지 않는다</p>
+</blockquote>
+
+<p>집을 보러 다닐 때 관리사무소에 난방 방식을 물어보면 바로 알려줍니다.</p>
+
+<p>같은 평수라도 방식에 따라 겨울 지출 구조가 달라지니 미리 알아두면 좋더라고요.</p>
+
+<p>단지별 요금 체계와 공급 시간은 관리규약에 따르니 관리사무소에 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 공동주택 난방 방식은 개별난방, 중앙난방, 지역난방으로 구분됨
+ · 개별난방은 세대별 보일러로 도시가스를 사용해 난방과 온수를 공급하며 요금이 도시가스 고지서로 별도 청구됨
+ · 개별난방의 보일러는 세대 소유물로 수리·교체 비용이 세대 부담이며 장기 부재 시 동파 우려가 있음
+ · 중앙난방은 단지 내 기계실에서 열을 만들어 전 세대에 공급하며 공급 시간이 정해져 있음
+ · 중앙난방 단지 중 세대 계량기가 없는 곳은 전용면적 비례로 난방비를 배분하기도 함
+ · 지역난방은 외부 열원시설에서 생산한 온수를 배관으로 공급받는 방식으로 세대별 열량계로 사용량을 계량
+ · 지역난방은 세대 보일러가 없어 온수가 즉시 공급되고 보일러 관리·동파 부담이 없음
+ · 중앙난방과 지역난방의 난방비는 관리비 고지서의 난방비 항목으로 청구됨
+ · 공동난방비(배관 열손실 및 공용부 난방 등)는 세대 난방 사용량과 무관하게 배분되어 부과됨
+ · 난방 밸브를 완전히 잠그면 세대 사용료는 줄지만 공동난방비는 남으며 결로·동파 위험이 커짐
+ · 난방비는 검침 기간과 청구 월이 달라 사용한 달과 고지된 달이 어긋나 보일 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 지역난방의 기본요금과 열량 단가는 공급사와 요금 개정에 따라 달라 수치를 적지 않았습니다
+ · 도시가스 요금 단가와 계절별 조정 여부는 지역·시기별로 달라 금액을 넣지 않았습니다
+ · 중앙난방 단지의 공급 시간대는 관리규약마다 달라 시간을 특정하지 않았습니다
+ · 공동난방비의 배분 비율과 산정 방식은 단지별로 달라 구체 비율을 적지 않았습니다
+ · 방식별 연간 난방비 차이는 단열 성능과 사용 습관에 좌우되어 비교 금액을 제시하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "이사를 알아보며 두 집 관리비를 그대로 비교했다가 계산이 이상했다"는 화자 설정으로 지어낸 문장입니다
+ · "지역난방은 살아보면 꽤 편하다"는 서술은 설정입니다

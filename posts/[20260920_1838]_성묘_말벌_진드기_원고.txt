@@ -1,0 +1,172 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 20일 18:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260920_1838]_성묘_말벌_진드기\
+   ├── 📄 [원고 파일]: [20260920_1838]_성묘_말벌_진드기_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-gravesafe.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260920_1838]_성묘_말벌_진드기_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-gravesafe.html
+
+■ 제목: 성묘 갈 때 말벌 진드기 안전수칙. 9월이 가장 위험한 이유와 대처법
+■ 카테고리: 생활 규정 및 IT 서비스
+■ 태그: 성묘안전, 말벌쏘임, 진드기, 쯔쯔가무시, SFTS, 예초기안전, 벌초주의사항
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>성묘 갈 때 말벌 진드기 안전수칙. 9월이 가장 위험한 이유와 대처법</p>
+
+<h2>하필 성묘철이 가장 위험합니다</h2>
+
+<p>말벌은 <b>늦여름부터 가을</b>에 개체수가 가장 많습니다. 진드기 매개 감염병도 이 시기에 몰려요.</p>
+
+<p>결론부터 말하면 <b>긴 옷과 밝은 색</b>이 기본입니다. 그리고 <b>풀밭에 앉거나 눕지 않는 것</b>만 지켜도 위험이 크게 줄어듭니다.</p>
+
+<p>말벌집을 건드리면 도망가는 게 답인데 <b>방향</b>이 중요합니다. 무작정 뛰면 더 쫓아옵니다.</p>
+
+<p>아버지 산소에 다녀오다가 벌집을 밟을 뻔한 적이 있는데 그때부터는 무조건 주변을 먼저 살피게 되더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#a83a52;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">성묘철 3대 위험</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#b8463a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>말벌</div>
+<div style="font-size:13px;color:#6b4a45;line-height:1.85;">가을에 개체수 최다<br />땅속이나 처마에 집<br />여러 번 쏠 수 있음<br />알레르기 반응이 위험</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#9a6413;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#9a6413" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#9a6413"/></svg>진드기</div>
+<div style="font-size:13px;color:#6b5a45;line-height:1.85;">풀밭과 덤불에 서식<br />쯔쯔가무시·SFTS<br />물려도 잘 모름<br />발열이 주요 신호</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;">
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>예초기</div>
+<div style="font-size:13px;color:#3f5060;line-height:1.85;">돌이 튀어 눈 부상<br />날에 베이는 사고<br />보호구 착용 필수<br />주변에 사람 없어야</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>말벌</b>은 가을에 개체수가 가장 많고 땅속에 집을 짓는 종도 있습니다</li>
+<li><b>진드기</b>는 풀밭과 덤불에 있고 물려도 바로 알아채기 어렵습니다</li>
+<li><b>예초기</b>는 돌이 튀는 사고가 많아 보호구가 필요합니다</li>
+</ul>
+
+<h2>말벌은 옷차림부터 다릅니다</h2>
+
+<p>말벌은 <b>어두운 색</b>에 더 공격적으로 반응합니다. 검은색이나 갈색 옷은 피하세요.</p>
+
+<p>흰색이나 노란색 같은 <b>밝은 색</b>이 안전합니다. 모자도 마찬가지고요.</p>
+
+<p>향수나 <b>향이 강한 화장품</b>도 벌을 부릅니다. 헤어스프레이도 피하시는 게 좋습니다.</p>
+
+<p>단 음료를 열어두면 벌이 모입니다. 캔 음료는 특히 <b>안에 들어간 벌</b>을 못 보고 마시는 사고가 생겨요.</p>
+
+<h3>벌집을 발견했을 때</h3>
+
+<p>가장 중요한 원칙입니다. <b>몸을 낮추고 천천히</b> 그 자리를 벗어나세요.</p>
+
+<p>손으로 휘젓거나 소리를 지르면 <b>공격 신호</b>가 됩니다. 벌을 자극하는 행동이에요.</p>
+
+<p>이미 쫓아오면 그때는 <b>빠르게 20미터 이상</b> 벗어나야 합니다. 낮은 자세로 뛰는 게 좋습니다.</p>
+
+<p>땅속 벌집은 눈에 안 보입니다. 풀숲을 헤칠 때 <b>막대기로 먼저 툭툭</b> 쳐보는 습관이 도움이 됩니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이 증상이면 바로 119</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">벌에 쏘인 뒤 <b style="color:#ff8a7a;">호흡이 답답하거나 어지럽고</b> 얼굴이 붓거나 두드러기가 온몸에 퍼지면 즉시 119를 부르세요. 심한 알레르기 반응은 <b style="color:#ff8a7a;">몇 분 만에</b> 위험해집니다. 한 방에 쏘였어도 마찬가지입니다.</p>
+</div>
+
+<ul>
+<li><b>호흡 곤란, 어지럼, 전신 두드러기</b>가 오면 즉시 119에 연락합니다</li>
+<li>심한 알레르기 반응은 <b>쏘인 횟수와 무관</b>하게 나타날 수 있습니다</li>
+<li>쏘인 부위는 <b>차갑게</b> 하고 무리하게 짜내지 않습니다</li>
+</ul>
+
+<p>과거에 벌에 쏘여 심하게 아팠던 적이 있다면 <b>미리 의사와 상의</b>해두시는 게 좋습니다.</p>
+
+<h2>진드기는 안 물리는 게 전부입니다</h2>
+
+<p>진드기 매개 감염병은 <b>예방백신이 없는</b> 경우가 많습니다. 물리지 않는 게 유일한 대책이에요.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>가기 전에</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">긴팔과 긴바지<br />바지를 양말 안으로<br />목수건이나 토시<br />진드기 기피제 사용<br />밝은 색 옷</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>다녀와서</div>
+<div style="font-size:13.5px;color:#3f5060;line-height:1.9;">바로 샤워<br />입은 옷은 세탁<br />몸 구석구석 확인<br />머리카락 속까지<br />2주간 발열 관찰</div>
+</div>
+</div>
+
+<ul>
+<li>바지를 <b>양말 안으로</b> 넣고 기피제를 뿌리는 게 기본입니다</li>
+<li>풀밭에 <b>앉거나 눕지 않고</b> 돗자리를 씁니다</li>
+<li>다녀온 뒤 <b>바로 샤워</b>하고 옷은 따로 세탁합니다</li>
+</ul>
+
+<p>진드기는 <b>겨드랑이나 사타구니</b>처럼 부드러운 부위에 잘 붙습니다. 샤워할 때 그쪽을 유심히 보세요.</p>
+
+<h3>물린 자국을 찾았다면</h3>
+
+<p>진드기가 붙어 있으면 <b>손으로 떼지 마세요.</b> 입 부분이 피부에 남을 수 있습니다.</p>
+
+<p>가능하면 병원에 가서 제거하는 게 안전합니다. 억지로 비틀거나 터뜨리면 더 위험해져요.</p>
+
+<p>제거한 뒤에도 <b>2주 정도는 몸 상태를 살피세요.</b> 고열이나 심한 피로가 오면 바로 병원에 가야 합니다.</p>
+
+<p>진료받을 때 <b>산에 다녀왔다고 반드시 말씀하세요.</b> 이 정보 하나로 진단이 빨라집니다.</p>
+
+<h2>예초기는 보호구가 먼저입니다</h2>
+
+<p>벌초 사고의 상당수가 <b>튄 돌</b> 때문입니다. 보안경 하나가 눈을 지킵니다.</p>
+
+<p>안면보호구와 장갑, 정강이 보호대까지 갖추면 좋습니다. 긴 바지는 기본이고요.</p>
+
+<p>작업 반경 안에 <b>사람이 없는지</b> 확인하고 시작하세요. 특히 아이들이 가까이 오면 위험합니다.</p>
+
+<p>날에 풀이 감기면 <b>반드시 시동을 끄고</b> 제거합니다. 그대로 손대다 다치는 사고가 많습니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>말벌은 가을에 가장 활발하고 어두운 색과 향에 반응한다</p>
+<p>벌집을 만나면 몸을 낮추고 천천히 벗어난다</p>
+<p>쏘인 뒤 호흡 곤란이나 전신 두드러기가 오면 즉시 119를 부른다</p>
+<p>진드기는 긴 옷과 기피제, 귀가 후 샤워로 막는다</p>
+<p>산행 후 2주 안에 고열이 나면 병원에 가서 산에 다녀왔다고 말한다</p>
+</blockquote>
+
+<p>준비물이라고 해봐야 <b>긴 옷과 기피제, 보안경</b> 정도입니다. 몇 가지만 챙겨도 사고 확률이 확 줄어요.</p>
+
+<p>어르신들은 예전 방식대로 가볍게 입고 가시려 하더라고요. 자녀가 챙겨드리면 좋습니다.</p>
+
+<p>증상이 있을 때의 처치는 상황마다 다르니 병원이나 119의 안내를 따르시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 말벌은 늦여름부터 가을에 개체수가 가장 많아지며 땅속에 집을 짓는 종이 있음
+ · 말벌은 어두운 색과 강한 향에 더 공격적으로 반응
+ · 벌집 발견 시 자세를 낮추고 천천히 벗어나는 것이 권장 대처
+ · 벌 쏘임 후 호흡 곤란·어지럼·전신 두드러기는 응급 상황
+ · 진드기 매개 감염병(쯔쯔가무시, SFTS 등)은 예방 백신이 없는 경우가 있어 물리지 않는 것이 핵심
+ · 진드기 예방: 긴 옷, 바지를 양말 안으로, 기피제, 풀밭에 눕지 않기, 귀가 후 샤워와 세탁
+ · 부착된 진드기는 직접 제거하지 말고 의료기관에서 처치
+ · 예초기 사고는 튄 돌에 의한 부상이 많아 보안경 등 보호구가 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 감염병의 잠복기와 치명률 수치는 적지 않았습니다
+ · 벌 쏘임 응급처치의 세부 방법은 상황별로 달라 "차갑게 하고 짜내지 않는다" 수준으로만 썼습니다
+ · 진드기 기피제의 성분과 사용 방법은 제품 표시를 따라야 합니다
+ · 벌 알레르기 관련 약제나 처치는 의료진 판단 사항이라 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "아버지 산소에서 벌집을 밟을 뻔했다"는 가정입니다

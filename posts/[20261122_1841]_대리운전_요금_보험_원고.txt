@@ -1,0 +1,230 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 22일 18:41
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261122_1841]_대리운전_요금_보험\
+   ├── 📄 [원고 파일]: [20261122_1841]_대리운전_요금_보험_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-designated.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261122_1841]_대리운전_요금_보험_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-designated.html
+
+■ 제목: 대리운전 부를 때 확인할 것. 사고 나면 누구 보험으로 처리되나
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 대리운전, 대리운전자보험, 대리기사사고, 자차보험할증, 앱호출, 요금시비, 연말모임
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>대리운전 부를 때 확인할 것. 사고 나면 누구 보험으로 처리되나</p>
+
+<h2>사고가 나면 그때 따집니다</h2>
+
+<p>연말 모임이 늘면 <b>대리운전</b>을 쓸 일이 많아집니다. 평소에는 잘 생각 안 하다가요.</p>
+
+<p>결론부터 말하면 대리기사가 운전 중 낸 사고는 <b>대리운전 쪽 보험</b>으로 처리하는 게 원칙입니다.</p>
+
+<p>그런데 기사가 보험에 안 들어 있으면 <b>차주가 곤란</b>해집니다. 여기서 문제가 생겨요.</p>
+
+<p>그래서 부를 때 <b>정식 업체인지</b> 확인하는 게 중요하더라고요. 몇 초면 되는 일입니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3f4a6b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">부르기 전에 확인</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfd;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">호출 방식</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">앱이나 정식 업체</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">보험 가입</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">대리운전 보험 여부</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">기사 확인</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">배정된 사람이 맞는지</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e0e3ec;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f4a6b;">요금</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">출발 전에 금액 합의</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>사고는 <b>대리운전 쪽 보험</b>으로 처리하는 게 원칙입니다</li>
+<li>기사가 보험에 없으면 <b>차주 부담</b>이 커집니다</li>
+<li>부를 때 <b>정식 업체인지</b> 확인해야 합니다</li>
+</ul>
+
+<h2>어떤 보험으로 처리되나요?</h2>
+
+<p>대리운전 사업자나 기사가 드는 <b>전용 보험</b>이 있습니다.</p>
+
+<p>이 보험이 대리운전 중 발생한 사고의 대인·대물·차량 손해를 다룹니다.</p>
+
+<p>차주 본인의 자동차보험으로 처리하면 <b>다음 해 보험료</b>가 오를 수 있습니다.</p>
+
+<p>그래서 대리운전 사고는 <b>어느 보험으로 접수하느냐</b>가 중요합니다.</p>
+
+<h3>보상 한도를 확인하세요</h3>
+
+<p>대리운전 보험에도 <b>보상 한도</b>가 있습니다. 무한이 아닙니다.</p>
+
+<p>고급 차량이라면 한도를 넘길 수 있어요. 그러면 초과분이 문제가 됩니다.</p>
+
+<p>업체마다 가입 조건이 다릅니다. 미리 물어보는 게 낫습니다.</p>
+
+<p>사고가 난 뒤에 알아보면 이미 늦은 상황이 됩니다.</p>
+
+<div style="background:linear-gradient(135deg,#f0f2f8,#dbdfea);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3f4a6b;margin-bottom:16px;">사고가 났을 때</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f4a6b;">1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">사람이 다쳤는지 먼저 확인</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f4a6b;">2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">현장 사진과 블랙박스 확보</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f4a6b;">3</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">대리 업체와 보험사에 즉시 접수</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#b8443a;">4</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#252b3d;">기사 신원과 배차 기록 보관</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>대리운전 <b>전용 보험</b>으로 처리하는 게 원칙입니다</li>
+<li>본인 자동차보험으로 처리하면 <b>보험료가 오를</b> 수 있습니다</li>
+<li>보험에는 <b>보상 한도</b>가 있으니 미리 확인하세요</li>
+</ul>
+
+<h2>길거리 호객은 피하세요</h2>
+
+<p>술집 앞에서 명함을 주며 부르는 경우가 있습니다. 편해 보이지만 위험합니다.</p>
+
+<p>보험 가입 여부를 확인할 방법이 없고 <b>기록도 안 남습니다.</b></p>
+
+<p>앱으로 부르면 <b>배차 기록</b>과 기사 정보가 남습니다. 이게 나중에 근거가 됩니다.</p>
+
+<p>요금도 앱에 표시되니 시비가 줄어듭니다.</p>
+
+<h3>출발 전에 확인할 것</h3>
+
+<p>배정된 기사와 <b>실제 온 사람</b>이 같은지 봅니다. 다르면 이유를 물어보세요.</p>
+
+<p>기사에게 <b>운전면허</b>가 있는지도 확인하는 게 원칙입니다.</p>
+
+<p>요금은 출발 전에 합의합니다. 나중에 추가 요금을 요구하는 일이 생깁니다.</p>
+
+<p>차량에 <b>흠집</b>이 있으면 미리 사진을 찍어두는 것도 방법입니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eff1f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">항목</div><div style="flex:1.7;text-align:right;">확인 방법</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">기사 신원</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">앱 배차 정보와 대조</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">보험</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">업체에 가입 여부 문의</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">요금</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">출발 전 금액 확정</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">차량 상태</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">기존 흠집 사진 촬영</div>
+</div>
+</div>
+
+<ul>
+<li>길거리 호객보다 <b>앱 호출</b>이 기록이 남아 안전합니다</li>
+<li>배정된 기사와 <b>실제 온 사람</b>이 같은지 확인하세요</li>
+<li>요금은 <b>출발 전에</b> 확정해두는 게 좋습니다</li>
+</ul>
+
+<h2>요금은 어떻게 정해지나요?</h2>
+
+<p>거리와 시간, 시간대에 따라 달라집니다. 정해진 공식 요금표가 있는 건 아닙니다.</p>
+
+<p>심야에는 <b>할증</b>이 붙습니다. 연말에는 수요가 몰려 더 오릅니다.</p>
+
+<p>앱마다 표시 방식이 다르니 두세 개 비교해보는 것도 방법입니다.</p>
+
+<p>목적지를 중간에 바꾸면 요금이 달라집니다. 미리 정확히 입력하세요.</p>
+
+<h3>도착한 뒤에도 신경 쓸 게 있습니다</h3>
+
+<p>차를 세우고 나면 <b>주차 위치</b>와 차량 상태를 한 번 확인합니다.</p>
+
+<p>주차 규정을 어긴 자리에 세워두면 과태료가 나올 수 있습니다.</p>
+
+<p>결제 내역을 남겨두면 문제가 생겼을 때 근거가 됩니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">중간에 내리지 마세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">차주가 <b style="color:#ff8a7a;">중간에 하차</b>하고 기사만 운행하게 하는 경우가 있습니다. 분쟁이 생기면 상황이 복잡해집니다. <b style="color:#ffd97a;">끝까지 동승</b>하는 게 안전해요.</p>
+</div>
+
+<ul>
+<li>요금은 <b>거리와 시간대</b>에 따라 달라집니다</li>
+<li>연말 심야에는 <b>할증</b>이 크게 붙습니다</li>
+<li>도착 후 <b>주차 위치</b>와 차량 상태를 확인하세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>대리운전 중 사고는 대리운전 쪽 보험으로 처리하는 것이 원칙이다</p>
+<p>기사가 보험에 가입돼 있지 않으면 차주 부담이 커진다</p>
+<p>앱으로 부르면 배차 기록과 요금이 남아 분쟁에 유리하다</p>
+<p>출발 전에 기사 신원과 요금을 확인한다</p>
+<p>사고가 나면 사진과 블랙박스를 확보하고 즉시 접수한다</p>
+</blockquote>
+
+<p>술을 마셨다면 대리운전은 선택이 아니라 필수입니다. 비용을 아끼려다 훨씬 큰 걸 잃습니다.</p>
+
+<p>연말에는 대기 시간이 길어집니다. 미리 부르고 여유 있게 기다리는 게 마음이 편하더라고요.</p>
+
+<p>업체별 보험 가입 내용과 보상 한도는 각 업체에 문의하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 대리운전 중 발생한 사고는 대리운전업자 또는 대리운전자가 가입한 전용 보험으로 처리하는 것이 원칙임
+ · 대리운전 보험에는 대인·대물·자기차량손해 등 담보별 보상 한도가 설정되어 있음
+ · 대리기사가 보험에 가입돼 있지 않거나 담보가 부족하면 차주가 부담해야 하는 상황이 발생할 수 있음
+ · 차주 본인의 자동차보험으로 처리할 경우 사고 이력으로 인해 갱신 시 보험료가 인상될 수 있음
+ · 앱을 통한 호출은 배차 기록, 기사 정보, 요금 내역이 남아 분쟁 시 근거로 활용할 수 있음
+ · 길거리 호객을 통한 이용은 보험 가입 여부 확인과 기록 확보가 어려움
+ · 대리운전 요금은 법정 요금표가 아니라 거리·시간·시간대에 따라 업체별로 정해지며 심야와 성수기에는 할증이 붙음
+ · 목적지 변경 등 운행 조건이 바뀌면 요금이 달라질 수 있음
+ · 사고 발생 시 부상 여부 확인, 현장 사진과 블랙박스 확보, 업체·보험사 즉시 접수가 필요함
+ · 도착 후 주차 위치가 주정차 금지 구역이면 과태료가 부과될 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 대리운전 요금의 기본요금과 거리·시간별 단가는 업체와 지역, 시간대에 따라 달라 금액을 적지 않았습니다
+ · 대리운전 보험의 담보별 보상 한도액은 계약마다 달라 수치를 넣지 않았습니다
+ · 사고 발생 시 과실 비율과 최종 책임 배분은 사안별 판단이 필요해 단정하지 않았습니다
+ · 차주 동승 여부가 보험 적용에 미치는 영향은 약관에 따라 달라 세부를 생략했습니다
+ · 심야 할증률과 연말 요금 인상 폭은 업체와 시기마다 달라 비율을 적지 않았습니다
+ · 대리운전업 등록·보험 가입 의무의 법적 근거와 범위는 확인이 필요해 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "부를 때 정식 업체인지 확인하는 게 중요하더라"는 화자 설정으로 지어낸 문장입니다
+ · "연말에는 미리 부르고 기다리는 게 마음이 편하더라"는 서술은 설정입니다

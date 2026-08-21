@@ -1,0 +1,228 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 13일 18:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261113_1832]_겨울_전기요금_누진제\
+   ├── 📄 [원고 파일]: [20261113_1832]_겨울_전기요금_누진제_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-winterbill.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261113_1832]_겨울_전기요금_누진제_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-winterbill.html
+
+■ 제목: 겨울 전기요금이 여름보다 무서운 이유. 누진 구간이 좁습니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 겨울전기요금, 주택용누진제, 누진구간, 하계확대, 슈퍼유저, 검침일, 한전사이버지점
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 전기요금이 여름보다 무서운 이유. 누진 구간이 좁습니다</p>
+
+<h2>같은 사용량인데 겨울이 더 비쌉니다</h2>
+
+<p>주택용 전기요금에는 <b>누진제</b>가 있습니다. 많이 쓸수록 단가가 올라가는 구조죠.</p>
+
+<p>결론부터 말하면 <b>여름에는 누진 구간이 넓어지는데 겨울에는 그대로</b>입니다.</p>
+
+<p>그래서 여름과 똑같이 써도 겨울에 더 비싼 구간으로 넘어갑니다. 이걸 모르는 분이 많더라고요.</p>
+
+<p>저희도 첫 겨울에 전기장판이랑 온풍기 돌리다가 고지서를 보고 놀랐습니다. 여름보다 많이 나왔거든요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">누진제 기본 구조</div>
+<div style="display:flex;flex-wrap:wrap;background:#f9fafd;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dfe3f0;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4a7a;">3단계</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">구간이 올라갈수록 단가 상승</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dfe3f0;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4a7a;">여름 특례</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">7~8월에 구간 폭을 넓혀줌</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dfe3f0;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4a7a;">겨울</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">확대 없이 기본 구간 적용</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dfe3f0;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f4a7a;">초과 사용</div>
+<div style="font-size:12px;color:#6b7085;margin-top:5px;line-height:1.7;">동계에도 별도 요금 구간 존재</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>누진제는 사용량이 늘수록 <b>단가가 올라가는</b> 구조입니다</li>
+<li>여름에는 <b>구간 폭을 넓혀</b>주는 특례가 있습니다</li>
+<li>겨울에는 그 특례가 없어 <b>같은 사용량도 더 비싸집니다</b></li>
+</ul>
+
+<h2>겨울에 전기를 많이 쓰는 이유</h2>
+
+<p>난방을 전기로 하면 소비전력이 큽니다. 전기히터와 온풍기가 대표적이죠.</p>
+
+<p>전기장판은 상대적으로 작지만 <b>오래 켜두기</b> 때문에 누적이 큽니다.</p>
+
+<p>여기에 낮이 짧아 조명을 오래 켜고, 건조기나 의류관리기 사용도 늘어납니다.</p>
+
+<p>여러 개가 겹치면서 어느새 다음 구간으로 넘어가 있는 겁니다.</p>
+
+<h3>기기별로 차이가 큽니다</h3>
+
+<p>같은 난방이라도 <b>소비전력</b>이 몇 배씩 차이 납니다.</p>
+
+<p>제품 라벨에 적힌 소비전력을 보고, 하루에 몇 시간 쓸지 곱해보면 대략 감이 옵니다.</p>
+
+<p>1킬로와트짜리를 하루 5시간 쓰면 한 달에 150킬로와트시가 넘습니다. 이 정도면 구간이 바뀔 수 있어요.</p>
+
+<div style="background:linear-gradient(135deg,#eff1fb,#d5dcef);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f4a7a;margin-bottom:16px;">사용량이 늘어나는 자리</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">전기히터</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#242c47;">소비전력이 크고 순간 사용량 높음</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">전기장판</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#242c47;">전력은 작지만 사용 시간이 김</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#2f4a7a;">건조기</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#242c47;">겨울에 사용 빈도가 올라감</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#2f4a7a;">조명</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#242c47;">해가 짧아 점등 시간이 늘어남</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>전기 난방기기는 <b>소비전력</b>이 커서 사용량을 빠르게 올립니다</li>
+<li>전기장판은 전력이 작아도 <b>사용 시간</b>이 길어 누적됩니다</li>
+<li>제품 <b>소비전력 라벨</b>을 보고 시간을 곱해 계산해보세요</li>
+</ul>
+
+<h2>많이 쓰면 별도 요금이 붙습니다</h2>
+
+<p>겨울에 사용량이 아주 많으면 <b>더 높은 단가</b>가 적용되는 구간이 있습니다.</p>
+
+<p>흔히 슈퍼유저 요금이라고 부릅니다. 여름과 겨울에 적용되는 기준이 따로 있어요.</p>
+
+<p>대형 평수에서 전기 난방을 주로 쓰면 여기에 걸릴 수 있습니다.</p>
+
+<p>본인 사용량이 어느 정도인지 <b>한전 사이버지점</b>에서 확인할 수 있습니다.</p>
+
+<h3>검침일도 영향을 줍니다</h3>
+
+<p>요금은 <b>검침일 사이</b>의 사용량으로 계산됩니다. 달력의 1일부터가 아니에요.</p>
+
+<p>검침일이 언제냐에 따라 추운 날이 한 청구서에 몰릴 수 있습니다.</p>
+
+<p>검침일은 <b>변경 신청</b>이 가능한 경우가 있습니다. 한전에 문의해보세요.</p>
+
+<p>고지서에 검침 기간이 적혀 있으니 한 번 확인해보시면 좋습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef0f6;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.3;">할 일</div><div style="flex:1.7;text-align:right;">효과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">사용량 조회</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">지금 어느 구간인지 파악</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f9fafd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">난방 방식 조정</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">전기 난방 비중 줄이기</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">타이머 사용</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">불필요한 가동 시간 차단</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f9fafd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">복지할인 확인</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">해당되면 매달 감면</div>
+</div>
+</div>
+
+<ul>
+<li>사용량이 아주 많으면 <b>더 높은 단가</b> 구간이 적용됩니다</li>
+<li>요금은 <b>검침일 사이</b> 사용량으로 계산됩니다</li>
+<li>본인 사용량은 <b>한전 사이버지점</b>에서 볼 수 있습니다</li>
+</ul>
+
+<h2>줄이려면 어디부터 손대나요?</h2>
+
+<p>가장 효과가 큰 건 <b>전기 난방 비중</b>을 줄이는 겁니다.</p>
+
+<p>보일러가 있는 집이라면 실내 전체는 난방으로, 전기기기는 <b>보조로</b> 쓰는 게 낫습니다.</p>
+
+<p>전기히터는 사람이 있는 자리만 짧게 쓰는 방식이 효율적입니다.</p>
+
+<p>타이머나 스마트플러그로 <b>켜진 채 방치</b>되는 시간을 줄이는 것도 도움이 됩니다.</p>
+
+<h3>단열이 결국 답입니다</h3>
+
+<p>문풍지나 창문 단열재로 새는 열을 막으면 난방 자체를 덜 씁니다.</p>
+
+<p>커튼을 두껍게 치는 것만으로도 체감이 달라집니다.</p>
+
+<p>바닥에 러그를 깔면 발이 덜 시려서 설정 온도를 낮출 수 있어요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">할인 대상인지 보세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">다자녀, 출산 가구, 장애인, 기초생활수급 가구 등은 <b style="color:#ffd97a;">전기요금 복지할인</b> 대상이 될 수 있습니다. 신청해야 적용되니 <b style="color:#ff8a7a;">한전에 문의</b>해보세요.</p>
+</div>
+
+<ul>
+<li>전기 난방은 <b>보조</b>로 쓰는 게 요금에 유리합니다</li>
+<li><b>타이머</b>로 방치 시간을 줄이면 효과가 있습니다</li>
+<li>단열만 잘해도 <b>난방 자체</b>를 덜 쓰게 됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>주택용 전기요금은 사용량이 늘수록 단가가 오르는 누진 구조다</p>
+<p>여름에는 구간을 넓혀주지만 겨울에는 그 특례가 없다</p>
+<p>전기 난방기기는 사용량을 빠르게 끌어올린다</p>
+<p>요금은 검침일 사이 사용량으로 계산된다</p>
+<p>전기 난방은 보조로 쓰고 단열을 챙기는 게 효과적이다</p>
+</blockquote>
+
+<p>지금 사용량을 한 번 확인해두면 12월과 1월에 당황할 일이 줄어듭니다.</p>
+
+<p>고지서를 받고 나서 아끼려고 하면 이미 늦습니다. 11월에 습관을 잡아두는 게 낫더라고요.</p>
+
+<p>구간별 단가와 계절별 적용 기준은 요금 개정으로 바뀌니 한국전력 안내로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 주택용 전력 요금은 사용량 구간이 올라갈수록 단가가 높아지는 누진 구조로 운영됨
+ · 하계(여름)에는 누진 구간의 폭을 넓히는 특례가 적용되며, 그 외 기간에는 기본 구간이 적용됨
+ · 동계와 하계에는 사용량이 매우 많은 경우 별도의 높은 단가가 적용되는 구간이 운영됨
+ · 전기요금은 달력상 월이 아니라 검침일 사이의 사용량을 기준으로 산정되며 검침일은 고지서에 표시됨
+ · 검침일 변경은 한국전력에 신청할 수 있는 경우가 있음
+ · 전기 난방기기는 소비전력이 커서 사용 시간에 따라 월 사용량이 크게 증가함
+ · 제품의 소비전력(W)에 일일 사용 시간과 사용 일수를 곱해 대략적인 월 사용량을 추정할 수 있음
+ · 본인의 사용량과 예상 요금은 한국전력 사이버지점 등에서 조회 가능
+ · 다자녀·출산 가구, 장애인, 기초생활수급 가구 등에 대한 전기요금 복지할인 제도가 있으며 신청해야 적용됨
+ · 창호 단열과 커튼 등으로 열손실을 줄이면 난방 사용량 자체를 줄일 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 누진 구간의 경계 사용량(kWh)과 구간별 단가는 요금 개정으로 달라져 수치를 적지 않았습니다
+ · 하계 구간 확대의 적용 기간과 폭도 변경될 수 있어 숫자를 넣지 않았습니다
+ · 동계 초과 사용 구간의 기준 사용량은 확인이 필요해 적지 않았습니다
+ · 기기별 소비전력은 제품마다 달라 본문의 계산은 가정에 따른 예시입니다
+ · 복지할인의 대상 요건과 감액 한도는 제도 변경이 있어 금액을 생략했습니다
+ · 필수사용량 보장공제 등 개별 제도의 운영 여부는 변동이 있어 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "첫 겨울에 전기장판과 온풍기를 돌리다 고지서를 보고 놀랐다"는 화자 설정으로 지어낸 문장입니다
+ · "11월에 습관을 잡아두는 게 낫다"는 서술은 설정입니다

@@ -1,0 +1,233 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 18일 18:24
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261118_1824]_노로바이러스_겨울식중독\
+   ├── 📄 [원고 파일]: [20261118_1824]_노로바이러스_겨울식중독_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-noro.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261118_1824]_노로바이러스_겨울식중독_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-noro.html
+
+■ 제목: 겨울 식중독 노로바이러스 대처법. 손소독제로는 안 죽습니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 노로바이러스, 겨울식중독, 굴익혀먹기, 손씻기, 염소소독, 구토물처리, 집단발생
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 식중독 노로바이러스 대처법. 손소독제로는 안 죽습니다</p>
+
+<h2>추울수록 더 잘 퍼집니다</h2>
+
+<p>식중독은 여름 얘기라고 생각하기 쉽습니다. 그런데 <b>노로바이러스</b>는 겨울에 더 기승입니다.</p>
+
+<p>결론부터 말하면 <b>낮은 온도에서도 오래 살아남고</b> 아주 적은 양으로도 감염됩니다.</p>
+
+<p>그리고 <b>알코올 손소독제로는 잘 죽지 않습니다.</b> 비누로 손을 씻어야 합니다.</p>
+
+<p>이걸 모르고 소독제만 믿는 경우가 많더라고요. 겨울에는 특히 손 씻기가 답입니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6b5f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">노로바이러스의 특징</div>
+<div style="display:flex;flex-wrap:wrap;background:#f8fcfb;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eae6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6b5f;">저온 생존</div>
+<div style="font-size:12px;color:#6b7d78;margin-top:5px;line-height:1.7;">겨울에도 활발</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eae6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6b5f;">소량 감염</div>
+<div style="font-size:12px;color:#6b7d78;margin-top:5px;line-height:1.7;">아주 적은 양으로도 발병</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eae6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6b5f;">사람 간 전파</div>
+<div style="font-size:12px;color:#6b7d78;margin-top:5px;line-height:1.7;">음식뿐 아니라 접촉으로도</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #d9eae6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6b5f;">백신 없음</div>
+<div style="font-size:12px;color:#6b7d78;margin-top:5px;line-height:1.7;">예방접종이 없는 감염</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>노로바이러스는 <b>낮은 온도</b>에서도 오래 살아남습니다</li>
+<li>아주 <b>적은 양</b>으로도 감염될 수 있습니다</li>
+<li>음식뿐 아니라 <b>사람 간 접촉</b>으로도 퍼집니다</li>
+</ul>
+
+<h2>어떤 증상이 나타나나요?</h2>
+
+<p>먹거나 접촉한 뒤 <b>하루 이틀 안</b>에 증상이 시작됩니다.</p>
+
+<p>구토와 설사가 주된 증상입니다. 복통과 미열이 함께 오기도 하고요.</p>
+
+<p>대부분 며칠 안에 회복됩니다. 다만 <b>탈수</b>가 문제가 됩니다.</p>
+
+<p>어린아이와 고령자는 탈수가 빨리 진행되니 특히 주의해야 합니다.</p>
+
+<h3>탈수를 막는 게 핵심</h3>
+
+<p>토한다고 아예 안 먹이면 더 나빠집니다. <b>조금씩 자주</b> 마시게 하세요.</p>
+
+<p>약국에서 파는 <b>경구용 수분 보충 제품</b>이 도움이 됩니다.</p>
+
+<p>소변이 눈에 띄게 줄거나 축 처지면 병원에 가야 합니다.</p>
+
+<p>피가 섞인 설사나 심한 복통이 있으면 바로 진료를 받으세요.</p>
+
+<div style="background:linear-gradient(135deg,#eaf6f3,#cfe7e0);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6b5f;margin-bottom:16px;">예방 수칙</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">손 씻기</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a35;">비누로 30초 이상, 흐르는 물에</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">익혀 먹기</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a35;">굴 등 패류는 충분히 가열</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">도구 분리</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a35;">생식용과 조리용 칼·도마 구분</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">소독</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a35;">염소계 소독제 사용</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>잠복기는 대개 <b>하루에서 이틀</b> 정도입니다</li>
+<li>가장 중요한 대처는 <b>탈수 예방</b>입니다</li>
+<li>소변이 줄거나 <b>축 처지면</b> 진료를 받으세요</li>
+</ul>
+
+<h2>굴은 어떻게 먹어야 하나요?</h2>
+
+<p>겨울 굴은 제철이지만 노로바이러스 감염원으로도 자주 지목됩니다.</p>
+
+<p>바닷물이 오염되면 <b>패류 안에 바이러스가</b> 쌓일 수 있기 때문입니다.</p>
+
+<p>가장 확실한 예방은 <b>충분히 익혀 먹는</b> 겁니다. 속까지 완전히 익혀야 합니다.</p>
+
+<p>겉만 살짝 데우는 정도로는 부족합니다. 이 부분에서 방심하기 쉽더라고요.</p>
+
+<h3>생굴을 먹겠다면</h3>
+
+<p><b>생식용</b>으로 표시된 제품인지 확인하세요. 가열조리용과는 다릅니다.</p>
+
+<p>보관 온도를 지키고 산 뒤 빨리 먹는 게 좋습니다.</p>
+
+<p>노약자, 임신부, 면역이 떨어진 분은 <b>생식을 피하는</b> 편이 안전합니다.</p>
+
+<p>같은 음식을 먹어도 사람에 따라 결과가 크게 다릅니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef4f2;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55666a;">
+<div style="flex:1.3;">상황</div><div style="flex:1.7;text-align:right;">대응</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f1;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">구토물 처리</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">마스크·장갑 착용 후 소독</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f1;align-items:center;background:#f8fcfb;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">환자 물건</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">수건·식기 따로 사용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f1;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">빨래</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">따로 모아 세탁</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef2f1;align-items:center;background:#f8fcfb;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">조리 담당</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">회복 후에도 당분간 제외</div>
+</div>
+</div>
+
+<ul>
+<li>패류는 <b>속까지 충분히</b> 익혀 먹습니다</li>
+<li>생굴은 <b>생식용 표시</b>를 확인하고 보관에 주의합니다</li>
+<li>노약자와 임신부는 <b>생식을 피하는</b> 편이 안전합니다</li>
+</ul>
+
+<h2>집에 환자가 생기면</h2>
+
+<p>구토물과 배설물에 <b>바이러스가 아주 많습니다.</b> 치울 때 조심해야 합니다.</p>
+
+<p>마스크와 장갑을 끼고 처리한 뒤 그 자리를 <b>염소계 소독제</b>로 닦습니다.</p>
+
+<p>가정용 락스를 희석해 쓰면 됩니다. 사용할 때는 환기를 꼭 하고요.</p>
+
+<p>수건과 식기를 따로 쓰고 빨래도 분리해서 돌리는 게 좋습니다.</p>
+
+<h3>회복 후에도 조심하세요</h3>
+
+<p>증상이 멎어도 <b>일정 기간 바이러스가 배출</b>됩니다.</p>
+
+<p>그래서 음식을 만드는 일은 며칠 더 피하는 게 안전합니다.</p>
+
+<p>어린이집이나 학교, 급식소에서는 별도 기준이 있으니 안내를 따르세요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">지사제 주의</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">설사를 억지로 멈추는 약을 <b style="color:#ff8a7a;">임의로 복용</b>하면 회복이 늦어질 수 있습니다. 몸이 내보내는 과정이기도 해서요. <b style="color:#ffd97a;">약은 의사나 약사</b>와 상의해 쓰세요.</p>
+</div>
+
+<ul>
+<li>구토물은 <b>마스크와 장갑</b>을 끼고 처리합니다</li>
+<li>염소계 소독제로 닦고 <b>환기</b>를 합니다</li>
+<li>회복 후에도 <b>며칠은 조리</b>를 피하는 게 안전합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>노로바이러스는 겨울에 더 활발하고 적은 양으로도 감염된다</p>
+<p>알코올 손소독제로는 효과가 제한적이라 비누 손 씻기가 필요하다</p>
+<p>패류는 속까지 충분히 익혀 먹어야 안전하다</p>
+<p>가장 중요한 대처는 탈수를 막는 것이다</p>
+<p>구토물은 마스크와 장갑을 끼고 염소계 소독제로 처리한다</p>
+</blockquote>
+
+<p>겨울 모임이 늘면서 집단으로 번지는 일이 잦아집니다. 손 씻기 하나가 정말 큰 차이를 만듭니다.</p>
+
+<p>가족 중 한 명이 걸리면 대개 며칠 안에 다른 사람도 겪게 되더라고요. 초기에 분리하는 게 최선입니다.</p>
+
+<p>가정용 소독제의 희석 비율과 사용법은 제품 표시를 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 노로바이러스는 낮은 온도에서도 생존력이 높아 겨울철 식중독의 주요 원인으로 지목됨
+ · 매우 적은 수의 바이러스 입자로도 감염이 성립할 수 있음
+ · 감염 경로는 오염된 음식과 물 섭취, 환자의 구토물·분변을 통한 접촉, 사람 간 전파 등
+ · 잠복기는 대체로 하루에서 이틀 정도이며 주요 증상은 구토, 설사, 복통, 미열
+ · 대부분 며칠 내 회복되지만 탈수가 주요 위험 요인이며 영유아와 고령자는 진행이 빠를 수 있음
+ · 알코올 성분 손소독제는 노로바이러스에 대한 효과가 제한적이며 비누와 흐르는 물로 손을 씻는 것이 권장됨
+ · 굴 등 패류는 오염된 해수에서 바이러스가 축적될 수 있어 충분히 가열해 섭취하는 것이 권장됨
+ · 생식용과 가열조리용 패류는 표시가 구분되어 있음
+ · 조리 시 생식 재료와 조리 도구를 구분하고 교차오염을 피해야 함
+ · 환자의 구토물·배설물 처리 시 마스크와 장갑을 착용하고 염소계 소독제로 소독하는 것이 권장됨
+ · 증상이 사라진 뒤에도 일정 기간 바이러스가 배출될 수 있어 조리 업무는 당분간 피하도록 안내됨
+ · 노로바이러스에 대한 예방 백신은 없음
+ · 지사제 등의 임의 복용은 권장되지 않으며 의료진 상담이 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 감염 성립에 필요한 바이러스 입자 수는 연구마다 차이가 있어 수치를 적지 않았습니다
+ · 패류 가열 시 권장되는 중심 온도와 시간은 기준에 따라 달라 수치를 넣지 않았습니다
+ · 염소계 소독제의 희석 비율은 용도와 제품마다 달라 비율을 생략했습니다
+ · 회복 후 바이러스 배출이 지속되는 기간은 개인차가 있어 일수를 적지 않았습니다
+ · 집단시설의 등원·등교 제한 기준은 기관 지침에 따라 달라 다루지 않았습니다
+ · 손 씻기 권장 시간은 안내마다 차이가 있어 통용되는 수준으로만 적었습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "소독제만 믿는 경우가 많더라"는 일반적 관찰로 적었습니다
+ · "가족 중 한 명이 걸리면 며칠 안에 다른 사람도 겪는다"는 서술은 화자 설정으로 지어낸 문장입니다

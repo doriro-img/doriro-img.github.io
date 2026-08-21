@@ -1,0 +1,182 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 16일 12:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260916_1226]_퇴직소득세_근속연수공제\
+   ├── 📄 [원고 파일]: [20260916_1226]_퇴직소득세_근속연수공제_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-severtax.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260916_1226]_퇴직소득세_근속연수공제_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-severtax.html
+
+■ 제목: 퇴직소득세 계산 구조와 근속연수공제. 오래 다닐수록 세금이 줄어드는 이유
+■ 카테고리: 금융 및 경제 정보
+■ 태그: 퇴직소득세, 근속연수공제, 연분연승법, 환산급여, 퇴직금세금, 중간정산, IRP과세이연
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>퇴직소득세 계산 구조와 근속연수공제. 오래 다닐수록 세금이 줄어드는 이유</p>
+
+<h2>같은 퇴직금이어도 세금이 다릅니다</h2>
+
+<p>퇴직소득세는 <b>근속연수</b>가 길수록 확 줄어듭니다. 같은 1억을 받아도 10년 다닌 사람과 25년 다닌 사람의 세금이 크게 차이 나요.</p>
+
+<p>결론부터 말하면 <b>근속연수공제</b>와 <b>연분연승법</b> 두 장치 때문입니다. 근속연수로 나눠서 세율을 매기고 다시 곱하는 구조거든요.</p>
+
+<p>그래서 퇴직소득세 실효세율은 생각보다 낮습니다. 급여에 붙는 세금과 비교하면 확실히 유리해요.</p>
+
+<p>퇴사하면서 명세서를 받아봤는데 뗀 세금이 예상보다 적어서 계산 구조를 찾아봤거든요. 알고 나니 왜 그런지 이해가 되더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3a4480;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">퇴직소득세 계산 순서</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:16px 14px;gap:8px;align-items:center;">
+<div style="flex:1 1 140px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>1단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">근속연수공제</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">퇴직급여에서 뺌</div>
+</div>
+<div style="font-size:18px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">→</div>
+<div style="flex:1 1 140px;background:#eef1f7;border:1px solid #cdd4e6;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#3a4480;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#3a4480" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#3a4480"/></svg>2단계</div>
+<div style="font-size:15px;font-weight:800;color:#22284a;">환산급여</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">1년치로 환산</div>
+</div>
+<div style="font-size:18px;font-weight:800;color:#b8c2cc;flex:0 0 auto;">→</div>
+<div style="flex:1 1 140px;background:#eff6fb;border:1px solid #cfe0f0;border-radius:11px;padding:15px 10px;text-align:center;">
+<div style="font-size:11.5px;font-weight:700;color:#2f6fb0;margin-bottom:5px;"><svg width="13" height="13" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:4px;"><circle cx="12" cy="12" r="10" fill="#2f6fb0" opacity="0.16"/><circle cx="12" cy="12" r="4.5" fill="#2f6fb0"/></svg>3단계</div>
+<div style="font-size:15px;font-weight:800;color:#1f4a7a;">세율 적용</div>
+<div style="font-size:11.5px;color:#5a6672;margin-top:4px;">다시 근속으로 곱함</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>퇴직급여에서 <b>근속연수공제</b>를 먼저 뺍니다</li>
+<li>남은 금액을 근속연수로 나눠 <b>1년치로 환산</b>합니다</li>
+<li>환산한 금액에 세율을 매기고 <b>다시 근속연수를 곱해</b> 세액을 정합니다</li>
+</ul>
+
+<p>이 나누고 곱하는 방식을 <b>연분연승법</b>이라고 부릅니다. 한꺼번에 받는 돈에 높은 세율이 붙는 걸 막아주는 장치예요.</p>
+
+<h2>근속연수공제는 구간마다 커집니다</h2>
+
+<p>근속연수가 길수록 <b>공제 금액 자체가 커지는</b> 구조입니다. 단순 비례가 아니라 구간별로 더해집니다.</p>
+
+<p>5년 이하 구간, 10년 이하 구간, 20년 이하 구간, 20년 초과 구간으로 나뉘어 있어요.</p>
+
+<p>구간이 올라갈수록 <b>1년당 공제액이 늘어납니다.</b> 오래 다닌 사람에게 유리하게 설계된 겁니다.</p>
+
+<p>1년 미만으로 일했다면 <b>1년으로 계산</b>합니다. 다만 퇴직금 자체가 1년 이상 근무해야 발생합니다.</p>
+
+<h2>중간정산이 세금을 키웁니다</h2>
+
+<p>여기가 많이들 놓치는 부분입니다. 중간정산을 받으면 <b>근속연수가 그 시점에서 끊깁니다.</b></p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>중간정산 없이 25년</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">근속연수 25년으로 계산<br />20년 초과 구간 공제까지 적용<br />환산급여가 낮아짐<br />낮은 세율 구간에 들어감</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>10년째 중간정산</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">10년 + 15년으로 쪼개짐<br />긴 구간 공제를 못 받음<br />환산급여가 올라감<br />세율 구간이 높아짐</div>
+</div>
+</div>
+
+<ul>
+<li>중간정산을 받으면 그 시점에서 <b>근속연수가 새로 시작</b>됩니다</li>
+<li>근속이 쪼개지면 <b>긴 구간의 큰 공제</b>를 못 받습니다</li>
+<li>같은 총액이어도 <b>세금이 늘어나는</b> 결과가 됩니다</li>
+</ul>
+
+<p>급하게 목돈이 필요한 게 아니라면 중간정산은 안 하는 쪽이 세금 면에서 유리합니다.</p>
+
+<p>퇴직연금 제도로 바뀌면서 중간정산 자체가 <b>법정 사유</b>로 제한돼 있기도 하고요.</p>
+
+<h2>IRP로 옮기면 세금을 미룹니다</h2>
+
+<p>퇴직금을 <b>IRP 계좌</b>로 받으면 그 시점에 세금을 떼지 않습니다. <b>과세이연</b>이라고 합니다.</p>
+
+<p>나중에 꺼낼 때 과세하는 구조라 그동안 <b>세금 낼 돈까지 굴릴 수</b> 있습니다.</p>
+
+<p>일시금으로 받았더라도 정해진 기간 안에 IRP에 넣으면 이미 뗀 세금을 <b>돌려받을 수</b> 있습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7ee0b0;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">연금으로 받으면 더 깎입니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">IRP에 넣은 퇴직금을 <b style="color:#7ee0b0;">연금으로 나눠 받으면</b> 퇴직소득세가 일정 비율 감면됩니다. 오래 나눠 받을수록 감면 폭이 커지고요. 반대로 <b style="color:#ff8a7a;">한꺼번에 빼면</b> 감면이 사라집니다.</p>
+</div>
+
+<ul>
+<li>퇴직금을 <b>연금으로 수령</b>하면 퇴직소득세가 감면됩니다</li>
+<li>수령 기간이 길수록 <b>감면 폭이 커집니다</b></li>
+<li>중간에 <b>일시금으로 빼면</b> 감면이 적용되지 않습니다</li>
+</ul>
+
+<h2>퇴직금에 포함되는 것과 아닌 것</h2>
+
+<p>명예퇴직금이나 희망퇴직 위로금도 <b>퇴직소득</b>으로 봅니다. 퇴직을 원인으로 받는 돈이라서요.</p>
+
+<p>반면 재직 중 받은 <b>성과급이나 상여금</b>은 근로소득입니다. 퇴직할 때 정산해서 받아도 마찬가지고요.</p>
+
+<p>미사용 연차수당도 <b>근로소득</b>입니다. 퇴직금에 들어가는 게 아니라 급여로 잡힙니다.</p>
+
+<p>임원은 <b>한도</b>가 따로 있습니다. 한도를 넘는 금액은 근로소득으로 봐서 세부담이 크게 달라집니다.</p>
+
+<h3>퇴직소득은 따로 계산합니다</h3>
+
+<p>퇴직소득세는 <b>분류과세</b>입니다. 그해 근로소득이나 다른 소득과 합쳐서 계산하지 않아요.</p>
+
+<p>그래서 퇴직한 해에 다른 소득이 많아도 <b>퇴직금 세금은 그대로</b>입니다. 종합소득세 신고에도 안 들어갑니다.</p>
+
+<p>이것도 퇴직소득세가 상대적으로 가벼운 이유 중 하나입니다.</p>
+
+<h3>퇴직연금이면 계산이 조금 다릅니다</h3>
+
+<p>DB형은 회사가 정해진 산식으로 지급하는 구조라 기존 퇴직금과 계산이 같습니다.</p>
+
+<p>DC형은 매년 적립된 돈과 <b>운용수익</b>이 합쳐진 금액이 퇴직급여가 됩니다. 운용을 잘했으면 받는 돈이 커지는 구조예요.</p>
+
+<p>다만 운용수익 부분은 퇴직소득과 성격이 달라 따로 봅니다. 연금으로 받으면 그 부분에는 <b>연금소득세</b>가 적용됩니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>퇴직소득세는 근속연수공제와 연분연승법으로 세부담이 낮아진다</p>
+<p>근속연수가 길수록 공제액이 커지고 세율 구간도 낮아진다</p>
+<p>중간정산을 받으면 근속연수가 끊겨 세금이 늘어난다</p>
+<p>IRP로 받으면 과세이연되고 연금 수령 시 추가 감면된다</p>
+<p>퇴직소득은 다른 소득과 합산하지 않는 분류과세다</p>
+</blockquote>
+
+<p>퇴직이 가까운 분이라면 <b>중간정산과 IRP</b> 두 가지만 알고 계셔도 세금이 크게 달라집니다.</p>
+
+<p>회사에서 주는 예상 명세서를 그대로 받아들이지 말고 근속연수가 제대로 잡혔는지 보세요. 계산이 틀린 경우도 있더라고요.</p>
+
+<p>근속연수공제 금액과 감면 비율은 세법 개정에 따라 달라지니 국세청 안내로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 퇴직소득세 계산 순서: 퇴직급여 − 근속연수공제 → 근속연수로 나눠 환산급여 산출 → 환산급여공제 → 세율 적용 → 근속연수를 다시 곱해 산출세액 결정 (연분연승법)
+ · 근속연수공제는 구간별로 1년당 공제액이 커지는 구조
+ · 중간정산 시 근속연수가 정산 시점부터 새로 계산됨
+ · 퇴직금을 IRP로 이전하면 과세이연되고 연금 수령 시 퇴직소득세가 감면됨
+ · 명예퇴직금·희망퇴직 위로금은 퇴직소득, 성과급·연차수당은 근로소득
+ · 퇴직소득은 다른 소득과 합산하지 않는 분류과세
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 근속연수공제의 구간별 금액은 세법 개정 이력이 있어 수치를 적지 않았습니다
+ · 환산급여공제의 구간과 공제율도 금액을 명시하지 않았습니다
+ · 연금 수령 시 퇴직소득세 감면 비율과 기간별 차등은 수치를 적지 않았습니다
+ · 일시금 수령 후 IRP 이전이 가능한 기간은 본문에 일수를 적지 않았습니다
+ · 임원 퇴직금 한도의 산식은 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "퇴사 명세서의 세금이 예상보다 적어 계산 구조를 찾아봤다"는 가정입니다

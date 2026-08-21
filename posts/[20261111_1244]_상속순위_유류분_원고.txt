@@ -1,0 +1,230 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 11일 12:44
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261111_1244]_상속순위_유류분\
+   ├── 📄 [원고 파일]: [20261111_1244]_상속순위_유류분_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-inheritrank.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261111_1244]_상속순위_유류분_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-inheritrank.html
+
+■ 제목: 상속 순위와 법정상속분 계산. 유류분 청구 기한이 짧습니다
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 상속순위, 법정상속분, 배우자상속, 유류분, 대습상속, 상속포기, 한정승인
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>상속 순위와 법정상속분 계산. 유류분 청구 기한이 짧습니다</p>
+
+<h2>순위가 정해져 있고 아래 순위는 못 받습니다</h2>
+
+<p>상속은 <b>순위</b>가 법으로 정해져 있습니다. 앞 순위가 있으면 뒷 순위는 아예 상속인이 안 됩니다.</p>
+
+<p>결론부터 말하면 <b>1순위는 자녀</b>이고, <b>배우자</b>는 1순위나 2순위와 함께 상속받습니다.</p>
+
+<p>그리고 유언으로 한 사람에게 몰아줬더라도 <b>유류분</b>이라는 최소한의 몫을 청구할 수 있습니다.</p>
+
+<p>다만 유류분은 <b>청구 기한</b>이 짧습니다. 모르고 지나가면 그걸로 끝나더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#5f3f7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">상속 순위</div>
+<div style="display:flex;flex-wrap:wrap;background:#fbf9fd;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e8dcef;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#5f3f7a;">1순위</div>
+<div style="font-size:12px;color:#726b7d;margin-top:5px;line-height:1.7;">직계비속 (자녀·손자녀)</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e8dcef;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#5f3f7a;">2순위</div>
+<div style="font-size:12px;color:#726b7d;margin-top:5px;line-height:1.7;">직계존속 (부모·조부모)</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e8dcef;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#5f3f7a;">3순위</div>
+<div style="font-size:12px;color:#726b7d;margin-top:5px;line-height:1.7;">형제자매</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e8dcef;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#5f3f7a;">4순위</div>
+<div style="font-size:12px;color:#726b7d;margin-top:5px;line-height:1.7;">4촌 이내 방계혈족</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>앞 순위 상속인이 있으면 <b>뒷 순위는 상속인이 안 됩니다</b></li>
+<li>배우자는 <b>1순위나 2순위와 함께</b> 상속받습니다</li>
+<li>1순위와 2순위가 모두 없으면 <b>배우자가 단독</b>으로 받습니다</li>
+</ul>
+
+<h2>배우자 몫은 어떻게 계산하나요?</h2>
+
+<p>같은 순위 상속인끼리는 <b>똑같이 나눕니다.</b> 아들딸 구분이 없습니다.</p>
+
+<p>배우자는 여기에 <b>절반을 더</b> 받습니다. 다른 상속인 몫의 1.5배가 되는 셈이죠.</p>
+
+<p>예를 들어 배우자와 자녀 둘이면 비율이 <b>1.5 대 1 대 1</b>이 됩니다.</p>
+
+<p>이걸 분수로 바꾸면 배우자가 7분의 3, 자녀가 각각 7분의 2씩입니다.</p>
+
+<h3>자녀가 먼저 세상을 떠났다면</h3>
+
+<p>상속인이 될 사람이 먼저 사망했으면 그 사람의 <b>자녀가 대신</b> 상속받습니다.</p>
+
+<p>이걸 대습상속이라고 부릅니다. 손자녀가 부모 몫을 물려받는 구조예요.</p>
+
+<p>먼저 사망한 자녀의 배우자도 대습상속인이 될 수 있습니다.</p>
+
+<div style="background:linear-gradient(135deg,#f5f0fb,#e3d7f0);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#5f3f7a;margin-bottom:16px;">법정상속분 예시</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:132px;text-align:center;font-size:12.5px;font-weight:800;color:#5f3f7a;">배우자 + 자녀 1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#332845;">1.5 대 1</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:132px;text-align:center;font-size:12.5px;font-weight:800;color:#5f3f7a;">배우자 + 자녀 2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#332845;">1.5 대 1 대 1</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:132px;text-align:center;font-size:12.5px;font-weight:800;color:#5f3f7a;">배우자 + 부모</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#332845;">자녀가 없을 때 2순위와 공동</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:132px;text-align:center;font-size:12.5px;font-weight:800;color:#5f3f7a;">배우자만</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#332845;">1·2순위가 없으면 단독 상속</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>같은 순위끼리는 <b>균등</b>하게 나눕니다</li>
+<li>배우자는 다른 상속인 몫의 <b>1.5배</b>를 받습니다</li>
+<li>상속인이 먼저 사망하면 그 <b>자녀가 대신</b> 받습니다</li>
+</ul>
+
+<h2>유류분이 뭔가요?</h2>
+
+<p>고인이 유언으로 특정인에게 재산을 몰아줬더라도, 일정 범위의 상속인에게는 <b>최소한의 몫</b>이 보장됩니다.</p>
+
+<p>그 최소한의 몫을 <b>유류분</b>이라고 합니다. 법정상속분의 일정 비율로 계산합니다.</p>
+
+<p>생전에 특정인에게 <b>미리 증여</b>한 재산도 계산에 들어갈 수 있습니다.</p>
+
+<p>유류분은 자동으로 나오지 않습니다. <b>직접 청구</b>해야 합니다.</p>
+
+<h3>제도가 바뀌었습니다</h3>
+
+<p>형제자매의 유류분 조항은 <b>헌법재판소 결정</b>으로 효력을 잃었습니다.</p>
+
+<p>또 유류분을 인정하지 않을 사유를 두지 않은 부분에 대해서도 문제가 지적됐습니다.</p>
+
+<p>그래서 지금 기준이 예전에 검색해서 본 내용과 다를 수 있습니다.</p>
+
+<p>실제 사안이라면 <b>변호사 상담</b>으로 현재 법령을 확인하는 게 안전합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f2eef7;padding:12px 18px;font-size:12.5px;font-weight:800;color:#5f5470;">
+<div style="flex:1.4;">항목</div><div style="flex:1.6;text-align:right;">내용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeaf3;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">성격</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">법정상속분의 일정 비율 보장</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeaf3;align-items:center;background:#fbf9fd;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">청구 방식</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">직접 반환 청구해야 함</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeaf3;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">계산 범위</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">생전 증여가 포함될 수 있음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeaf3;align-items:center;background:#fbf9fd;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">기한</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">지나면 청구 불가</div>
+</div>
+</div>
+
+<ul>
+<li>유류분은 <b>직접 청구</b>해야 받을 수 있습니다</li>
+<li>생전 증여 재산이 <b>계산에 포함</b>될 수 있습니다</li>
+<li>형제자매의 유류분은 <b>헌법재판소 결정</b>으로 효력을 잃었습니다</li>
+</ul>
+
+<h2>빚이 많으면 어떻게 하나요?</h2>
+
+<p>상속은 재산만 물려받는 게 아닙니다. <b>빚도 같이</b> 넘어옵니다.</p>
+
+<p>빚이 재산보다 많으면 <b>상속포기</b>를 할 수 있습니다. 아예 상속인이 아닌 게 됩니다.</p>
+
+<p>재산 범위 안에서만 빚을 갚겠다는 <b>한정승인</b>도 있습니다.</p>
+
+<p>둘 다 <b>기한 안에</b> 가정법원에 신고해야 합니다. 이 기한이 아주 짧습니다.</p>
+
+<h3>내가 포기하면 다음 순위로 넘어갑니다</h3>
+
+<p>1순위가 전부 포기하면 <b>2순위</b>로 상속이 넘어갑니다.</p>
+
+<p>모르고 있다가 부모님 빚이 형제나 조카에게 넘어가는 일이 생깁니다.</p>
+
+<p>가족 전체가 같이 판단해야 하는 이유가 여기 있습니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">먼저 조회하세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">고인의 재산과 채무는 <b style="color:#ffd97a;">안심상속 원스톱서비스</b>로 한 번에 조회할 수 있습니다. 예금, 부동산, 대출, 세금까지 확인한 뒤에 <b style="color:#ff8a7a;">포기할지 승인할지</b> 정하세요.</p>
+</div>
+
+<ul>
+<li>상속은 <b>빚도 함께</b> 넘어옵니다</li>
+<li>상속포기와 한정승인은 <b>기한 안에</b> 법원에 신고해야 합니다</li>
+<li>1순위가 포기하면 <b>다음 순위</b>로 넘어갑니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>상속 순위는 자녀, 부모, 형제자매, 4촌 이내 방계혈족 순이다</p>
+<p>배우자는 1순위나 2순위와 함께 상속받고 1.5배를 받는다</p>
+<p>같은 순위끼리는 균등하게 나눈다</p>
+<p>유류분은 직접 청구해야 하고 기한이 지나면 못 받는다</p>
+<p>빚이 많으면 기한 안에 상속포기나 한정승인을 신고한다</p>
+</blockquote>
+
+<p>가족 사이 일이라 미루기 쉬운데 기한이 걸린 절차가 많습니다. 일단 재산 조회부터 하는 게 순서예요.</p>
+
+<p>금액이 크거나 다툼이 예상되면 초기에 전문가와 상의하는 편이 낫습니다. 나중에 되돌리기가 어렵더라고요.</p>
+
+<p>유류분 비율과 청구 기한, 관련 법 개정 내용은 변호사 상담으로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 민법상 상속 순위는 1순위 직계비속, 2순위 직계존속, 3순위 형제자매, 4순위 4촌 이내의 방계혈족
+ · 선순위 상속인이 있으면 후순위는 상속인이 되지 않음
+ · 배우자는 1순위 또는 2순위 상속인과 공동상속하며, 1·2순위 상속인이 없으면 단독 상속
+ · 같은 순위의 상속인은 상속분이 균등하며, 배우자의 상속분은 다른 공동상속인 상속분의 5할을 가산함
+ · 상속인이 될 직계비속이나 형제자매가 상속 개시 전에 사망하거나 결격된 경우 그 직계비속(및 배우자)이 대신 상속하는 대습상속 제도가 있음
+ · 유류분은 유언 등으로 재산이 특정인에게 이전되더라도 일정 범위 상속인에게 법정상속분의 일정 비율을 보장하는 제도
+ · 유류분은 자동 지급되지 않으며 반환 청구를 해야 하고 청구권에는 기간 제한이 있음
+ · 유류분 산정 시 피상속인이 생전에 한 증여가 포함될 수 있음
+ · 헌법재판소 결정으로 형제자매의 유류분을 규정한 조항은 효력을 잃었고, 유류분 상실 사유를 두지 않은 부분 등에 대해서도 위헌성이 지적되어 법 개정이 이어졌음
+ · 상속에는 적극재산뿐 아니라 채무도 포함되며, 상속포기와 한정승인은 정해진 기간 내에 가정법원에 신고해야 함
+ · 선순위 상속인이 모두 포기하면 후순위 상속인에게 상속이 넘어감
+ · 안심상속 원스톱서비스로 고인의 금융거래, 부동산, 채무, 세금 등을 일괄 조회할 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 유류분 비율(법정상속분 대비)은 헌법재판소 결정 이후 법 개정 상황에 따라 달라질 수 있어 수치를 적지 않았습니다
+ · 유류분 반환청구권의 소멸 기간(안 날로부터, 상속 개시일로부터)의 구체 연수는 확인이 필요해 넣지 않았습니다
+ · 상속포기·한정승인의 신고 기한 개월 수는 기산점 판단이 사안마다 달라 수치를 적지 않았습니다
+ · 유류분 산정에 포함되는 생전 증여의 범위와 기간은 사안별 판단이 필요해 단정하지 않았습니다
+ · 기여분 인정 요건과 산정 방식은 법원 판단 사항이라 다루지 않았습니다
+ · 상속세 신고·납부 관련 기한과 공제는 별도 세법 사항이라 이 글에서는 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "모르고 지나가면 그걸로 끝나더라"는 화자 설정으로 지어낸 문장입니다
+ · "나중에 되돌리기가 어렵더라"는 서술은 일반적 관찰로 적었습니다

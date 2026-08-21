@@ -1,0 +1,247 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 29일 18:43
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261129_1843]_온라인_구독_정기결제_해지\
+   ├── 📄 [원고 파일]: [20261129_1843]_온라인_구독_정기결제_해지_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-subcancel.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261129_1843]_온라인_구독_정기결제_해지_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-subcancel.html
+
+■ 제목: 구독 서비스 해지 확인법. 앱을 지워도 결제는 계속됩니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 구독해지, 정기결제, 무료체험, 자동결제조회, 페이인포, 앱스토어구독, 다크패턴
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>구독 서비스 해지 확인법. 앱을 지워도 결제는 계속됩니다</p>
+
+<h2>앱 삭제는 해지가 아닙니다</h2>
+
+<p>안 쓰는 서비스를 정리하려고 <b>앱을 지우는</b> 분들이 있습니다. 그걸로는 결제가 안 멈춥니다.</p>
+
+<p>결론부터 말하면 <b>서비스나 스토어에서 직접 해지</b>해야 합니다.</p>
+
+<p>앱은 껍데기고 <b>구독 계약</b>은 따로 살아 있는 구조예요.</p>
+
+<p>몇 달 지나서 명세서를 보고 알게 되는 경우가 많더라고요. 연말에 한 번 정리하면 좋습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3f5f6b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">해지가 되는 곳</div>
+<div style="display:flex;flex-wrap:wrap;background:#f9fbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dde7ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f5f6b;">앱 스토어 구독</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">스토어의 구독 메뉴에서</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dde7ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f5f6b;">웹 결제</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">해당 서비스 계정 설정에서</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dde7ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f5f6b;">통신사 결제</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">통신사 부가서비스 확인</div>
+</div>
+<div style="flex:1 1 220px;background:#fff;border:1px solid #dde7ea;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#b8443a;">앱 삭제</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">해지 효과가 없음</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>앱 삭제</b>만으로는 결제가 멈추지 않습니다</li>
+<li>스토어를 통한 구독은 <b>스토어에서</b> 해지합니다</li>
+<li>웹에서 결제했다면 <b>계정 설정</b>에서 해지합니다</li>
+</ul>
+
+<h2>지금 뭘 결제하고 있나요?</h2>
+
+<p>카드사 앱에서 <b>정기결제 목록</b>을 조회할 수 있습니다.</p>
+
+<p>매달 빠져나가는 항목이 쭉 나옵니다. 생각보다 많아서 놀랄 수 있어요.</p>
+
+<p>계좌에서 나가는 자동이체는 <b>통합 조회 서비스</b>로 한 번에 볼 수 있습니다.</p>
+
+<p>여기서 해지까지 되는 항목도 있습니다. 시작점으로 쓰기 좋습니다.</p>
+
+<h3>무료 체험이 위험합니다</h3>
+
+<p>무료로 써보라고 해놓고 기간이 끝나면 <b>자동으로 결제</b>되는 구조가 흔합니다.</p>
+
+<p>가입할 때 <b>종료일</b>을 확인하고 달력에 미리 표시해두세요.</p>
+
+<p>쓸 생각이 없다면 <b>가입하자마자</b> 해지해도 됩니다. 대부분 기간은 채워줍니다.</p>
+
+<p>이 방법이 잊어버릴 위험을 없애는 가장 확실한 길입니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef5f7,#d3e3e8);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3f5f6b;margin-bottom:16px;">정리하는 순서</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f5f6b;">1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#22333a;">카드사 앱에서 정기결제 목록 확인</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f5f6b;">2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#22333a;">계좌 자동이체도 통합 조회</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f5f6b;">3</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#22333a;">안 쓰는 서비스에서 직접 해지</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#b8443a;">4</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#22333a;">해지 확인 메일이나 화면 저장</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>카드사 앱에서 <b>정기결제 목록</b>을 볼 수 있습니다</li>
+<li>계좌 자동이체는 <b>통합 조회</b>로 확인합니다</li>
+<li>무료 체험은 <b>가입하자마자</b> 해지해도 기간은 유지됩니다</li>
+</ul>
+
+<h2>해지가 잘 안 될 때</h2>
+
+<p>해지 메뉴를 <b>찾기 어렵게</b> 만들어둔 곳이 있습니다.</p>
+
+<p>보통 설정 안쪽이나 <b>고객센터</b> 메뉴에 숨어 있습니다.</p>
+
+<p>검색창에 서비스 이름과 해지를 같이 검색하면 경로가 나옵니다.</p>
+
+<p>그래도 안 되면 <b>고객센터</b>에 직접 요청하세요. 기록이 남는 방식으로요.</p>
+
+<h3>카드 정지만으로는 부족합니다</h3>
+
+<p>카드를 정지하거나 결제를 막으면 당장은 돈이 안 나갑니다.</p>
+
+<p>그런데 <b>계약은 살아 있어서</b> 미납으로 쌓일 수 있습니다.</p>
+
+<p>나중에 한꺼번에 청구되거나 추심 연락이 올 수 있어요.</p>
+
+<p>반드시 <b>서비스 쪽에서</b> 해지 처리를 마무리해야 합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef3f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55636a;">
+<div style="flex:1.3;">방법</div><div style="flex:1.7;text-align:right;">결과</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">앱 삭제</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">결제 계속</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f9fbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">카드 정지</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">미납으로 쌓일 수 있음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">서비스 해지</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">정상 종료</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f9fbfc;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">스토어 해지</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">정상 종료</div>
+</div>
+</div>
+
+<ul>
+<li>해지 메뉴가 <b>숨어 있는</b> 경우가 많습니다</li>
+<li>카드 정지만으로는 <b>계약이 남습니다</b></li>
+<li>해지 후 <b>확인 화면</b>을 저장해두세요</li>
+</ul>
+
+<h2>환불은 되나요?</h2>
+
+<p>남은 기간에 대한 환불 여부는 <b>약관</b>에 따라 다릅니다.</p>
+
+<p>월 단위 구독은 대체로 <b>다음 결제일</b>까지 이용하고 종료됩니다.</p>
+
+<p>연간 구독을 중간에 끊으면 위약금이나 <b>할인 반환</b>이 붙기도 합니다.</p>
+
+<p>가입 직후라면 <b>청약철회</b>가 가능한지 확인해보세요.</p>
+
+<h3>모르는 결제가 있다면</h3>
+
+<p>기억에 없는 정기결제가 보이면 <b>명의도용</b>일 수 있습니다.</p>
+
+<p>카드사에 즉시 알리고 <b>이의제기</b> 절차를 진행하세요.</p>
+
+<p>가족이 쓰고 있는 경우도 있으니 먼저 확인해보고요.</p>
+
+<p>필요하면 <b>1372</b> 소비자상담센터에 문의할 수 있습니다.</p>
+
+<h3>가족 계정도 정리해보세요</h3>
+
+<p>가족 요금제나 <b>공유 계정</b>으로 묶인 서비스가 있습니다.</p>
+
+<p>결제자는 한 명인데 쓰는 사람이 여럿인 구조죠.</p>
+
+<p>실제로 <b>몇 명이 쓰는지</b> 확인해보면 요금제를 낮출 수 있는 경우가 있습니다.</p>
+
+<p>반대로 각자 따로 결제하고 있었다면 <b>가족 요금제</b>로 묶는 게 쌀 수도 있더라고요.</p>
+
+<p>연말에 한 번 이야기 나눠보면 정리가 됩니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">연말에 한 번</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">한 달에 몇 천원씩이라도 <b style="color:#ffd97a;">열 개면 몇 만원</b>입니다. 연말에 한 번 목록을 뽑아보면 <b style="color:#ff8a7a;">안 쓰는 것</b>이 꼭 나옵니다.</p>
+</div>
+
+<ul>
+<li>환불 조건은 <b>약관</b>에 따라 다릅니다</li>
+<li>연간 구독은 <b>위약금</b>이 붙을 수 있습니다</li>
+<li>모르는 결제는 <b>카드사에 이의제기</b>하세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>앱을 삭제해도 구독 결제는 계속된다</p>
+<p>스토어를 통한 구독은 스토어에서 해지해야 한다</p>
+<p>카드사 앱과 자동이체 통합 조회로 목록을 확인할 수 있다</p>
+<p>카드 정지만으로는 계약이 남아 미납으로 쌓일 수 있다</p>
+<p>해지 후 확인 화면이나 메일을 저장해두는 게 안전하다</p>
+</blockquote>
+
+<p>연말 정리하는 김에 구독 목록도 같이 보세요. 30분이면 끝납니다.</p>
+
+<p>정말 쓰는 것만 남기면 매달 지출이 눈에 띄게 줄어듭니다.</p>
+
+<p>서비스별 해지 절차와 환불 조건은 약관마다 다르니 각 서비스 고객센터로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 앱을 삭제해도 구독 계약과 정기결제는 종료되지 않으며 별도의 해지 절차가 필요함
+ · 앱 마켓(앱스토어·구글플레이)을 통해 결제한 구독은 해당 마켓의 구독 관리 메뉴에서 해지해야 함
+ · 웹사이트에서 직접 결제한 구독은 해당 서비스의 계정 설정에서 해지함
+ · 통신사 결제를 이용한 경우 통신사의 부가서비스·소액결제 내역에서 확인이 필요함
+ · 카드사 앱에서 정기결제(자동납부) 내역을 조회할 수 있음
+ · 계좌 자동이체는 금융결제원 자동이체 통합관리 서비스 등에서 조회·해지할 수 있음
+ · 무료 체험 종료 후 자동으로 유료 결제로 전환되는 방식이 일반적이며 체험 시작 시 해지해도 남은 기간은 이용할 수 있는 경우가 많음
+ · 카드 결제 정지나 카드 해지만으로는 서비스 계약이 유지되어 미납 채권이 발생할 수 있음
+ · 남은 기간에 대한 환불 여부와 연간 구독 중도 해지 시 위약금·할인 반환은 서비스 약관에 따라 다름
+ · 온라인 콘텐츠는 전자상거래법상 청약철회가 제한될 수 있는 경우가 있음
+ · 본인이 인지하지 못한 정기결제는 카드사 이의제기 절차를 통해 다툴 수 있음
+ · 소비자 상담은 국번 없이 1372 소비자상담센터에서 가능
+ · 해지 절차를 복잡하게 만드는 방식에 대한 규제 논의가 이어져 왔으며 해지 확인 자료를 남겨두는 것이 안전함
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 서비스별 해지 경로와 메뉴 위치는 업체마다 달라 구체적으로 적지 않았습니다
+ · 환불과 위약금 조건은 약관마다 달라 비율이나 금액을 넣지 않았습니다
+ · 청약철회가 가능한 기간과 제한 사유는 상품 유형에 따라 달라 단정하지 않았습니다
+ · 무료 체험 기간과 전환 시점은 서비스마다 달라 일수를 적지 않았습니다
+ · 자동이체 통합관리 서비스에서 해지 가능한 항목의 범위는 기관 연계 상황에 따라 달라 생략했습니다
+ · 이의제기 처리 기간과 인정 요건은 카드사와 사안에 따라 달라 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "몇 달 지나서 명세서를 보고 알게 되는 경우가 많더라"는 화자 설정으로 지어낸 문장입니다
+ · "목록을 뽑아보면 안 쓰는 것이 꼭 나온다"는 일반적 관찰로 적었습니다

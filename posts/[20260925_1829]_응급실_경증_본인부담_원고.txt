@@ -1,0 +1,176 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 25일 18:29
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260925_1829]_응급실_경증_본인부담\
+   ├── 📄 [원고 파일]: [20260925_1829]_응급실_경증_본인부담_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-emergroom.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260925_1829]_응급실_경증_본인부담_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-emergroom.html
+
+■ 제목: 응급실 경증 본인부담. 가벼운 증상으로 가면 비용이 확 올라갑니다
+■ 카테고리: 생활 규정 및 IT 서비스
+■ 태그: 응급실본인부담, 경증환자, KTAS, 응급의료관리료, 권역응급의료센터, 응급실비용, 야간진료
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>응급실 경증 본인부담. 가벼운 증상으로 가면 비용이 확 올라갑니다</p>
+
+<h2>경증이면 본인이 더 냅니다</h2>
+
+<p>응급실 비용은 <b>증상이 얼마나 급한지</b>에 따라 달라집니다.</p>
+
+<p>결론부터 말하면 <b>경증이나 비응급으로 분류되면</b> 본인부담 비율이 크게 올라갑니다.</p>
+
+<p>같은 진료를 받아도 <b>중증 환자보다 훨씬 많은 돈</b>을 내게 되는 구조예요.</p>
+
+<p>응급실 문턱에서 등급이 정해지는 건데 그 기준을 모르고 가시는 분들이 많더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#cf4f43;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">중증도 분류가 비용을 가릅니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#b8463a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M12 6.5v7M12 16.4v.9" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>중증 구간</div>
+<div style="font-size:13px;color:#6b4a45;line-height:1.85;">소생·긴급 단계<br />즉시 처치 필요<br />건강보험 적용<br />본인부담 일반 수준</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#b0701c;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#b0701c"/><path d="M12 7v6l4 2" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>응급 구간</div>
+<div style="font-size:13px;color:#55381a;line-height:1.85;">응급 단계<br />신속한 처치 필요<br />건강보험 적용<br />일반 기준 적용</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;">
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.2"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>경증·비응급</div>
+<div style="font-size:13px;color:#3f5060;line-height:1.85;">준응급·비응급 단계<br />외래로도 가능한 수준<br />본인부담 비율 상승<br />관리료 부담 커짐</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>응급실 도착 시 <b>중증도 분류</b>를 먼저 받습니다</li>
+<li>중증일수록 <b>건강보험 적용</b>이 정상적으로 됩니다</li>
+<li>경증·비응급으로 분류되면 <b>본인부담이 올라갑니다</b></li>
+</ul>
+
+<p>분류는 <b>간호사와 의사가 증상과 활력징후</b>를 보고 정합니다. 본인이 고를 수 없어요.</p>
+
+<h2>응급의료관리료가 핵심입니다</h2>
+
+<p>응급실에는 진료비 말고 <b>응급의료관리료</b>라는 항목이 따로 있습니다.</p>
+
+<p>응급 증상에 해당하면 <b>건강보험이 적용</b>되어 일부만 냅니다.</p>
+
+<p>비응급으로 분류되면 이 관리료를 <b>전액 본인이</b> 부담합니다.</p>
+
+<p>여기서 금액 차이가 크게 벌어집니다. 진료 내용이 같아도 <b>총액이 달라져요</b>.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>경증으로 보기 쉬운 증상</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">가벼운 감기·몸살<br />단순 소화불량<br />약 처방만 원할 때<br />오래된 만성 통증<br />단순 상처 소독</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>응급으로 보는 증상</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">의식 저하<br />호흡 곤란<br />가슴 통증<br />심한 출혈<br />갑작스러운 마비·경련</div>
+</div>
+</div>
+
+<ul>
+<li>응급의료관리료는 <b>비응급이면 전액 본인부담</b>입니다</li>
+<li>진료 내용이 같아도 <b>총액이 달라집니다</b></li>
+<li>증상 분류는 <b>의료진이 판단</b>합니다</li>
+</ul>
+
+<h2>어디로 가느냐도 다릅니다</h2>
+
+<p>응급실은 <b>권역응급의료센터, 지역응급의료센터, 지역응급의료기관</b>으로 나뉩니다.</p>
+
+<p>큰 병원일수록 <b>관리료 자체가 높습니다</b>. 경증인데 대형 병원에 가면 부담이 커요.</p>
+
+<p>가벼운 증상이라면 <b>동네 응급실이나 당번 의원</b>이 훨씬 낫습니다.</p>
+
+<p>중증 환자를 위한 자리를 비워두는 의미도 있습니다. 대기 시간도 짧아지고요.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">망설이지 말아야 할 때도 있습니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">비용이 무서워서 <b style="color:#ff8a7a;">응급실 가기를 미루면</b> 훨씬 큰 대가를 치릅니다. 가슴 통증, 호흡 곤란, 의식 저하, 한쪽 마비는 <b style="color:#ffd97a;">바로 119</b>입니다. 이 글은 가벼운 증상으로 대형 응급실을 찾는 경우를 말하는 겁니다.</p>
+</div>
+
+<ul>
+<li>중증 의심 증상은 <b>비용을 따지지 말고</b> 바로 가야 합니다</li>
+<li>가벼운 증상은 <b>동네 병원</b>이 비용과 시간 모두 낫습니다</li>
+<li>기관 종별에 따라 <b>관리료 수준</b>이 다릅니다</li>
+</ul>
+
+<h2>비용을 줄이는 방법</h2>
+
+<p>연휴나 야간이라면 <b>당번 의원</b>을 먼저 찾아보세요. 응급의료포털에서 확인됩니다.</p>
+
+<p>소아라면 <b>달빛어린이병원</b>이 훨씬 저렴하고 대기도 짧습니다.</p>
+
+<p>약만 필요하다면 <b>당번 약국</b>이나 편의점 상비약으로 되는 경우도 있습니다.</p>
+
+<p>119에 전화해서 <b>상담만 받는</b> 것도 가능합니다. 가야 할지 판단을 도와줍니다.</p>
+
+<h3>실손보험으로 돌려받나요</h3>
+
+<p>응급실 진료비도 <b>실손보험 청구 대상</b>입니다. 다만 항목마다 다릅니다.</p>
+
+<p>비응급으로 분류되어 전액 본인부담한 관리료는 <b>보상에서 빠질 수</b> 있습니다.</p>
+
+<p>약관에 따라 다르니 <b>가입한 상품</b>을 확인해보시는 게 정확합니다.</p>
+
+<p>영수증과 진료비 세부내역서를 받아두시면 청구할 때 편하더라고요.</p>
+
+<h3>아이가 밤에 아플 때</h3>
+
+<p>소아는 <b>탈수와 고열</b>이 빨리 진행되니 판단이 어렵습니다.</p>
+
+<p>축 처지거나 소변이 확 줄었다면 <b>지체하지 마세요</b>. 이건 응급입니다.</p>
+
+<p>열만 있고 잘 놀고 잘 먹는다면 <b>해열제로 지켜보다</b> 아침에 가도 됩니다.</p>
+
+<p>판단이 서지 않을 때는 129나 119에 물어보시면 됩니다. 그게 제일 안전합니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>응급실 비용은 중증도 분류에 따라 크게 달라진다</p>
+<p>경증이나 비응급이면 응급의료관리료를 전액 부담한다</p>
+<p>기관 종별에 따라 관리료 수준도 다르다</p>
+<p>가벼운 증상은 당번 의원이나 달빛어린이병원이 낫다</p>
+<p>중증 의심 증상은 비용을 따지지 말고 바로 가야 한다</p>
+</blockquote>
+
+<p>이 제도의 목적은 응급실을 진짜 필요한 사람에게 남겨두자는 겁니다.</p>
+
+<p>가벼운 증상이면 다른 선택지를 먼저 찾아보세요. 돈도 시간도 아낍니다.</p>
+
+<p>본인부담 비율과 관리료 금액은 개정될 수 있으니 건강보험심사평가원 자료로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 응급실 이용 시 한국형 응급환자 분류도구(KTAS) 등에 따라 중증도를 분류
+ · 경증·비응급으로 분류되면 본인부담 비율이 상승
+ · 응급의료관리료는 응급 증상에 해당하면 건강보험 적용, 비응급이면 전액 본인부담
+ · 응급의료기관은 권역응급의료센터, 지역응급의료센터, 지역응급의료기관으로 구분
+ · 기관 종별에 따라 응급의료관리료 수준이 다름
+ · 야간·휴일 경증 진료는 당번 의원, 달빛어린이병원 등 대안 이용 가능
+ · 응급 여부 판단이 어려울 때 119 또는 129 상담 가능
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 응급의료관리료의 구체 금액과 본인부담 비율은 개정되어 수치를 적지 않았습니다
+ · KTAS 등급별 구체 기준은 의료진 판단 사항이라 세부를 다루지 않았습니다
+ · 경증 판정 기준이 되는 상병 목록은 고시 개정에 따라 달라집니다
+ · 실손보험의 응급실 관련 보상 범위는 가입 상품과 약관에 따릅니다
+ · 기관 종별 관리료 차이의 구체 수준은 명시하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "기준을 모르고 간다", "세부내역서를 받아두면 편하다"는 체감 서술입니다

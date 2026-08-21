@@ -1,0 +1,219 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 2일 18:14
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261102_1814]_김치냉장고_보관법\
+   ├── 📄 [원고 파일]: [20261102_1814]_김치냉장고_보관법_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-kimchifridge.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261102_1814]_김치냉장고_보관법_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-kimchifridge.html
+
+■ 제목: 김장 김치 김치냉장고 보관법. 골마지 안 생기게 담는 순서
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 김치냉장고, 김장김치보관, 골마지, 김치통, 익힘모드, 김치산패, 김치냉장고청소
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>김장 김치 김치냉장고 보관법. 골마지 안 생기게 담는 순서</p>
+
+<h2>담는 방법이 맛을 절반 이상 정합니다</h2>
+
+<p>김장을 아무리 잘해도 <b>김치냉장고에 담는 순서</b>가 틀리면 두 달 만에 맛이 갑니다.</p>
+
+<p>결론부터 말하면 <b>공기를 빼고 국물에 잠기게</b> 담는 게 전부입니다. 하얗게 뜨는 골마지는 대부분 공기 때문이에요.</p>
+
+<p>그리고 김장 직후 바로 넣지 말고 <b>상온에서 하루쯤 발효</b>를 시작시킨 뒤 넣는 게 일반적인 순서입니다.</p>
+
+<p>저희는 몇 년 전에 그냥 바로 넣었다가 봄까지 안 익어서 계속 생김치만 먹었더라고요... 그때 배웠습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#8a3f4f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">담는 순서 4단계</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdf9fa;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedce1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a3f4f;">1. 상온 발효</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">하루 정도 두고 시작</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedce1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a3f4f;">2. 80~90%만</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">통을 가득 채우지 않기</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedce1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a3f4f;">3. 눌러 담기</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">국물이 배추를 덮게</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eedce1;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#8a3f4f;">4. 비닐 덮기</div>
+<div style="font-size:12px;color:#7d6b70;margin-top:5px;line-height:1.7;">공기 접촉 차단</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>김장 직후 <b>상온에서 하루</b> 정도 두어 발효를 시작시킵니다</li>
+<li>김치통은 <b>80에서 90퍼센트</b>만 채웁니다. 발효하면서 부풀어요</li>
+<li>국물이 배추를 <b>덮도록</b> 눌러 담고 위생 비닐로 덮습니다</li>
+</ul>
+
+<h2>골마지는 곰팡이가 아닙니다</h2>
+
+<p>김치 위에 하얗게 얇은 막이 뜨는 걸 <b>골마지</b>라고 부릅니다.</p>
+
+<p>이건 곰팡이가 아니라 <b>효모</b>가 만든 막입니다. 공기와 닿은 표면에서 생겨요.</p>
+
+<p>걷어내고 씻어서 먹을 수는 있지만 맛과 식감은 이미 떨어집니다. 안 생기게 하는 게 최선이죠.</p>
+
+<p>반대로 <b>초록색이나 검은색 곰팡이</b>가 보이면 그건 다른 얘기입니다. 그 부분은 버리는 게 맞습니다.</p>
+
+<h3>공기를 빼는 방법</h3>
+
+<p>김치를 넣고 손이나 주걱으로 꾹꾹 눌러 <b>사이의 공기를 뺍니다.</b></p>
+
+<p>그다음 표면에 국물이 올라오면 위생 비닐이나 랩을 <b>김치 표면에 밀착</b>시켜 덮습니다.</p>
+
+<p>비닐을 뚜껑처럼 띄워두면 소용이 없어요. 표면에 딱 붙여야 합니다.</p>
+
+<p>배추 겉잎을 남겨뒀다가 맨 위에 덮는 방법도 오래된 요령입니다.</p>
+
+<div style="background:linear-gradient(135deg,#fdeef1,#f2d4dc);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#8a3f4f;margin-bottom:16px;">골마지 원인과 대응</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#8a3f4f;">공기 접촉</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">비닐을 표면에 밀착시켜 덮기</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#8a3f4f;">국물 부족</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">눌러 담아 국물이 올라오게</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#8a3f4f;">잦은 개폐</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">먹을 통과 저장 통을 나누기</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:112px;text-align:center;font-size:12.5px;font-weight:800;color:#b8443a;">오염된 도구</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#41262d;">마른 젓가락과 깨끗한 집게 사용</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>골마지는 <b>효모</b>가 만든 막이라 곰팡이와 다릅니다</li>
+<li>비닐은 <b>표면에 밀착</b>시켜야 효과가 있습니다</li>
+<li>초록·검은 <b>곰팡이</b>가 보이면 그 부분은 버립니다</li>
+</ul>
+
+<h2>통을 나누면 오래 갑니다</h2>
+
+<p>가장 효과 좋은 요령은 <b>먹을 통과 저장 통을 나누는</b> 겁니다.</p>
+
+<p>당장 한 달 안에 먹을 김치는 작은 통에 담아 자주 여는 칸에 둡니다.</p>
+
+<p>나머지는 큰 통에 담아 <b>봄까지 안 열</b> 생각으로 깊은 칸에 넣어둡니다.</p>
+
+<p>큰 통을 매일 열면 온도가 오르내리면서 전체가 같이 익어버려요. 이게 제일 흔한 실수입니다.</p>
+
+<h3>꺼낼 때도 규칙이 있습니다</h3>
+
+<p>물기 있는 손이나 쓰던 젓가락을 김치통에 넣지 않습니다. <b>잡균이 들어가면</b> 그때부터 빨리 상해요.</p>
+
+<p>꺼낸 김치를 다시 통에 돌려 넣는 것도 피하는 게 좋습니다.</p>
+
+<p>꺼낸 뒤에는 남은 김치를 다시 <b>눌러서 국물에 잠기게</b> 정리하고 비닐을 덮습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f5eff1;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b5a5f;">
+<div style="flex:1.3;">모드</div><div style="flex:1.7;text-align:right;">언제 쓰나</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">익힘</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">덜 익은 김치를 빨리 익힐 때</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;background:#fdf9fa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">김치 보관</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">익은 상태를 오래 유지할 때</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">강김치</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">더 낮은 온도로 아삭함 유지</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2eaec;align-items:center;background:#fdf9fa;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">냉장·쌀보관</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">김치 외 식품을 넣을 때</div>
+</div>
+</div>
+
+<ul>
+<li>먹을 통과 <b>저장 통</b>을 나누면 훨씬 오래 갑니다</li>
+<li>큰 통은 <b>자주 열지 않는</b> 칸에 넣습니다</li>
+<li>꺼낼 때는 <b>마른 도구</b>를 쓰고 다시 눌러 정리합니다</li>
+</ul>
+
+<h2>김치냉장고 관리도 같이 해두세요</h2>
+
+<p>김장 전에 <b>내부 청소</b>를 한 번 하는 게 좋습니다. 묵은 냄새가 새 김치로 옮습니다.</p>
+
+<p>문 <b>패킹 틈</b>을 닦고 물기를 완전히 말립니다. 여기가 곰팡이 잘 생기는 자리예요.</p>
+
+<p>뚜껑형은 벽에서 조금 띄워 설치해야 방열이 됩니다. 딱 붙이면 전기를 더 먹습니다.</p>
+
+<p>겨울이라고 꺼두면 안 됩니다. 김치냉장고는 <b>사계절 켜두는</b> 가전이에요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">베란다 보관 주의</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">김치통을 베란다에 그냥 두면 <b style="color:#ff8a7a;">낮과 밤 온도 차</b>가 커서 익는 속도가 들쭉날쭉해집니다. 한파에 얼었다 녹으면 조직이 물러져요. <b style="color:#ffd97a;">일정한 저온</b>이 김치에는 제일 좋습니다.</p>
+</div>
+
+<ul>
+<li>김장 전에 <b>내부와 패킹</b>을 청소해 냄새를 없앱니다</li>
+<li>벽에서 <b>띄워 설치</b>해야 방열이 되고 전기가 덜 듭니다</li>
+<li>베란다 보관은 <b>온도 차</b> 때문에 맛이 들쭉날쭉해집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>김장 직후 상온에서 하루 정도 발효를 시작시킨 뒤 넣는다</p>
+<p>통은 80에서 90퍼센트만 채우고 눌러 담아 국물에 잠기게 한다</p>
+<p>비닐을 표면에 밀착시켜 공기를 차단하면 골마지가 줄어든다</p>
+<p>먹을 통과 저장 통을 나누고 큰 통은 자주 열지 않는다</p>
+<p>김치냉장고는 겨울에도 계속 켜두는 가전이다</p>
+</blockquote>
+
+<p>같은 김치를 담가도 담는 방식에 따라 봄에 먹을 때 차이가 확 납니다.</p>
+
+<p>손이 좀 더 가긴 해도 한 번 해보면 다음부터는 습관이 되더라고요. 이게 별거 아닌데 효과가 커요.</p>
+
+<p>제품별 모드 이름과 권장 온도는 제조사마다 달라 사용설명서를 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 김치 표면에 생기는 흰 막(골마지)은 곰팡이가 아니라 산막효모에 의해 형성되며 공기와 접촉한 표면에서 발생
+ · 골마지는 걷어내고 세척 후 조리에 사용 가능하나 풍미와 식감이 저하됨
+ · 초록색·검은색 곰팡이는 골마지와 구분되며 해당 부위는 폐기 권장
+ · 김치통을 가득 채우지 않는 이유는 발효 과정에서 가스가 발생해 내용물이 부풀기 때문
+ · 국물에 잠기게 눌러 담고 표면에 비닐을 밀착시키는 것이 공기 접촉을 줄이는 기본 방법
+ · 김장 직후 상온에 잠시 두어 발효를 시작시킨 뒤 저온 저장하는 것이 일반적인 방식
+ · 잦은 개폐로 인한 온도 변화는 발효 속도를 불균일하게 만들어 저장 통과 취식 통 분리가 권장됨
+ · 물기 있는 도구나 사용하던 식기를 김치통에 넣으면 오염으로 변질이 빨라짐
+ · 김치냉장고는 김치 보관·익힘·강김치·냉장 등 용도별 모드를 제공하며 사계절 가동하는 가전
+ · 방열 공간 확보(벽면 이격)와 도어 패킹 청결 관리가 성능·위생 유지에 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 상온 발효에 필요한 정확한 시간은 실내 온도와 양념 농도에 따라 달라 "하루 정도"로만 적었습니다
+ · 모드별 설정 온도는 제조사와 모델마다 달라 수치를 적지 않았습니다
+ · 김치가 가장 맛있는 저장 온도 범위는 기준이 여러 갈래라 특정 값을 넣지 않았습니다
+ · 김치냉장고 소비전력과 벽면 이격 거리 권장값은 모델별 사양이라 수치를 생략했습니다
+ · 김치통 소재별 냄새 배임 정도는 제품 차이가 있어 단정하지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "바로 넣었다가 봄까지 안 익어 생김치만 먹었다"는 화자 설정으로 지어낸 문장입니다
+ · "담는 방식에 따라 봄에 차이가 확 난다"는 서술은 경험담 형태로 적은 일반적 관찰입니다

@@ -1,0 +1,230 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 15일 18:48
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261115_1848]_창호_단열_문풍지\
+   ├── 📄 [원고 파일]: [20261115_1848]_창호_단열_문풍지_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-insulwindow.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261115_1848]_창호_단열_문풍지_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-insulwindow.html
+
+■ 제목: 겨울 창문 단열 순서. 뽁뽁이보다 틈새부터 막아야 합니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 창문단열, 문풍지, 에어캡, 방풍비닐, 단열커튼, 창틀실리콘, 겨울결로
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>겨울 창문 단열 순서. 뽁뽁이보다 틈새부터 막아야 합니다</p>
+
+<h2>새는 곳을 먼저 막아야 합니다</h2>
+
+<p>겨울 단열이라고 하면 <b>뽁뽁이</b>부터 떠올립니다. 그런데 순서가 틀렸어요.</p>
+
+<p>결론부터 말하면 <b>틈새를 막는 게 먼저</b>이고 유리 단열은 그다음입니다.</p>
+
+<p>바람이 그대로 들어오는 상태에서 유리만 덮어봐야 효과가 반도 안 나옵니다.</p>
+
+<p>저희도 첫해에 뽁뽁이만 잔뜩 붙였다가 별 차이를 못 느꼈더라고요. 알고 보니 창틀 틈이 문제였습니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f5f7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">단열 작업 순서</div>
+<div style="display:flex;flex-wrap:wrap;background:#f8fbfd;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dbe7ee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f7a;">1. 틈새</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">문풍지로 기밀 확보</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dbe7ee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f7a;">2. 유리</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">에어캡이나 방풍비닐</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dbe7ee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f7a;">3. 커튼</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">두꺼운 커튼으로 마감</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #dbe7ee;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f5f7a;">4. 현관문</div>
+<div style="font-size:12px;color:#6b7a80;margin-top:5px;line-height:1.7;">아래 틈도 함께 처리</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>순서는 <b>틈새 막기</b>가 먼저이고 유리 단열이 다음입니다</li>
+<li>바람이 새면 <b>유리만 덮어도</b> 효과가 반감됩니다</li>
+<li>커튼은 <b>마감</b> 단계로 생각하면 됩니다</li>
+</ul>
+
+<h2>어디가 새는지 어떻게 아나요?</h2>
+
+<p>손을 창틀 가장자리에 대고 천천히 훑어보세요. <b>찬 기운</b>이 느껴지는 곳이 있습니다.</p>
+
+<p>얇은 휴지를 한 장 들고 창틀을 따라 움직여보는 방법도 있습니다. 휴지가 흔들리면 바람이 새는 겁니다.</p>
+
+<p>가장 흔한 곳은 <b>창문이 만나는 가운데 부분</b>과 아래쪽 레일입니다.</p>
+
+<p>오래된 새시는 <b>실리콘 코킹</b>이 갈라져 있는 경우가 많더라고요. 거기로도 들어옵니다.</p>
+
+<h3>문풍지 붙이는 요령</h3>
+
+<p>붙이기 전에 창틀을 <b>깨끗이 닦고 말립니다.</b> 먼지가 있으면 금방 떨어져요.</p>
+
+<p>틈 크기에 맞는 두께를 고릅니다. 너무 두꺼우면 창이 안 닫히고, 얇으면 소용이 없습니다.</p>
+
+<p>붙인 뒤 창을 닫아보고 <b>뻑뻑하지 않은지</b> 확인하세요.</p>
+
+<p>겨울이 끝나고 뗄 때를 생각해 <b>잔사가 적은 제품</b>을 고르는 게 낫습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eaf4f9,#cde3ee);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f5f7a;margin-bottom:16px;">방법별 특징</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:100px;text-align:center;font-size:12.5px;font-weight:800;color:#2f5f7a;">문풍지</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a45;">틈새 바람 차단, 효과 대비 저렴</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:100px;text-align:center;font-size:12.5px;font-weight:800;color:#2f5f7a;">에어캡</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a45;">공기층으로 유리 단열, 채광 저하</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:100px;text-align:center;font-size:12.5px;font-weight:800;color:#2f5f7a;">방풍비닐</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a45;">창 전체를 덮어 공기층 형성</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:100px;text-align:center;font-size:12.5px;font-weight:800;color:#2f5f7a;">단열 커튼</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#1c3a45;">두껍고 길수록 유리</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>휴지나 손으로 <b>바람이 새는 곳</b>을 먼저 찾습니다</li>
+<li>창틀을 <b>닦고 말린</b> 뒤에 문풍지를 붙입니다</li>
+<li>붙인 뒤 창이 <b>제대로 닫히는지</b> 확인하세요</li>
+</ul>
+
+<h2>뽁뽁이는 어떻게 붙이나요?</h2>
+
+<p>유리에 <b>분무기로 물을 뿌리고</b> 밀착시키면 붙습니다. 접착제가 필요 없어요.</p>
+
+<p>볼록한 면이 <b>유리 쪽</b>을 향하게 붙입니다. 그래야 공기층이 제대로 생깁니다.</p>
+
+<p>붙이기 전에 유리를 깨끗이 닦으세요. 먼지가 있으면 들뜹니다.</p>
+
+<p>크기를 조금 넉넉히 잘라 붙이고 가장자리를 눌러줍니다.</p>
+
+<h3>단점도 있습니다</h3>
+
+<p>채광이 확실히 줄어듭니다. 방이 어두워지는 게 싫으면 <b>일부 창만</b> 붙이는 방법이 있습니다.</p>
+
+<p>거실 큰 창은 두고 안 쓰는 방이나 북향 창만 붙이는 식이죠.</p>
+
+<p>유리 표면 온도가 달라지면서 <b>결로 위치</b>가 바뀔 수 있습니다.</p>
+
+<p>붙였다고 환기를 안 하면 곰팡이가 생깁니다. 이건 꼭 챙겨야 합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef3f6;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55636a;">
+<div style="flex:1.3;">부위</div><div style="flex:1.7;text-align:right;">처리 방법</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">창문 맞물림</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">문풍지로 세로 틈 차단</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f8fbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">아래 레일</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">틈막이 스펀지 사용</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">창틀 실리콘</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">갈라졌으면 보수</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#f8fbfd;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">현관문 하단</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">브러시형 틈막이 부착</div>
+</div>
+</div>
+
+<ul>
+<li>에어캡은 <b>물만 뿌려</b> 유리에 붙입니다</li>
+<li><b>볼록한 면</b>이 유리 쪽을 향해야 합니다</li>
+<li>붙인 뒤에도 <b>환기</b>를 해야 곰팡이가 안 생깁니다</li>
+</ul>
+
+<h2>커튼도 단열재입니다</h2>
+
+<p>얇은 커튼은 효과가 거의 없습니다. <b>두께</b>가 있어야 합니다.</p>
+
+<p>길이는 <b>바닥에 닿을 정도</b>가 좋습니다. 짧으면 아래로 찬 공기가 흘러나옵니다.</p>
+
+<p>커튼 위쪽에 틈이 있으면 공기가 순환합니다. <b>커튼 박스</b>가 있으면 효과가 커요.</p>
+
+<p>낮에는 걷어서 햇빛을 들이고 해가 지면 치는 게 좋습니다. 이 습관이 생각보다 차이를 만들더라고요.</p>
+
+<h3>현관문도 챙기세요</h3>
+
+<p>현관문 아래 틈으로 들어오는 바람이 의외로 큽니다.</p>
+
+<p>브러시가 달린 틈막이를 붙이면 막을 수 있습니다.</p>
+
+<p>중문이 있다면 그것만으로도 효과가 상당합니다. 없다면 두꺼운 커튼으로 대신할 수 있어요.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">임차인이라면</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">창호 교체 같은 <b style="color:#ff8a7a;">시설 개선</b>은 집주인과 협의할 사안입니다. 새시가 심하게 낡았다면 <b style="color:#ffd97a;">수리 요청</b>을 해보고, 그전까지는 떼어낼 수 있는 방법으로 버티는 게 현실적이에요.</p>
+</div>
+
+<ul>
+<li>커튼은 <b>두껍고 길수록</b> 단열에 유리합니다</li>
+<li>낮에는 걷고 <b>해가 지면</b> 치는 습관이 도움이 됩니다</li>
+<li><b>현관문 아래</b> 틈도 함께 막아야 합니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>단열은 틈새를 막는 것부터 시작한다</p>
+<p>휴지나 손으로 바람이 새는 위치를 먼저 찾는다</p>
+<p>에어캡은 물만 뿌려 붙이고 볼록한 면이 유리를 향한다</p>
+<p>단열재를 붙였어도 환기를 해야 곰팡이를 막는다</p>
+<p>커튼은 두껍고 바닥까지 내려오는 것이 유리하다</p>
+</blockquote>
+
+<p>재료비는 몇 만원 안에서 해결됩니다. 난방비를 생각하면 금방 회수돼요.</p>
+
+<p>주말에 한나절이면 집 전체를 손볼 수 있습니다. 12월 되기 전에 해두면 편합니다.</p>
+
+<p>저소득 가구는 창호와 단열 시공을 지원하는 사업이 있으니 행정복지센터에 문의하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 주택 열손실의 상당 부분이 창과 개구부의 틈새(침기)와 유리면을 통해 발생함
+ · 침기(틈새 바람)를 차단하지 않은 상태에서 유리면 단열재만 시공하면 체감 효과가 제한됨
+ · 문풍지는 창문이 맞물리는 부위와 창틀 레일의 틈을 막는 데 쓰이며 부착 전 표면 청소와 건조가 필요
+ · 에어캡(포장용 완충재)은 별도 접착제 없이 유리에 물을 분무한 뒤 밀착시켜 부착하며, 볼록한 면을 유리 쪽으로 두어야 공기층이 형성됨
+ · 에어캡 부착 시 채광이 감소함
+ · 방풍비닐은 창 전체를 덮어 추가 공기층을 만드는 방식
+ · 단열재 부착으로 유리 표면 온도 조건이 달라지면 결로 발생 위치가 바뀔 수 있어 환기 관리가 필요
+ · 커튼은 두께가 있고 바닥까지 내려오는 형태일수록 단열에 유리하며 커튼 상부 틈을 막으면 공기 순환을 줄일 수 있음
+ · 현관문 하부 틈은 브러시형 틈막이 등으로 차단 가능
+ · 창틀 실리콘 코킹이 노후·균열되면 그 부위로 외기가 유입될 수 있어 보수가 필요
+ · 저소득 가구를 대상으로 단열·창호 개선을 지원하는 에너지효율개선 사업이 운영됨
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 단열 조치별 난방비 절감 효과의 수치는 주택 상태와 시공 방식에 따라 달라 비율을 적지 않았습니다
+ · 창호 에너지소비효율등급 기준과 표기 방식은 제품별로 달라 다루지 않았습니다
+ · 문풍지·에어캡 제품의 규격과 가격은 제품마다 달라 금액을 넣지 않았습니다
+ · 실리콘 코킹 보수의 적정 시기와 비용은 상태에 따라 달라 단정하지 않았습니다
+ · 에너지효율개선 사업의 대상 요건과 지원 범위는 연도별로 달라 세부를 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "첫해에 뽁뽁이만 붙였다가 차이를 못 느꼈다"는 화자 설정으로 지어낸 문장입니다
+ · "낮에 걷고 해 지면 치는 습관이 차이를 만든다"는 서술은 설정입니다

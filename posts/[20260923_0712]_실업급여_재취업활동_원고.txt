@@ -1,0 +1,177 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 09월 23일 07:12
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260923_0712]_실업급여_재취업활동\
+   ├── 📄 [원고 파일]: [20260923_0712]_실업급여_재취업활동_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-jobsearch.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260923_0712]_실업급여_재취업활동_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-jobsearch.html
+
+■ 제목: 실업급여 재취업활동 인정기준. 뭐가 되고 뭐가 안 되는지 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 실업급여, 재취업활동, 실업인정, 워크넷, 구직활동, 고용센터, 부정수급
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>실업급여 재취업활동 인정기준. 뭐가 되고 뭐가 안 되는지 정리</p>
+
+<h2>활동을 해야 급여가 나옵니다</h2>
+
+<p>실업급여는 <b>일정 주기마다 재취업활동을 증명</b>해야 다음 회차가 지급됩니다.</p>
+
+<p>결론부터 말하면 <b>입사 지원, 면접, 직업훈련, 고용센터 프로그램</b>이 대표적인 인정 활동입니다.</p>
+
+<p>단순히 채용공고를 들여다본 것만으로는 인정되지 않아요. <b>지원한 기록</b>이 남아야 합니다.</p>
+
+<p>회차가 뒤로 갈수록 요구 횟수가 늘어나서 초반에 여유 부리면 나중에 몰리더라고요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6fb0;color:#fff;padding:12px 16px;font-size:15px;font-weight:800;">인정되는 활동의 갈래</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;">
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#1d7050;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>구직 활동</div>
+<div style="font-size:13px;color:#3f5a4d;line-height:1.85;">입사지원서 제출<br />면접 참여<br />채용행사 참가<br />워크넷 구인 응모</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;border-right:1px solid #eef1f4;">
+<div style="font-size:13px;color:#1f4a7a;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#1f4a7a" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#1f4a7a"/></svg>훈련·교육</div>
+<div style="font-size:13px;color:#3f5060;line-height:1.85;">직업훈련 수강<br />국민내일배움카드<br />어학·자격 과정<br />온라인 훈련 일부</div>
+</div>
+<div style="flex:1 1 180px;padding:18px 14px;">
+<div style="font-size:13px;color:#a83a52;font-weight:800;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="5" fill="#a83a52" opacity="0.18"/><rect x="8" y="8" width="8" height="8" rx="2.5" fill="#a83a52"/></svg>센터 프로그램</div>
+<div style="font-size:13px;color:#6b4a45;line-height:1.85;">직업심리검사<br />취업특강<br />집단상담<br />1:1 취업상담</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li><b>입사지원과 면접</b>이 가장 확실한 구직활동입니다</li>
+<li><b>직업훈련 수강</b>도 활동으로 인정됩니다</li>
+<li>고용센터의 <b>상담과 특강</b> 참여도 포함됩니다</li>
+</ul>
+
+<p>봉사활동이나 자격증 공부는 <b>제한적으로만</b> 인정됩니다. 회차와 유형에 따라 달라요.</p>
+
+<h2>회차마다 요구가 다릅니다</h2>
+
+<p>1차 실업인정은 <b>수급자 교육 참여</b>만으로 되는 경우가 많습니다.</p>
+
+<p>2차부터는 <b>구직활동 실적</b>이 필요합니다. 회차가 갈수록 요구 횟수가 늘어요.</p>
+
+<p>수급 기간이 긴 분들은 후반부에 <b>구직활동만 인정</b>되는 구간이 옵니다.</p>
+
+<p>반복 수급자나 장기 수급자는 <b>기준이 더 까다롭게</b> 적용됩니다.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#2f9e6e"/><path d="M7 12.4l3.3 3.3L17 9" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>인정되는 것</div>
+<div style="font-size:13.5px;color:#3f5a4d;line-height:1.9;">이력서 제출 기록<br />면접 확인서<br />훈련기관 수강증<br />센터 프로그램 참여증<br />채용박람회 참가 확인</div>
+</div>
+<div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
+<div style="font-size:13px;font-weight:800;color:#b8463a;margin-bottom:10px;"><svg width="15" height="15" viewBox="0 0 24 24" style="vertical-align:-2px;margin-right:6px;"><circle cx="12" cy="12" r="11" fill="#cf4f43"/><path d="M8.3 8.3l7.4 7.4M15.7 8.3l-7.4 7.4" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>인정 안 되는 것</div>
+<div style="font-size:13.5px;color:#6b4a45;line-height:1.9;">공고 열람만 한 경우<br />친구 회사 형식 지원<br />같은 곳 반복 지원<br />면접 불참<br />허위로 꾸민 서류</div>
+</div>
+</div>
+
+<ul>
+<li>활동은 <b>증빙이 남는 방식</b>으로 해야 합니다</li>
+<li>같은 회사에 <b>반복 지원</b>하면 인정이 어렵습니다</li>
+<li>면접 통보를 받고 <b>불참</b>하면 문제가 됩니다</li>
+</ul>
+
+<h2>신고는 어떻게 하나요</h2>
+
+<p>고용보험 홈페이지나 모바일 앱에서 <b>온라인 실업인정</b>을 신청합니다.</p>
+
+<p>지정된 날짜에 신청해야 합니다. <b>날짜를 놓치면</b> 그 회차 급여가 밀려요.</p>
+
+<p>1차와 마지막 회차 등은 <b>센터 방문</b>이 필요할 수 있습니다.</p>
+
+<p>활동 내용을 적고 <b>증빙 자료</b>를 첨부하면 됩니다. 사진으로 올려도 됩니다.</p>
+
+<div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">부정수급은 배액으로 돌아옵니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">허위 구직활동이나 <b style="color:#ff8a7a;">취업 사실 미신고</b>는 부정수급입니다. 받은 돈을 반환하는 데서 끝나지 않고 <b style="color:#ffd97a;">추가 징수</b>가 붙습니다. 아르바이트를 했다면 그 사실을 그대로 신고하시는 게 훨씬 낫습니다.</p>
+</div>
+
+<ul>
+<li>허위 활동과 <b>취업 미신고</b>는 부정수급으로 처리됩니다</li>
+<li>반환에 더해 <b>추가 징수</b>가 붙습니다</li>
+<li>단기 아르바이트도 <b>그대로 신고</b>하면 문제없습니다</li>
+</ul>
+
+<h2>알아두면 편한 것들</h2>
+
+<p>워크넷에 <b>구직등록</b>을 먼저 해두셔야 합니다. 이게 안 되어 있으면 시작이 안 돼요.</p>
+
+<p>입사 지원은 <b>워크넷 외 사이트</b>에서도 됩니다. 지원 완료 화면을 캡처해두면 됩니다.</p>
+
+<p>이메일로 지원했다면 <b>보낸 메일함</b>을 캡처하면 증빙이 됩니다.</p>
+
+<p>면접을 봤다면 회사에 <b>면접확인서</b>를 요청할 수 있습니다. 대부분 써줍니다.</p>
+
+<h3>몸이 아파서 못 할 때</h3>
+
+<p>질병이나 부상으로 활동이 어려우면 <b>증빙을 내고</b> 사정을 설명할 수 있습니다.</p>
+
+<p>일정 기간 이상 취업이 불가능하면 <b>수급 기간 연기</b>를 신청하는 방법도 있습니다.</p>
+
+<p>임신이나 출산, 육아도 연기 사유가 됩니다. 담당자와 미리 상의하시면 됩니다.</p>
+
+<p>그냥 활동을 안 하고 넘기는 게 제일 손해입니다. 사정이 있으면 말씀하시는 게 낫습니다.</p>
+
+<h3>취업했으면 바로 알려야 합니다</h3>
+
+<p>재취업이 확정되면 <b>근로를 시작한 날 이전</b>에 신고해야 합니다.</p>
+
+<p>남은 급여일수가 일정 비율 이상 남아 있으면 <b>조기재취업수당</b>을 받을 수 있습니다.</p>
+
+<p>일정 기간 이상 계속 근무해야 인정되고 <b>이전 사업주에게 재취업</b>한 경우는 제외됩니다.</p>
+
+<p>신고를 미루면 수당은커녕 부정수급이 됩니다. 하루 이틀 아끼려다 크게 물어냅니다.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>회차마다 재취업활동을 증명해야 다음 급여가 나온다</p>
+<p>입사지원, 면접, 직업훈련, 센터 프로그램이 대표 활동이다</p>
+<p>공고 열람만으로는 인정되지 않고 지원 기록이 필요하다</p>
+<p>회차가 갈수록 요구 횟수와 기준이 강해진다</p>
+<p>허위 활동과 취업 미신고는 추가 징수까지 따라온다</p>
+</blockquote>
+
+<p>실업인정일은 달력에 표시해두세요. 놓치면 그 회차가 통째로 밀립니다.</p>
+
+<p>증빙은 그때그때 캡처해서 폴더에 모아두면 편합니다. 나중에 찾으려면 사라져 있더라고요.</p>
+
+<p>회차별 요구 횟수와 인정 범위는 개정될 수 있으니 고용24 안내로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 실업급여 수급자는 실업인정일마다 재취업활동을 신고해야 지급됨
+ · 인정 활동: 입사지원, 면접, 채용행사 참가, 직업훈련 수강, 고용센터 프로그램 참여 등
+ · 채용공고 단순 열람은 재취업활동으로 인정되지 않음
+ · 1차 실업인정은 수급자 교육 참여로 갈음되는 경우가 있음
+ · 회차가 진행될수록 요구되는 활동 횟수와 기준이 강화됨
+ · 반복 수급자·장기 수급자에게는 더 엄격한 기준 적용
+ · 온라인 실업인정은 고용보험 홈페이지 및 모바일 앱에서 가능
+ · 부정수급 시 반환과 별도로 추가 징수 부과
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 회차별 요구 활동 횟수는 수급 기간과 유형에 따라 달라 수치를 적지 않았습니다
+ · 봉사활동·자격증 취득의 인정 범위는 회차와 유형별로 달라 단정하지 않았습니다
+ · 추가 징수 배수는 위반 유형에 따라 달라 명시하지 않았습니다
+ · 센터 방문이 필요한 회차는 관할 고용센터 운영 방침에 따릅니다
+ · 수급 기간 연기 사유와 인정 기간은 개별 심사 사항입니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "초반에 여유 부리면 나중에 몰린다", "증빙은 나중에 찾으면 사라져 있다"는 체감 서술입니다

@@ -1,0 +1,234 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 20일 18:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261120_1838]_블랙프라이데이_배송대행\
+   ├── 📄 [원고 파일]: [20261120_1838]_블랙프라이데이_배송대행_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-blackfriday.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261120_1838]_블랙프라이데이_배송대행_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-blackfriday.html
+
+■ 제목: 해외직구 배송대행 주의점. 싸게 샀는데 배송비로 다 날립니다
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 해외직구, 배송대행, 배대지, 부피무게, 합산과세, 반품비, 가짜쇼핑몰
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>해외직구 배송대행 주의점. 싸게 샀는데 배송비로 다 날립니다</p>
+
+<h2>물건값만 보면 계산이 안 맞습니다</h2>
+
+<p>연말 할인 시즌에 해외직구를 시도하는 분이 늘어납니다. <b>배송대행</b>을 처음 써보는 경우도 많고요.</p>
+
+<p>결론부터 말하면 <b>물건값에 국제 배송비와 세금</b>을 더해야 진짜 가격이 나옵니다.</p>
+
+<p>특히 배송비는 <b>무게가 아니라 부피</b>로 계산되는 경우가 있어 예상보다 크게 나옵니다.</p>
+
+<p>저희도 처음에 옷을 여러 벌 담았다가 부피 때문에 배송비가 물건값을 따라잡을 뻔했더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#3f3f4a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">최종 가격에 들어가는 것</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafafb;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e2e2e6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f3f4a;">물건값</div>
+<div style="font-size:12px;color:#6b6b73;margin-top:5px;line-height:1.7;">현지 판매가와 현지 세금</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e2e2e6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f3f4a;">현지 배송비</div>
+<div style="font-size:12px;color:#6b6b73;margin-top:5px;line-height:1.7;">배대지까지 보내는 비용</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e2e2e6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f3f4a;">국제 배송비</div>
+<div style="font-size:12px;color:#6b6b73;margin-top:5px;line-height:1.7;">무게 또는 부피 기준</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #e2e2e6;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#3f3f4a;">세금</div>
+<div style="font-size:12px;color:#6b6b73;margin-top:5px;line-height:1.7;">기준 초과 시 관세와 부가세</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>최종 가격은 <b>물건값에 배송비와 세금</b>을 더한 값입니다</li>
+<li>국제 배송비는 <b>부피</b>로 계산되기도 합니다</li>
+<li>기준 금액을 넘으면 <b>관세와 부가세</b>가 붙습니다</li>
+</ul>
+
+<h2>배송대행이 뭔가요?</h2>
+
+<p>해외 쇼핑몰이 한국으로 안 보내주는 경우가 있습니다. 그때 쓰는 방법입니다.</p>
+
+<p>현지에 있는 <b>배송대행지</b> 주소로 물건을 받은 뒤 국내로 다시 보내는 구조예요.</p>
+
+<p>흔히 <b>배대지</b>라고 부릅니다. 업체마다 수수료와 서비스가 다릅니다.</p>
+
+<p>주문할 때 배송지를 배대지 주소로 넣고, 물건이 도착하면 <b>배송 신청</b>을 넣는 순서입니다.</p>
+
+<h3>검수와 합배송</h3>
+
+<p>대부분 업체가 <b>검수</b> 서비스를 제공합니다. 물건 상태를 사진으로 확인해주는 거죠.</p>
+
+<p>여러 곳에서 산 물건을 한 상자에 <b>합쳐 보내는</b> 서비스도 있습니다.</p>
+
+<p>합배송을 하면 배송비를 아낄 수 있지만 <b>합산과세</b> 위험이 생깁니다.</p>
+
+<p>같은 날 들어오는 물건이 합쳐져 기준 금액을 넘으면 세금이 붙습니다.</p>
+
+<div style="background:linear-gradient(135deg,#f1f1f4,#dcdce2);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#3f3f4a;margin-bottom:16px;">주문 전에 확인할 것</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f3f4a;">1</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#2b2b31;">개인통관고유부호 발급 여부</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f3f4a;">2</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#2b2b31;">배송비 계산 방식(무게·부피)</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#3f3f4a;">3</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#2b2b31;">면세 기준과 합산과세 가능성</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:44px;text-align:center;font-size:15px;font-weight:800;color:#b8443a;">4</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#2b2b31;">반품 조건과 국제 반송비</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>배대지 주소로 받은 뒤 <b>국내로 재발송</b>하는 구조입니다</li>
+<li>합배송은 배송비를 아끼지만 <b>합산과세</b> 위험이 있습니다</li>
+<li>주문 전에 <b>개인통관고유부호</b>를 발급받아야 합니다</li>
+</ul>
+
+<h2>배송비가 왜 이렇게 나오나요?</h2>
+
+<p>국제 배송은 실제 무게와 <b>부피 무게</b> 중 큰 값으로 요금을 매깁니다.</p>
+
+<p>가볍지만 부피가 큰 물건은 부피 기준으로 계산되어 비싸집니다.</p>
+
+<p>패딩이나 신발, 인형 같은 게 대표적이에요. 무게는 가벼운데 상자가 큽니다.</p>
+
+<p>배대지에서 <b>재포장</b>을 해주는 서비스가 있으면 부피를 줄일 수 있습니다.</p>
+
+<h3>세금은 언제 붙나요?</h3>
+
+<p>물품 가격이 일정 <b>기준 금액</b> 이하이면 세금 없이 통관되는 제도가 있습니다.</p>
+
+<p>기준을 넘으면 관세와 부가세가 부과됩니다. 품목에 따라 세율이 다릅니다.</p>
+
+<p>기준 금액은 <b>구매한 나라</b>에 따라 다르게 적용되는 경우가 있습니다.</p>
+
+<p>같은 날 여러 건이 들어오면 <b>합쳐서</b> 계산될 수 있으니 주문 시점을 나누는 게 좋습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f0f0f2;padding:12px 18px;font-size:12.5px;font-weight:800;color:#5c5c66;">
+<div style="flex:1.3;">상황</div><div style="flex:1.7;text-align:right;">주의점</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeef0;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">부피 큰 물건</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">부피 무게로 요금 산정</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeef0;align-items:center;background:#fafafb;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">여러 건 동시 도착</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">합산과세 가능성</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeef0;align-items:center;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">반품</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">국제 반송비 부담이 큼</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eeeef0;align-items:center;background:#fafafb;">
+<div style="flex:1.3;font-size:13.5px;font-weight:700;">전자제품</div>
+<div style="flex:1.7;text-align:right;font-size:13.5px;font-weight:700;">국내 인증과 전압 확인</div>
+</div>
+</div>
+
+<ul>
+<li>국제 배송은 <b>부피 무게</b>가 요금을 좌우합니다</li>
+<li>기준 금액을 넘으면 <b>관세와 부가세</b>가 붙습니다</li>
+<li>같은 날 들어온 여러 건은 <b>합산</b>될 수 있습니다</li>
+</ul>
+
+<h2>반품이 제일 어렵습니다</h2>
+
+<p>사이즈가 안 맞거나 물건이 마음에 안 들면 반품해야 하는데, 여기가 진짜 문제입니다.</p>
+
+<p>현지 쇼핑몰의 <b>반품 기간</b>은 짧은 편입니다. 배송에만 며칠이 걸리니 시간이 촉박해요.</p>
+
+<p>국제 반송비를 본인이 부담하면 <b>물건값보다</b> 더 나올 수도 있습니다.</p>
+
+<p>그래서 사이즈나 사양을 <b>주문 전에</b> 꼼꼼히 확인하는 게 최선입니다.</p>
+
+<h3>가짜 쇼핑몰을 조심하세요</h3>
+
+<p>할인 시즌에는 <b>가짜 사이트</b>가 늘어납니다. 유명 브랜드를 흉내 낸 주소들이죠.</p>
+
+<p>지나치게 싼 가격, 어색한 한국어, 계좌이체만 받는 결제 방식이 신호입니다.</p>
+
+<p>결제는 되도록 <b>카드</b>로 하세요. 문제가 생기면 이의제기를 할 수 있습니다.</p>
+
+<p>공식 홈페이지 주소를 직접 입력해 들어가는 습관이 안전합니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">통관 지연을 감안하세요</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">할인 시즌에는 물량이 몰려 <b style="color:#ff8a7a;">통관과 배송이 밀립니다.</b> 크리스마스 선물로 계획했다면 <b style="color:#ffd97a;">여유를 크게</b> 잡으세요. 제때 못 받는 경우가 흔합니다.</p>
+</div>
+
+<ul>
+<li>현지 <b>반품 기간</b>이 짧아 시간이 촉박합니다</li>
+<li>국제 반송비가 <b>물건값을 넘을</b> 수도 있습니다</li>
+<li>할인 시즌에는 <b>가짜 쇼핑몰</b>이 늘어납니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>최종 가격은 물건값에 배송비와 세금을 더해 계산한다</p>
+<p>국제 배송비는 부피 무게로 산정되는 경우가 많다</p>
+<p>같은 날 도착한 여러 건은 합산과세될 수 있다</p>
+<p>반품은 기간이 짧고 반송비 부담이 커서 어렵다</p>
+<p>결제는 카드로 하고 공식 주소로 직접 접속한다</p>
+</blockquote>
+
+<p>충동적으로 담다 보면 결제 직전에 금액이 확 뜁니다. 장바구니를 하루 묵혀보는 것도 방법이에요.</p>
+
+<p>처음이라면 작고 가벼운 물건으로 <b>한 번 연습</b>해보는 걸 권합니다. 흐름을 알고 나면 훨씬 수월하더라고요.</p>
+
+<p>면세 기준 금액과 품목별 세율, 통관 절차는 관세청 안내로 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 해외직구 방식은 해외 쇼핑몰이 직접 국내로 보내는 직접배송, 현지 배송대행지를 거치는 배송대행, 대행업체가 대신 구매하는 구매대행으로 나뉨
+ · 배송대행은 현지 배송대행지(배대지) 주소로 물품을 수령한 뒤 국내로 재발송하는 구조이며 업체별로 수수료와 서비스가 다름
+ · 해외직구 통관에는 개인통관고유부호가 필요함
+ · 국제 배송 요금은 실제 무게와 부피 무게 중 큰 값을 기준으로 산정되는 것이 일반적임
+ · 부피가 큰 물품은 재포장 서비스를 통해 부피를 줄일 수 있는 경우가 있음
+ · 물품 가격이 일정 기준 이하이면 관세·부가세 없이 통관되는 제도가 있으며 기준은 구매 국가와 통관 유형에 따라 다르게 적용됨
+ · 같은 날 입항하는 동일인의 여러 건은 합산되어 과세될 수 있음
+ · 여러 건을 한 상자로 묶는 합배송은 배송비를 줄이지만 합산과세 위험이 있음
+ · 해외 쇼핑몰의 반품 기간은 국내보다 짧은 편이며 국제 반송비는 구매자 부담인 경우가 많음
+ · 전자제품은 국내 인증, 전압·주파수, 사후 서비스 가능 여부를 확인해야 함
+ · 할인 시즌에는 유명 브랜드를 사칭한 가짜 쇼핑몰 피해가 늘어나며 카드 결제가 분쟁 대응에 유리함
+ · 대규모 할인 기간에는 물량 증가로 통관과 배송이 지연될 수 있음
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 면세 기준 금액(목록통관·일반통관)은 국가와 제도 변경에 따라 달라 수치를 적지 않았습니다
+ · 품목별 관세율과 부가세율은 품목 분류에 따라 달라 비율을 넣지 않았습니다
+ · 부피 무게 계산식의 계수는 운송사마다 달라 산식을 생략했습니다
+ · 배송대행 업체의 수수료와 재포장·검수 서비스 범위는 업체마다 달라 단정하지 않았습니다
+ · 합산과세의 판단 기준(동일 입항일·동일 판매자 등)의 세부는 통관 규정 확인이 필요해 적지 않았습니다
+ · 반품 시 납부한 세금의 환급 절차와 요건은 사안별로 달라 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "옷을 여러 벌 담았다가 부피 때문에 배송비가 물건값을 따라잡을 뻔했다"는 화자 설정으로 지어낸 문장입니다
+ · "장바구니를 하루 묵혀보는 것도 방법"이라는 서술은 설정입니다

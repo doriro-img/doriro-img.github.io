@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 11월 30일 12:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202611\[20261130_1242]_금_달러_투자_세금\
+   ├── 📄 [원고 파일]: [20261130_1242]_금_달러_투자_세금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-goldtax.png (매크로 변환 이미지 매칭용)
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261130_1242]_금_달러_투자_세금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-goldtax.html
+
+■ 제목: 금과 달러에 붙는 세금 구조. 같은 금인데 방법마다 다릅니다
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 금투자세금, KRX금시장, 골드뱅킹, 금ETF, 외화예금환차익, 배당소득세, 금융소득종합과세
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>금과 달러에 붙는 세금 구조. 같은 금인데 방법마다 다릅니다</p>
+
+<h2>무엇을 샀느냐가 아니라 어떻게 샀느냐입니다</h2>
+
+<p>금에 투자하는 방법은 여러 가지입니다. 그런데 <b>세금이 방법마다 다릅니다.</b></p>
+
+<p>결론부터 말하면 같은 금이라도 <b>실물이냐 계좌냐 펀드냐</b>에 따라 붙는 세금이 달라집니다.</p>
+
+<p>달러도 마찬가지예요. <b>환전해서 들고 있느냐</b>와 상품으로 사느냐가 다릅니다.</p>
+
+<p>수익률만 보고 골랐다가 세금까지 계산하니 순서가 바뀌더라고요. 미리 알아둘 만합니다.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#7a5f1f;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">금에 투자하는 방법</div>
+<div style="display:flex;flex-wrap:wrap;background:#fdfaf5;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eee6d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a5f1f;">실물 금</div>
+<div style="font-size:12px;color:#7d6f5a;margin-top:5px;line-height:1.7;">골드바 등 현물 매입</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eee6d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a5f1f;">거래소 금</div>
+<div style="font-size:12px;color:#7d6f5a;margin-top:5px;line-height:1.7;">증권 계좌로 매매</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eee6d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a5f1f;">금 통장</div>
+<div style="font-size:12px;color:#7d6f5a;margin-top:5px;line-height:1.7;">은행 골드뱅킹</div>
+</div>
+<div style="flex:1 1 160px;background:#fff;border:1px solid #eee6d3;border-radius:12px;padding:15px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#7a5f1f;">펀드·ETF</div>
+<div style="font-size:12px;color:#7d6f5a;margin-top:5px;line-height:1.7;">금 가격을 따라가는 상품</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>같은 금이라도 <b>매입 방식</b>에 따라 세금이 다릅니다</li>
+<li>실물, 거래소, 통장, <b>펀드</b>가 각각 다른 취급을 받습니다</li>
+<li>달러도 <b>환전 보유</b>와 상품 투자가 구분됩니다</li>
+</ul>
+
+<h2>실물 금은 부가세가 붙습니다</h2>
+
+<p>골드바 같은 <b>실물</b>을 사면 물건을 사는 거라 부가가치세가 붙습니다.</p>
+
+<p>살 때 이미 세금을 낸 셈이라 <b>가격이 올라야</b> 본전이 됩니다.</p>
+
+<p>대신 팔아서 생긴 차익 자체에 대해서는 별도로 과세되지 않는 구조입니다.</p>
+
+<p>보관과 진위 확인 같은 <b>실물 관리</b> 문제도 함께 따라옵니다.</p>
+
+<h3>거래소를 통한 금 거래</h3>
+
+<p>증권 계좌로 <b>거래소에서</b> 금을 사고파는 방법이 있습니다.</p>
+
+<p>주식처럼 사고팔 수 있고 소액으로도 가능합니다.</p>
+
+<p>이 경우 매매차익에 대한 세 부담이 <b>가장 가벼운</b> 편으로 알려져 있습니다.</p>
+
+<p>다만 <b>실물로 찾아가면</b> 그 시점에 부가가치세가 발생합니다.</p>
+
+<div style="background:linear-gradient(135deg,#fdf7ea,#f0e4c6);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#7a5f1f;margin-bottom:16px;">방법별 과세 성격</div>
+<div style="display:flex;flex-direction:column;gap:8px;">
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#7a5f1f;">실물 금</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d3117;">매입 시 부가가치세 부담</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#1d7050;">거래소 금</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d3117;">매매차익 과세 부담이 가벼움</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#7a5f1f;">금 통장</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d3117;">차익이 배당소득으로 과세</div>
+</div>
+<div style="display:flex;align-items:center;gap:12px;background:#fff;border-radius:11px;padding:13px 15px;">
+<div style="width:104px;text-align:center;font-size:12.5px;font-weight:800;color:#7a5f1f;">해외 ETF</div>
+<div style="flex:1;font-size:13.5px;font-weight:700;color:#3d3117;">양도소득세 대상</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>실물 금은 <b>매입 시점</b>에 부가가치세를 부담합니다</li>
+<li>거래소를 통한 금 거래는 <b>세 부담이 가벼운</b> 편입니다</li>
+<li>거래소 금을 <b>실물로 인출</b>하면 그때 부가세가 붙습니다</li>
+</ul>
+
+<h2>금 통장과 펀드는 다릅니다</h2>
+
+<p>은행 <b>금 통장</b>은 실제 금을 보관하는 게 아니라 가격에 연동되는 예금 형태입니다.</p>
+
+<p>여기서 생긴 차익은 <b>배당소득</b>으로 보아 과세됩니다.</p>
+
+<p>국내에 상장된 금 관련 상품도 대체로 같은 방식으로 처리됩니다.</p>
+
+<p>반면 <b>해외에 상장된</b> 상품을 샀다면 양도소득세 체계로 넘어갑니다.</p>
+
+<h3>금융소득이 쌓이면</h3>
+
+<p>배당소득으로 잡히는 수익은 이자·배당과 합쳐 <b>금융소득</b>이 됩니다.</p>
+
+<p>연간 금융소득이 기준을 넘으면 <b>종합과세</b> 대상이 될 수 있습니다.</p>
+
+<p>다른 소득과 합쳐져 세율이 올라가는 구조죠.</p>
+
+<p>예금 이자와 배당이 이미 많은 분이라면 <b>합산 결과</b>를 미리 계산해보는 게 좋습니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#f5f0e8;padding:12px 18px;font-size:12.5px;font-weight:800;color:#6b5f49;">
+<div style="flex:1.4;">구분</div><div style="flex:1.6;text-align:right;">세금 성격</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece2;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">외화 환전 보유</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">환차익 자체는 과세되지 않음</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece2;align-items:center;background:#fdfaf5;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">외화예금 이자</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">이자소득으로 과세</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece2;align-items:center;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">국내 상장 관련 상품</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">배당소득으로 과세</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #f2ece2;align-items:center;background:#fdfaf5;">
+<div style="flex:1.4;font-size:13.5px;font-weight:700;">해외 상장 상품</div>
+<div style="flex:1.6;text-align:right;font-size:13.5px;font-weight:700;">양도소득으로 과세</div>
+</div>
+</div>
+
+<ul>
+<li>금 통장 차익은 <b>배당소득</b>으로 과세됩니다</li>
+<li>해외 상장 상품은 <b>양도소득세</b> 체계입니다</li>
+<li>금융소득이 기준을 넘으면 <b>종합과세</b>로 갑니다</li>
+</ul>
+
+<h2>달러는 어떻게 되나요?</h2>
+
+<p>달러를 환전해서 그냥 <b>들고 있다가</b> 환율이 올라 이익이 나도 그 자체에는 세금이 없습니다.</p>
+
+<p>개인의 <b>환차익</b>은 과세 대상 소득으로 보지 않기 때문입니다.</p>
+
+<p>다만 외화예금에 붙는 <b>이자</b>에는 이자소득세가 붙습니다.</p>
+
+<p>달러 가격을 따라가는 <b>상품</b>을 사면 얘기가 달라집니다. 상품 성격에 따라 과세돼요.</p>
+
+<h3>어디에 상장됐는지가 갈림길</h3>
+
+<p>같은 대상을 따라가는 상품이라도 <b>국내 상장인지 해외 상장인지</b>에 따라 세금이 다릅니다.</p>
+
+<p>국내 상장은 배당소득, 해외 상장은 양도소득으로 잡히는 게 일반적입니다.</p>
+
+<p>양도소득은 <b>기본공제</b>가 있고 손익 통산이 됩니다.</p>
+
+<p>배당소득은 공제 없이 원천징수되고 <b>금융소득 합산</b>에 들어갑니다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">건강보험료도 봅니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">금융소득이 일정 수준을 넘으면 <b style="color:#ffd97a;">건강보험료</b> 산정에 반영될 수 있습니다. 피부양자라면 <b style="color:#ff8a7a;">자격에 영향</b>을 줄 수도 있어요. 세금만 보지 말고 함께 계산하세요.</p>
+</div>
+
+<ul>
+<li>개인의 <b>환차익</b> 자체는 과세되지 않습니다</li>
+<li>외화예금 <b>이자</b>에는 이자소득세가 붙습니다</li>
+<li>같은 대상이라도 <b>상장 시장</b>에 따라 세금이 다릅니다</li>
+</ul>
+
+<h2>고를 때 무엇을 보나요?</h2>
+
+<p>세금만으로 결정할 일은 아닙니다. <b>거래 편의성</b>과 비용도 함께 봐야죠.</p>
+
+<p>실물은 보관과 진위 문제가 있고 <b>매매 스프레드</b>도 큽니다.</p>
+
+<p>상품은 <b>운용 보수</b>가 매년 나갑니다. 장기로 들면 이 비용이 쌓입니다.</p>
+
+<p>세금과 비용, 편의성을 <b>같이 놓고</b> 비교해야 판단이 정확해집니다.</p>
+
+<h3>연말에 정리할 것</h3>
+
+<p>해외 상장 상품으로 이익이 났다면 <b>연말 손익 통산</b>을 검토해볼 수 있습니다.</p>
+
+<p>손실 난 종목을 같은 해에 정리하면 세 부담이 줄어듭니다.</p>
+
+<p>다만 <b>결제일 기준</b>이라 며칠 앞당겨야 합니다.</p>
+
+<p>배당소득이 많은 해라면 다음 해 <b>종합과세</b> 여부도 미리 계산해보세요.</p>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>같은 금이라도 매입 방식에 따라 세금이 다르다</p>
+<p>실물 금은 매입 시점에 부가가치세를 부담한다</p>
+<p>금 통장과 국내 상장 상품은 배당소득으로 과세된다</p>
+<p>해외 상장 상품은 양도소득세 체계로 넘어간다</p>
+<p>개인의 환차익 자체는 과세 대상이 아니다</p>
+</blockquote>
+
+<p>안전자산을 담아두고 싶다면 <b>어떤 방식</b>으로 담을지부터 정하는 게 순서입니다.</p>
+
+<p>같은 금액이라도 몇 년 뒤 손에 남는 돈이 달라지더라고요. 처음에 정해두면 편합니다.</p>
+
+<p>세율과 공제 기준, 상품별 과세 방식은 세법 개정으로 바뀌니 금융회사나 세무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 금 투자 방식은 실물(골드바 등) 매입, 한국거래소 금시장을 통한 매매, 은행 골드뱅킹(금 통장), 금 관련 펀드·ETF 등으로 나뉨
+ · 실물 금을 매입할 때는 재화의 공급으로 보아 부가가치세가 부과됨
+ · 한국거래소 금시장을 통한 매매는 증권 계좌로 이뤄지며 매매차익에 대한 세 부담이 상대적으로 가벼운 구조로 운영됨
+ · 거래소 금을 실물로 인출하는 경우 인출 시점에 부가가치세가 발생함
+ · 골드뱅킹(금 통장)에서 발생한 차익은 배당소득으로 과세됨
+ · 국내 상장 금 관련 ETF·펀드의 이익은 배당소득으로 과세되며, 해외 상장 ETF는 양도소득세 체계가 적용됨
+ · 해외 상장 상품의 양도소득에는 연간 기본공제가 적용되고 손익 통산이 가능하며 신고·납부는 다음 해에 이뤄짐
+ · 개인이 외화를 환전해 보유하다 발생한 환차익은 과세 대상 소득으로 보지 않음
+ · 외화예금에서 발생한 이자에는 이자소득세가 부과됨
+ · 이자와 배당을 합한 금융소득이 일정 기준을 넘으면 금융소득 종합과세 대상이 됨
+ · 금융소득 수준에 따라 건강보험료 산정과 피부양자 자격에 영향을 줄 수 있음
+ · 실물 금은 매수·매도 가격 차이와 보관·진위 확인 문제가 있으며 펀드·ETF에는 운용 보수가 발생함
+ · 해외 상장 상품의 손익 통산은 결제일을 기준으로 판단되므로 연말 매매 시 결제일 확인이 필요
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 부가가치세율과 배당소득·이자소득 원천징수 세율은 세법 사항이라 수치를 적지 않았습니다
+ · 해외 상장 상품 양도소득의 기본공제 금액과 세율은 개정 대상이라 넣지 않았습니다
+ · 금융소득 종합과세 기준 금액은 개정될 수 있어 수치를 생략했습니다
+ · 한국거래소 금시장 거래의 구체적인 비과세 범위와 요건은 확인이 필요해 단정하지 않았습니다
+ · 골드뱅킹의 수수료와 매매 스프레드는 은행마다 달라 적지 않았습니다
+ · 상품별 운용 보수는 상품마다 달라 비율을 넣지 않았습니다
+ · 건강보험료 반영 기준 금액과 산정 방식은 별도 규정이라 다루지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "수익률만 보고 골랐다가 세금까지 계산하니 순서가 바뀌더라"는 화자 설정으로 지어낸 문장입니다
+ · "처음에 정해두면 편하다"는 서술은 설정입니다
