@@ -25,9 +25,9 @@
 
 <p>선물세트 포장재는 <b>재질이 섞여 있어서</b> 분리가 어렵습니다.</p>
 
-<p>결론부터 말하면 <b>테이프와 라벨을 떼고, 재질별로 나누는</b> 게 핵심입니다.</p>
+<p>결론부터 말하면 <b>테이프와 라벨을 뗍니다. 재질별로 나누는</b> 게 핵심입니다.</p>
 
-<p>스티로폼은 <b>깨끗해야</b> 재활용됩니다. 오염되면 종량제 봉투로 가요.</p>
+<p>스티로폼은 깨끗해야 재활용됩니다. 오염되면 종량제 봉투로 가요.</p>
 
 <p>아이스팩은 내용물에 따라 처리가 달라지더라고요. 이게 제일 헷갈리는 품목입니다.</p>
 
@@ -63,7 +63,7 @@
 <li><b>아이스팩</b>은 내용물이 무엇인지에 따라 갈립니다</li>
 </ul>
 
-<p>포장 상자에 붙은 <b>운송장 스티커</b>는 개인정보라 떼서 따로 버리는 게 좋습니다.</p>
+<p>포장 상자에 붙은 운송장 스티커는 개인정보라 떼서 따로 버리는 게 좋습니다.</p>
 
 <h2>아이스팩이 제일 헷갈립니다</h2>
 
@@ -71,9 +71,9 @@
 
 <p>젤 형태의 <b>고흡수성수지</b>는 물에 녹지 않습니다. 하수구에 버리면 안 돼요.</p>
 
-<p>이 경우는 <b>뜯지 말고 통째로</b> 종량제 봉투에 넣습니다.</p>
+<p>이 경우는 뜯지 말고 통째로 종량제 봉투에 넣습니다.</p>
 
-<p>겉면에 <b>물 100퍼센트</b>라고 표시된 제품이 늘고 있습니다. 표시를 확인해보세요.</p>
+<p>겉면에 물 100퍼센트라고 표시된 제품이 늘고 있습니다. 표시를 확인해보세요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -92,15 +92,38 @@
 <li>재활용은 <b>깨끗한 상태</b>가 전제입니다</li>
 </ul>
 
-<h2>음식물과 일반 쓰레기 구분</h2>
+<div style="background:linear-gradient(135deg,#eef7f2,#d9ece3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:15px;">명절 뒤 헷갈리는 것들</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">아이스팩</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">젤은 일반, 물은 배출</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">스티로폼</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">이물질 떼고 따로</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">기름</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">굳혀서 일반쓰레기</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">과일 껍질</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">음식물로 배출</div></div>
+</div></div>
+
+<ul>
+<li><b>아이스팩</b>은 내용물에 따라 배출이 다릅니다</li>
+<li><b>기름</b>은 굳혀서 일반쓰레기로 버립니다</li>
+<li>스티로폼은 <b>이물질</b>을 떼야 재활용됩니다</li>
+</ul>
+
+<h2>음식물과 일반 쓰레기는 어떻게 나누나요?</h2>
 
 <p>명절 음식이 남으면 <b>음식물 쓰레기</b>로 버립니다. 다만 예외가 많아요.</p>
 
 <p>뼈, 조개껍데기, 게 껍질은 <b>일반 쓰레기</b>입니다. 동물이 먹을 수 없어서요.</p>
 
-<p>과일 씨앗이나 딱딱한 껍질도 <b>일반 쓰레기</b>로 갑니다.</p>
+<p>과일 씨앗이나 딱딱한 껍질도 일반 쓰레기로 갑니다.</p>
 
-<p>기준은 <b>가축 사료로 쓸 수 있는가</b>입니다. 이걸 기억하면 대부분 판단이 됩니다.</p>
+<p>기준은 가축 사료로 쓸 수 있는가입니다. 이걸 기억하면 대부분 판단이 됩니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">잘못 버리면 과태료가 나옵니다</div>
@@ -119,39 +142,43 @@
 
 <p>연휴 기간에 내놓으면 <b>며칠씩 방치</b>되는 경우가 생깁니다.</p>
 
-<p>지자체 홈페이지나 <b>아파트 공지</b>에 연휴 수거 일정이 올라옵니다.</p>
+<p>지자체 홈페이지나 아파트 공지에 연휴 수거 일정이 올라옵니다.</p>
 
-<p>수거가 없는 날에 내놓으면 <b>무단투기</b>로 볼 수 있으니 확인이 필요합니다.</p>
+<p>수거가 없는 날에 내놓으면 무단투기로 볼 수 있으니 확인이 필요합니다.</p>
 
 <h3>스티로폼을 잘 버리는 법</h3>
 
-<p>테이프와 송장, <b>은박 코팅</b>을 모두 제거해야 합니다.</p>
+<p>테이프와 송장, 은박 코팅을 모두 제거해야 합니다.</p>
 
-<p>색이 들어간 스티로폼이나 <b>과일 포장용 그물망</b>은 재활용이 어렵습니다.</p>
+<p>색이 들어간 스티로폼이나 과일 포장용 그물망은 재활용이 어렵습니다.</p>
 
-<p>부피가 크니 <b>부러뜨려서</b> 묶어두면 보관이 편합니다.</p>
+<p>부피가 크니 부러뜨려서 묶어두면 보관이 편합니다.</p>
 
 <p>오염이 심하면 억지로 재활용에 넣지 마세요. 오히려 전체가 못 쓰게 됩니다.</p>
 
 <h3>선물세트 상자 처리</h3>
 
-<p>종이 상자는 <b>납작하게 접어</b> 종이류로 배출합니다.</p>
+<p>종이 상자는 납작하게 접어 종이류로 배출합니다.</p>
 
-<p>안에 든 <b>완충재</b>는 재질에 따라 나눠야 합니다. 비닐과 스티로폼이 섞여 있어요.</p>
+<p>안에 든 완충재는 재질에 따라 나눠야 합니다. 비닐과 스티로폼이 섞여 있어요.</p>
 
-<p>보자기나 부직포 가방은 <b>재사용</b>하는 게 제일 낫습니다.</p>
+<p>보자기나 부직포 가방은 재사용하는 게 제일 낫습니다.</p>
 
 <p>재사용이 어렵다면 종량제 봉투로 가야 합니다. 의류수거함에 넣으면 안 됩니다.</p>
 
 <h3>제사 음식과 기름은 따로입니다</h3>
 
-<p>전을 부치고 남은 <b>식용유</b>는 하수구에 버리면 안 됩니다.</p>
+<p>전을 부치고 남은 식용유는 하수구에 버리면 안 됩니다.</p>
 
-<p>굳혀서 종량제 봉투에 넣거나 <b>폐식용유 수거함</b>에 모아 버립니다.</p>
+<p>굳혀서 종량제 봉투에 넣거나 폐식용유 수거함에 모아 버립니다.</p>
 
 <p>아파트 단지나 주민센터에 수거함이 있는 곳이 많더라고요. 한번 찾아보세요.</p>
 
 <p>하수구에 부으면 배관이 막히고 정화 비용도 커집니다. 조금 번거로워도 따로 처리하는 게 맞습니다.</p>
+
+<p>저희 집은 명절 지나면 아이스팩이 산더미가 됩니다. 아내랑 어디로 버리는지 매번 검색했어요...</p>
+
+<p>이건 몇 년째 헷갈린다.</p>
 
 <h2>정리하면</h2>
 

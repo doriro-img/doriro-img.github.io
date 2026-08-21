@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>정부가 지정한 날짜에</b> 자동으로 면제되며 따로 신청할 게 없습니다.</p>
 
-<p>하이패스 차량도 <b>그냥 지나가면</b> 됩니다. 요금이 0원으로 처리돼요.</p>
+<p>하이패스 차량도 그냥 지나가면 됩니다. 요금이 0원으로 처리돼요.</p>
 
 <p>매년 면제 날짜가 조금씩 달라서 연휴 직전에 발표를 확인하게 되더라고요. 미리 정해진 게 아닙니다.</p>
 
@@ -51,17 +51,17 @@
 <li>일부 <b>민자 고속도로</b>는 별도 협의에 따라 달라집니다</li>
 </ul>
 
-<p>민자 노선도 정부와 협의해 함께 면제하는 경우가 많습니다. 다만 <b>전 구간이 그렇지는</b> 않습니다.</p>
+<p>민자 노선도 정부와 협의해 함께 면제하는 경우가 많습니다. 다만 전 구간이 그렇지는 않습니다.</p>
 
-<h2>언제 지나가야 면제인가요</h2>
+<h2>언제 지나가야 면제인가요?</h2>
 
 <p>기준은 <b>지정 기간 안에 진입하고 진출</b>했는지입니다.</p>
 
 <p>면제 시작 전에 들어가서 면제 기간에 나온 경우 <b>처리 방식이 정해져</b> 있습니다.</p>
 
-<p>보통은 <b>진출 시점</b>을 기준으로 판단합니다. 다만 노선마다 세부 기준이 있어요.</p>
+<p>보통은 진출 시점을 기준으로 판단합니다. 다만 노선마다 세부 기준이 있어요.</p>
 
-<p>면제가 끝나는 날 자정을 넘겨 나오면 <b>요금이 부과</b>될 수 있습니다.</p>
+<p>면제가 끝나는 날 자정을 넘겨 나오면 요금이 부과될 수 있습니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -80,15 +80,42 @@
 <li>어느 쪽이든 <b>따로 신청할 게 없습니다</b></li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1d7050;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">통행료 면제 확인 순서</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#1d7050;opacity:1;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">기간 확인</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">정부 발표일</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#1d7050;opacity:0.84;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">하이패스</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">자동 처리</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#1d7050;opacity:0.6799999999999999;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">일반 차로</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">통행권 제출</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#1d7050;opacity:0.52;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">영수증 확인</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">면제 표시</div></div>
+</div></div>
+
+<ul>
+<li>면제는 <b>정해진 날짜</b>에만 적용됩니다</li>
+<li>하이패스는 <b>자동</b>으로 면제 처리됩니다</li>
+<li>하루 차이로 <b>요금이 붙을</b> 수 있습니다</li>
+</ul>
+
 <h2>하이패스 단말기는 켜두세요</h2>
 
 <p>면제라고 단말기를 꺼두면 안 됩니다. <b>미인식 차량</b>으로 처리될 수 있어요.</p>
 
 <p>카드를 빼둬도 마찬가지입니다. 통과 기록이 남아야 <b>면제 처리</b>가 됩니다.</p>
 
-<p>면제 기간에도 하이패스 차로의 <b>제한 속도</b>는 그대로 지켜야 합니다.</p>
+<p>면제 기간에도 하이패스 차로의 제한 속도는 그대로 지켜야 합니다.</p>
 
-<p>단말기 오류로 미납이 잡히면 <b>나중에 고지서</b>가 옵니다. 그때 문의하면 정정됩니다.</p>
+<p>단말기 오류로 미납이 잡히면 나중에 고지서가 옵니다. 그때 문의하면 정정됩니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">미납이 잡혔다면</div>
@@ -107,29 +134,33 @@
 
 <p>출발 전에 <b>교통 예보</b>를 확인하시면 시간대를 고를 수 있습니다.</p>
 
-<p>휴게소도 붐빕니다. <b>화장실과 주유</b>는 여유 있을 때 미리 해결하는 게 낫습니다.</p>
+<p>휴게소도 붐빕니다. 화장실과 주유는 여유 있을 때 미리 해결하는 게 낫습니다.</p>
 
 <p>졸음쉼터도 만차가 되는 경우가 많으니 무리하지 말고 일찍 쉬시는 걸 권합니다.</p>
 
 <h3>버스전용차로는 그대로입니다</h3>
 
-<p>통행료가 면제돼도 <b>버스전용차로 규정</b>은 유지됩니다.</p>
+<p>통행료가 면제돼도 버스전용차로 규정은 유지됩니다.</p>
 
-<p>명절 연휴에는 오히려 <b>운영 시간이 연장</b>되는 경우가 있습니다.</p>
+<p>명절 연휴에는 오히려 운영 시간이 연장되는 경우가 있습니다.</p>
 
-<p>9인승 이상 승용차는 <b>6명 이상 탑승</b> 조건을 채워야 진입할 수 있습니다.</p>
+<p>9인승 이상 승용차는 6명 이상 탑승 조건을 채워야 진입할 수 있습니다.</p>
 
 <p>단속 카메라가 있으니 조건을 안 채우고 들어가면 과태료가 나옵니다.</p>
 
 <h3>화물차와 대형차도 면제인가요</h3>
 
-<p>차종 구분 없이 면제되는 게 원칙입니다. <b>화물차와 버스</b>도 포함됩니다.</p>
+<p>차종 구분 없이 면제되는 게 원칙입니다. 화물차와 버스도 포함됩니다.</p>
 
-<p>다만 심야 할인 등 <b>기존 감면과 중복</b>되는 부분은 면제가 우선 적용됩니다.</p>
+<p>다만 심야 할인 등 기존 감면과 중복되는 부분은 면제가 우선 적용됩니다.</p>
 
 <p>영업용 차량도 같습니다. 별도 신청이나 증빙은 필요 없습니다.</p>
 
-<p>화물차 통행 제한이 걸리는 구간은 <b>면제와 무관하게</b> 그대로 적용됩니다.</p>
+<p>화물차 통행 제한이 걸리는 구간은 면제와 무관하게 그대로 적용됩니다.</p>
+
+<p>저희는 명절에 김포에서 내려갈 때 면제 기간을 챙겼습니다. 아내가 날짜를 미리 확인해줬어요...</p>
+
+<p>하루 차이로 통행료가 붙는다.</p>
 
 <h2>정리하면</h2>
 

@@ -55,9 +55,9 @@
 <li>장학금과 민방위 등 <b>생활 행정</b> 일정도 포함됩니다</li>
 </ul>
 
-<p>알림 종류는 계속 늘어나고 있습니다. 신청 화면에서 <b>원하는 것만 골라</b> 켤 수 있어요.</p>
+<p>알림 종류는 계속 늘어나고 있습니다. 신청 화면에서 원하는 것만 골라 켤 수 있어요.</p>
 
-<h2>어디서 신청하나요</h2>
+<h2>어디서 신청하나요?</h2>
 
 <p>가장 간단한 건 <b>카카오톡에서 국민비서를 검색</b>해 채널을 추가하는 방법입니다.</p>
 
@@ -65,7 +65,7 @@
 
 <p>정부24 홈페이지나 앱에서도 됩니다. 국민비서 메뉴가 따로 있어요.</p>
 
-<p>네이버앱, 토스, 페이코 등에서도 받을 수 있습니다. <b>본인이 자주 쓰는 곳</b>으로 고르면 됩니다.</p>
+<p>네이버앱, 토스, 페이코 등에서도 받을 수 있습니다. 본인이 자주 쓰는 곳으로 고르면 됩니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
@@ -84,13 +84,36 @@
 <li>수신 매체는 <b>본인이 자주 쓰는</b> 앱으로 고르면 됩니다</li>
 </ul>
 
+<div style="background:linear-gradient(135deg,#eef7f2,#d9ece3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#2f6fb0;margin-bottom:15px;">국민비서로 받는 알림</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6fb0;">건강검진 대상</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">연초에 안내</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6fb0;">교통 과태료</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">납부 기한 전</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6fb0;">세금 고지</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">납부일 알림</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#2f6fb0;">백신 접종</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">시기별 안내</div></div>
+</div></div>
+
+<ul>
+<li><b>건강검진</b>과 예방접종 시기를 놓치지 않게 됩니다</li>
+<li><b>과태료와 세금</b>은 기한 전에 알려줍니다</li>
+<li>알림 채널은 <b>카카오톡·문자</b> 중에 고릅니다</li>
+</ul>
+
 <h2>진짜인지 어떻게 구분하나요</h2>
 
 <p>이게 중요합니다. 과태료 안내를 사칭한 <b>스미싱</b>이 많으니까요.</p>
 
 <p>국민비서 알림은 <b>공식 채널이나 앱 안에서만</b> 옵니다. 일반 문자로는 오지 않아요.</p>
 
-<p>알림 안에 <b>단축 URL이나 앱 설치 유도</b>가 있으면 의심하셔야 합니다.</p>
+<p>알림 안에 단축 URL이나 앱 설치 유도가 있으면 의심하셔야 합니다.</p>
 
 <p>납부는 항상 해당 기관 사이트에서 직접 하시는 게 안전합니다. 링크를 안 타면 됩니다.</p>
 
@@ -117,21 +140,25 @@
 
 <h3>알림을 끄고 싶을 때</h3>
 
-<p>같은 화면에서 <b>수신 항목을 해제</b>하면 됩니다. 채널을 차단할 필요는 없어요.</p>
+<p>같은 화면에서 수신 항목을 해제하면 됩니다. 채널을 차단할 필요는 없어요.</p>
 
 <p>너무 많이 켜두면 알림이 잦아집니다. 필요한 것만 골라두는 편이 오래 씁니다.</p>
 
-<p>수신 매체를 바꾸고 싶으면 <b>기존 것을 해제하고</b> 새로 신청하면 됩니다.</p>
+<p>수신 매체를 바꾸고 싶으면 기존 것을 해제하고 새로 신청하면 됩니다.</p>
 
 <h3>부모님 것도 챙겨두세요</h3>
 
-<p>고령층이 오히려 <b>건강검진과 예방접종</b> 알림 덕을 많이 봅니다.</p>
+<p>고령층이 오히려 건강검진과 예방접종 알림 덕을 많이 봅니다.</p>
 
 <p>우편은 놓치기 쉽고 전화 안내는 보이스피싱과 헷갈리시더라고요. 카톡 알림이 그 사이를 메워줍니다.</p>
 
-<p>명절에 모이면 <b>10분만 앉아서</b> 설정해드리면 됩니다. 채널 추가하고 항목만 체크하면 끝이에요.</p>
+<p>명절에 모이면 10분만 앉아서 설정해드리면 됩니다. 채널 추가하고 항목만 체크하면 끝이에요.</p>
 
 <p>알림이 왔을 때 링크를 누르지 말라는 것만 같이 알려드리면 더 좋습니다.</p>
+
+<p>저는 국민비서 알림을 켜두고 나서 놓치는 게 확 줄었습니다. 아내한테도 깔아주라고 했어요...</p>
+
+<p>알림 하나로 과태료 몇 번을 막았다.</p>
 
 <h2>정리하면</h2>
 

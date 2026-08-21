@@ -25,9 +25,9 @@
 
 <p>전기차 충전은 <b>완속</b>과 <b>급속</b>의 kWh당 요금이 다릅니다. 급속이 더 비싸요.</p>
 
-<p>결론부터 말하면 <b>평소엔 완속, 급할 때만 급속</b>이 정답입니다. 이 원칙 하나로 충전비가 크게 갈립니다.</p>
+<p>결론부터 말하면 평소엔 완속, 급할 때만 급속이 정답입니다. 이 원칙 하나로 충전비가 크게 갈립니다.</p>
 
-<p>여기에 <b>로밍</b>이라는 함정이 있습니다. 내가 가입한 사업자가 아닌 충전기를 쓰면 요금이 더 붙거든요.</p>
+<p>여기에 로밍이라는 함정이 있습니다. 내가 가입한 사업자가 아닌 충전기를 쓰면 요금이 더 붙거든요.</p>
 
 <p>처음엔 아무 충전기나 꽂았는데 나중에 명세서를 보니 같은 양인데 금액이 들쭉날쭉하더라고요. 로밍 때문이었습니다.</p>
 
@@ -51,7 +51,7 @@
 <li>집이나 직장에서 <b>완속으로 채우는 게</b> 가장 경제적입니다</li>
 </ul>
 
-<p>전기차의 경제성은 <b>완속을 얼마나 쓰느냐</b>에 달려 있습니다. 급속만 쓰면 절감 효과가 확 줄어요.</p>
+<p>전기차의 경제성은 완속을 얼마나 쓰느냐에 달려 있습니다. 급속만 쓰면 절감 효과가 확 줄어요.</p>
 
 <h2>로밍 요금을 조심하세요</h2>
 
@@ -61,7 +61,7 @@
 
 <p>다른 사업자 충전기를 내 카드로 쓰면 <b>로밍 요금</b>이 붙습니다. 단가가 올라가요.</p>
 
-<p>회원카드 없이 <b>신용카드로 바로 결제</b>하면 비회원 요금이라 가장 비쌉니다.</p>
+<p>회원카드 없이 신용카드로 바로 결제하면 비회원 요금이라 가장 비쌉니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -82,15 +82,32 @@
 
 <p>카드가 여러 장이면 지갑이 두꺼워지지만 몇백원씩 쌓이면 무시 못 합니다.</p>
 
+<div style="background:linear-gradient(135deg,#eef4fa,#dae5f0);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">충전 방식에 따라 요금이 갈립니다</div>
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#1f4a7a;margin-bottom:10px;">완속 충전</div>
+<div style="font-size:13px;color:#41586b;line-height:1.95;">주로 아파트·직장<br />시간이 오래 걸림<br />단가가 낮은 편<br />야간에 걸어두면 유리</div></div>
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#b8443a;margin-bottom:10px;">급속 충전</div>
+<div style="font-size:13px;color:#6b4a45;line-height:1.95;">고속도로·충전소<br />30분 안팎<br />단가가 높은 편<br />급할 때만 쓰는 게 낫다</div></div>
+</div></div>
+
+<ul>
+<li><b>완속</b>은 단가가 낮고 시간이 오래 걸립니다</li>
+<li><b>급속</b>은 빠른 대신 단가가 올라갑니다</li>
+<li>충전 <b>회원 카드</b>에 따라 할인이 달라집니다</li>
+</ul>
+
 <h2>80%에서 끊는 이유</h2>
 
 <p>급속 충전은 <b>80% 부근까지</b>가 빠릅니다. 그 뒤로는 속도가 확 떨어져요.</p>
 
 <p>배터리 보호를 위해 <b>출력을 낮추기</b> 때문입니다. 마지막 20%를 채우는 데 앞의 80%만큼 걸리기도 합니다.</p>
 
-<p>그래서 급속에서는 <b>80% 정도에서 끊고</b> 출발하는 게 시간과 요금 모두 유리합니다.</p>
+<p>그래서 급속에서는 80% 정도에서 끊고 출발하는 게 시간과 요금 모두 유리합니다.</p>
 
-<p>장거리를 갈 때도 한 번에 꽉 채우기보다 <b>중간에 짧게 두 번</b> 채우는 쪽이 빠릅니다.</p>
+<p>장거리를 갈 때도 한 번에 꽉 채우기보다 중간에 짧게 두 번 채우는 쪽이 빠릅니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">충전 방해도 과태료입니다</div>
@@ -111,17 +128,21 @@
 
 <p>일정 규모 이상 공동주택은 <b>충전시설 설치 의무</b>가 있습니다. 신축일수록 잘 갖춰져 있어요.</p>
 
-<p>없다면 <b>입주자대표회의 동의</b>를 거쳐 설치를 요청할 수 있습니다. 시간이 걸리는 절차입니다.</p>
+<p>없다면 입주자대표회의 동의를 거쳐 설치를 요청할 수 있습니다. 시간이 걸리는 절차입니다.</p>
 
-<p>지자체가 <b>설치비를 지원</b>하는 사업도 있으니 관리사무소에 문의해보세요.</p>
+<p>지자체가 설치비를 지원하는 사업도 있으니 관리사무소에 문의해보세요.</p>
 
-<h3>연료비는 얼마나 차이 날까</h3>
+<h3>연료비는 얼마나 차이 날까?</h3>
 
-<p>같은 거리를 갈 때 전기차 충전비는 <b>휘발유 값보다 확실히 적습니다.</b> 완속 기준이면 차이가 더 커요.</p>
+<p>같은 거리를 갈 때 전기차 충전비는 휘발유 값보다 확실히 적습니다. 완속 기준이면 차이가 더 커요.</p>
 
-<p>다만 급속만 쓰면 그 차이가 줄어듭니다. 하이브리드와 비교하면 <b>역전되는 경우</b>도 있습니다.</p>
+<p>다만 급속만 쓰면 그 차이가 줄어듭니다. 하이브리드와 비교하면 역전되는 경우도 있습니다.</p>
 
-<p>충전 환경이 좋지 않은데 전기차를 사면 기대했던 절감이 안 나옵니다. 차보다 <b>충전 환경이 먼저</b>예요.</p>
+<p>충전 환경이 좋지 않은데 전기차를 사면 기대했던 절감이 안 나옵니다. 차보다 충전 환경이 먼저예요.</p>
+
+<p>저희는 아직 전기차가 없지만 주변에서 요금 얘기를 자주 듣습니다. 아내가 충전기 있는 집을 알아보자고 하더라고요...</p>
+
+<p>완속이냐 급속이냐로 요금이 꽤 갈린다.</p>
 
 <h2>정리하면</h2>
 

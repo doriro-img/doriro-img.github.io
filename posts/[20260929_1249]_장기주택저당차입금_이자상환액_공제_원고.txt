@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>주택 요건, 대출 요건, 명의 요건</b>을 모두 충족해야 합니다.</p>
 
-<p>세액공제가 아니라 <b>소득공제</b>입니다. 소득이 높을수록 효과가 큽니다.</p>
+<p>세액공제가 아니라 소득공제입니다. 소득이 높을수록 효과가 큽니다.</p>
 
 <p>조건이 여러 개라 하나만 어긋나도 통째로 날아가더라고요. 대출받기 전에 확인하는 게 순서입니다.</p>
 
@@ -55,17 +55,17 @@
 <li>주택 소유자와 <b>채무자가 같아야</b> 합니다</li>
 </ul>
 
-<p>이 셋 중 하나라도 안 맞으면 <b>공제가 전혀 안 됩니다</b>. 부분 인정이 없어요.</p>
+<p>이 셋 중 하나라도 안 맞으면 공제가 전혀 안 됩니다. 부분 인정이 없어요.</p>
 
 <h2>명의에서 많이 걸립니다</h2>
 
 <p>가장 흔한 실수입니다. 집은 <b>아내 명의</b>인데 대출은 <b>남편 명의</b>인 경우요.</p>
 
-<p>이러면 공제를 받을 수 없습니다. <b>소유자와 채무자</b>가 일치해야 해요.</p>
+<p>이러면 공제를 받을 수 없습니다. 소유자와 채무자가 일치해야 해요.</p>
 
-<p>공동명의로 집을 사고 <b>한 사람만 대출</b>을 받은 경우도 주의가 필요합니다.</p>
+<p>공동명의로 집을 사고 한 사람만 대출을 받은 경우도 주의가 필요합니다.</p>
 
-<p>대출을 실행하기 전에 <b>등기 명의</b>와 맞춰두시는 게 좋습니다.</p>
+<p>대출을 실행하기 전에 등기 명의와 맞춰두시는 게 좋습니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,38 @@
 <li>기준시가는 <b>취득 당시</b>를 기준으로 봅니다</li>
 </ul>
 
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">요건</div><div style="flex:1;text-align:right;">기준</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주택 요건</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">취득 당시 기준가액</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">상환 기간</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">장기 고정이 유리</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">명의</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">본인 명의 차입</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">세대</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">1세대 1주택 원칙</div></div>
+</div>
+
+<ul>
+<li><b>취득 당시</b> 기준가액을 봅니다</li>
+<li><b>장기 고정금리</b>일수록 공제 한도가 큽니다</li>
+<li>차입금 명의가 <b>본인</b>이어야 합니다</li>
+</ul>
+
 <h2>한도는 조건마다 다릅니다</h2>
 
 <p>공제 한도는 <b>상환 기간과 금리 유형</b>에 따라 구간이 나뉩니다.</p>
 
 <p>장기일수록, <b>고정금리에 비거치식</b>일수록 한도가 높습니다.</p>
 
-<p>변동금리이거나 거치 기간이 있으면 <b>한도가 줄어듭니다</b>.</p>
+<p>변동금리이거나 거치 기간이 있으면 한도가 줄어듭니다.</p>
 
-<p>같은 이자를 내도 <b>대출 구조에 따라</b> 돌려받는 금액이 달라지는 셈이에요.</p>
+<p>같은 이자를 내도 대출 구조에 따라 돌려받는 금액이 달라지는 셈이에요.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">대출 구조를 미리 설계하세요</div>
@@ -105,45 +128,49 @@
 <li>대출 조건을 <b>세금까지 감안</b>해 고르는 게 좋습니다</li>
 </ul>
 
-<h2>중간에 집이 늘면 어떻게 되나</h2>
+<h2>중간에 집이 늘면 어떻게 되나?</h2>
 
 <p>공제를 받는 도중에 <b>주택을 하나 더</b> 취득하면 문제가 됩니다.</p>
 
 <p>과세기간 종료일 기준으로 <b>2주택 이상</b>이면 그해 공제를 못 받습니다.</p>
 
-<p>다시 1주택이 되면 <b>이후 연도부터</b> 공제가 되살아납니다.</p>
+<p>다시 1주택이 되면 이후 연도부터 공제가 되살아납니다.</p>
 
-<p>상속으로 지분을 받은 경우 등 <b>예외</b>가 있으니 개별 확인이 필요합니다.</p>
+<p>상속으로 지분을 받은 경우 등 예외가 있으니 개별 확인이 필요합니다.</p>
 
 <h3>대환대출을 할 때</h3>
 
-<p>다른 은행으로 <b>갈아타도</b> 공제를 이어갈 수 있습니다.</p>
+<p>다른 은행으로 갈아타도 공제를 이어갈 수 있습니다.</p>
 
-<p>다만 <b>기존 대출 잔액 범위</b> 안에서만 인정됩니다. 늘려 받으면 그 부분은 제외예요.</p>
+<p>다만 기존 대출 잔액 범위 안에서만 인정됩니다. 늘려 받으면 그 부분은 제외예요.</p>
 
-<p>새 대출도 <b>상환 기간 요건</b>을 갖춰야 합니다. 짧게 잡으면 자격을 잃습니다.</p>
+<p>새 대출도 상환 기간 요건을 갖춰야 합니다. 짧게 잡으면 자격을 잃습니다.</p>
 
-<p>갈아타기 전에 은행에 <b>공제 승계 가능 여부</b>를 물어보시는 게 안전합니다.</p>
+<p>갈아타기 전에 은행에 공제 승계 가능 여부를 물어보시는 게 안전합니다.</p>
 
 <h3>주택청약 소득공제와 다릅니다</h3>
 
-<p>주택청약저축 납입액 공제는 <b>무주택 세대주</b>가 대상입니다.</p>
+<p>주택청약저축 납입액 공제는 무주택 세대주가 대상입니다.</p>
 
-<p>이건 집을 사기 전 단계의 제도예요. 이자상환액 공제와 <b>목적이 다릅니다</b>.</p>
+<p>이건 집을 사기 전 단계의 제도예요. 이자상환액 공제와 목적이 다릅니다.</p>
 
-<p>월세 세액공제도 별개입니다. <b>임차인</b>을 위한 제도니까요.</p>
+<p>월세 세액공제도 별개입니다. 임차인을 위한 제도니까요.</p>
 
 <p>본인 상황에 맞는 걸 골라 쓰시면 됩니다. 대부분 동시에 해당하지는 않습니다.</p>
 
 <h3>서류는 어떻게 챙기나</h3>
 
-<p>대부분 <b>간소화 자료</b>에 자동으로 뜹니다. 은행이 국세청에 자료를 보냅니다.</p>
+<p>대부분 간소화 자료에 자동으로 뜹니다. 은행이 국세청에 자료를 보냅니다.</p>
 
-<p>첫해에는 <b>등기부등본과 대출 관련 서류</b>를 회사에 함께 내야 하는 경우가 있습니다.</p>
+<p>첫해에는 등기부등본과 대출 관련 서류를 회사에 함께 내야 하는 경우가 있습니다.</p>
 
-<p>주민등록등본으로 <b>세대 구성</b>을 확인합니다. 세대원 주택 보유 여부를 보거든요.</p>
+<p>주민등록등본으로 세대 구성을 확인합니다. 세대원 주택 보유 여부를 보거든요.</p>
 
-<p>자료가 안 뜨면 은행에서 <b>이자상환증명서</b>를 발급받으면 되더라고요.</p>
+<p>자료가 안 뜨면 은행에서 이자상환증명서를 발급받으면 되더라고요.</p>
+
+<p>저희도 주담대 이자를 공제받으면서 조건을 처음 알았습니다. 아내가 등기 시점부터 따져보자고 하더라고요...</p>
+
+<p>조건 하나라도 어긋나면 아예 안 된다.</p>
 
 <h2>정리하면</h2>
 

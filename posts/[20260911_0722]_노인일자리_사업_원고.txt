@@ -14,7 +14,7 @@
 
 ■ 제목: 노인일자리 사업 종류와 신청방법. 공익활동형 사회서비스형 차이 정리
 ■ 카테고리: 정부 정책 및 생활 규정
-■ 태그: 노인일자리, 공익활동형, 사회서비스형, 노인일자리여기, 시니어클럽
+■ 태그: 노인일자리, 공익활동형, 사회서비스형, 노인일자리여기, 시니어클럽, 노인일자리신청, 노인일자리활동비
 
 ────────────────────────────────────────────────────────────
 ▼▼▼ 여기서부터 복사 ▼▼▼
@@ -25,9 +25,9 @@
 
 <p>노인일자리 사업은 크게 <b>공익활동형, 사회서비스형, 시장형, 취업알선형</b>으로 나뉩니다. 어느 유형이냐에 따라 조건이 완전히 달라요.</p>
 
-<p>결론부터 말하면 <b>공익활동형</b>은 만 65세 이상 기초연금 수급자가 대상이고 활동 시간이 짧습니다. <b>사회서비스형</b>은 만 60세 이상이면 되고 시간과 수당이 더 큽니다.</p>
+<p>결론부터 말하면 <b>공익활동형</b>은 만 65세 이상 기초연금 수급자가 대상이고 활동 시간이 짧습니다. 사회서비스형은 만 60세 이상이면 되고 시간과 수당이 더 큽니다.</p>
 
-<p>신청은 <b>복지로</b>나 주민센터, 시니어클럽에서 합니다. 모집은 보통 연말에 다음 해 인원을 뽑아요.</p>
+<p>신청은 복지로나 주민센터, 시니어클럽에서 합니다. 모집은 보통 연말에 다음 해 인원을 뽑아요.</p>
 
 <p>아버지 일자리를 알아보다가 유형이 이렇게 갈리는 걸 알았거든요. 조건 맞는 걸 골라야지 아무거나 넣으면 떨어지더라고요.</p>
 
@@ -69,13 +69,36 @@
 
 <p>노노케어는 <b>어르신이 다른 어르신을 돌보는</b> 활동이에요. 홀로 사는 이웃을 방문해 안부를 확인합니다.</p>
 
-<p>활동비는 월 20만원대 후반 수준입니다. 큰돈은 아니지만 <b>기초연금과 별개</b>로 받는 거라 도움이 됩니다.</p>
+<p>활동비는 월 20만원대 후반 수준입니다. 큰돈은 아니지만 기초연금과 별개로 받는 거라 도움이 됩니다.</p>
 
 <h3>기초연금을 받고 있어야 합니다</h3>
 
-<p>공익활동형은 <b>기초연금 수급자</b>가 조건입니다. 이게 가장 큰 문턱이에요.</p>
+<p>공익활동형은 기초연금 수급자가 조건입니다. 이게 가장 큰 문턱이에요.</p>
 
 <p>기초연금을 안 받고 계시면 사회서비스형이나 시장형 쪽을 보셔야 합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">유형</div><div style="flex:1;text-align:right;">활동 성격</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">공익활동형</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">지역 공익 활동</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">사회서비스형</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">돌봄·교육 지원</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">시장형</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">매장 운영 참여</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">취업알선형</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">기업 연계 취업</div></div>
+</div>
+
+<ul>
+<li><b>공익활동형</b>이 참여 인원이 가장 많습니다</li>
+<li><b>사회서비스형</b>은 활동 시간과 수당이 더 큽니다</li>
+<li>유형에 따라 <b>기초연금 수급</b> 요건이 다릅니다</li>
+</ul>
 
 <h2>사회서비스형이 조건은 더 좋습니다</h2>
 
@@ -126,7 +149,7 @@
 <li>건강 상태에 따라 <b>배치되는 활동</b>이 달라집니다</li>
 </ul>
 
-<h2>부모님께 권할 때 알아두면 좋은 것</h2>
+<h2>부모님께 권할 때 뭘 알아두면 좋을까요?</h2>
 
 <p>돈보다 <b>규칙적인 활동</b>이 주는 효과를 말씀드리는 게 설득이 잘 됩니다.</p>
 
@@ -135,6 +158,10 @@
 <p>활동 중 사고를 대비한 <b>상해보험</b>이 적용되는 경우가 많습니다. 이 부분도 안심 요소예요.</p>
 
 <p>신청은 자녀가 대신 도와드려도 됩니다. 서류가 복잡하진 않은데 온라인은 어려워하시니까요.</p>
+
+<p>저희 부모님도 김포에서 이 사업에 참여하고 계십니다. 용돈보다 나갈 데가 생긴 걸 더 좋아하시더라고요...</p>
+
+<p>돈보다 나갈 데가 있는 게 큰가 보다.</p>
 
 <h2>정리하면</h2>
 

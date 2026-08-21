@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>설과 추석 기간에는 농수산물 선물 한도가 두 배</b>로 올라갑니다. 이 기간이 아니면 평상시 한도를 적용해요.</p>
 
-<p>그리고 <b>상품권은 종류를 불문하고</b> 선물로 주고받을 수 없습니다. 금액이 얼마든 안 됩니다.</p>
+<p>그리고 상품권은 종류를 불문하고 선물로 주고받을 수 없습니다. 금액이 얼마든 안 됩니다.</p>
 
 <p>거래처에 명절 선물 보낼 때 이 기준을 몰라서 애매하게 처리하는 경우가 많더라고요. 알고 보면 규칙이 단순합니다.</p>
 
@@ -55,17 +55,17 @@
 <li><b>경조사비</b>는 현금과 화환을 함께 보내면 합산해서 봅니다</li>
 </ul>
 
-<p>정확한 금액은 시행령에서 정하는데 <b>개정된 이력</b>이 있습니다. 최근 기준으로 확인하시는 게 안전합니다.</p>
+<p>정확한 금액은 시행령에서 정하는데 개정된 이력이 있습니다. 최근 기준으로 확인하시는 게 안전합니다.</p>
 
-<h2>명절 기간이 언제인가요</h2>
+<h2>명절 기간이 언제인가요?</h2>
 
 <p>설과 추석 <b>당일을 기준으로 앞뒤 일정 기간</b>이 명절 기간으로 정해집니다. 명절 전이 훨씬 길어요.</p>
 
 <p>이 기간에는 <b>농수산물과 농수산가공품</b> 선물 한도가 평상시의 두 배로 올라갑니다.</p>
 
-<p>과일, 한우, 굴비, 인삼 같은 것들이 여기 해당합니다. <b>가공품은 원료 비중</b> 요건이 붙어요.</p>
+<p>과일, 한우, 굴비, 인삼 같은 것들이 여기 해당합니다. 가공품은 원료 비중 요건이 붙어요.</p>
 
-<p>일반 공산품은 <b>한도가 그대로</b>입니다. 명절이라고 다 올라가는 게 아니에요.</p>
+<p>일반 공산품은 한도가 그대로입니다. 명절이라고 다 올라가는 게 아니에요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -84,13 +84,36 @@
 <li>일반 공산품은 <b>평상시 한도</b> 그대로입니다</li>
 </ul>
 
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">구분</div><div style="flex:1;text-align:right;">기준</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">음식물</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">3만원</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">선물</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">5만원</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">농축수산물 선물</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">상향 적용</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">경조사비</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">5만원</div></div>
+</div>
+
+<ul>
+<li>선물은 <b>5만원</b>이 기본선입니다</li>
+<li><b>농축수산물</b>은 명절에 한도가 올라갑니다</li>
+<li>금액이 애매하면 <b>안 보내는 게</b> 안전합니다</li>
+</ul>
+
 <h2>상품권은 왜 안 될까요</h2>
 
 <p>상품권은 <b>유가증권</b>으로 분류됩니다. 선물 허용 범위에서 빠져 있어요.</p>
 
 <p>금액이 아무리 적어도 안 됩니다. <b>1만원짜리 커피 상품권</b>도 원칙적으로는 제외입니다.</p>
 
-<p>현금도 마찬가지입니다. 경조사비를 제외하면 <b>돈으로 주는 건</b> 허용되지 않아요.</p>
+<p>현금도 마찬가지입니다. 경조사비를 제외하면 돈으로 주는 건 허용되지 않아요.</p>
 
 <p>모바일 쿠폰도 상품권과 같은 성격으로 봅니다. 편하다고 보냈다가 곤란해질 수 있습니다.</p>
 
@@ -109,19 +132,19 @@
 
 <p>공무원과 공공기관 임직원이 기본입니다. 여기에 <b>사립학교 교직원</b>과 <b>언론인</b>이 포함됩니다.</p>
 
-<p>배우자도 함께 적용됩니다. 본인이 아니라 <b>배우자가 받아도</b> 문제가 됩니다.</p>
+<p>배우자도 함께 적용됩니다. 본인이 아니라 배우자가 받아도 문제가 됩니다.</p>
 
 <p>일반 회사끼리 주고받는 선물은 이 법의 대상이 아닙니다. 다만 회사 내부 규정은 따로 있을 수 있어요.</p>
 
-<p>선생님께 드리는 선물은 <b>금액과 무관하게</b> 조심하셔야 합니다. 성적이나 평가와 얽히는 관계라서요.</p>
+<p>선생님께 드리는 선물은 금액과 무관하게 조심하셔야 합니다. 성적이나 평가와 얽히는 관계라서요.</p>
 
 <h3>돌려보내는 게 원칙입니다</h3>
 
-<p>한도를 넘는 선물을 받았다면 <b>반환</b>하는 게 맞습니다. 돌려주기 어려우면 소속 기관에 신고합니다.</p>
+<p>한도를 넘는 선물을 받았다면 반환하는 게 맞습니다. 돌려주기 어려우면 소속 기관에 신고합니다.</p>
 
-<p>신고하고 인도하면 책임을 면할 수 있습니다. 모르고 받았어도 <b>확인한 즉시</b> 처리하시는 게 안전해요.</p>
+<p>신고하고 인도하면 책임을 면할 수 있습니다. 모르고 받았어도 확인한 즉시 처리하시는 게 안전해요.</p>
 
-<p>택배로 온 선물은 <b>수령 거부</b>하거나 반송하면 됩니다. 기록을 남겨두면 더 확실합니다.</p>
+<p>택배로 온 선물은 수령 거부하거나 반송하면 됩니다. 기록을 남겨두면 더 확실합니다.</p>
 
 <h2>위반하면 어떻게 되나</h2>
 
@@ -131,7 +154,11 @@
 
 <p>금액이 크고 직무 관련성이 뚜렷하면 <b>형사 처벌</b>까지 갈 수 있습니다.</p>
 
-<p>애매하면 <b>안 보내는 게</b> 가장 확실합니다. 마음은 문자로도 전할 수 있으니까요.</p>
+<p>애매하면 안 보내는 게 가장 확실합니다. 마음은 문자로도 전할 수 있으니까요.</p>
+
+<p>저는 명절에 거래처 선물 보낼 때마다 금액을 다시 확인합니다. 아내가 애매하면 보내지 말자고 해요...</p>
+
+<p>애매하면 안 보내는 게 맞다.</p>
 
 <h2>정리하면</h2>
 

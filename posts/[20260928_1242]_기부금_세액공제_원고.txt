@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>법정기부금, 지정기부금, 종교단체 기부금</b>으로 크게 나뉩니다.</p>
 
-<p>한도를 넘어도 <b>버리지 않고 이월</b>할 수 있습니다. 다음 해에 다시 공제받아요.</p>
+<p>한도를 넘어도 버리지 않고 이월할 수 있습니다. 다음 해에 다시 공제받아요.</p>
 
 <p>영수증만 잘 챙겨두면 나중에 다 쓸 수 있더라고요. 버리지 마세요.</p>
 
@@ -55,7 +55,7 @@
 <li><b>종교단체</b> 기부금은 별도의 낮은 한도가 적용됩니다</li>
 </ul>
 
-<p>한도를 계산할 때 <b>법정기부금부터</b> 먼저 적용하고 나머지를 채웁니다.</p>
+<p>한도를 계산할 때 법정기부금부터 먼저 적용하고 나머지를 채웁니다.</p>
 
 <h2>이월공제를 챙기세요</h2>
 
@@ -65,7 +65,7 @@
 
 <p>큰 금액을 한 해에 기부했다면 이 기능이 특히 중요합니다.</p>
 
-<p>홈택스에서 <b>이월 잔액</b>을 확인할 수 있습니다. 놓친 게 있는지 보세요.</p>
+<p>홈택스에서 이월 잔액을 확인할 수 있습니다. 놓친 게 있는지 보세요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,38 @@
 <li>영수증이 없으면 <b>공제가 불가능</b>합니다</li>
 </ul>
 
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">기부 종류</div><div style="flex:1;text-align:right;">공제 성격</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">법정기부금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">한도가 가장 큼</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">지정기부금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">한도 제한 있음</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">고향사랑기부</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">세액공제+답례품</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">정치자금</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">별도 규정</div></div>
+</div>
+
+<ul>
+<li><b>법정기부금</b>이 한도가 가장 큽니다</li>
+<li><b>고향사랑기부</b>는 답례품까지 받습니다</li>
+<li>한도를 넘으면 <b>이월공제</b>로 넘길 수 있습니다</li>
+</ul>
+
 <h2>고향사랑기부제는 다릅니다</h2>
 
 <p>이건 별도 제도입니다. <b>세액공제에 답례품까지</b> 따라옵니다.</p>
 
 <p>본인 주소지가 아닌 <b>다른 지자체</b>에만 기부할 수 있어요.</p>
 
-<p>일정 금액까지는 <b>전액에 가까운 공제율</b>이 적용됩니다.</p>
+<p>일정 금액까지는 전액에 가까운 공제율이 적용됩니다.</p>
 
-<p>거기에 기부액의 일정 비율만큼 <b>답례품</b>을 받습니다. 지역 특산물이 많아요.</p>
+<p>거기에 기부액의 일정 비율만큼 답례품을 받습니다. 지역 특산물이 많아요.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">답례품까지 계산하면 남는 장사입니다</div>
@@ -105,45 +128,49 @@
 <li>기부액의 일정 비율만큼 <b>답례품</b>을 받습니다</li>
 </ul>
 
-<h2>영수증 챙기는 법</h2>
+<h2>영수증은 어떻게 챙기나요?</h2>
 
 <p>대부분의 기부금은 <b>간소화 자료</b>에 자동으로 뜹니다.</p>
 
 <p>다만 소규모 단체나 <b>종교단체</b>는 안 뜨는 경우가 있습니다.</p>
 
-<p>그럴 때는 해당 단체에 <b>기부금 영수증</b>을 요청하면 됩니다.</p>
+<p>그럴 때는 해당 단체에 기부금 영수증을 요청하면 됩니다.</p>
 
-<p>영수증에는 <b>고유번호와 기부 유형</b>이 적혀 있어야 인정됩니다.</p>
+<p>영수증에는 고유번호와 기부 유형이 적혀 있어야 인정됩니다.</p>
 
 <h3>정치자금 기부는 별개입니다</h3>
 
-<p>정당이나 후원회에 낸 정치자금은 <b>다른 제도</b>로 처리됩니다.</p>
+<p>정당이나 후원회에 낸 정치자금은 다른 제도로 처리됩니다.</p>
 
-<p>소액 구간은 <b>전액에 가까운 세액공제</b>가 되고 그 위로는 비율이 달라집니다.</p>
+<p>소액 구간은 전액에 가까운 세액공제가 되고 그 위로는 비율이 달라집니다.</p>
 
-<p>기부금 공제 한도와 <b>따로 계산</b>되니 헷갈리지 마세요.</p>
+<p>기부금 공제 한도와 따로 계산되니 헷갈리지 마세요.</p>
 
-<p>본인만 공제받을 수 있고 <b>부양가족 것은 합산이 안 됩니다</b>.</p>
+<p>본인만 공제받을 수 있고 부양가족 것은 합산이 안 됩니다.</p>
 
 <h3>사업자와 근로자가 다릅니다</h3>
 
-<p>근로소득자는 <b>세액공제</b> 방식으로 계산합니다.</p>
+<p>근로소득자는 세액공제 방식으로 계산합니다.</p>
 
-<p>사업소득만 있는 분은 <b>필요경비</b>로 처리하는 구조입니다.</p>
+<p>사업소득만 있는 분은 필요경비로 처리하는 구조입니다.</p>
 
-<p>둘 다 있는 경우는 계산이 복잡해집니다. <b>세무 상담</b>을 받아보시는 게 낫습니다.</p>
+<p>둘 다 있는 경우는 계산이 복잡해집니다. 세무 상담을 받아보시는 게 낫습니다.</p>
 
 <p>기부 방식과 규모가 크다면 미리 확인하시는 게 안전하더라고요.</p>
 
 <h3>연말에 몰아서 하면 손해일 수 있습니다</h3>
 
-<p>기부금은 <b>낸 해의 소득</b>을 기준으로 한도가 정해집니다.</p>
+<p>기부금은 낸 해의 소득을 기준으로 한도가 정해집니다.</p>
 
-<p>소득이 적은 해에 크게 기부하면 <b>한도에 걸려</b> 그해에 다 못 씁니다.</p>
+<p>소득이 적은 해에 크게 기부하면 한도에 걸려 그해에 다 못 씁니다.</p>
 
-<p>물론 이월되니 사라지지는 않습니다. 다만 <b>환급 시점이 밀리는</b> 것뿐이에요.</p>
+<p>물론 이월되니 사라지지는 않습니다. 다만 환급 시점이 밀리는 것뿐이에요.</p>
 
 <p>정기 기부로 나눠서 내면 한도 안에서 매년 소화됩니다. 관리도 편하고요.</p>
+
+<p>저는 연말에 기부하고 영수증을 안 챙겨서 공제를 놓쳤습니다. 아내가 단체에 다시 요청해줬어요...</p>
+
+<p>간소화에 안 뜨는 곳이 있더라.</p>
 
 <h2>정리하면</h2>
 

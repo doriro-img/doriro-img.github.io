@@ -21,13 +21,13 @@
 
 <p>다자녀 혜택 2자녀부터 되는 것들. 기준이 제도마다 다른 이유</p>
 
-<h2>다자녀 기준이 하나가 아닙니다</h2>
+<h2>다자녀 기준은 몇 명부터인가요?</h2>
 
 <p>다자녀 혜택을 찾다 보면 헷갈립니다. 어떤 제도는 <b>2자녀</b>부터, 어떤 건 여전히 <b>3자녀</b>부터거든요.</p>
 
-<p>결론부터 말하면 <b>제도마다 기준이 따로</b> 있습니다. 하나의 다자녀 기준이 존재하는 게 아니에요.</p>
+<p>결론부터 말하면 제도마다 기준이 따로 있습니다. 하나의 다자녀 기준이 존재하는 게 아니에요.</p>
 
-<p>그래서 <b>내가 해당되는 항목을 하나씩</b> 확인하는 수밖에 없습니다. 뭉뚱그려 찾으면 놓칩니다.</p>
+<p>그래서 내가 해당되는 항목을 하나씩 확인하는 수밖에 없습니다. 뭉뚱그려 찾으면 놓칩니다.</p>
 
 <p>둘째를 낳은 지인이 다자녀는 셋부터인 줄 알고 아무것도 신청 안 하고 있었거든요. 알려주니 놀라더라고요.</p>
 
@@ -51,7 +51,7 @@
 <li>같은 이름의 혜택이어도 <b>지자체마다 기준이 다를 수</b> 있습니다</li>
 </ul>
 
-<p>정부가 기준을 낮추는 방향으로 바꿔왔지만 <b>전부 동시에</b> 바뀐 게 아니라서 이런 차이가 생겼습니다.</p>
+<p>정부가 기준을 낮추는 방향으로 바꿔왔지만 전부 동시에 바뀐 게 아니라서 이런 차이가 생겼습니다.</p>
 
 <h2>자동차 취득세 감면이 금액이 큽니다</h2>
 
@@ -59,9 +59,32 @@
 
 <p>다만 조건이 붙습니다. <b>승차 정원</b> 요건이 있고 차종에 따라 감면 폭이 달라집니다.</p>
 
-<p>그리고 <b>양육하는 자녀의 나이</b> 요건이 있습니다. 자녀가 다 성인이면 해당되지 않아요.</p>
+<p>그리고 양육하는 자녀의 나이 요건이 있습니다. 자녀가 다 성인이면 해당되지 않아요.</p>
 
-<p>한 대에 대해서만 적용되고 <b>이미 감면받은 이력</b>이 있으면 제한됩니다. 차를 바꿀 때 확인하셔야 합니다.</p>
+<p>한 대에 대해서만 적용되고 이미 감면받은 이력이 있으면 제한됩니다. 차를 바꿀 때 확인하셔야 합니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">혜택</div><div style="flex:1;text-align:right;">기준</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">자동차 취득세 감면</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">3자녀 이상 다수</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">전기·가스 요금 할인</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">자녀 수와 나이</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주택 특별공급</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">2자녀부터 확대</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">지자체 카드</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">지역마다 다름</div></div>
+</div>
+
+<ul>
+<li>다자녀 기준이 <b>2자녀</b>로 내려간 항목이 있습니다</li>
+<li><b>자동차 취득세</b> 감면이 금액이 가장 큽니다</li>
+<li>지자체 혜택은 <b>지역마다</b> 기준이 다릅니다</li>
+</ul>
 
 <h2>주택 쪽 혜택도 챙기세요</h2>
 
@@ -69,9 +92,9 @@
 
 <p>배점 방식이라 자녀가 많을수록 유리하지만 <b>2자녀도 신청 자체는</b> 가능해진 상황입니다.</p>
 
-<p>정책대출에서도 <b>다자녀 우대금리</b>가 적용됩니다. 디딤돌이나 버팀목 모두요.</p>
+<p>정책대출에서도 다자녀 우대금리가 적용됩니다. 디딤돌이나 버팀목 모두요.</p>
 
-<p>임대주택 입주에서도 <b>가점</b>이 붙습니다. 무주택 다자녀 가구라면 이쪽을 꼭 보세요.</p>
+<p>임대주택 입주에서도 가점이 붙습니다. 무주택 다자녀 가구라면 이쪽을 꼭 보세요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -117,9 +140,13 @@
 
 <p>제도에 따라 <b>만 18세 미만</b>이거나 학생이면 더 인정해주는 경우도 있습니다.</p>
 
-<p>주민등록등본에 <b>함께 등재</b>돼 있어야 인정되는 항목도 많습니다. 세대 분리를 하면 놓칠 수 있어요.</p>
+<p>주민등록등본에 함께 등재돼 있어야 인정되는 항목도 많습니다. 세대 분리를 하면 놓칠 수 있어요.</p>
 
-<p>태아는 대부분 자녀 수에 포함되지 않습니다. <b>출생신고 후</b>에 신청하셔야 합니다.</p>
+<p>태아는 대부분 자녀 수에 포함되지 않습니다. 출생신고 후에 신청하셔야 합니다.</p>
+
+<p>저희는 김포에서 다자녀 카드를 만들면서 혜택을 알았습니다. 아내가 찾아보고 알려줬어요...</p>
+
+<p>지자체마다 기준이 다른 게 헷갈린다.</p>
 
 <h2>정리하면</h2>
 

@@ -25,9 +25,9 @@
 
 <p>말벌은 <b>늦여름부터 가을</b>에 개체수가 가장 많습니다. 진드기 매개 감염병도 이 시기에 몰려요.</p>
 
-<p>결론부터 말하면 <b>긴 옷과 밝은 색</b>이 기본입니다. 그리고 <b>풀밭에 앉거나 눕지 않는 것</b>만 지켜도 위험이 크게 줄어듭니다.</p>
+<p>결론부터 말하면 <b>긴 옷과 밝은 색</b>이 기본입니다. 그리고 풀밭에 앉거나 눕지 않는 것만 지켜도 위험이 크게 줄어듭니다.</p>
 
-<p>말벌집을 건드리면 도망가는 게 답인데 <b>방향</b>이 중요합니다. 무작정 뛰면 더 쫓아옵니다.</p>
+<p>말벌집을 건드리면 도망가는 게 답인데 방향이 중요합니다. 무작정 뛰면 더 쫓아옵니다.</p>
 
 <p>아버지 산소에 다녀오다가 벌집을 밟을 뻔한 적이 있는데 그때부터는 무조건 주변을 먼저 살피게 되더라고요.</p>
 
@@ -61,19 +61,19 @@
 
 <p>흰색이나 노란색 같은 <b>밝은 색</b>이 안전합니다. 모자도 마찬가지고요.</p>
 
-<p>향수나 <b>향이 강한 화장품</b>도 벌을 부릅니다. 헤어스프레이도 피하시는 게 좋습니다.</p>
+<p>향수나 향이 강한 화장품도 벌을 부릅니다. 헤어스프레이도 피하시는 게 좋습니다.</p>
 
-<p>단 음료를 열어두면 벌이 모입니다. 캔 음료는 특히 <b>안에 들어간 벌</b>을 못 보고 마시는 사고가 생겨요.</p>
+<p>단 음료를 열어두면 벌이 모입니다. 캔 음료는 특히 안에 들어간 벌을 못 보고 마시는 사고가 생겨요.</p>
 
-<h3>벌집을 발견했을 때</h3>
+<h3>벌집을 발견하면 어떻게 하나요?</h3>
 
-<p>가장 중요한 원칙입니다. <b>몸을 낮추고 천천히</b> 그 자리를 벗어나세요.</p>
+<p>가장 중요한 원칙입니다. 몸을 낮추고 천천히 그 자리를 벗어나세요.</p>
 
-<p>손으로 휘젓거나 소리를 지르면 <b>공격 신호</b>가 됩니다. 벌을 자극하는 행동이에요.</p>
+<p>손으로 휘젓거나 소리를 지르면 공격 신호가 됩니다. 벌을 자극하는 행동이에요.</p>
 
-<p>이미 쫓아오면 그때는 <b>빠르게 20미터 이상</b> 벗어나야 합니다. 낮은 자세로 뛰는 게 좋습니다.</p>
+<p>이미 쫓아오면 그때는 빠르게 20미터 이상 벗어나야 합니다. 낮은 자세로 뛰는 게 좋습니다.</p>
 
-<p>땅속 벌집은 눈에 안 보입니다. 풀숲을 헤칠 때 <b>막대기로 먼저 툭툭</b> 쳐보는 습관이 도움이 됩니다.</p>
+<p>땅속 벌집은 눈에 안 보입니다. 풀숲을 헤칠 때 막대기로 먼저 툭툭 쳐보는 습관이 도움이 됩니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">이 증상이면 바로 119</div>
@@ -86,7 +86,30 @@
 <li>쏘인 부위는 <b>차갑게</b> 하고 무리하게 짜내지 않습니다</li>
 </ul>
 
-<p>과거에 벌에 쏘여 심하게 아팠던 적이 있다면 <b>미리 의사와 상의</b>해두시는 게 좋습니다.</p>
+<p>과거에 벌에 쏘여 심하게 아팠던 적이 있다면 미리 의사와 상의해두시는 게 좋습니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef7f2,#d9ece3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:15px;">성묘 전에 챙길 것</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">긴팔·긴바지</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">벌과 진드기 모두 방어</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">밝은 색 옷</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">벌은 어두운 색에 반응</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">기피제</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">목·발목 위주로</div></div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">예초기 보호구</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">안면 보호대 필수</div></div>
+</div></div>
+
+<ul>
+<li><b>긴 옷</b>이 벌과 진드기를 동시에 막아줍니다</li>
+<li>벌은 <b>어두운 색</b>에 더 달려듭니다</li>
+<li>예초기는 <b>안면 보호대</b>가 있어야 안전합니다</li>
+</ul>
 
 <h2>진드기는 안 물리는 게 전부입니다</h2>
 
@@ -113,13 +136,13 @@
 
 <h3>물린 자국을 찾았다면</h3>
 
-<p>진드기가 붙어 있으면 <b>손으로 떼지 마세요.</b> 입 부분이 피부에 남을 수 있습니다.</p>
+<p>진드기가 붙어 있으면 손으로 떼지 마세요. 입 부분이 피부에 남을 수 있습니다.</p>
 
 <p>가능하면 병원에 가서 제거하는 게 안전합니다. 억지로 비틀거나 터뜨리면 더 위험해져요.</p>
 
-<p>제거한 뒤에도 <b>2주 정도는 몸 상태를 살피세요.</b> 고열이나 심한 피로가 오면 바로 병원에 가야 합니다.</p>
+<p>제거한 뒤에도 2주 정도는 몸 상태를 살피세요. 고열이나 심한 피로가 오면 바로 병원에 가야 합니다.</p>
 
-<p>진료받을 때 <b>산에 다녀왔다고 반드시 말씀하세요.</b> 이 정보 하나로 진단이 빨라집니다.</p>
+<p>진료받을 때 산에 다녀왔다고 반드시 말씀하세요. 이 정보 하나로 진단이 빨라집니다.</p>
 
 <h2>예초기는 보호구가 먼저입니다</h2>
 
@@ -129,7 +152,11 @@
 
 <p>작업 반경 안에 <b>사람이 없는지</b> 확인하고 시작하세요. 특히 아이들이 가까이 오면 위험합니다.</p>
 
-<p>날에 풀이 감기면 <b>반드시 시동을 끄고</b> 제거합니다. 그대로 손대다 다치는 사고가 많습니다.</p>
+<p>날에 풀이 감기면 반드시 시동을 끄고 제거합니다. 그대로 손대다 다치는 사고가 많습니다.</p>
+
+<p>저희는 성묘 갈 때 연근이까지 데려가서 더 조심했습니다. 아내가 긴 옷 입으라고 챙겨줬어요...</p>
+
+<p>벌은 검은 옷에 더 달려든다더라.</p>
 
 <h2>정리하면</h2>
 

@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>보증금 대부분을 공공이 부담</b>하고 입주자는 소액 보증금과 월 임대료를 냅니다.</p>
 
-<p>집은 <b>본인이 직접 찾습니다</b>. 정해진 아파트에 들어가는 방식이 아니에요.</p>
+<p>집은 본인이 직접 찾습니다. 정해진 아파트에 들어가는 방식이 아니에요.</p>
 
 <p>지원 대상 주택에 조건이 붙어서 마음에 드는 집을 찾기까지 발품이 필요하더라고요.</p>
 
@@ -66,17 +66,17 @@
 <li>계약 당사자는 <b>공사와 임대인</b>이고 입주자는 재임차합니다</li>
 </ul>
 
-<p>권리 분석에서 걸리면 <b>다른 집을 찾아야</b> 합니다. 근저당이 많은 집은 어렵습니다.</p>
+<p>권리 분석에서 걸리면 다른 집을 찾아야 합니다. 근저당이 많은 집은 어렵습니다.</p>
 
-<h2>누가 신청할 수 있나요</h2>
+<h2>누가 신청할 수 있나요?</h2>
 
 <p>기본적으로 <b>무주택 청년</b>이 대상입니다. 나이 구간이 정해져 있어요.</p>
 
 <p>대학생과 취업준비생, <b>사회초년생</b>이 주로 해당합니다.</p>
 
-<p>순위가 나뉩니다. <b>수급자나 보호대상 한부모</b> 가구 등이 1순위로 갑니다.</p>
+<p>순위가 나뉩니다. 수급자나 보호대상 한부모 가구 등이 1순위로 갑니다.</p>
 
-<p>순위가 높을수록 선정 가능성이 큽니다. <b>소득과 자산 기준</b>도 함께 봅니다.</p>
+<p>순위가 높을수록 선정 가능성이 큽니다. 소득과 자산 기준도 함께 봅니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
@@ -95,15 +95,42 @@
 <li>순위 안에서는 <b>배점</b>으로 다시 순서를 정합니다</li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6fb0;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">입주까지 순서</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:1;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">공고 확인</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">LH·지자체</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.84;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">자격 심사</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">소득·자산</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.6799999999999999;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">대상자 선정</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">순위별</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.52;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">주택 물색</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">직접 찾기</div></div>
+</div></div>
+
+<ul>
+<li>대상자가 되면 <b>본인이 집을 찾습니다</b></li>
+<li><b>소득과 자산</b> 기준이 순위를 정합니다</li>
+<li>집주인이 <b>동의</b>해야 계약이 성사됩니다</li>
+</ul>
+
 <h2>어떤 집을 고를 수 있나</h2>
 
 <p>단독주택, 다가구, 다세대, 아파트, 오피스텔이 <b>모두 가능</b>합니다.</p>
 
-<p>다만 <b>전용면적 상한</b>과 <b>전세금 상한</b>이 있습니다.</p>
+<p>다만 <b>전용면적 상한</b>과 전세금 상한이 있습니다.</p>
 
-<p>보증금이 상한을 넘으면 <b>초과분을 본인이</b> 부담해야 합니다.</p>
+<p>보증금이 상한을 넘으면 초과분을 본인이 부담해야 합니다.</p>
 
-<p>불법 건축물이나 <b>권리관계가 복잡한 집</b>은 지원되지 않습니다.</p>
+<p>불법 건축물이나 권리관계가 복잡한 집은 지원되지 않습니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">집주인이 거절하는 경우가 있습니다</div>
@@ -122,39 +149,43 @@
 
 <p>임대료는 공사가 부담한 금액에 <b>낮은 이자율</b>을 적용해 계산합니다.</p>
 
-<p>일반 월세보다 훨씬 저렴합니다. <b>목돈이 없어도</b> 전세에 살 수 있는 구조예요.</p>
+<p>일반 월세보다 훨씬 저렴합니다. 목돈이 없어도 전세에 살 수 있는 구조예요.</p>
 
-<p>중개보수는 <b>본인이 부담</b>하는 경우가 많습니다. 이건 미리 계산에 넣어두세요.</p>
+<p>중개보수는 본인이 부담하는 경우가 많습니다. 이건 미리 계산에 넣어두세요.</p>
 
 <h3>거주 기간과 재계약</h3>
 
-<p>기본 계약 기간이 정해져 있고 <b>재계약으로 연장</b>할 수 있습니다.</p>
+<p>기본 계약 기간이 정해져 있고 재계약으로 연장할 수 있습니다.</p>
 
-<p>재계약할 때마다 <b>자격 요건</b>을 다시 확인합니다.</p>
+<p>재계약할 때마다 자격 요건을 다시 확인합니다.</p>
 
-<p>소득이 늘거나 결혼으로 상황이 바뀌면 <b>기준이 달라질 수</b> 있습니다.</p>
+<p>소득이 늘거나 결혼으로 상황이 바뀌면 기준이 달라질 수 있습니다.</p>
 
 <p>취업해서 소득이 올라도 일정 범위 안이면 계속 살 수 있는 경우가 많더라고요.</p>
 
 <h3>신청 시기를 놓치지 마세요</h3>
 
-<p>연중 상시 모집이 아닙니다. <b>공고가 뜰 때</b>만 신청할 수 있어요.</p>
+<p>연중 상시 모집이 아닙니다. 공고가 뜰 때만 신청할 수 있어요.</p>
 
-<p>LH청약플러스에서 <b>공고를 확인</b>합니다. 지역마다 일정이 다릅니다.</p>
+<p>LH청약플러스에서 공고를 확인합니다. 지역마다 일정이 다릅니다.</p>
 
-<p>선정된 뒤 집을 찾는 데도 <b>기한</b>이 있습니다. 미루면 자격이 사라져요.</p>
+<p>선정된 뒤 집을 찾는 데도 기한이 있습니다. 미루면 자격이 사라져요.</p>
 
 <p>공고 전에 미리 동네 시세와 매물을 봐두면 훨씬 수월합니다.</p>
 
 <h3>보증금은 안전한가요</h3>
 
-<p>계약 당사자가 공사라서 <b>권리 분석을 거친 집</b>만 계약이 진행됩니다.</p>
+<p>계약 당사자가 공사라서 권리 분석을 거친 집만 계약이 진행됩니다.</p>
 
-<p>근저당이 과한 집은 애초에 걸러집니다. 개인이 직접 계약할 때보다 <b>안전장치가 하나 더</b> 있는 셈이에요.</p>
+<p>근저당이 과한 집은 애초에 걸러집니다. 개인이 직접 계약할 때보다 안전장치가 하나 더 있는 셈이에요.</p>
 
-<p>다만 <b>완전한 보장은 아닙니다</b>. 집값이 크게 떨어지면 문제가 생길 수 있습니다.</p>
+<p>다만 완전한 보장은 아닙니다. 집값이 크게 떨어지면 문제가 생길 수 있습니다.</p>
 
 <p>공사가 검토했다고 안심하지 말고 등기부등본은 본인도 한번 떼어보시는 게 좋습니다.</p>
+
+<p>저희도 김포에서 알아본 적이 있는데 소득 기준에서 아슬아슬했습니다. 아내가 계산기를 두드려봤어요...</p>
+
+<p>경쟁률보다 자격이 먼저다.</p>
 
 <h2>정리하면</h2>
 

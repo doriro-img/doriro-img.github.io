@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>하나라도 어긋나면 공제가 안 됩니다</b>. 가족이라고 다 되는 게 아니에요.</p>
 
-<p>부모님과 형제자매도 <b>요건만 맞으면</b> 올릴 수 있습니다.</p>
+<p>부모님과 형제자매도 요건만 맞으면 올릴 수 있습니다.</p>
 
 <p>연말정산 때마다 이걸 헷갈려서 그냥 빼놓고 넘어가는 분들이 많더라고요. 한 명당 공제액이 작지 않습니다.</p>
 
@@ -55,7 +55,7 @@
 <li>생계는 원칙적으로 <b>같이 사는 것</b>이지만 예외가 있습니다</li>
 </ul>
 
-<p>배우자는 <b>나이 요건이 없습니다</b>. 소득 요건만 보면 됩니다.</p>
+<p>배우자는 나이 요건이 없습니다. 소득 요건만 보면 됩니다.</p>
 
 <h2>소득 요건에서 대부분 갈립니다</h2>
 
@@ -63,9 +63,9 @@
 
 <p>근로소득만 있다면 <b>총급여 기준</b>으로 따로 정해진 선이 있습니다.</p>
 
-<p>사업소득이 있다면 <b>필요경비를 뺀 뒤</b>의 금액으로 봅니다. 매출이 아니에요.</p>
+<p>사업소득이 있다면 필요경비를 뺀 뒤의 금액으로 봅니다. 매출이 아니에요.</p>
 
-<p>연금소득과 금융소득도 포함됩니다. <b>부모님 연금</b>이 얼마인지 확인해보셔야 합니다.</p>
+<p>연금소득과 금융소득도 포함됩니다. 부모님 연금이 얼마인지 확인해보셔야 합니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,38 @@
 <li>소득금액은 <b>필요경비를 뺀 뒤</b>의 금액입니다</li>
 </ul>
 
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">요건</div><div style="flex:1;text-align:right;">기준</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">나이</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">직계존속 60세 이상</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">소득</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">연 100만원 이하</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">생계</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">따로 살아도 가능</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">중복</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">형제간 한 명만</div></div>
+</div>
+
+<ul>
+<li><b>소득 요건</b>에서 대부분 갈립니다</li>
+<li>따로 사는 부모님도 <b>부양</b>으로 볼 수 있습니다</li>
+<li>형제 중 <b>한 명만</b> 공제받을 수 있습니다</li>
+</ul>
+
 <h2>따로 사는 부모님도 됩니다</h2>
 
 <p>직계존속은 <b>주거 형편상 따로 사는 경우</b>에도 공제가 인정됩니다.</p>
 
 <p>실제로 <b>부양하고 있다는 사실</b>이 중요합니다. 생활비를 보내드리는 경우 같은 거요.</p>
 
-<p>주민등록이 달라도 됩니다. 다만 <b>다른 형제가 이미 공제</b>했다면 안 됩니다.</p>
+<p>주민등록이 달라도 됩니다. 다만 다른 형제가 이미 공제했다면 안 됩니다.</p>
 
-<p>형제자매는 <b>같이 살아야</b> 합니다. 이 부분이 부모님과 다릅니다.</p>
+<p>형제자매는 같이 살아야 합니다. 이 부분이 부모님과 다릅니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">형제끼리 중복 공제는 가산세로 돌아옵니다</div>
@@ -113,13 +136,13 @@
 
 <p>부모님이 일정 연령을 넘으면 <b>경로우대 공제</b>가 추가됩니다.</p>
 
-<p>장애인 공제는 금액이 큽니다. <b>장애인증명서</b>가 있으면 꼭 챙기세요.</p>
+<p>장애인 공제는 금액이 큽니다. 장애인증명서가 있으면 꼭 챙기세요.</p>
 
 <h3>중증환자도 장애인 공제 대상입니다</h3>
 
-<p>장애인등록증이 없어도 <b>항시 치료를 요하는 중증환자</b>는 공제 대상이 됩니다.</p>
+<p>장애인등록증이 없어도 항시 치료를 요하는 중증환자는 공제 대상이 됩니다.</p>
 
-<p>병원에서 <b>장애인증명서</b>를 발급받으면 됩니다. 소득세법상 서식이 따로 있어요.</p>
+<p>병원에서 장애인증명서를 발급받으면 됩니다. 소득세법상 서식이 따로 있어요.</p>
 
 <p>암, 중풍, 치매 등으로 장기 치료 중이라면 담당 의사에게 문의해보세요.</p>
 
@@ -127,33 +150,37 @@
 
 <h3>사망하거나 결혼한 경우</h3>
 
-<p>해당 연도 중에 사망한 부양가족도 <b>그 해까지는</b> 공제할 수 있습니다.</p>
+<p>해당 연도 중에 사망한 부양가족도 그 해까지는 공제할 수 있습니다.</p>
 
-<p>자녀가 결혼했다면 <b>혼인한 해까지</b>는 요건이 맞으면 공제됩니다.</p>
+<p>자녀가 결혼했다면 혼인한 해까지는 요건이 맞으면 공제됩니다.</p>
 
-<p>나이 요건은 <b>과세기간 중 하루라도</b> 충족하면 인정되는 구조입니다.</p>
+<p>나이 요건은 과세기간 중 하루라도 충족하면 인정되는 구조입니다.</p>
 
 <p>기준일 계산이 헷갈리면 국세청 간소화 자료의 안내를 따라가시면 됩니다.</p>
 
-<h3>맞벌이는 배분을 계산해보세요</h3>
+<h3>맞벌이는 누구 앞으로 넣어야 할까요?</h3>
 
-<p>자녀를 누구 앞으로 올릴지에 따라 <b>환급액이 달라집니다</b>.</p>
+<p>자녀를 누구 앞으로 올릴지에 따라 환급액이 달라집니다.</p>
 
-<p>대체로 <b>소득이 높은 쪽</b>에 몰면 유리합니다. 세율 구간이 높아서요.</p>
+<p>대체로 소득이 높은 쪽에 몰면 유리합니다. 세율 구간이 높아서요.</p>
 
-<p>다만 의료비는 <b>총급여의 일정 비율</b>을 넘어야 공제되니 소득이 낮은 쪽이 유리할 수 있습니다.</p>
+<p>다만 의료비는 총급여의 일정 비율을 넘어야 공제되니 소득이 낮은 쪽이 유리할 수 있습니다.</p>
 
-<p>국세청 <b>맞벌이 절세 안내</b>에서 두 경우를 비교해볼 수 있더라고요. 미리 돌려보시면 좋습니다.</p>
+<p>국세청 맞벌이 절세 안내에서 두 경우를 비교해볼 수 있더라고요. 미리 돌려보시면 좋습니다.</p>
 
 <h3>과거 것도 고칠 수 있습니다</h3>
 
-<p>놓친 공제가 있다면 <b>경정청구</b>로 돌려받을 수 있습니다.</p>
+<p>놓친 공제가 있다면 경정청구로 돌려받을 수 있습니다.</p>
 
-<p>법정신고기한이 지난 뒤 <b>일정 기간 안</b>이면 신청이 됩니다. 몇 년치를 한꺼번에 정리하는 분도 있어요.</p>
+<p>법정신고기한이 지난 뒤 일정 기간 안이면 신청이 됩니다. 몇 년치를 한꺼번에 정리하는 분도 있어요.</p>
 
-<p>홈택스에서 <b>경정청구</b> 메뉴로 들어가면 됩니다. 회사를 거치지 않고 본인이 직접 합니다.</p>
+<p>홈택스에서 경정청구 메뉴로 들어가면 됩니다. 회사를 거치지 않고 본인이 직접 합니다.</p>
 
 <p>중증환자 장애인 공제를 뒤늦게 알고 청구해서 목돈을 받는 경우가 있더라고요. 증명서만 받아두면 됩니다.</p>
+
+<p>저희는 부모님을 누구 앞으로 넣을지 형제끼리 정리했습니다. 아내가 미리 얘기하자고 해서 다행이었어요...</p>
+
+<p>1월에 가서 다투면 이미 늦다.</p>
 
 <h2>정리하면</h2>
 

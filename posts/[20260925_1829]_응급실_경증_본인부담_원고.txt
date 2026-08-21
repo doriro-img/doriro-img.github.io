@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>경증이나 비응급으로 분류되면</b> 본인부담 비율이 크게 올라갑니다.</p>
 
-<p>같은 진료를 받아도 <b>중증 환자보다 훨씬 많은 돈</b>을 내게 되는 구조예요.</p>
+<p>같은 진료를 받아도 중증 환자보다 훨씬 많은 돈을 내게 되는 구조예요.</p>
 
 <p>응급실 문턱에서 등급이 정해지는 건데 그 기준을 모르고 가시는 분들이 많더라고요.</p>
 
@@ -55,7 +55,7 @@
 <li>경증·비응급으로 분류되면 <b>본인부담이 올라갑니다</b></li>
 </ul>
 
-<p>분류는 <b>간호사와 의사가 증상과 활력징후</b>를 보고 정합니다. 본인이 고를 수 없어요.</p>
+<p>분류는 간호사와 의사가 증상과 활력징후를 보고 정합니다. 본인이 고를 수 없어요.</p>
 
 <h2>응급의료관리료가 핵심입니다</h2>
 
@@ -63,9 +63,9 @@
 
 <p>응급 증상에 해당하면 <b>건강보험이 적용</b>되어 일부만 냅니다.</p>
 
-<p>비응급으로 분류되면 이 관리료를 <b>전액 본인이</b> 부담합니다.</p>
+<p>비응급으로 분류되면 이 관리료를 전액 본인이 부담합니다.</p>
 
-<p>여기서 금액 차이가 크게 벌어집니다. 진료 내용이 같아도 <b>총액이 달라져요</b>.</p>
+<p>여기서 금액 차이가 크게 벌어집니다. 진료 내용이 같아도 총액이 달라져요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
@@ -84,13 +84,38 @@
 <li>증상 분류는 <b>의료진이 판단</b>합니다</li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;padding:20px 18px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;background:#fbfcfd;">
+<div style="font-size:13px;font-weight:800;color:#b8443a;margin-bottom:15px;">경증으로 응급실 가면 부담이 커집니다</div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">중증</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:25%;height:100%;background:#1d7050;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">본인부담 낮음</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">중등증</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:55%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">보통 수준</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">경증</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:90%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">본인부담 상향</div></div>
+</div>
+
+<ul>
+<li><b>경증</b>으로 판정되면 본인부담이 올라갑니다</li>
+<li>급하지 않으면 <b>당직 의원</b>이 낫습니다</li>
+<li>판정은 <b>도착 후 진료</b>로 정해집니다</li>
+</ul>
+
 <h2>어디로 가느냐도 다릅니다</h2>
 
 <p>응급실은 <b>권역응급의료센터, 지역응급의료센터, 지역응급의료기관</b>으로 나뉩니다.</p>
 
 <p>큰 병원일수록 <b>관리료 자체가 높습니다</b>. 경증인데 대형 병원에 가면 부담이 커요.</p>
 
-<p>가벼운 증상이라면 <b>동네 응급실이나 당번 의원</b>이 훨씬 낫습니다.</p>
+<p>가벼운 증상이라면 동네 응급실이나 당번 의원이 훨씬 낫습니다.</p>
 
 <p>중증 환자를 위한 자리를 비워두는 의미도 있습니다. 대기 시간도 짧아지고요.</p>
 
@@ -111,29 +136,33 @@
 
 <p>소아라면 <b>달빛어린이병원</b>이 훨씬 저렴하고 대기도 짧습니다.</p>
 
-<p>약만 필요하다면 <b>당번 약국</b>이나 편의점 상비약으로 되는 경우도 있습니다.</p>
+<p>약만 필요하다면 당번 약국이나 편의점 상비약으로 되는 경우도 있습니다.</p>
 
-<p>119에 전화해서 <b>상담만 받는</b> 것도 가능합니다. 가야 할지 판단을 도와줍니다.</p>
+<p>119에 전화해서 상담만 받는 것도 가능합니다. 가야 할지 판단을 도와줍니다.</p>
 
-<h3>실손보험으로 돌려받나요</h3>
+<h3>실손보험으로 돌려받나요?</h3>
 
-<p>응급실 진료비도 <b>실손보험 청구 대상</b>입니다. 다만 항목마다 다릅니다.</p>
+<p>응급실 진료비도 실손보험 청구 대상입니다. 다만 항목마다 다릅니다.</p>
 
-<p>비응급으로 분류되어 전액 본인부담한 관리료는 <b>보상에서 빠질 수</b> 있습니다.</p>
+<p>비응급으로 분류되어 전액 본인부담한 관리료는 보상에서 빠질 수 있습니다.</p>
 
-<p>약관에 따라 다르니 <b>가입한 상품</b>을 확인해보시는 게 정확합니다.</p>
+<p>약관에 따라 다르니 가입한 상품을 확인해보시는 게 정확합니다.</p>
 
 <p>영수증과 진료비 세부내역서를 받아두시면 청구할 때 편하더라고요.</p>
 
 <h3>아이가 밤에 아플 때</h3>
 
-<p>소아는 <b>탈수와 고열</b>이 빨리 진행되니 판단이 어렵습니다.</p>
+<p>소아는 탈수와 고열이 빨리 진행되니 판단이 어렵습니다.</p>
 
-<p>축 처지거나 소변이 확 줄었다면 <b>지체하지 마세요</b>. 이건 응급입니다.</p>
+<p>축 처지거나 소변이 확 줄었다면 지체하지 마세요. 이건 응급입니다.</p>
 
-<p>열만 있고 잘 놀고 잘 먹는다면 <b>해열제로 지켜보다</b> 아침에 가도 됩니다.</p>
+<p>열만 있고 잘 놀고 잘 먹는다면 해열제로 지켜보다 아침에 가도 됩니다.</p>
 
 <p>판단이 서지 않을 때는 129나 119에 물어보시면 됩니다. 그게 제일 안전합니다.</p>
+
+<p>저희는 연근이 때문에 응급실을 간 적은 있어도 사람 응급실은 처음이었습니다. 아내가 경증 부담 얘기를 하더라고요...</p>
+
+<p>급하지 않으면 낮에 가는 게 맞다.</p>
 
 <h2>정리하면</h2>
 

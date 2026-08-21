@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>청년, 신혼부부, 고령자, 주거급여 수급자</b> 등으로 나뉩니다.</p>
 
-<p>같은 단지라도 <b>계층별로 배정 물량</b>이 따로 있습니다.</p>
+<p>같은 단지라도 계층별로 배정 물량이 따로 있습니다.</p>
 
 <p>본인이 어느 칸에 들어가는지부터 확인해야 하는데 이걸 헷갈려서 잘못 넣는 경우가 많더라고요.</p>
 
@@ -55,7 +55,7 @@
 <li>고령자와 주거급여 수급자는 <b>더 오래</b> 거주할 수 있습니다</li>
 </ul>
 
-<p>청년으로 들어갔다가 결혼하면 <b>신혼부부 계층으로 전환</b>이 가능한 경우가 있습니다.</p>
+<p>청년으로 들어갔다가 결혼하면 신혼부부 계층으로 전환이 가능한 경우가 있습니다.</p>
 
 <h2>소득과 자산을 함께 봅니다</h2>
 
@@ -63,9 +63,9 @@
 
 <p>맞벌이 신혼부부는 <b>기준이 조금 완화</b>되는 구간이 있습니다.</p>
 
-<p>자산 기준도 있습니다. <b>총자산과 자동차 가액</b>을 각각 봅니다.</p>
+<p>자산 기준도 있습니다. 총자산과 자동차 가액을 각각 봅니다.</p>
 
-<p>자동차가 기준을 넘으면 <b>소득이 낮아도 탈락</b>합니다. 이 부분을 놓치기 쉬워요.</p>
+<p>자동차가 기준을 넘으면 소득이 낮아도 탈락합니다. 이 부분을 놓치기 쉬워요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,38 @@
 <li>계층에 따라 <b>청약통장</b>이 필요합니다</li>
 </ul>
 
-<h2>어디에 지어지나요</h2>
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">계층</div><div style="flex:1;text-align:right;">공급 비중</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">청년</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">가장 큰 비중</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">신혼부부</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">다음으로 큼</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">고령자</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">일부 물량</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">주거급여 수급자</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">별도 물량</div></div>
+</div>
+
+<ul>
+<li><b>청년</b> 물량이 가장 많습니다</li>
+<li>계층마다 <b>소득과 자산</b> 기준이 다릅니다</li>
+<li><b>거주 기간</b>에 제한이 있습니다</li>
+</ul>
+
+<h2>어디에 지어지나요?</h2>
 
 <p>행복주택은 <b>직장이나 학교와 가까운 곳</b>에 짓는 걸 원칙으로 합니다.</p>
 
 <p>역세권이나 <b>산업단지 인근</b>에 많이 배치돼 있습니다.</p>
 
-<p>면적은 작은 편입니다. 청년용은 <b>원룸형</b>이 주류예요.</p>
+<p>면적은 작은 편입니다. 청년용은 원룸형이 주류예요.</p>
 
-<p>신혼부부용은 <b>방 두 개</b> 구조가 나오기도 합니다. 물량이 적어 경쟁이 셉니다.</p>
+<p>신혼부부용은 방 두 개 구조가 나오기도 합니다. 물량이 적어 경쟁이 셉니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">임대료는 시세보다 낮습니다</div>
@@ -111,39 +134,43 @@
 
 <p>공고문에 <b>계층별 물량과 자격</b>이 자세히 적혀 있습니다. 꼭 읽어보세요.</p>
 
-<p>온라인으로 신청하고 <b>서류 제출</b> 단계를 거칩니다.</p>
+<p>온라인으로 신청하고 서류 제출 단계를 거칩니다.</p>
 
-<p>경쟁이 있으면 <b>배점이나 추첨</b>으로 정해집니다. 지역 거주자가 유리한 경우가 많습니다.</p>
+<p>경쟁이 있으면 배점이나 추첨으로 정해집니다. 지역 거주자가 유리한 경우가 많습니다.</p>
 
 <h3>거주 기간이 끝나면</h3>
 
-<p>정해진 기간이 지나면 <b>퇴거</b>해야 합니다. 무한정 살 수는 없어요.</p>
+<p>정해진 기간이 지나면 퇴거해야 합니다. 무한정 살 수는 없어요.</p>
 
-<p>다만 계층이 바뀌면 <b>재계약</b>이 가능한 경우가 있습니다. 결혼이나 출산 같은 변화요.</p>
+<p>다만 계층이 바뀌면 재계약이 가능한 경우가 있습니다. 결혼이나 출산 같은 변화요.</p>
 
-<p>재계약할 때 <b>소득과 자산</b>을 다시 봅니다. 기준을 넘으면 할증되거나 나가야 합니다.</p>
+<p>재계약할 때 소득과 자산을 다시 봅니다. 기준을 넘으면 할증되거나 나가야 합니다.</p>
 
 <p>퇴거 시점을 미리 계산해서 다음 집을 준비하시는 게 좋습니다.</p>
 
 <h3>다른 공공임대와 비교하면</h3>
 
-<p>국민임대는 <b>거주 기간이 훨씬 깁니다</b>. 대신 소득 기준이 더 낮아요.</p>
+<p>국민임대는 거주 기간이 훨씬 깁니다. 대신 소득 기준이 더 낮아요.</p>
 
-<p>매입임대와 전세임대는 <b>기존 주택</b>을 활용하는 방식입니다.</p>
+<p>매입임대와 전세임대는 기존 주택을 활용하는 방식입니다.</p>
 
-<p>행복주택은 <b>새로 지은 집</b>이라 시설이 깨끗한 게 장점입니다.</p>
+<p>행복주택은 새로 지은 집이라 시설이 깨끗한 게 장점입니다.</p>
 
-<p>여러 유형에 동시 신청이 제한될 수 있으니 공고문의 <b>중복 신청 규정</b>을 확인하세요.</p>
+<p>여러 유형에 동시 신청이 제한될 수 있으니 공고문의 중복 신청 규정을 확인하세요.</p>
 
 <h3>탈락해도 다음이 있습니다</h3>
 
-<p>행복주택은 <b>수시로 공고</b>가 나옵니다. 한 번 떨어졌다고 끝이 아니에요.</p>
+<p>행복주택은 수시로 공고가 나옵니다. 한 번 떨어졌다고 끝이 아니에요.</p>
 
-<p>예비 순번을 받았다면 <b>기다려볼 만합니다</b>. 계약을 포기하는 사람이 생각보다 있더라고요.</p>
+<p>예비 순번을 받았다면 기다려볼 만합니다. 계약을 포기하는 사람이 생각보다 있더라고요.</p>
 
-<p>공고를 놓치지 않으려면 <b>알림 신청</b>을 걸어두는 게 편합니다.</p>
+<p>공고를 놓치지 않으려면 알림 신청을 걸어두는 게 편합니다.</p>
 
 <p>여러 단지에 계속 넣다 보면 순번이 돌아옵니다. 꾸준히 넣는 게 방법입니다.</p>
+
+<p>저희도 김포에서 행복주택을 알아본 적이 있습니다. 아내랑 자격 요건을 하나씩 짚어봤어요...</p>
+
+<p>나이랑 소득에서 대부분 갈린다.</p>
 
 <h2>정리하면</h2>
 

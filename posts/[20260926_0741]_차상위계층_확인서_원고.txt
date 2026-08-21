@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>기준 중위소득의 일정 비율 이하</b>이면서 부양 요건을 충족하면 해당됩니다.</p>
 
-<p>확인서를 받으면 <b>통신비 감면, 문화누리카드, 각종 감면</b>을 신청할 수 있어요.</p>
+<p>확인서를 받으면 통신비 감면, 문화누리카드, 각종 감면을 신청할 수 있어요.</p>
 
 <p>수급자가 아니라서 아무것도 못 받는 줄 알고 계신 분들이 많더라고요. 확인만 해봐도 손해 볼 게 없습니다.</p>
 
@@ -63,7 +63,7 @@
 <li>교육과 의료 쪽에도 <b>감면 항목</b>이 있습니다</li>
 </ul>
 
-<p>지자체마다 <b>추가 지원</b>이 다릅니다. 주민센터에서 목록을 받아보시면 좋습니다.</p>
+<p>지자체마다 추가 지원이 다릅니다. 주민센터에서 목록을 받아보시면 좋습니다.</p>
 
 <h2>기준은 소득과 재산입니다</h2>
 
@@ -71,9 +71,9 @@
 
 <p>소득인정액은 실제 소득에 <b>재산을 환산한 금액</b>을 더해서 계산합니다.</p>
 
-<p>부양의무자 기준은 <b>많이 완화</b>됐습니다. 예전보다 문턱이 낮아졌어요.</p>
+<p>부양의무자 기준은 많이 완화됐습니다. 예전보다 문턱이 낮아졌어요.</p>
 
-<p>가구원 수에 따라 기준 금액이 달라집니다. <b>1인 가구</b>는 금액이 낮게 잡힙니다.</p>
+<p>가구원 수에 따라 기준 금액이 달라집니다. 1인 가구는 금액이 낮게 잡힙니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
@@ -92,15 +92,42 @@
 <li>결과가 나오기까지 <b>한 달 안팎</b>이 걸립니다</li>
 </ul>
 
-<h2>확인서는 어떻게 받나요</h2>
+<div style="border:1px solid #e2e6ea;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6fb0;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">확인서 받는 흐름</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:1;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">주민센터 방문</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">신청서 접수</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.84;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">소득·재산 조사</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">기준 대비 확인</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.6799999999999999;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">결과 통보</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">해당 여부</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.52;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">확인서 발급</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">혜택 신청용</div></div>
+</div></div>
+
+<ul>
+<li>신청은 <b>주민센터</b>에서 시작합니다</li>
+<li><b>소득과 재산</b>을 기준과 견줘 판정합니다</li>
+<li>확인서가 있어야 <b>다른 혜택</b> 신청이 됩니다</li>
+</ul>
+
+<h2>확인서는 어떻게 받나요?</h2>
 
 <p>차상위계층으로 결정되면 <b>확인서를 발급</b>받을 수 있습니다.</p>
 
 <p>주민센터에서 즉시 발급되고 <b>정부24</b>에서도 뗄 수 있습니다.</p>
 
-<p>이 확인서를 각 기관에 제출하면 <b>감면과 지원</b>을 받게 됩니다.</p>
+<p>이 확인서를 각 기관에 제출하면 감면과 지원을 받게 됩니다.</p>
 
-<p>통신사 요금 감면은 <b>따로 신청</b>해야 합니다. 자동으로 되지 않아요.</p>
+<p>통신사 요금 감면은 따로 신청해야 합니다. 자동으로 되지 않아요.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">자격이 있어도 신청은 따로입니다</div>
@@ -119,29 +146,33 @@
 
 <p>소득이나 재산이 늘면 <b>자격이 없어질 수</b> 있습니다.</p>
 
-<p>가구원이 바뀌거나 이사를 하면 <b>신고</b>해야 합니다.</p>
+<p>가구원이 바뀌거나 이사를 하면 신고해야 합니다.</p>
 
-<p>변동 사항을 숨기면 <b>부정수급</b>이 되니 그때그때 알리시는 게 낫습니다.</p>
+<p>변동 사항을 숨기면 부정수급이 되니 그때그때 알리시는 게 낫습니다.</p>
 
 <h3>탈락했다면 다시 해보세요</h3>
 
-<p>기준 중위소득은 <b>해마다 오릅니다</b>. 작년에 안 됐어도 올해는 될 수 있어요.</p>
+<p>기준 중위소득은 해마다 오릅니다. 작년에 안 됐어도 올해는 될 수 있어요.</p>
 
-<p>가구 상황이 바뀌었다면 특히 그렇습니다. <b>실직이나 질병</b>으로 소득이 줄었을 때요.</p>
+<p>가구 상황이 바뀌었다면 특히 그렇습니다. 실직이나 질병으로 소득이 줄었을 때요.</p>
 
-<p>복지로 <b>모의계산</b>으로 먼저 확인해보시면 헛걸음을 줄입니다.</p>
+<p>복지로 모의계산으로 먼저 확인해보시면 헛걸음을 줄입니다.</p>
 
 <p>모의계산은 참고용이라 실제 결과와 다를 수 있더라고요. 애매하면 그냥 신청해보세요.</p>
 
 <h3>수급자와 뭐가 다른가요</h3>
 
-<p>기초생활수급자는 <b>생계급여나 의료급여</b> 같은 현금·현물 급여를 받습니다.</p>
+<p>기초생활수급자는 생계급여나 의료급여 같은 현금·현물 급여를 받습니다.</p>
 
-<p>차상위계층은 <b>급여보다 감면과 바우처</b> 중심입니다. 성격이 조금 달라요.</p>
+<p>차상위계층은 급여보다 감면과 바우처 중심입니다. 성격이 조금 달라요.</p>
 
-<p>소득이 늘어 수급자에서 벗어나면 <b>차상위로 전환</b>되는 경우가 많습니다.</p>
+<p>소득이 늘어 수급자에서 벗어나면 차상위로 전환되는 경우가 많습니다.</p>
 
 <p>수급자에서 빠졌다고 지원이 완전히 끊기는 건 아니라는 뜻입니다.</p>
+
+<p>저희 이웃이 차상위 확인서를 떼면서 처음 알았다고 했습니다. 아내가 옆에서 같이 서류를 봐줬어요...</p>
+
+<p>해당되는 줄도 모르는 사람이 많더라.</p>
 
 <h2>정리하면</h2>
 

@@ -25,7 +25,7 @@
 
 <p>퇴직소득세는 <b>근속연수</b>가 길수록 확 줄어듭니다. 같은 1억을 받아도 10년 다닌 사람과 25년 다닌 사람의 세금이 크게 차이 나요.</p>
 
-<p>결론부터 말하면 <b>근속연수공제</b>와 <b>연분연승법</b> 두 장치 때문입니다. 근속연수로 나눠서 세율을 매기고 다시 곱하는 구조거든요.</p>
+<p>결론부터 말하면 <b>근속연수공제</b>와 연분연승법 두 장치 때문입니다. 근속연수로 나눠서 세율을 매기고 다시 곱하는 구조거든요.</p>
 
 <p>그래서 퇴직소득세 실효세율은 생각보다 낮습니다. 급여에 붙는 세금과 비교하면 확실히 유리해요.</p>
 
@@ -60,7 +60,7 @@
 <li>환산한 금액에 세율을 매기고 <b>다시 근속연수를 곱해</b> 세액을 정합니다</li>
 </ul>
 
-<p>이 나누고 곱하는 방식을 <b>연분연승법</b>이라고 부릅니다. 한꺼번에 받는 돈에 높은 세율이 붙는 걸 막아주는 장치예요.</p>
+<p>이 나누고 곱하는 방식을 연분연승법이라고 부릅니다. 한꺼번에 받는 돈에 높은 세율이 붙는 걸 막아주는 장치예요.</p>
 
 <h2>근속연수공제는 구간마다 커집니다</h2>
 
@@ -70,7 +70,37 @@
 
 <p>구간이 올라갈수록 <b>1년당 공제액이 늘어납니다.</b> 오래 다닌 사람에게 유리하게 설계된 겁니다.</p>
 
-<p>1년 미만으로 일했다면 <b>1년으로 계산</b>합니다. 다만 퇴직금 자체가 1년 이상 근무해야 발생합니다.</p>
+<p>1년 미만으로 일했다면 1년으로 계산합니다. 다만 퇴직금 자체가 1년 이상 근무해야 발생합니다.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:14px;padding:20px 18px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;background:#fbfcfd;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:15px;">근속연수가 길수록 공제가 커집니다</div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">5년</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:25%;height:100%;background:#1f4a7a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">기본 구간</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">10년</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:45%;height:100%;background:#1f4a7a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">구간 상향</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">20년</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:70%;height:100%;background:#1f4a7a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">공제 폭 확대</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">30년</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:95%;height:100%;background:#1f4a7a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">가장 유리</div></div>
+</div>
+
+<ul>
+<li>근속연수가 길수록 <b>공제 폭</b>이 커집니다</li>
+<li><b>중간정산</b>을 받으면 근속연수가 끊깁니다</li>
+<li>같은 금액이어도 <b>근속</b>에 따라 세금이 다릅니다</li>
+</ul>
 
 <h2>중간정산이 세금을 키웁니다</h2>
 
@@ -101,9 +131,9 @@
 
 <p>퇴직금을 <b>IRP 계좌</b>로 받으면 그 시점에 세금을 떼지 않습니다. <b>과세이연</b>이라고 합니다.</p>
 
-<p>나중에 꺼낼 때 과세하는 구조라 그동안 <b>세금 낼 돈까지 굴릴 수</b> 있습니다.</p>
+<p>나중에 꺼낼 때 과세하는 구조라 그동안 세금 낼 돈까지 굴릴 수 있습니다.</p>
 
-<p>일시금으로 받았더라도 정해진 기간 안에 IRP에 넣으면 이미 뗀 세금을 <b>돌려받을 수</b> 있습니다.</p>
+<p>일시금으로 받았더라도 정해진 기간 안에 IRP에 넣으면 이미 뗀 세금을 돌려받을 수 있습니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ee0b0;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">연금으로 받으면 더 깎입니다</div>
@@ -116,21 +146,21 @@
 <li>중간에 <b>일시금으로 빼면</b> 감면이 적용되지 않습니다</li>
 </ul>
 
-<h2>퇴직금에 포함되는 것과 아닌 것</h2>
+<h2>퇴직금에 뭐가 포함되나요?</h2>
 
 <p>명예퇴직금이나 희망퇴직 위로금도 <b>퇴직소득</b>으로 봅니다. 퇴직을 원인으로 받는 돈이라서요.</p>
 
 <p>반면 재직 중 받은 <b>성과급이나 상여금</b>은 근로소득입니다. 퇴직할 때 정산해서 받아도 마찬가지고요.</p>
 
-<p>미사용 연차수당도 <b>근로소득</b>입니다. 퇴직금에 들어가는 게 아니라 급여로 잡힙니다.</p>
+<p>미사용 연차수당도 근로소득입니다. 퇴직금에 들어가는 게 아니라 급여로 잡힙니다.</p>
 
-<p>임원은 <b>한도</b>가 따로 있습니다. 한도를 넘는 금액은 근로소득으로 봐서 세부담이 크게 달라집니다.</p>
+<p>임원은 한도가 따로 있습니다. 한도를 넘는 금액은 근로소득으로 봐서 세부담이 크게 달라집니다.</p>
 
 <h3>퇴직소득은 따로 계산합니다</h3>
 
-<p>퇴직소득세는 <b>분류과세</b>입니다. 그해 근로소득이나 다른 소득과 합쳐서 계산하지 않아요.</p>
+<p>퇴직소득세는 분류과세입니다. 그해 근로소득이나 다른 소득과 합쳐서 계산하지 않아요.</p>
 
-<p>그래서 퇴직한 해에 다른 소득이 많아도 <b>퇴직금 세금은 그대로</b>입니다. 종합소득세 신고에도 안 들어갑니다.</p>
+<p>그래서 퇴직한 해에 다른 소득이 많아도 퇴직금 세금은 그대로입니다. 종합소득세 신고에도 안 들어갑니다.</p>
 
 <p>이것도 퇴직소득세가 상대적으로 가벼운 이유 중 하나입니다.</p>
 
@@ -138,9 +168,13 @@
 
 <p>DB형은 회사가 정해진 산식으로 지급하는 구조라 기존 퇴직금과 계산이 같습니다.</p>
 
-<p>DC형은 매년 적립된 돈과 <b>운용수익</b>이 합쳐진 금액이 퇴직급여가 됩니다. 운용을 잘했으면 받는 돈이 커지는 구조예요.</p>
+<p>DC형은 매년 적립된 돈과 운용수익이 합쳐진 금액이 퇴직급여가 됩니다. 운용을 잘했으면 받는 돈이 커지는 구조예요.</p>
 
-<p>다만 운용수익 부분은 퇴직소득과 성격이 달라 따로 봅니다. 연금으로 받으면 그 부분에는 <b>연금소득세</b>가 적용됩니다.</p>
+<p>다만 운용수익 부분은 퇴직소득과 성격이 달라 따로 봅니다. 연금으로 받으면 그 부분에는 연금소득세가 적용됩니다.</p>
+
+<p>저는 중간정산을 받았던 게 나중에 세금으로 돌아온다는 걸 몰랐습니다. 아내랑 계산해보고서야 알았어요...</p>
+
+<p>그때 편하자고 한 게 나중에 붙는다.</p>
 
 <h2>정리하면</h2>
 

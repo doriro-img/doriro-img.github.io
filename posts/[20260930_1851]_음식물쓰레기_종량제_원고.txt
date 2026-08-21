@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>RFID 계량기, 전용봉투, 납부필증</b> 세 가지 방식이 쓰입니다.</p>
 
-<p>어느 방식인지는 <b>사는 곳</b>이 정합니다. 본인이 고르는 게 아니에요.</p>
+<p>어느 방식인지는 사는 곳이 정합니다. 본인이 고르는 게 아니에요.</p>
 
 <p>같은 양을 버려도 방식에 따라 요금이 달라지더라고요. 구조를 알면 줄일 여지가 보입니다.</p>
 
@@ -55,7 +55,7 @@
 <li><b>납부필증</b>은 스티커를 사서 수거통에 붙입니다</li>
 </ul>
 
-<p>세 방식 모두 <b>많이 버릴수록 많이 내는</b> 원리는 같습니다.</p>
+<p>세 방식 모두 많이 버릴수록 많이 내는 원리는 같습니다.</p>
 
 <h2>RFID가 대체로 저렴합니다</h2>
 
@@ -63,9 +63,9 @@
 
 <p>RFID는 <b>실제 무게</b>로 계산하니 낭비가 없습니다.</p>
 
-<p>다만 기기 관리 비용이 <b>공동으로</b> 들어가는 구조입니다.</p>
+<p>다만 기기 관리 비용이 공동으로 들어가는 구조입니다.</p>
 
-<p>1인 가구처럼 조금씩 버리는 경우 RFID가 <b>확실히 유리</b>합니다.</p>
+<p>1인 가구처럼 조금씩 버리는 경우 RFID가 확실히 유리합니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,40 @@
 <li>이물질을 섞으면 <b>과태료</b> 대상이 됩니다</li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;padding:20px 18px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;background:#fbfcfd;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:15px;">버리는 방식마다 요금이 다릅니다</div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">RFID 종량기</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:30%;height:100%;background:#1d7050;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">버린 무게만큼</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">납부필증 스티커</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:70%;height:100%;background:#1d7050;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">용기 단위</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">전용 봉투</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:85%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">봉투값 그대로</div></div>
+</div>
+
+<ul>
+<li><b>RFID</b>는 버린 무게만큼만 냅니다</li>
+<li><b>물기</b>를 빼면 무게가 눈에 띄게 줄어듭니다</li>
+<li>방식은 <b>지자체</b>가 정합니다</li>
+</ul>
+
 <h2>물기 하나로 요금이 달라집니다</h2>
 
 <p>음식물쓰레기는 <b>대부분이 수분</b>입니다. 무게의 상당 부분이 물이에요.</p>
 
 <p>체에 밭쳐 <b>물기만 빼도</b> 무게가 확 줄어듭니다.</p>
 
-<p>국이나 찌개는 국물을 <b>하수구에 버리고</b> 건더기만 담으세요.</p>
+<p>국이나 찌개는 국물을 하수구에 버리고 건더기만 담으세요.</p>
 
-<p>채소 껍질은 하루 이틀 <b>말려서</b> 버리면 부피와 무게가 모두 줄어듭니다.</p>
+<p>채소 껍질은 하루 이틀 말려서 버리면 부피와 무게가 모두 줄어듭니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">수분이 곧 요금입니다</div>
@@ -105,45 +130,49 @@
 <li>냄새와 <b>벌레 문제</b>도 같이 줄어듭니다</li>
 </ul>
 
-<h2>헷갈리는 품목 정리</h2>
+<h2>헷갈리는 품목은 어디로 버리나요?</h2>
 
 <p>기준은 하나입니다. <b>가축이 먹을 수 있는가</b>를 생각하시면 됩니다.</p>
 
 <p>딱딱한 <b>뼈와 껍데기</b>는 사료로 못 씁니다. 일반 쓰레기예요.</p>
 
-<p>양파 껍질이나 마늘 껍질도 <b>섬유질이 강해</b> 제외되는 지역이 있습니다.</p>
+<p>양파 껍질이나 마늘 껍질도 섬유질이 강해 제외되는 지역이 있습니다.</p>
 
-<p>지자체마다 기준이 조금씩 달라서 <b>관할 구청 안내</b>를 한번 보시는 게 정확합니다.</p>
+<p>지자체마다 기준이 조금씩 달라서 관할 구청 안내를 한번 보시는 게 정확합니다.</p>
 
 <h3>냄새와 벌레를 잡으려면</h3>
 
-<p>여름에는 <b>냉동실에 모았다</b> 버리는 분들이 많습니다. 효과가 확실해요.</p>
+<p>여름에는 냉동실에 모았다 버리는 분들이 많습니다. 효과가 확실해요.</p>
 
-<p>배출 통은 주기적으로 <b>씻어서 말려야</b> 합니다. 안 그러면 초파리가 생깁니다.</p>
+<p>배출 통은 주기적으로 씻어서 말려야 합니다. 안 그러면 초파리가 생깁니다.</p>
 
-<p>신문지를 깔거나 <b>베이킹소다</b>를 뿌려두는 것도 도움이 됩니다.</p>
+<p>신문지를 깔거나 베이킹소다를 뿌려두는 것도 도움이 됩니다.</p>
 
 <p>여름 한철만 신경 써도 훨씬 낫더라고요. 겨울엔 크게 문제가 안 됩니다.</p>
 
 <h3>배출 시간과 장소</h3>
 
-<p>수거 요일과 시간이 <b>정해져 있습니다</b>. 아무 때나 내놓으면 안 됩니다.</p>
+<p>수거 요일과 시간이 정해져 있습니다. 아무 때나 내놓으면 안 됩니다.</p>
 
-<p>정해진 시간 밖에 배출하면 <b>과태료</b>가 나올 수 있습니다.</p>
+<p>정해진 시간 밖에 배출하면 과태료가 나올 수 있습니다.</p>
 
-<p>RFID 기기는 대체로 <b>24시간 이용</b>이 가능합니다. 이건 편한 점이에요.</p>
+<p>RFID 기기는 대체로 24시간 이용이 가능합니다. 이건 편한 점이에요.</p>
 
-<p>명절이나 연휴에는 <b>수거 일정이 조정</b>되니 공지를 확인하세요.</p>
+<p>명절이나 연휴에는 수거 일정이 조정되니 공지를 확인하세요.</p>
 
 <h3>주방용 분쇄기는 조심하세요</h3>
 
-<p>싱크대에 다는 <b>음식물 분쇄기</b>는 인증받은 제품만 쓸 수 있습니다.</p>
+<p>싱크대에 다는 음식물 분쇄기는 인증받은 제품만 쓸 수 있습니다.</p>
 
-<p>분쇄한 음식물을 <b>전량 하수도로</b> 흘려보내는 개조는 불법입니다.</p>
+<p>분쇄한 음식물을 전량 하수도로 흘려보내는 개조는 불법입니다.</p>
 
-<p>적발되면 <b>과태료</b>가 부과됩니다. 하수 처리 부담이 커지기 때문이에요.</p>
+<p>적발되면 과태료가 부과됩니다. 하수 처리 부담이 커지기 때문이에요.</p>
 
-<p>구매 전에 <b>인증 표시</b>가 있는지 확인하시는 게 안전합니다.</p>
+<p>구매 전에 인증 표시가 있는지 확인하시는 게 안전합니다.</p>
+
+<p>저희 집은 음식물 버릴 때 물기 빼는 걸로 아내랑 잔소리를 주고받습니다. 요금이 눈에 띄게 줄더라고요...</p>
+
+<p>물기만 빼도 무게가 확 준다.</p>
 
 <h2>정리하면</h2>
 

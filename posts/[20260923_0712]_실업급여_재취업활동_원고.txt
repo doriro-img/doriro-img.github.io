@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>입사 지원, 면접, 직업훈련, 고용센터 프로그램</b>이 대표적인 인정 활동입니다.</p>
 
-<p>단순히 채용공고를 들여다본 것만으로는 인정되지 않아요. <b>지원한 기록</b>이 남아야 합니다.</p>
+<p>단순히 채용공고를 들여다본 것만으로는 인정되지 않아요. 지원한 기록이 남아야 합니다.</p>
 
 <p>회차가 뒤로 갈수록 요구 횟수가 늘어나서 초반에 여유 부리면 나중에 몰리더라고요.</p>
 
@@ -55,7 +55,7 @@
 <li>고용센터의 <b>상담과 특강</b> 참여도 포함됩니다</li>
 </ul>
 
-<p>봉사활동이나 자격증 공부는 <b>제한적으로만</b> 인정됩니다. 회차와 유형에 따라 달라요.</p>
+<p>봉사활동이나 자격증 공부는 제한적으로만 인정됩니다. 회차와 유형에 따라 달라요.</p>
 
 <h2>회차마다 요구가 다릅니다</h2>
 
@@ -63,9 +63,9 @@
 
 <p>2차부터는 <b>구직활동 실적</b>이 필요합니다. 회차가 갈수록 요구 횟수가 늘어요.</p>
 
-<p>수급 기간이 긴 분들은 후반부에 <b>구직활동만 인정</b>되는 구간이 옵니다.</p>
+<p>수급 기간이 긴 분들은 후반부에 구직활동만 인정되는 구간이 옵니다.</p>
 
-<p>반복 수급자나 장기 수급자는 <b>기준이 더 까다롭게</b> 적용됩니다.</p>
+<p>반복 수급자나 장기 수급자는 기준이 더 까다롭게 적용됩니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -84,15 +84,38 @@
 <li>면접 통보를 받고 <b>불참</b>하면 문제가 됩니다</li>
 </ul>
 
-<h2>신고는 어떻게 하나요</h2>
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">활동 유형</div><div style="flex:1;text-align:right;">인정 여부</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">입사지원·면접</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">인정</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">직업훈련 수강</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">인정</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">단순 구인공고 열람</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">불인정</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">같은 곳 반복 지원</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">제한</div></div>
+</div>
+
+<ul>
+<li><b>입사지원과 면접</b>은 확실하게 인정됩니다</li>
+<li><b>공고 열람</b>만으로는 활동으로 안 봅니다</li>
+<li>같은 곳에 반복 지원하면 <b>제한</b>이 걸립니다</li>
+</ul>
+
+<h2>신고는 어떻게 하나요?</h2>
 
 <p>고용보험 홈페이지나 모바일 앱에서 <b>온라인 실업인정</b>을 신청합니다.</p>
 
 <p>지정된 날짜에 신청해야 합니다. <b>날짜를 놓치면</b> 그 회차 급여가 밀려요.</p>
 
-<p>1차와 마지막 회차 등은 <b>센터 방문</b>이 필요할 수 있습니다.</p>
+<p>1차와 마지막 회차 등은 센터 방문이 필요할 수 있습니다.</p>
 
-<p>활동 내용을 적고 <b>증빙 자료</b>를 첨부하면 됩니다. 사진으로 올려도 됩니다.</p>
+<p>활동 내용을 적고 증빙 자료를 첨부하면 됩니다. 사진으로 올려도 됩니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">부정수급은 배액으로 돌아옵니다</div>
@@ -111,15 +134,15 @@
 
 <p>입사 지원은 <b>워크넷 외 사이트</b>에서도 됩니다. 지원 완료 화면을 캡처해두면 됩니다.</p>
 
-<p>이메일로 지원했다면 <b>보낸 메일함</b>을 캡처하면 증빙이 됩니다.</p>
+<p>이메일로 지원했다면 보낸 메일함을 캡처하면 증빙이 됩니다.</p>
 
-<p>면접을 봤다면 회사에 <b>면접확인서</b>를 요청할 수 있습니다. 대부분 써줍니다.</p>
+<p>면접을 봤다면 회사에 면접확인서를 요청할 수 있습니다. 대부분 써줍니다.</p>
 
 <h3>몸이 아파서 못 할 때</h3>
 
-<p>질병이나 부상으로 활동이 어려우면 <b>증빙을 내고</b> 사정을 설명할 수 있습니다.</p>
+<p>질병이나 부상으로 활동이 어려우면 증빙을 내고 사정을 설명할 수 있습니다.</p>
 
-<p>일정 기간 이상 취업이 불가능하면 <b>수급 기간 연기</b>를 신청하는 방법도 있습니다.</p>
+<p>일정 기간 이상 취업이 불가능하면 수급 기간 연기를 신청하는 방법도 있습니다.</p>
 
 <p>임신이나 출산, 육아도 연기 사유가 됩니다. 담당자와 미리 상의하시면 됩니다.</p>
 
@@ -127,13 +150,17 @@
 
 <h3>취업했으면 바로 알려야 합니다</h3>
 
-<p>재취업이 확정되면 <b>근로를 시작한 날 이전</b>에 신고해야 합니다.</p>
+<p>재취업이 확정되면 근로를 시작한 날 이전에 신고해야 합니다.</p>
 
-<p>남은 급여일수가 일정 비율 이상 남아 있으면 <b>조기재취업수당</b>을 받을 수 있습니다.</p>
+<p>남은 급여일수가 일정 비율 이상 남아 있으면 조기재취업수당을 받을 수 있습니다.</p>
 
-<p>일정 기간 이상 계속 근무해야 인정되고 <b>이전 사업주에게 재취업</b>한 경우는 제외됩니다.</p>
+<p>일정 기간 이상 계속 근무해야 인정되고 이전 사업주에게 재취업한 경우는 제외됩니다.</p>
 
 <p>신고를 미루면 수당은커녕 부정수급이 됩니다. 하루 이틀 아끼려다 크게 물어냅니다.</p>
+
+<p>제 지인이 재취업활동 인정 요건을 잘못 알아서 한 차례 못 받았습니다. 아내분이 대신 알아봐 줬다고 하더라고요...</p>
+
+<p>형식만 맞추면 되는 게 아니더라.</p>
 
 <h2>정리하면</h2>
 

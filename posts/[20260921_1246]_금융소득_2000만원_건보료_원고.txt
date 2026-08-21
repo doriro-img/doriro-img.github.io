@@ -25,9 +25,9 @@
 
 <p>이자와 배당을 합친 <b>금융소득</b>이 연 <b>2,000만원</b>을 넘으면 종합과세로 넘어갑니다.</p>
 
-<p>결론부터 말하면 진짜 부담은 세금이 아니라 <b>건강보험료</b>입니다. 세금은 생각보다 덜 늘어나는 경우가 많거든요.</p>
+<p>결론부터 말하면 진짜 부담은 세금이 아니라 건강보험료입니다. 세금은 생각보다 덜 늘어나는 경우가 많거든요.</p>
 
-<p>특히 <b>피부양자로 있던 분</b>이 이 선을 넘으면 자격을 잃습니다. 그때부터 지역가입자로 보험료를 따로 냅니다.</p>
+<p>특히 피부양자로 있던 분이 이 선을 넘으면 자격을 잃습니다. 그때부터 지역가입자로 보험료를 따로 냅니다.</p>
 
 <p>은퇴하고 이자로 생활하시는 분들이 이걸 모르고 있다가 고지서를 받고 놀라시더라고요.</p>
 
@@ -51,17 +51,42 @@
 <li>건강보험은 <b>피부양자 자격</b>이 걸려 있어 영향이 훨씬 큽니다</li>
 </ul>
 
-<p>세금은 한 번 내고 끝이지만 보험료는 <b>매달</b> 나갑니다. 그래서 체감이 다릅니다.</p>
+<p>세금은 한 번 내고 끝이지만 보험료는 매달 나갑니다. 그래서 체감이 다릅니다.</p>
 
-<h2>금융소득에 뭐가 들어가나요</h2>
+<h2>금융소득에 뭐가 들어가나요?</h2>
 
 <p>은행 <b>예적금 이자</b>와 주식 <b>배당금</b>이 대표적입니다. 채권 이자도 들어가고요.</p>
 
-<p>펀드에서 나온 <b>분배금</b>도 배당소득으로 잡힙니다. ETF 분배금도 마찬가지예요.</p>
+<p>펀드에서 나온 분배금도 배당소득으로 잡힙니다. ETF 분배금도 마찬가지예요.</p>
 
-<p>주식을 팔아서 번 <b>매매 차익</b>은 금융소득이 아닙니다. 그건 양도소득으로 따로 봅니다.</p>
+<p>주식을 팔아서 번 매매 차익은 금융소득이 아닙니다. 그건 양도소득으로 따로 봅니다.</p>
 
-<p>비과세 상품에서 나온 이자는 <b>합산되지 않습니다.</b> 이게 관리의 출발점이에요.</p>
+<p>비과세 상품에서 나온 이자는 합산되지 않습니다. 이게 관리의 출발점이에요.</p>
+
+<div style="border:1px solid #e2e6ea;border-radius:14px;padding:20px 18px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;background:#fbfcfd;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:15px;">2천만원을 넘으면 이렇게 바뀝니다</div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">2천만원 이하</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:30%;height:100%;background:#1f4a7a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">분리과세로 끝</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">2천만원 초과</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:70%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">종합과세 합산</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">건보료 반영</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:85%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">피부양자 탈락 위험</div></div>
+</div>
+
+<ul>
+<li>연 <b>2천만원</b>을 넘으면 종합과세로 넘어갑니다</li>
+<li>세금보다 <b>건보료</b> 부담이 더 클 수 있습니다</li>
+<li><b>피부양자</b> 자격이 흔들릴 수 있습니다</li>
+</ul>
 
 <h2>부부는 각자 계산합니다</h2>
 
@@ -69,7 +94,7 @@
 
 <p>그래서 <b>한 명에게 몰려 있는 자산</b>을 나누면 두 사람 모두 기준선 아래로 갈 수 있습니다.</p>
 
-<p>다만 명의를 옮기는 건 <b>증여</b>가 됩니다. 배우자 공제 범위 안이면 세금이 없지만 신고는 해두는 게 좋아요.</p>
+<p>다만 명의를 옮기는 건 증여가 됩니다. 배우자 공제 범위 안이면 세금이 없지만 신고는 해두는 게 좋아요.</p>
 
 <p>자녀 명의로 돌리는 것도 마찬가지입니다. 증여 한도를 넘기면 세금이 붙습니다.</p>
 
@@ -90,7 +115,7 @@
 <li>퇴직금을 한 번에 예치하면 <b>이자가 한 해에 집중</b>됩니다</li>
 </ul>
 
-<p>정기예금 만기를 <b>12월과 1월로 나누는</b> 것만으로도 한 해 금융소득이 갈리더라고요.</p>
+<p>정기예금 만기를 12월과 1월로 나누는 것만으로도 한 해 금융소득이 갈리더라고요.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">피부양자가 가장 위험합니다</div>
@@ -109,7 +134,7 @@
 
 <p>금융소득도 <b>보수 외 소득</b>에 들어갑니다. 임대소득이나 사업소득이 있으면 합쳐서 봅니다.</p>
 
-<p>회사에는 알려지지 않습니다. <b>본인에게 따로 고지</b>되는 방식이에요.</p>
+<p>회사에는 알려지지 않습니다. 본인에게 따로 고지되는 방식이에요.</p>
 
 <p>매년 소득 자료가 반영되는 시점에 보험료가 조정됩니다. 갑자기 오르면 이 때문일 수 있습니다.</p>
 
@@ -119,19 +144,23 @@
 
 <p>만기를 <b>다음 해로 미루는</b> 것도 방법입니다. 은행에 문의하면 조정이 되는 경우가 있습니다.</p>
 
-<p>배당주는 <b>배당기준일</b>을 넘겨 매도하면 그해 배당이 안 잡힙니다. 다만 투자 판단이 먼저입니다.</p>
+<p>배당주는 배당기준일을 넘겨 매도하면 그해 배당이 안 잡힙니다. 다만 투자 판단이 먼저입니다.</p>
 
 <p>금액이 크면 세무사와 상의하는 게 낫습니다. 보험료까지 계산해야 답이 나오거든요.</p>
 
 <h3>비과세 상품을 먼저 채우세요</h3>
 
-<p>ISA는 일정 한도까지 <b>비과세</b>이고 초과분도 분리과세됩니다. 금융소득 합산에서 빠져요.</p>
+<p>ISA는 일정 한도까지 비과세이고 초과분도 분리과세됩니다. 금융소득 합산에서 빠져요.</p>
 
-<p>고령자나 장애인은 <b>비과세 종합저축</b>을 쓸 수 있습니다. 한도 안에서 이자가 비과세입니다.</p>
+<p>고령자나 장애인은 비과세 종합저축을 쓸 수 있습니다. 한도 안에서 이자가 비과세입니다.</p>
 
-<p>연금계좌에 넣은 돈에서 나온 수익도 <b>인출 전까지는</b> 금융소득으로 안 잡힙니다.</p>
+<p>연금계좌에 넣은 돈에서 나온 수익도 인출 전까지는 금융소득으로 안 잡힙니다.</p>
 
 <p>순서를 정하면 이렇습니다. 비과세 한도부터 채우고 그다음에 일반 계좌를 쓰는 거예요.</p>
+
+<p>저는 배당을 늘리다가 이 기준선을 알게 됐습니다. 아내랑 건보료까지 계산해보고 속도를 줄였어요...</p>
+
+<p>세금보다 건보료가 더 아프더라.</p>
 
 <h2>정리하면</h2>
 

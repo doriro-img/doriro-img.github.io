@@ -25,11 +25,11 @@
 
 <p>패딩 세탁 사고는 매년 겨울에 반복됩니다. 다투게 되면 결국 <b>증거</b> 싸움이에요.</p>
 
-<p>결론부터 말하면 <b>세탁물 인수증</b>을 꼭 받고, 맡기기 전에 <b>옷 상태를 사진</b>으로 남기면 됩니다.</p>
+<p>결론부터 말하면 <b>세탁물 인수증</b>을 꼭 받습니다. 맡기기 전에 옷 상태를 사진으로 남기면 됩니다.</p>
 
-<p>그리고 옷 안쪽 <b>취급표시 라벨</b>이 판정의 기준이 됩니다. 라벨대로 세탁했는지가 책임을 가릅니다.</p>
+<p>그리고 옷 안쪽 취급표시 라벨이 판정의 기준이 됩니다. 라벨대로 세탁했는지가 책임을 가릅니다.</p>
 
-<p>저희도 아내 패딩을 맡겼다가 소매 부분이 얼룩진 적이 있었는데, 사진이 없어서 그냥 넘어갔더라고요.</p>
+<p>저희도 아내 패딩을 맡겼다가 소매 부분이 얼룩진 적이 있었습니다. 사진이 없어서 그냥 넘어갔더라고요.</p>
 
 <div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#3f4a6b;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">맡기기 전 확인 4가지</div>
@@ -61,7 +61,7 @@
 
 <h2>책임은 누가 지나요?</h2>
 
-<p>세탁 사고는 크게 세 가지로 갈립니다. <b>제조 하자</b>, <b>세탁 과실</b>, <b>소비자 과실</b>이죠.</p>
+<p>세탁 사고는 크게 세 가지로 갈립니다. <b>제조 하자</b>, <b>세탁 과실</b>, 소비자 과실이죠.</p>
 
 <p>제조 하자는 옷 자체에 문제가 있었던 경우입니다. 이때는 제조·판매자 책임입니다.</p>
 
@@ -71,13 +71,13 @@
 
 <h3>판정은 어디서 하나요?</h3>
 
-<p>당사자끼리 합의가 안 되면 <b>한국소비자원</b>에 도움을 요청할 수 있습니다.</p>
+<p>당사자끼리 합의가 안 되면 한국소비자원에 도움을 요청할 수 있습니다.</p>
 
-<p>섬유제품을 심의하는 절차가 있어서 <b>어느 쪽 책임인지</b>를 가려줍니다.</p>
+<p>섬유제품을 심의하는 절차가 있어서 어느 쪽 책임인지를 가려줍니다.</p>
 
 <p>이 판정을 받으려면 옷과 인수증, 구매 정보가 있어야 합니다. 준비물이 갖춰져야 진행돼요.</p>
 
-<p>상담은 국번 없이 <b>1372</b>로 전화하면 됩니다.</p>
+<p>상담은 국번 없이 1372로 전화하면 됩니다.</p>
 
 <div style="background:linear-gradient(135deg,#f0f2f8,#dbdfea);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="font-size:13px;font-weight:800;color:#3f4a6b;margin-bottom:16px;">책임 구분</div>
@@ -113,17 +113,17 @@
 
 <p>구입 가격에 <b>남은 가치 비율</b>을 곱해 산정하는 방식이 일반적입니다.</p>
 
-<p>그래서 <b>구입 시점과 가격</b>을 알 수 있는 자료가 있으면 유리합니다. 카드 내역이나 영수증이요.</p>
+<p>그래서 구입 시점과 가격을 알 수 있는 자료가 있으면 유리합니다. 카드 내역이나 영수증이요.</p>
 
-<p>또 하나 중요한 건 <b>기한</b>입니다. 옷을 찾아온 뒤 일정 기간이 지나면 청구가 어려워집니다.</p>
+<p>또 하나 중요한 건 기한입니다. 옷을 찾아온 뒤 일정 기간이 지나면 청구가 어려워집니다.</p>
 
 <h3>찾아오자마자 확인하세요</h3>
 
-<p>세탁소에서 받자마자 그 자리에서 <b>펼쳐보는</b> 게 가장 좋습니다.</p>
+<p>세탁소에서 받자마자 그 자리에서 펼쳐보는 게 가장 좋습니다.</p>
 
 <p>비닐째 옷장에 걸어두고 겨울 다 지나서 발견하면 곤란해집니다.</p>
 
-<p>문제가 보이면 <b>바로 사진</b>을 찍고 세탁소에 알립니다. 시간이 지날수록 불리해져요.</p>
+<p>문제가 보이면 바로 사진을 찍고 세탁소에 알립니다. 시간이 지날수록 불리해져요.</p>
 
 <div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="display:flex;background:#eff1f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
@@ -167,9 +167,9 @@
 
 <p>다운은 기름 성분이 있어야 부풀어 오릅니다. 드라이클리닝은 그 성분을 빼갈 수 있어요.</p>
 
-<p>반복하면 <b>보온력이 떨어질</b> 수 있습니다. 그래서 매년 맡기는 게 꼭 좋은 건 아닙니다.</p>
+<p>반복하면 보온력이 떨어질 수 있습니다. 그래서 매년 맡기는 게 꼭 좋은 건 아닙니다.</p>
 
-<p>소매나 목 부분만 더러우면 <b>그 부분만</b> 부분 세탁하는 것도 방법입니다.</p>
+<p>소매나 목 부분만 더러우면 그 부분만 부분 세탁하는 것도 방법입니다.</p>
 
 <div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">압축팩 주의</div>
@@ -181,6 +181,10 @@
 <li>충전재가 뭉치지 않게 <b>완전히 건조</b>시켜야 합니다</li>
 <li>보관은 <b>압축팩보다 통풍되는 커버</b>가 낫습니다</li>
 </ul>
+
+<p>저는 패딩을 맡겼다가 오리털이 뭉쳐서 돌아왔습니다. 아내가 영수증부터 챙기라고 했어요...</p>
+
+<p>맡길 때 상태를 적어두는 게 낫다.</p>
 
 <h2>정리하면</h2>
 

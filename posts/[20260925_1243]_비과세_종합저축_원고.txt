@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>만 65세 이상</b>이거나 장애인, 국가유공자 등이 가입할 수 있습니다.</p>
 
-<p>일반 예금은 이자에서 <b>세금이 원천징수</b>되지만 이건 그대로 다 받습니다.</p>
+<p>일반 예금은 이자에서 세금이 원천징수되지만 이건 그대로 다 받습니다.</p>
 
 <p>부모님 통장을 정리하다 보면 이걸 안 쓰고 계신 경우가 많더라고요. 조건만 되면 무조건 쓰는 게 이득입니다.</p>
 
@@ -63,7 +63,7 @@
 <li>국가유공자와 기초생활수급자 등도 <b>포함</b>됩니다</li>
 </ul>
 
-<p>대상자 확인은 <b>서류로 증명</b>합니다. 장애인등록증이나 유공자증 같은 것들이요.</p>
+<p>대상자 확인은 서류로 증명합니다. 장애인등록증이나 유공자증 같은 것들이요.</p>
 
 <h2>한도는 전 금융기관 합산입니다</h2>
 
@@ -71,9 +71,9 @@
 
 <p>A은행에서 얼마, B은행에서 얼마 이렇게 나눠 넣어도 <b>총액으로 계산</b>돼요.</p>
 
-<p>한도를 넘으면 넘은 부분은 <b>일반 과세</b>로 처리됩니다.</p>
+<p>한도를 넘으면 넘은 부분은 일반 과세로 처리됩니다.</p>
 
-<p>가입할 때 금융기관에서 <b>기존 가입 내역</b>을 조회합니다. 몰래 넘길 수는 없습니다.</p>
+<p>가입할 때 금융기관에서 기존 가입 내역을 조회합니다. 몰래 넘길 수는 없습니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -92,15 +92,38 @@
 <li>본인 명의로만 가능하고 <b>대리 가입은 안 됩니다</b></li>
 </ul>
 
-<h2>얼마나 이득인가요</h2>
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">구분</div><div style="flex:1;text-align:right;">내용</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">대상</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">65세 이상·장애인 등</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">혜택</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">이자소득 비과세</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">한도</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">1인당 원금 기준</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">초과분</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">일반 세율 적용</div></div>
+</div>
+
+<ul>
+<li><b>65세 이상</b>과 장애인 등이 대상입니다</li>
+<li>한도 안에서 <b>이자소득이 비과세</b>됩니다</li>
+<li>한도를 넘으면 <b>일반 세율</b>로 과세됩니다</li>
+</ul>
+
+<h2>얼마나 이득인가요?</h2>
 
 <p>일반 예금 이자에는 <b>이자소득세와 지방소득세</b>가 붙습니다.</p>
 
 <p>비과세 종합저축은 이 세금이 <b>0</b>입니다. 이자를 통째로 받는 셈이에요.</p>
 
-<p>같은 금리라도 <b>실수령 이자</b>가 차이 납니다. 금액이 클수록 차이가 벌어져요.</p>
+<p>같은 금리라도 실수령 이자가 차이 납니다. 금액이 클수록 차이가 벌어져요.</p>
 
-<p>여기서 나온 이자는 <b>금융소득종합과세 대상에서도 빠집니다</b>. 이게 은근히 큽니다.</p>
+<p>여기서 나온 이자는 금융소득종합과세 대상에서도 빠집니다. 이게 은근히 큽니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">건강보험료에도 영향이 있습니다</div>
@@ -119,39 +142,43 @@
 
 <p>그냥 예금을 들면 <b>일반 과세</b>로 처리됩니다. 자동으로 적용되지 않아요.</p>
 
-<p>신분증과 <b>자격 증명 서류</b>를 챙겨가시면 됩니다.</p>
+<p>신분증과 자격 증명 서류를 챙겨가시면 됩니다.</p>
 
-<p>이미 가입한 예금을 <b>나중에 전환</b>하는 건 어려운 경우가 많습니다. 처음부터 지정하세요.</p>
+<p>이미 가입한 예금을 나중에 전환하는 건 어려운 경우가 많습니다. 처음부터 지정하세요.</p>
 
 <h3>일몰 기한을 확인하세요</h3>
 
-<p>이 제도는 <b>기한이 정해진 조세특례</b>입니다. 연장을 거듭해왔어요.</p>
+<p>이 제도는 기한이 정해진 조세특례입니다. 연장을 거듭해왔어요.</p>
 
-<p>가입 기한이 끝나면 <b>신규 가입이 막힙니다</b>. 다만 기존 계좌는 만기까지 유지됩니다.</p>
+<p>가입 기한이 끝나면 신규 가입이 막힙니다. 다만 기존 계좌는 만기까지 유지됩니다.</p>
 
-<p>연말에 세법 개정안이 나올 때 <b>연장 여부</b>가 정해집니다.</p>
+<p>연말에 세법 개정안이 나올 때 연장 여부가 정해집니다.</p>
 
 <p>조건이 되신다면 미루지 말고 가입해두시는 게 안전합니다.</p>
 
 <h3>부모님께 권할 때</h3>
 
-<p>만 65세 생일이 지났다면 <b>바로 대상</b>입니다. 따로 통보가 오지 않아요.</p>
+<p>만 65세 생일이 지났다면 바로 대상입니다. 따로 통보가 오지 않아요.</p>
 
-<p>기존 예금이 만기되면 <b>재예치할 때</b> 비과세로 지정하시면 됩니다.</p>
+<p>기존 예금이 만기되면 재예치할 때 비과세로 지정하시면 됩니다.</p>
 
-<p>은행에 같이 가셔서 직원에게 물어보는 게 제일 확실합니다. <b>한도 조회</b>도 그 자리에서 됩니다.</p>
+<p>은행에 같이 가셔서 직원에게 물어보는 게 제일 확실합니다. 한도 조회도 그 자리에서 됩니다.</p>
 
 <p>가족이 대신 가입할 수는 없으니 본인이 가셔야 한다는 점만 기억하세요.</p>
 
 <h3>ISA와는 뭐가 다른가요</h3>
 
-<p>ISA도 절세 계좌지만 <b>구조가 다릅니다</b>. 일정 한도까지 비과세하고 나머지는 분리과세해요.</p>
+<p>ISA도 절세 계좌지만 구조가 다릅니다. 일정 한도까지 비과세하고 나머지는 분리과세해요.</p>
 
-<p>비과세 종합저축은 <b>대상자 자격</b>이 있어야 하고, ISA는 소득이 있는 성인이면 대부분 가입됩니다.</p>
+<p>비과세 종합저축은 대상자 자격이 있어야 합니다. ISA는 소득이 있는 성인이면 대부분 가입됩니다.</p>
 
-<p>두 계좌는 <b>동시에 보유</b>할 수 있습니다. 한도가 서로 물리지 않아요.</p>
+<p>두 계좌는 동시에 보유할 수 있습니다. 한도가 서로 물리지 않아요.</p>
 
 <p>조건이 되신다면 비과세 종합저축을 먼저 채우는 편이 유리하더라고요. 이쪽이 전액 비과세라서요.</p>
+
+<p>저는 이 통장을 부모님께 만들어 드렸습니다. 아내가 한도부터 확인하자고 했어요...</p>
+
+<p>한도 넘기면 그때부터는 그냥 과세다.</p>
 
 <h2>정리하면</h2>
 

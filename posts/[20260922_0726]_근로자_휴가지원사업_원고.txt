@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 근로자가 낸 금액에 <b>기업과 정부가 각각 보태는</b> 구조예요. 내 돈보다 훨씬 큰 금액이 적립됩니다.</p>
 
-<p>대상은 <b>중소기업과 소상공인</b> 등의 근로자입니다. 대기업은 해당하지 않아요.</p>
+<p>대상은 중소기업과 소상공인 등의 근로자입니다. 대기업은 해당하지 않아요.</p>
 
 <p>회사에서 안내를 안 해주면 이런 게 있는지도 모르고 지나가더라고요. 근로자가 먼저 알고 요청하는 경우도 많습니다.</p>
 
@@ -60,7 +60,7 @@
 <li>적립된 금액은 <b>전용 온라인몰</b>에서만 사용합니다</li>
 </ul>
 
-<p>본인이 낸 돈보다 쓸 수 있는 돈이 많으니 <b>여행 계획이 있으면</b> 확실히 이득입니다.</p>
+<p>본인이 낸 돈보다 쓸 수 있는 돈이 많으니 여행 계획이 있으면 확실히 이득입니다.</p>
 
 <h2>기업이 먼저 신청해야 합니다</h2>
 
@@ -70,7 +70,7 @@
 
 <p>회사 입장에서는 <b>복지 비용을 일부만 내고</b> 직원 복지를 챙기는 셈이라 부담이 크지 않습니다.</p>
 
-<p>사업주가 관심이 없으면 아예 시작이 안 됩니다. 인사 담당자에게 <b>먼저 알려주는</b> 게 방법이에요.</p>
+<p>사업주가 관심이 없으면 아예 시작이 안 됩니다. 인사 담당자에게 먼저 알려주는 게 방법이에요.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #a9dcc4;background:#eef9f3;border-radius:12px;padding:16px 18px;">
@@ -89,6 +89,33 @@
 <li>기업이 신청하지 않으면 <b>근로자도 참여할 수 없습니다</b></li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#2f6fb0;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">휴가비를 지원받는 흐름</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:1;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">기업 신청</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">근로자 명단 등록</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.84;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">근로자 적립</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">본인 부담금 납입</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.6799999999999999;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">기업·정부 적립</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">나머지를 얹어줌</div></div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e8ecef;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#2f6fb0;opacity:0.52;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">전용몰 사용</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">숙박·여행 결제</div></div>
+</div></div>
+
+<ul>
+<li><b>기업이 먼저</b> 신청해야 시작됩니다</li>
+<li>근로자 부담금에 <b>기업과 정부</b>가 얹어줍니다</li>
+<li>적립금은 <b>전용몰</b>에서만 쓸 수 있습니다</li>
+</ul>
+
 <h2>전용몰에서만 쓸 수 있습니다</h2>
 
 <p>적립금은 현금이 아닙니다. <b>지정된 온라인몰</b>에서 결제하는 방식이에요.</p>
@@ -97,7 +124,7 @@
 
 <p>해외여행 상품은 <b>제한되는 경우</b>가 많습니다. 이 사업이 국내 관광 활성화 목적이라서요.</p>
 
-<p>전용몰 가격이 시중보다 비싼지 <b>비교해보고</b> 결제하시는 게 좋습니다. 늘 싸지는 않더라고요.</p>
+<p>전용몰 가격이 시중보다 비싼지 비교해보고 결제하시는 게 좋습니다. 늘 싸지는 않더라고요.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">선착순으로 마감됩니다</div>
@@ -118,25 +145,29 @@
 
 <p>가족과 함께 쓸 수 있습니다. 근로자 본인만 쓰라는 제약은 없어요.</p>
 
-<p>회사가 부담한 금액은 <b>복리후생비</b>로 처리됩니다. 사업주에게도 세무상 이점이 있습니다.</p>
+<p>회사가 부담한 금액은 복리후생비로 처리됩니다. 사업주에게도 세무상 이점이 있습니다.</p>
 
 <h3>회사에 제안할 때</h3>
 
-<p>사업주가 부담하는 금액이 <b>1인당 크지 않다</b>는 점을 말씀드리면 설득이 쉽습니다.</p>
+<p>사업주가 부담하는 금액이 1인당 크지 않다는 점을 말씀드리면 설득이 쉽습니다.</p>
 
-<p>직원 복지 항목을 늘리면서 <b>정부 지원까지</b> 끌어오는 구조라 회사 입장에서도 나쁘지 않아요.</p>
+<p>직원 복지 항목을 늘리면서 정부 지원까지 끌어오는 구조라 회사 입장에서도 나쁘지 않아요.</p>
 
-<p>한국관광공사에서 운영하는 사업이라 <b>공고와 안내문</b>이 잘 정리돼 있습니다. 그걸 인쇄해서 드리면 됩니다.</p>
+<p>한국관광공사에서 운영하는 사업이라 공고와 안내문이 잘 정리돼 있습니다. 그걸 인쇄해서 드리면 됩니다.</p>
 
-<h3>퇴사하면 어떻게 되나요</h3>
+<h3>퇴사하면 어떻게 되나요?</h3>
 
 <p>참여 중에 회사를 그만두면 적립금 처리 기준이 따로 적용됩니다.</p>
 
-<p>이미 적립된 <b>기업 부담분과 정부 지원금</b>은 회수될 수 있습니다. 본인이 낸 돈은 환급 절차를 밟고요.</p>
+<p>이미 적립된 기업 부담분과 정부 지원금은 회수될 수 있습니다. 본인이 낸 돈은 환급 절차를 밟고요.</p>
 
-<p>이직 계획이 있다면 <b>여행을 먼저 다녀오는</b> 편이 안전합니다. 적립만 해두고 미루면 애매해집니다.</p>
+<p>이직 계획이 있다면 여행을 먼저 다녀오는 편이 안전합니다. 적립만 해두고 미루면 애매해집니다.</p>
 
 <p>휴직 중에도 참여가 제한될 수 있으니 상황이 바뀌면 담당자에게 알리는 게 좋습니다.</p>
+
+<p>제가 아는 김포 쪽 회사가 이 사업으로 직원 여행비를 지원했습니다. 접수 시작하자마자 마감됐다고 하더라고요...</p>
+
+<p>선착순이라 미리 준비 안 하면 못 잡는다.</p>
 
 <h2>정리하면</h2>
 

@@ -29,7 +29,7 @@
 
 <p>시술을 먼저 받고 나중에 영수증으로 신청하는 방식이 아닙니다. 여기서 놓치는 분들이 꽤 있더라고요.</p>
 
-<p>지자체로 이양된 사업이라 지원 횟수와 금액이 <b>사는 지역마다 다릅니다.</b> 이것도 미리 확인해야 합니다.</p>
+<p>지자체로 이양된 사업이라 지원 횟수와 금액이 사는 지역마다 다릅니다. 이것도 미리 확인해야 합니다.</p>
 
 <div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#6b4a8a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">신청 순서</div>
@@ -71,7 +71,7 @@
 
 <h3>소득 기준은 지역마다 다릅니다</h3>
 
-<p>예전에는 소득 기준이 있었지만 <b>기준을 없앤 지자체</b>가 늘었습니다.</p>
+<p>예전에는 소득 기준이 있었지만 기준을 없앤 지자체가 늘었습니다.</p>
 
 <p>소득 기준을 운영하는 곳이라면 건강보험료 납부확인서가 필요합니다.</p>
 
@@ -117,13 +117,13 @@
 
 <h3>통지서 유효기간을 꼭 보세요</h3>
 
-<p>지원결정통지서에는 <b>유효기간</b>이 적혀 있습니다. 그 안에 시술을 시작해야 합니다.</p>
+<p>지원결정통지서에는 유효기간이 적혀 있습니다. 그 안에 시술을 시작해야 합니다.</p>
 
 <p>기간이 지나면 다시 신청해야 하고 진단서도 새로 필요할 수 있습니다.</p>
 
 <p>시술 일정이 미뤄질 것 같으면 미리 보건소에 문의하는 게 좋습니다.</p>
 
-<p>통지서는 <b>정부지정 난임시술 의료기관</b>에서만 쓸 수 있습니다. 아무 산부인과나 되는 게 아니에요.</p>
+<p>통지서는 정부지정 난임시술 의료기관에서만 쓸 수 있습니다. 아무 산부인과나 되는 게 아니에요.</p>
 
 <div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="display:flex;background:#f2eef7;padding:12px 18px;font-size:12.5px;font-weight:800;color:#5f5470;">
@@ -173,6 +173,10 @@
 <li>지원 금액은 <b>시술 종류와 회차</b>에 따라 달라집니다</li>
 <li>지자체별 <b>추가 사업</b>이 있는지 같이 확인하세요</li>
 </ul>
+
+<p>제 지인 부부가 이 지원으로 시술을 이어갔습니다. 아내가 회차 제한 얘기를 전해줬어요...</p>
+
+<p>지자체마다 지원이 또 다르더라.</p>
 
 <h2>정리하면</h2>
 

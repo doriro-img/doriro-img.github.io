@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>문턱을 못 넘으면 한 푼도 공제가 안 됩니다</b>. 여기서 많이 갈려요.</p>
 
-<p>그래서 <b>가족 의료비를 한 사람에게 모으는</b> 전략이 나옵니다.</p>
+<p>그래서 가족 의료비를 한 사람에게 모으는 전략이 나옵니다.</p>
 
 <p>맞벌이라면 소득이 적은 쪽에 모으는 게 유리한 경우가 많더라고요. 문턱이 낮아지니까요.</p>
 
@@ -51,7 +51,7 @@
 <li>미용 목적과 <b>건강증진용 보약</b>은 제외됩니다</li>
 </ul>
 
-<p>공제율도 항목마다 다릅니다. <b>난임시술비</b>는 다른 항목보다 높게 적용돼요.</p>
+<p>공제율도 항목마다 다릅니다. 난임시술비는 다른 항목보다 높게 적용돼요.</p>
 
 <h2>실손보험금은 빼야 합니다</h2>
 
@@ -59,9 +59,9 @@
 
 <p>내가 실제로 <b>부담한 금액</b>만 공제됩니다. 당연한 원리지만 놓치기 쉽습니다.</p>
 
-<p>간소화 자료에는 <b>보험금 수령액이 반영되지 않을 수</b> 있습니다.</p>
+<p>간소화 자료에는 보험금 수령액이 반영되지 않을 수 있습니다.</p>
 
-<p>그대로 신고하면 <b>과다 공제</b>가 되어 나중에 추징될 수 있습니다.</p>
+<p>그대로 신고하면 과다 공제가 되어 나중에 추징될 수 있습니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #f0b8b1;background:#fdf3f1;border-radius:12px;padding:16px 18px;">
@@ -80,15 +80,40 @@
 <li>빠진 자료는 <b>영수증을 직접</b> 챙겨야 합니다</li>
 </ul>
 
+<div style="border:1px solid #e2e6ea;border-radius:14px;padding:20px 18px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;background:#fbfcfd;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:15px;">일정 금액을 넘어야 시작됩니다</div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">문턱 이하</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:30%;height:100%;background:#b8443a;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">공제 없음</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">문턱 초과분</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:75%;height:100%;background:#1d7050;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">공제 대상</div></div>
+<div style="display:flex;align-items:center;gap:11px;margin-bottom:10px;">
+<div style="width:96px;font-size:12.5px;font-weight:700;color:#41586b;">난임·중증</div>
+<div style="flex:1;height:22px;background:#e9eef2;border-radius:11px;overflow:hidden;">
+<div style="width:95%;height:100%;background:#1d7050;border-radius:11px;"></div></div>
+<div style="width:86px;text-align:right;font-size:12.5px;font-weight:800;color:#2b3f4d;">공제율 상향</div></div>
+</div>
+
+<ul>
+<li>총급여의 <b>일정 비율</b>을 넘어야 공제가 시작됩니다</li>
+<li><b>난임 시술</b>과 중증질환은 공제율이 높습니다</li>
+<li>실손으로 <b>받은 금액</b>은 빼고 계산합니다</li>
+</ul>
+
 <h2>가족 의료비도 됩니다</h2>
 
 <p>의료비는 <b>나이와 소득 요건을 따지지 않습니다</b>. 인적공제와 다른 점이에요.</p>
 
 <p>부모님이 소득이 있어 인적공제를 못 받아도 <b>의료비는 가능</b>한 경우가 있습니다.</p>
 
-<p>다만 <b>생계를 같이해야</b> 한다는 요건은 남아 있습니다.</p>
+<p>다만 생계를 같이해야 한다는 요건은 남아 있습니다.</p>
 
-<p>형제자매의 의료비도 <b>부양 관계</b>가 인정되면 공제할 수 있습니다.</p>
+<p>형제자매의 의료비도 부양 관계가 인정되면 공제할 수 있습니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#7ad0ff;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">본인과 부양가족은 한도가 다릅니다</div>
@@ -107,29 +132,33 @@
 
 <p>선글라스나 <b>미용 목적 컬러렌즈</b>는 안 됩니다.</p>
 
-<p>안경점 영수증은 <b>간소화 자료에 안 뜨는</b> 경우가 많습니다. 직접 받아두세요.</p>
+<p>안경점 영수증은 간소화 자료에 안 뜨는 경우가 많습니다. 직접 받아두세요.</p>
 
-<p>산후조리원은 <b>총급여 요건과 한도</b>가 붙습니다. 출산 1회당 기준으로 계산합니다.</p>
+<p>산후조리원은 총급여 요건과 한도가 붙습니다. 출산 1회당 기준으로 계산합니다.</p>
 
-<h3>미용과 치료의 경계</h3>
+<h3>미용과 치료는 어디서 갈리나요?</h3>
 
-<p>같은 시술이라도 <b>목적</b>에 따라 갈립니다. 이게 헷갈리는 지점이에요.</p>
+<p>같은 시술이라도 목적에 따라 갈립니다. 이게 헷갈리는 지점이에요.</p>
 
-<p>치아 교정은 <b>저작 기능 개선</b> 목적이면 인정되는 경우가 있습니다.</p>
+<p>치아 교정은 저작 기능 개선 목적이면 인정되는 경우가 있습니다.</p>
 
-<p>피부과 진료도 <b>질환 치료</b>면 되고 미용 시술이면 안 됩니다.</p>
+<p>피부과 진료도 질환 치료면 되고 미용 시술이면 안 됩니다.</p>
 
-<p>병원에서 <b>진료 목적 소견서</b>를 받아두면 근거가 되더라고요.</p>
+<p>병원에서 진료 목적 소견서를 받아두면 근거가 되더라고요.</p>
 
 <h3>자료가 빠졌을 때</h3>
 
-<p>간소화 서비스에 없는 항목은 <b>병원에 직접 요청</b>하면 됩니다.</p>
+<p>간소화 서비스에 없는 항목은 병원에 직접 요청하면 됩니다.</p>
 
 <p>진료비 납입확인서를 발급받아 회사에 제출하시면 처리됩니다.</p>
 
-<p>회사 제출 기한을 넘겼다면 <b>5월 종합소득세 신고</b> 때 반영할 수 있습니다.</p>
+<p>회사 제출 기한을 넘겼다면 5월 종합소득세 신고 때 반영할 수 있습니다.</p>
 
-<p>그마저 놓쳤어도 <b>경정청구</b>로 나중에 돌려받는 길이 있습니다.</p>
+<p>그마저 놓쳤어도 경정청구로 나중에 돌려받는 길이 있습니다.</p>
+
+<p>저희는 연말에 영수증을 몰아 챙기다가 몇 장을 잃어버렸습니다. 아내가 그때그때 사진 찍어두자고 했어요...</p>
+
+<p>간소화에 안 뜨는 게 꼭 있다.</p>
 
 <h2>정리하면</h2>
 

@@ -27,7 +27,7 @@
 
 <p>결론부터 말하면 <b>우대금리, 이자 비과세, 소득공제</b> 세 가지가 핵심입니다.</p>
 
-<p>청약 기능은 <b>기존 통장과 동일</b>합니다. 순위와 가점 계산이 그대로예요.</p>
+<p>청약 기능은 기존 통장과 동일합니다. 순위와 가점 계산이 그대로예요.</p>
 
 <p>이미 청약통장이 있어도 전환가입이 되더라고요. 그동안 쌓인 기간이 사라지지 않습니다.</p>
 
@@ -60,17 +60,17 @@
 <li>무주택 세대주는 <b>납입액 소득공제</b>를 받습니다</li>
 </ul>
 
-<p>세 가지 혜택은 각각 <b>요건이 다릅니다</b>. 하나만 해당해도 이득이에요.</p>
+<p>세 가지 혜택은 각각 요건이 다릅니다. 하나만 해당해도 이득이에요.</p>
 
-<h2>누가 가입할 수 있나요</h2>
+<h2>누가 가입할 수 있나요?</h2>
 
 <p><b>무주택 청년</b>이 대상입니다. 나이 구간이 정해져 있어요.</p>
 
 <p>소득 기준도 있습니다. <b>연 소득 상한</b>을 넘으면 우대 혜택이 제한됩니다.</p>
 
-<p>소득이 없어도 가입은 됩니다. <b>학생이나 취업준비생</b>도 열려 있어요.</p>
+<p>소득이 없어도 가입은 됩니다. 학생이나 취업준비생도 열려 있어요.</p>
 
-<p>병역을 이행했다면 <b>나이 계산에서 복무 기간</b>을 빼주는 경우가 있습니다.</p>
+<p>병역을 이행했다면 나이 계산에서 복무 기간을 빼주는 경우가 있습니다.</p>
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="flex:1 1 240px;border:1px solid #cfe0f0;background:#eff6fb;border-radius:12px;padding:16px 18px;">
@@ -89,15 +89,38 @@
 <li>병역 기간은 <b>나이 계산에서 차감</b>될 수 있습니다</li>
 </ul>
 
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">항목</div><div style="flex:1;text-align:right;">내용</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">대상</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">일정 연령 청년</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">금리</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">일반 청약보다 우대</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">비과세</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">조건 충족 시</div></div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">전환</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1f4a7a;">기존 통장 기간 승계</div></div>
+</div>
+
+<ul>
+<li>기존 청약통장의 <b>기간이 승계</b>됩니다</li>
+<li>일반 청약저축보다 <b>금리가 우대</b>됩니다</li>
+<li>조건을 채우면 <b>이자 비과세</b>가 됩니다</li>
+</ul>
+
 <h2>기존 통장은 어떻게 하나요</h2>
 
 <p>이미 청약통장이 있다면 <b>전환가입</b>이 가능합니다.</p>
 
 <p>기존 <b>가입 기간과 납입 횟수</b>가 그대로 이어집니다. 이게 중요해요.</p>
 
-<p>새로 만들면 <b>기간이 0부터</b> 시작합니다. 절대 해지하지 마세요.</p>
+<p>새로 만들면 기간이 0부터 시작합니다. 절대 해지하지 마세요.</p>
 
-<p>은행 창구나 앱에서 <b>전환 신청</b>을 하면 됩니다.</p>
+<p>은행 창구나 앱에서 전환 신청을 하면 됩니다.</p>
 
 <div style="background:#1b1b1b;border-radius:11px;padding:17px 19px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
 <div style="background:#ff8a7a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">해지하지 말고 전환하세요</div>
@@ -116,49 +139,53 @@
 
 <p>일정 기간 이상 <b>납입 실적</b>을 쌓아야 대상이 됩니다.</p>
 
-<p>분양 대금을 낮은 금리로 빌리는 셈이라 <b>부담이 줄어듭니다</b>.</p>
+<p>분양 대금을 낮은 금리로 빌리는 셈이라 부담이 줄어듭니다.</p>
 
-<p>결혼이나 출산을 하면 <b>금리가 더 내려가는</b> 우대도 있습니다.</p>
+<p>결혼이나 출산을 하면 금리가 더 내려가는 우대도 있습니다.</p>
 
 <h3>소득공제는 따로 신청합니다</h3>
 
-<p>납입액 소득공제는 <b>무주택 세대주</b>여야 받을 수 있습니다.</p>
+<p>납입액 소득공제는 무주택 세대주여야 받을 수 있습니다.</p>
 
-<p>은행에 <b>무주택 확인서</b>를 제출해야 자료가 국세청에 넘어갑니다.</p>
+<p>은행에 무주택 확인서를 제출해야 자료가 국세청에 넘어갑니다.</p>
 
-<p>이걸 안 내면 간소화 자료에 <b>안 뜹니다</b>. 매년 챙기실 필요는 없고 한 번만 하면 돼요.</p>
+<p>이걸 안 내면 간소화 자료에 안 뜹니다. 매년 챙기실 필요는 없고 한 번만 하면 돼요.</p>
 
 <p>세대주가 아니라면 이 혜택은 못 받습니다. 우대금리와 비과세는 그대로고요.</p>
 
 <h3>중도 해지하면 손해입니다</h3>
 
-<p>소득공제를 받고 중도 해지하면 <b>추징</b>이 들어옵니다.</p>
+<p>소득공제를 받고 중도 해지하면 추징이 들어옵니다.</p>
 
-<p>일정 기간 안에 해지하면 공제받은 금액을 <b>토해내야</b> 합니다.</p>
+<p>일정 기간 안에 해지하면 공제받은 금액을 토해내야 합니다.</p>
 
-<p>비과세 혜택도 요건을 못 채우면 <b>과세로 전환</b>됩니다.</p>
+<p>비과세 혜택도 요건을 못 채우면 과세로 전환됩니다.</p>
 
-<p>급하게 돈이 필요하면 <b>예금담보대출</b>을 알아보는 게 나을 수 있습니다.</p>
+<p>급하게 돈이 필요하면 예금담보대출을 알아보는 게 나을 수 있습니다.</p>
 
 <h3>일반 통장이 나은 경우도 있나요</h3>
 
-<p>나이나 소득 요건을 벗어나면 <b>일반 청약통장</b>을 유지하면 됩니다.</p>
+<p>나이나 소득 요건을 벗어나면 일반 청약통장을 유지하면 됩니다.</p>
 
-<p>청약 기능 자체는 <b>차이가 없습니다</b>. 순위와 가점 계산이 같아요.</p>
+<p>청약 기능 자체는 차이가 없습니다. 순위와 가점 계산이 같아요.</p>
 
-<p>나이가 지나면 <b>일반 통장으로 자동 전환</b>되는 구조입니다.</p>
+<p>나이가 지나면 일반 통장으로 자동 전환되는 구조입니다.</p>
 
 <p>그동안 받은 혜택은 그대로 남습니다. 손해 볼 게 없더라고요.</p>
 
 <h3>매달 얼마씩 넣어야 하나요</h3>
 
-<p>납입 인정 금액에 <b>월 상한</b>이 있습니다. 그 위로 넣어도 회차 인정은 같습니다.</p>
+<p>납입 인정 금액에 월 상한이 있습니다. 그 위로 넣어도 회차 인정은 같습니다.</p>
 
-<p>공공분양은 <b>납입 인정 총액</b>이 중요하고, 민영주택은 <b>예치금 기준</b>을 봅니다.</p>
+<p>공공분양은 납입 인정 총액이 중요합니다. 민영주택은 예치금 기준을 봅니다.</p>
 
-<p>목표가 공공이라면 상한까지 꾸준히, 민영이라면 <b>청약 전에 예치금</b>만 맞춰도 됩니다.</p>
+<p>목표가 공공이라면 상한까지 꾸준히, 민영이라면 청약 전에 예치금만 맞춰도 됩니다.</p>
 
-<p>여유가 없으면 적은 금액이라도 <b>거르지 않고</b> 넣는 게 낫더라고요. 회차가 쌓입니다.</p>
+<p>여유가 없으면 적은 금액이라도 거르지 않고 넣는 게 낫더라고요. 회차가 쌓입니다.</p>
+
+<p>저희 조카가 이 통장으로 갈아탔습니다. 아내가 기존 통장 기간이 이어지는지부터 물어봤어요...</p>
+
+<p>갈아탈 때 기간 승계가 제일 중요하다.</p>
 
 <h2>정리하면</h2>
 
