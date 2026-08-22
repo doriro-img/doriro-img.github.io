@@ -1,0 +1,270 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 25일 07:32
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260925_0732]_장애인연금\
+   ├── 📄 [원고 파일]: [20260925_0732]_장애인연금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-disabpension.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260925_0732]_장애인연금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-disabpension.html
+
+■ 제목: 장애인연금 대상자 기준과 신청방법. 장애수당과 헷갈리는 부분 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 장애인연금, 장애인연금대상자, 장애인연금신청, 중증장애인, 기초급여, 부가급여, 장애정도심사, 소득인정액, 주민센터
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>장애인연금 대상자 기준과 신청방법. 장애수당과 헷갈리는 부분 정리</p>
+
+<h2>기초연금과는 다른 제도입니다</h2>
+
+<p>이름이 비슷해서 헷갈리는 분이 많습니다. 답부터 적으면 중증장애인에게 나가는 별도 제도입니다. 나이가 아니라 장애 정도와 소득으로 대상이 정해져요.</p>
+
+<p>저희 이웃분이 이걸 몰라서 몇 년을 그냥 지나쳤다고 하시더라고요. 신청을 안 하면 아무도 알려주지 않습니다.</p>
+
+<p>먼저 신청해야 시작된다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">중증장애인</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">등록된 장애 정도가 심한 경우가 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 초 급 여</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">근로 감소분을 보전</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">일해서 벌기 어려운 부분을 메우는 항목입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="3" width="16" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 가 급 여</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">추가 비용을 보전</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">장애로 더 드는 생활비를 덧붙여 줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">소 득</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">소득인정액을 봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">소득과 재산을 합산해 기준과 비교합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>대상</b> 등록된 중증장애인이 기본 대상입니다</li>
+<li><b>기초급여</b> 일해서 벌기 어려운 부분을 보전합니다</li>
+<li><b>부가급여</b> 장애로 더 드는 비용을 덧붙여 지급합니다</li>
+<li><b>소득</b> 소득과 재산을 합친 소득인정액으로 판단합니다</li>
+</ul>
+
+<h2>장애인연금 대상자는 누구입니까?</h2>
+
+<p>세 가지를 다 넘어야 합니다. 하나라도 걸리면 안 됩니다.</p>
+
+<h3>중증 등록이 먼저입니다</h3>
+
+<p>장애 정도가 심한 장애인으로 등록되어 있어야 합니다. 등록 자체가 안 되어 있으면 그것부터 해야 해요.</p>
+
+<p>예전 등급제 시절 기준과 지금 기준이 다릅니다. 오래전에 판정받았으면 재심사가 필요할 수 있습니다.</p>
+
+<h3>나이 요건도 붙습니다</h3>
+
+<p>일정 나이 이상이어야 신청할 수 있습니다. 그 아래는 장애수당 쪽으로 갑니다.</p>
+
+<p>나이가 되기 전에 미리 넣어둘 수는 없습니다. 생일이 지나면 그때 신청하세요.</p>
+
+<h3>소득과 재산도 봅니다</h3>
+
+<p>본인과 배우자의 소득과 재산을 합쳐 계산합니다. 이걸 소득인정액이라고 부릅니다.</p>
+
+<p>기준은 매년 바뀝니다. 작년에 탈락했어도 올해 다시 넣어볼 만합니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">장애인연금</th>
+      <th style="padding:12px;text-align:left;">장애수당</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">대상 장애</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">정도가 심한 장애</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">심하지 않은 장애</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">구성</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">기초급여와 부가급여</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">단일 수당</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">소득 기준</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">선정기준액 이하</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">수급자와 차상위</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">신청처</td>
+      <td style="padding:12px;">주민센터와 복지로</td>
+      <td style="padding:12px;">주민센터</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>장애인연금</b> 정도가 심한 장애인에게 기초급여와 부가급여로 나갑니다</li>
+<li><b>장애수당</b> 심하지 않은 장애인 중 수급자와 차상위가 대상입니다</li>
+<li><b>공통</b> 신청은 주민센터에서 접수합니다</li>
+</ul>
+
+<blockquote>둘을 동시에 받을 수는 없습니다. 어느 쪽에 해당하는지는 장애 정도로 갈립니다.</blockquote>
+
+<h2>장애인연금 신청방법은 어떻게 됩니까</h2>
+
+<p>주민센터 방문과 복지로 온라인 두 갈래입니다. 본인이 어려우면 가족이 대신 갈 수 있어요.</p>
+
+<p>신분증과 통장 사본, 소득 재산 관련 서류가 기본입니다. 임대차계약서가 있으면 같이 가져가세요.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">장애 정도 심사가 붙을 수 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">등록된 지 오래됐거나 자료가 부족하면 국민연금공단에서 다시 심사합니다. 진료 기록과 검사 결과를 요구하는 경우가 있습니다. 병원 서류를 미리 챙겨두면 시간이 줄어듭니다.</p>
+</div>
+
+<h3>장애인연금 지급일은 언제인가요</h3>
+
+<p>매달 정해진 날에 통장으로 들어옵니다. 주말이나 공휴일이면 앞당겨 지급되는 게 보통이에요.</p>
+
+<p>신청한 달부터 소급해서 받습니다. 결정이 늦게 나와도 밀린 몫이 함께 들어옵니다.</p>
+
+<h3>결과가 아니면 다시 볼 수 있습니다</h3>
+
+<p>탈락 통지에 이의가 있으면 신청할 수 있습니다. 기한이 정해져 있으니 통지서를 잘 보세요.</p>
+
+<p>소득이나 재산이 줄었으면 다시 접수하는 게 빠릅니다. 상황이 바뀌면 결과도 바뀝니다.</p>
+
+<h2>다른 급여와 같이 받을 수 있나요</h2>
+
+<p>겹치는 제도가 여럿이라 조정이 들어갑니다. 그대로 다 더해지지는 않습니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7z" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 초 연 금</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">나이가 되면 갈아탑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기초연금 대상이 되면 기초급여가 정리됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">생 계 급 여</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">소득으로 잡힙니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">항목에 따라 생계급여가 조정될 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">변 동 신 고</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">바뀌면 알려야 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">소득과 가구원이 달라지면 신고 대상입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>기초연금</b> 나이 요건이 되면 기초급여가 정리되는 구조입니다</li>
+<li><b>생계급여</b> 항목에 따라 소득으로 반영되어 조정될 수 있습니다</li>
+<li><b>변동 신고</b> 소득과 가구원 변화는 반드시 알려야 합니다</li>
+</ul>
+
+<p>신고를 안 하고 계속 받으면 나중에 돌려내야 합니다. 한꺼번에 통보가 오면 부담이 큽니다.</p>
+
+<blockquote>시설에 입소하면 지급이 달라지는 경우가 있습니다. 거주 형태가 바뀔 때 먼저 문의하세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>중증 등록과 나이, 소득인정액 세 가지를 넘으면 대상이 됩니다. 주민센터나 복지로에서 신청하면 그달부터 계산됩니다.</p>
+
+<p>저는 이게 기초연금이랑 같은 건 줄 알았더라고요... 완전히 다른 제도였습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 장애인연금은 장애 정도가 심한 등록 장애인을 대상으로 하는 제도입니다
+ · 기초급여와 부가급여로 구성됩니다
+ · 기초급여는 근로 능력 감소로 인한 소득 감소를 보전하는 항목입니다
+ · 부가급여는 장애로 추가로 드는 비용을 보전하는 항목입니다
+ · 본인과 배우자의 소득과 재산을 합산한 소득인정액으로 판단합니다
+ · 선정기준액은 매년 새로 정해집니다
+ · 신청 연령 요건이 있으며 그 미만은 장애수당 대상입니다
+ · 장애인연금과 장애수당은 동시에 받을 수 없습니다
+ · 신청은 주민센터 방문 또는 복지로 온라인으로 합니다
+ · 가족 등 대리인이 신청할 수 있습니다
+ · 필요 시 국민연금공단에서 장애 정도 심사를 다시 진행합니다
+ · 급여는 매월 지정된 날짜에 지급되며 공휴일이면 앞당겨 지급됩니다
+ · 신청한 달부터 소급해 지급됩니다
+ · 탈락 결정에 대해 이의신청을 할 수 있습니다
+ · 소득과 가구원 변동은 신고 의무가 있습니다
+ · 신고하지 않고 받은 금액은 환수될 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 기초급여와 부가급여의 월 지급 금액
+ · 연도별 선정기준액
+ · 신청 가능한 최소 연령
+ · 재산의 소득환산율과 공제 항목
+ · 매월 지급되는 정확한 날짜
+ · 이의신청 기한
+ · 시설 입소 시 지급 방식의 변화
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 이웃분이 이걸 몰라서 몇 년을 그냥 지나쳤다고 하시더라고요"
+ · "저는 이게 기초연금이랑 같은 건 줄 알았더라고요"

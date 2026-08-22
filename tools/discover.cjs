@@ -27,12 +27,37 @@ const ROUNDS = parseInt(val('--rounds', '5'), 10);
 const WIDTH = parseInt(val('--width', '15'), 10);   // 라운드당 힌트 개수
 const MIN = parseInt(val('--min', '2000'), 10);
 const MAX = parseInt(val('--max', '60000'), 10);
-const DEPTH = parseInt(val('--depth', '3'), 10);
-const CTR = parseFloat(val('--ctr', '1.0'));
 
-// 출발점일 뿐이다. 재귀가 여기서 한참 벗어난다.
-// 세 카테고리에 발만 걸쳐두고 나머지는 그래프가 알아서 뻗는다.
-const START = ['지원금', '과태료', '세금', '연금', '수당', '신고', '발급', '요금'];
+// ★ 씨앗은 사람이 정하지 않는다. 이미 쓴 원고가 이 블로그가 무엇인지를 정의한다.
+//
+//   실측(2026-08-23): 씨앗이 영토를 완전히 결정한다. 수렴하지 않는다.
+//     지원금 ∩ 과태료  자카드 12.9%
+//     지원금 ∩ 연금    자카드  1.8%
+//     과태료 ∩ 연금    자카드  5.8%
+//     각 크롤의 71~87% 가 자기만의 영역이었다.
+//
+//   그래서 씨앗 목록을 손으로 8개 적어두면 그 8개가 닿는 데까지만 보게 된다.
+//   원고 주제에서 뽑으면 블로그가 실제로 덮는 영역 전체가 출발점이 되고,
+//   글이 쌓일수록 씨앗도 저절로 넓어진다.
+//
+//   ("표류" 는 막지 않는다. 크롤이 주가·환율 같은 데로 새지만 그건 최종 필터의
+//    볼륨 상한에서 걸린다. 힌트에 볼륨 상한을 걸어봤자 표류는 반환값에서 오므로
+//    안 막힌다 — 실측으로 확인했다. 크롤 예산만 좀 낭비될 뿐 출력은 안 더러워진다.)
+function seedsFromPosts() {
+  const P = path.join(ROOT, 'posts');
+  if (!fs.existsSync(P)) return [];
+  const s = new Set();
+  for (const f of fs.readdirSync(P)) {
+    const m = f.match(/\]_(.+?)_원고\.txt$/);
+    if (!m) continue;                                  // 옛 형식은 슬러그가 영문이라 검색어가 아니다
+    const w = m[1].split('_').filter((x) => x.length >= 2 && /[가-힣]/.test(x));
+    if (w.length) s.add(w[0]);                         // 주제명의 첫 실질어 = 대표층
+  }
+  return [...s];
+}
+
+// posts/ 가 비어 있을 때만 쓰는 최소 출발점
+const FALLBACK = ['지원금', '과태료', '세금', '연금', '수당', '신고', '발급', '요금'];
 
 // 이 블로그가 안 다루는 것. 정보성 여부는 여기서 판단하지 않는다.
 // (좁은 화이트리스트로 걸렀더니 5,175개 중 3,138개가 죽었고 그중 129개는 진짜 정보성이었다.
@@ -41,6 +66,17 @@ const OFF = /가격|최저가|구매|판매|파는곳|직구|할인|세일|사�
 
 // YMYL 레드오션. 지우지 않고 표시만 한다 — 판단은 사람이 한다.
 const RED = /대출|대부|저신용|신용불량|연체자|무직자|비상금|사채|카드론|현금서비스|보험비교|보험료|생명보험|손해보험|종합보험|주식|증권|etf|계좌개설|저축은행|코인|가상자산|정책자금/i;
+
+// 행정·제도 신호. ★ 이건 거르는 게 아니라 "줄 세우는" 데 쓴다.
+//
+// 예전에 이 정규식을 하드 필터로 썼다가 5,175개 중 3,138개를 죽였고
+// 그중 129개는 실제로 정보성이었다 (소액대출·무직자대출 같은 것들).
+// 그래서 이제는 표를 셋으로 나누는 데만 쓴다. 아무것도 버리지 않는다.
+//
+// 크롤이 넓어지면 크루즈여행·오션월드입장권 같은 상업 키워드가 CTR 상위를 채운다.
+// 그건 이 블로그 주제가 아니지만, 기계가 "주제가 아니다" 를 판정할 수는 없다.
+// 신호가 있는 것을 위 표에 놓고 나머지는 아래 표로 내려서 사람이 보게 한다.
+const ADMIN = /신청|자격|기준|대상|조건|방법|절차|서류|기간|한도|금액|계산|조회|발급|등록|갱신|해지|취소|변경|재발급|납부|체납|환급|공제|감면|면제|지원|지급|수령|가입|혜택|바우처|수당|급여|연금|보조금|장려금|과태료|벌금|위반|신고|처벌|규정|의무|기한|연장|증명|제도|개편|폐지|안하면|못받|미납|누락|불이익|거부|반려|탈락|재심|이의|구제/;
 
 const flat = (s) => String(s).toLowerCase().replace(/\s+/g, '');
 const norm = (s) => String(s).replace(/\s+/g, '').toUpperCase();
@@ -69,12 +105,17 @@ function usedTopics() {
 }
 
 (async () => {
+  const auto = seedsFromPosts();
   const seeds = val('--seeds', null)
     ? val('--seeds').split(',').map((x) => x.trim()).filter(Boolean)
-    : START;
+    : (auto.length ? auto : FALLBACK);
   const used = usedTopics();
 
-  console.log(`출발 씨앗 ${seeds.length}개 · ${ROUNDS}라운드 × 힌트 ${WIDTH}개 · 이미 쓴 주제 ${used.size}개 제외`);
+  console.log(
+    `출발 씨앗 ${seeds.length}개 ` +
+    (val('--seeds', null) ? '(직접 지정)' : auto.length ? '(원고 주제에서 자동 추출)' : '(기본값)') +
+    ` · ${ROUNDS}라운드 × 힌트 ${WIDTH}개 · 이미 쓴 주제 ${used.size}개 제외`
+  );
   console.log('');
   console.log('라운드  힌트   회수    신규    누적    신규율');
 
@@ -116,28 +157,50 @@ function usedTopics() {
   }
 
   // ── 거르기 ────────────────────────────────────────────────────────────────
-  const drop = { 짧음: 0, 제외업종: 0, CTR없음: 0, 볼륨밖: 0, 광고적음: 0, CTR낮음: 0, 이미씀: 0 };
+  //
+  // ★ 하드 필터는 "유입 가능성"만 본다. 검색량이 0 이면 무슨 짓을 해도 유입이 0 이지만,
+  //   광고가 안 붙는다고 발행 가치가 없는 건 아니다.
+  //
+  //   실측: 국가장학금 138,800 검색에 광고 CTR 0.00% · 광고 0개.
+  //         태풍 767만 검색에 CTR 0.01%.
+  //   행정·제도 키워드는 본질적으로 광고가 안 붙는다. 이 블로그의 주력 영역이 그렇다.
+  //   CTR·광고수를 하드 게이트로 걸면 주력이 통째로 걸러진다 (본표가 66개로 줄었었다).
+  //
+  //   미끼 트래픽 전략을 쓰기로 했으므로 CTR 0 인 글도 발행 가치가 있다.
+  //   도메인 지수를 올리고 내부 링크로 수익 글에 트래픽을 흘려보낸다.
+  //   그래서 CTR·광고수는 거르는 데 안 쓰고 열로만 보여준다.
+  const drop = { 짧음: 0, 제외업종: 0, 볼륨없음: 0, 볼륨밖: 0, 이미씀: 0 };
   const rows = [];
   for (const r of all.values()) {
     const k = r.keyword;
     if (k.length < 4) { drop.짧음++; continue; }
     if (OFF.test(k)) { drop.제외업종++; continue; }
-    if (r.ctr == null) { drop.CTR없음++; continue; }
+    if (!r.total) { drop.볼륨없음++; continue; }
     if (r.total < MIN || r.total > MAX) { drop.볼륨밖++; continue; }
-    if ((r.depth || 0) < DEPTH) { drop.광고적음++; continue; }
-    if (r.ctr < CTR) { drop.CTR낮음++; continue; }
     const f = flat(k);
     if ([...used].some((u) => u.length >= 3 && (f.includes(u) || u.includes(f)))) { drop.이미씀++; continue; }
-    rows.push({ ...r, red: RED.test(k), score: Math.min(r.total, 30000) * r.ctr });
+    rows.push({
+      ...r,
+      red: RED.test(k),
+      admin: ADMIN.test(k),
+      // 유입 = 검색량. 아무리 커도 개인 블로그가 다 먹지는 못하므로 3만에서 자른다
+      inflow: Math.min(r.total, 30000),
+      // 수익 = 검색량 x 광고 클릭 성향. 0 이어도 미끼로 쓴다
+      money: Math.round(r.total * (r.ctr || 0)),
+    });
   }
-  rows.sort((a, b) => b.score - a.score);
-  const blue = rows.filter((r) => !r.red);
+  rows.sort((a, b) => b.inflow - a.inflow || b.money - a.money);
+  const blue = rows.filter((r) => !r.red && r.admin);
   const red = rows.filter((r) => r.red);
+  const etc = rows.filter((r) => !r.red && !r.admin);
 
   console.log('');
   console.log('걸러낸 내역');
   for (const [k, v] of Object.entries(drop)) console.log(`  ${k.padEnd(8)} ${String(v).padStart(6)}`);
-  console.log(`\n수집 ${all.size}개 → 후보 ${rows.length}개  (레드오션 ${red.length} · 나머지 ${blue.length})`);
+  console.log(`\n수집 ${all.size}개 → 후보 ${rows.length}개`);
+  console.log(`  본표 (행정·제도 신호 있음)  ${blue.length}`);
+  console.log(`  레드오션 (대출·보험·증권)   ${red.length}`);
+  console.log(`  판단 필요 (신호 없음)       ${etc.length}`);
 
   const B = '`';
   const tbl = (a) => a.map((r) =>
@@ -152,11 +215,19 @@ function usedTopics() {
 사람이 정한 목록 밖의 주제도 나옵니다. \`round\` 열이 몇 번째 확장에서 나왔는지입니다.
 
 \`\`\`
-검색량 ${MIN.toLocaleString()}~${MAX.toLocaleString()}   개인 블로그가 순위를 잡을 수 있는 구간
-광고 ${DEPTH}개 이상          광고가 안 붙으면 애드센스도 안 붙는다
-광고 CTR ${CTR}% 이상        그 키워드 검색자가 광고를 누르는가
-이미 쓴 주제 제외        posts/ 와 tools/kw_*.json 대조
-점수 = min(검색량, 30000) x CTR
+[거른 것]
+검색량 ${MIN.toLocaleString()}~${MAX.toLocaleString()}   이 밖은 유입이 안 나거나 대형 사이트 영역이다
+이미 쓴 주제           posts/ 와 tools/kw_*.json 대조
+쇼핑·엔터·자격증 업종
+
+[안 거른 것 — 열로만 보여준다]
+광고 CTR · 광고 수      행정·제도 키워드는 본질적으로 광고가 안 붙는다
+                       국가장학금 138,800 검색에 CTR 0.00% · 광고 0개
+                       이걸 게이트로 걸면 이 블로그 주력이 통째로 걸러진다
+                       CTR 0 이어도 미끼 트래픽으로 발행 가치가 있다
+
+정렬 = 검색량(3만에서 절단) 우선, 동률이면 수익점수
+수익점수 = 검색량 x 광고 CTR
 \`\`\`
 
 ## 읽는 법
@@ -174,9 +245,11 @@ ${B}장애인 활동지원${B} 19,680 이 서비스를 받으려는 사람입니
 **후보가 모자라면 라운드를 늘리세요** — ${B}--rounds 8 --width 25${B}.
 그래프가 고갈되면 "더 뻗을 힌트가 없습니다"가 뜹니다. 그전까지는 계속 새 게 나옵니다.
 
-## 후보 ${blue.length}개
+## 본표 — 행정·제도 신호가 있는 것 ${blue.length}개
 
-| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 점수 | round |
+여기서 먼저 고르세요. 신청·자격·과태료·환급처럼 절차를 묻는 말이 들어간 것들입니다.
+
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
 |---|---|---|---|---|---|
 ${tbl(blue)}
 
@@ -185,9 +258,22 @@ ${tbl(blue)}
 대출·보험·증권은 CTR 이 높지만 그건 광고주가 최대치로 붙었다는 뜻입니다.
 구글이 YMYL 로 분류해 개인 블로그에 상위를 거의 안 줍니다. 애드센스 정책 제한도 있습니다.
 
-| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 점수 | round |
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
 |---|---|---|---|---|---|
 ${tbl(red)}
+
+## 판단 필요 ${etc.length}개 — 신호가 없어서 못 가른 것
+
+크롤이 넓어지면 여행·분양·입장권 같은 상업 키워드가 CTR 상위를 채웁니다.
+이 블로그 주제가 아니지만 **기계가 "주제가 아니다" 를 판정할 수는 없습니다.**
+버리지 않고 여기 내려둡니다. 쓸 만한 게 섞여 있으면 직접 건져 쓰세요.
+
+예전에 이 구분을 하드 필터로 썼다가 5,175개 중 3,138개를 죽였고
+그중 129개가 실제로 정보성이었습니다. 그래서 거르지 않고 나누기만 합니다.
+
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
+|---|---|---|---|---|---|
+${tbl(etc)}
 `;
 
   fs.writeFileSync(OUT, md, 'utf8');
@@ -195,5 +281,5 @@ ${tbl(red)}
   console.log('');
   console.log('상위 12');
   blue.slice(0, 12).forEach((r) =>
-    console.log(`  ${String(r.total).padStart(6)} ${(r.ctr.toFixed(1) + '%').padStart(6)} 광고${String(r.depth).padStart(3)} r${r.round}  ${r.keyword}`));
+    console.log(`  ${String(r.total).padStart(6)} ${(r.ctr == null ? '-' : r.ctr.toFixed(1) + '%').padStart(6)} 광고${String(r.depth ?? 0).padStart(3)} r${r.round}  ${r.keyword}`));
 })();
