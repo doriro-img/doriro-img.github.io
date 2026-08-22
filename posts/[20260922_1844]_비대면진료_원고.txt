@@ -27,7 +27,7 @@
 
 <p>저희도 연휴에 아내가 갑자기 아파서 이걸 써봤는데요. 앱에서 약국을 고르니 그쪽으로 바로 넘어가더라고요.</p>
 
-<p>종이를 들고 갈 필요가 없었다.</p>
+<p>종이를 들고 갈 필요가 없습니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

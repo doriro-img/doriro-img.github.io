@@ -27,7 +27,7 @@
 
 <p>저도 처음 계산해보고 생각보다 점수가 낮아서 놀랐는데요. 무주택 기간을 잘못 세고 있었더라고요.</p>
 
-<p>내가 아는 계산이 틀렸었다.</p>
+<p>알고 있던 계산이 틀린 경우가 많습니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

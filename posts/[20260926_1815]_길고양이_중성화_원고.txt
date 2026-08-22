@@ -27,7 +27,7 @@
 
 <p>저희 아파트 화단에도 몇 마리가 사는데요. 관리사무소에서 구청에 신청했더니 사람이 나왔더라고요.</p>
 
-<p>직접 잡으면 안 된다.</p>
+<p>직접 잡으면 안 됩니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

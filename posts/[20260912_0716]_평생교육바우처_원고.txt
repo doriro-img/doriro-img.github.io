@@ -27,7 +27,7 @@
 
 <p>저도 이걸 알아보다가 동네 학원에서 안 된다는 걸 알고 놀랐는데요. 사용처 검색을 먼저 하는 게 순서더라고요.</p>
 
-<p>카드부터 받아놓고 헤맬 뻔했다.</p>
+<p>카드부터 받아놓고 헤매기 쉽습니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

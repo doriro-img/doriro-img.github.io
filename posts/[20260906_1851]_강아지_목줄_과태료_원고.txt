@@ -27,7 +27,7 @@
 
 <p>저희 연근이 산책시킬 때 자동줄을 길게 풀어 쓰다가 이 규정을 알았는데요. 잘못 걸리면 그것도 미착용으로 본다더라고요.</p>
 
-<p>줄만 달면 되는 게 아니었다.</p>
+<p>줄만 달면 되는 게 아닙니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

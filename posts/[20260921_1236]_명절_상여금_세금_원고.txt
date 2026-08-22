@@ -27,7 +27,7 @@
 
 <p>저도 상여를 받고 명세서를 보고는 뭔가 잘못된 줄 알았는데요. 계산 구조를 알고 나니 이해가 가더라고요.</p>
 
-<p>결국 총액으로 다시 정산된다.</p>
+<p>결국 총액으로 다시 정산됩니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

@@ -27,7 +27,7 @@
 
 <p>저도 만기 안내를 받고 계좌를 열어봤는데요. ETF가 남아 있어서 먼저 정리해야 한다고 나오더라고요.</p>
 
-<p>날짜만 기다리면 되는 게 아니었다.</p>
+<p>날짜만 기다리면 되는 게 아닙니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

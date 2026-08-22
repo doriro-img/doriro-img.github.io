@@ -27,7 +27,7 @@
 
 <p>저희 어머니가 신청하려다 조건이 안 맞아 돌아온 적이 있는데요. 다른 유형은 된다는 걸 나중에 알았더라고요.</p>
 
-<p>한 가지만 보고 판단하면 손해다.</p>
+<p>한 가지만 보고 판단하면 손해입니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

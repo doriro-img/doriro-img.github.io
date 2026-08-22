@@ -27,7 +27,7 @@
 
 <p>저희 장인어른이 이걸 몇십 년 지나서 신청하셨는데요. 오래된 일이라 자료 모으는 게 제일 힘들었다고 하시더라고요.</p>
 
-<p>신청을 안 하면 아무것도 안 나온다.</p>
+<p>신청을 안 하면 아무것도 안 나옵니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

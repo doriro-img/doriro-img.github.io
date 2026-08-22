@@ -27,7 +27,7 @@
 
 <p>제 친구가 이혼 후 몇 년을 그냥 지냈는데요. 증명서를 받고 나서야 받을 수 있는 게 이렇게 많은지 알았다고 하더라고요.</p>
 
-<p>몰라서 못 받는 게 제일 아깝다.</p>
+<p>몰라서 못 받는 경우가 제일 아깝습니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

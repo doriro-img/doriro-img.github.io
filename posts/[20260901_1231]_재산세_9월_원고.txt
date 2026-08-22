@@ -27,7 +27,7 @@
 
 <p>저희 집도 작년에 아내가 고지서를 보고 잘못 나온 거 아니냐고 물어봤는데요. 항목을 뜯어보니 7월 건물분과 9월 토지분이 다른 세금이더라고요.</p>
 
-<p>같은 집인데 세금이 두 번 온다.</p>
+<p>같은 집인데 세금이 두 번 옵니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

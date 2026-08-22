@@ -27,7 +27,7 @@
 
 <p>저희 아버지도 몇 해 전에 예초기를 돌리다 튄 돌에 정강이를 맞았는데요. 두꺼운 작업복을 입었는데도 멍이 크게 들었더라고요.</p>
 
-<p>날만 조심하면 되는 줄 알았다.</p>
+<p>날만 조심하면 되는 게 아닙니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

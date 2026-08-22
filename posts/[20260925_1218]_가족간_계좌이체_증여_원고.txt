@@ -27,7 +27,7 @@
 
 <p>저희도 아내와 생활비 계좌를 오가며 쓰는데 이게 문제가 되나 걱정한 적이 있는데요. 실제 쓰임이 생활비면 다르게 봅니다.</p>
 
-<p>중요한 건 돈의 성격이다.</p>
+<p>중요한 건 돈의 성격입니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

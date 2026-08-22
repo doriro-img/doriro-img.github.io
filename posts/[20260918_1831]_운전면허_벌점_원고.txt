@@ -27,7 +27,7 @@
 
 <p>저도 벌점이 붙은 뒤로 한동안 조심해서 다녔는데요. 1년이 지나니 조회 화면에서 사라졌더라고요.</p>
 
-<p>기다리는 것도 방법이었다.</p>
+<p>기다리는 것도 방법입니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

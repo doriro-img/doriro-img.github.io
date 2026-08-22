@@ -27,7 +27,7 @@
 
 <p>저희도 명절마다 이걸 매번 검색했는데요. 아버지가 적어두신 종이를 찾아보니 그렇게 돼 있더라고요.</p>
 
-<p>매년 헷갈리는 게 나만은 아니었다.</p>
+<p>매년 헷갈리는 사람이 많습니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

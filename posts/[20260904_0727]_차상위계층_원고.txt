@@ -27,7 +27,7 @@
 
 <p>제 지인이 수급자 신청에서 떨어지고 그냥 포기했었는데요. 나중에 차상위 확인서를 받으니 통신비 감면부터 바로 되더라고요.</p>
 
-<p>떨어졌다고 그냥 돌아서면 손해다.</p>
+<p>떨어졌다고 그냥 돌아서면 손해입니다.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 
