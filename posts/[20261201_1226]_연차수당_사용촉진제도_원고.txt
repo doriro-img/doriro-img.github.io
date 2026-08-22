@@ -1,0 +1,255 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 12월 1일 12:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202612\[20261201_1226]_연차수당_사용촉진제도\
+   ├── 📄 [원고 파일]: [20261201_1226]_연차수당_사용촉진제도_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-annualleave.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20261201_1226]_연차수당_사용촉진제도_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-annualleave.html
+
+■ 제목: 연차수당 지급기준과 사용촉진제도. 남은 연차 돈으로 받는 조건 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 연차수당, 연차사용촉진제도, 미사용연차, 통상임금, 근로기준법61조, 회계연도기준, 연차일수계산
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>연차수당 지급기준과 사용촉진제도. 남은 연차 돈으로 받는 조건 정리</p>
+
+<h2>남은 연차는 돈으로 받을 수 있나요?</h2>
+
+<p>12월이 되면 연차가 며칠 남았는지 세어보게 됩니다. 다 못 쓸 것 같으면 수당이라도 나오나 싶어지죠.</p>
+
+<p>결론부터 말하면 <b>회사가 사용촉진 절차를 제대로 밟았는지</b>에 달려 있습니다. 밟았으면 수당이 안 나오고 안 밟았으면 나옵니다.</p>
+
+<p>연차수당은 회사가 마음대로 주고 안 주고 하는 돈이 아닙니다. 근로기준법에 절차가 정해져 있어요.</p>
+
+<p>저는 이걸 모르고 몇 년을 그냥 넘겼습니다. 알고 나니 챙길 게 꽤 있더라고요.</p>
+
+<div style="border:1px solid #dfe4e9;border-radius:14px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#1f4a7a;color:#fff;padding:13px 18px;font-size:15px;font-weight:800;">사용촉진은 두 번 통보해야 성립합니다</div>
+<div style="display:flex;flex-wrap:wrap;background:#fafbfc;padding:20px 16px;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#1f4a7a;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">1</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">6개월 전</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">남은 일수 통보</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#3f6a97;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">2</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">10일 안에</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">근로자가 시기 지정</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#6089ae;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;font-weight:800;">3</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">2개월 전</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">회사가 시기 지정</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border:1px solid #e6eaee;border-radius:12px;padding:15px 12px;text-align:center;">
+<div style="width:38px;height:38px;border-radius:50%;background:#8aa8c4;margin:0 auto;display:flex;align-items:center;justify-content:center;color:#2b3f4d;font-size:15px;font-weight:800;">4</div>
+<div style="font-size:13.5px;font-weight:800;color:#2b3f4d;margin-top:8px;">그래도 안 쓰면</div>
+<div style="font-size:11.5px;color:#6b7885;margin-top:3px;">수당 없이 소멸</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>1차 통보는 사용 기간이 끝나기 <b>6개월 전</b>에 옵니다</li>
+<li>근로자가 시기를 안 정하면 <b>회사가 지정</b>해 다시 통보합니다</li>
+<li>두 단계를 다 밟았는데 안 쓰면 <b>수당 없이 소멸</b>합니다</li>
+</ul>
+
+<h2>절차를 빠뜨리면 수당이 살아납니다</h2>
+
+<p>사용촉진은 통보를 두 번 해야 성립합니다. 한 번만 하고 끝내면 절차가 완성되지 않아요.</p>
+
+<p>1차 통보에는 남은 연차 일수를 적어야 합니다. 그냥 연차를 쓰라는 공지만 돌리는 건 통보로 안 봅니다.</p>
+
+<p>근로자가 10일 안에 시기를 안 정하면 회사가 날짜를 지정해서 다시 알려줘야 합니다.</p>
+
+<p>이 두 번째 통보를 빠뜨리는 회사가 은근히 많습니다. 이 경우 미사용분은 수당으로 청구할 수 있어요.</p>
+
+<h3>구두로 해도 되나요?</h3>
+
+<p>서면으로 하는 게 원칙입니다. 사내 메일이나 전자결재처럼 기록이 남는 방식이면 인정됩니다.</p>
+
+<p>말로만 하고 넘어간 경우는 나중에 다투기 어렵습니다. 회사도 근로자도 <b>기록</b>이 있어야 정리가 됩니다.</p>
+
+<p>통보를 받았다면 그 메일이나 문서를 지우지 말고 두세요.</p>
+
+<div style="background:linear-gradient(135deg,#eef4fa,#d8e6f3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1f4a7a;margin-bottom:16px;">수당이 나오나 안 나오나</div>
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#1d7050;margin-bottom:10px;">수당이 나옵니다</div>
+<div style="font-size:13px;color:#3f5a4d;line-height:1.95;">촉진 통보를 아예 안 했다<br />1차만 하고 2차를 안 했다<br />남은 일수를 안 적어 보냈다<br />회사가 출근을 막지 않았다</div>
+</div>
+<div style="flex:1 1 200px;background:#fff;border-radius:12px;padding:17px 15px;">
+<div style="font-size:12.5px;font-weight:800;color:#b8443a;margin-bottom:10px;">수당 없이 소멸합니다</div>
+<div style="font-size:13px;color:#6b4a45;line-height:1.95;">두 단계를 다 밟았다<br />서면으로 통보가 왔다<br />지정일에 출근을 막았다<br />그래도 근로자가 안 썼다</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>통보 자체가 없었으면 <b>수당 청구</b>가 가능합니다</li>
+<li>2차 통보를 빠뜨린 경우도 촉진이 <b>성립하지 않습니다</b></li>
+<li>지정일에 출근시켜 일을 시켰다면 <b>사용한 것으로 안 봅니다</b></li>
+</ul>
+
+<h2>연차수당은 어떻게 계산하나요?</h2>
+
+<p>기준은 <b>통상임금</b>입니다. 하루치 통상임금에 못 쓴 일수를 곱합니다.</p>
+
+<p>통상임금은 정기적이고 일률적으로 받는 돈을 말합니다. 기본급에 고정수당이 붙는 구조예요.</p>
+
+<p>성과급처럼 실적에 따라 달라지는 돈은 대체로 빠집니다. 회사마다 임금 항목 이름이 달라서 명세서를 봐야 합니다.</p>
+
+<p>계산식 자체는 단순한데 통상임금 범위에서 다툼이 생기는 경우가 많더라고요.</p>
+
+<h3>연차 일수는 근속에 따라 늘어납니다</h3>
+
+<p>1년 이상 일하고 출근율을 채우면 15일이 기본입니다.</p>
+
+<p>3년 이상부터는 2년마다 하루씩 붙습니다. 상한이 정해져 있어 무한정 늘지는 않습니다.</p>
+
+<p>입사 1년이 안 됐으면 <b>한 달 개근할 때마다 하루</b>씩 생깁니다.</p>
+
+<div style="border:1px solid #e6e9ed;border-radius:12px;overflow:hidden;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="display:flex;background:#eef2f5;padding:12px 18px;font-size:12.5px;font-weight:800;color:#55606c;">
+<div style="flex:1.5;">임금 항목</div><div style="flex:1;text-align:right;">통상임금 포함</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">기본급</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">포함</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">정기 고정수당</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#1d7050;">포함</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">실적 성과급</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">대체로 제외</div>
+</div>
+<div style="display:flex;padding:14px 18px;border-top:1px solid #eef1f4;align-items:center;background:#fafbfc;">
+<div style="flex:1.5;font-size:13.5px;font-weight:700;">연장근로수당</div>
+<div style="flex:1;text-align:right;font-size:13.5px;font-weight:800;color:#b8443a;">제외</div>
+</div>
+</div>
+
+<ul>
+<li>하루치 <b>통상임금</b>에 못 쓴 일수를 곱해 계산합니다</li>
+<li>기본급과 정기 고정수당은 <b>통상임금에 들어갑니다</b></li>
+<li>실적에 따라 달라지는 돈은 <b>대체로 빠집니다</b></li>
+</ul>
+
+<h2>회계연도 기준이면 계산이 달라집니다</h2>
+
+<p>연차는 원래 입사일을 기준으로 셉니다. 그런데 사람마다 입사일이 달라 관리가 번거롭죠.</p>
+
+<p>그래서 많은 회사가 1월 1일부터 12월 31일까지를 한 주기로 잡아 운영합니다.</p>
+
+<p>이 방식은 관리가 편한 대신 <b>입사 첫해에 손해</b>가 생길 수 있습니다.</p>
+
+<p>퇴사할 때는 입사일 기준으로 다시 계산해서 근로자에게 불리하지 않게 정산하는 게 원칙입니다.</p>
+
+<div style="background:linear-gradient(135deg,#eef7f2,#d9ece3);border-radius:14px;padding:22px 20px;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="font-size:13px;font-weight:800;color:#1d7050;margin-bottom:15px;">12월에 확인할 네 가지</div>
+<div style="display:flex;flex-wrap:wrap;gap:9px;">
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">남은 일수</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">인사 시스템에서 확인</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">촉진 통보 여부</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">메일함 검색</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">이월 가능 여부</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">취업규칙 확인</div>
+</div>
+<div style="flex:1 1 150px;background:#fff;border-radius:12px;padding:14px 13px;">
+<div style="font-size:13.5px;font-weight:800;color:#1d7050;">지급 시기</div>
+<div style="font-size:12px;color:#5d7268;margin-top:5px;line-height:1.7;">보통 1월 급여</div>
+</div>
+</div>
+</div>
+
+<ul>
+<li>남은 일수와 <b>촉진 통보 여부</b>를 먼저 확인합니다</li>
+<li>이월이 되는지는 <b>취업규칙</b>에 적혀 있습니다</li>
+<li>수당이 나온다면 대개 <b>1월 급여</b>에 붙습니다</li>
+</ul>
+
+<h2>12월에는 날짜부터 잡아두세요</h2>
+
+<p>12월은 연말이라 연차 신청이 몰립니다. 부서에서 조율하다 보면 원하는 날이 밀리기 쉽습니다.</p>
+
+<p>2026년 성탄절은 금요일이라 토요일 일요일까지 사흘이 붙습니다. 이 앞뒤로 신청이 특히 몰릴 겁니다.</p>
+
+<p>남은 일수가 많다면 12월 초에 미리 날짜를 찍어두는 게 낫습니다.</p>
+
+<p>저는 작년 12월에 연차가 엿새나 남아 있었습니다. 11월에 받은 종이 한 장이 촉진 통보였다는 걸 한참 뒤에 알았어요... 그때 안 썼으면 그냥 날릴 뻔했습니다.</p>
+
+<p>안 쓰면 없어지는 거였다.</p>
+
+<div style="background:#1b1b1b;border-radius:12px;padding:18px 20px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-start;font-family:'Pretendard','Malgun Gothic',sans-serif;margin:24px 0;">
+<div style="background:#ffd97a;color:#1b1b1b;font-size:12px;font-weight:800;padding:5px 13px;border-radius:13px;">퇴사할 때는 다릅니다</div>
+<p style="flex:1 1 240px;color:#d8dee4;font-size:13.5px;line-height:1.85;margin:0;">퇴직하면 남은 연차는 <b style="color:#ff8a7a;">사용촉진과 상관없이</b> 정산 대상이 됩니다. 쓸 기회 자체가 사라지기 때문입니다. 마지막 급여에 안 붙어 있으면 <b style="color:#ffd97a;">퇴직금 정산 내역</b>을 다시 확인해보세요.</p>
+</div>
+
+<ul>
+<li>퇴사 시 남은 연차는 <b>정산 대상</b>이 됩니다</li>
+<li>촉진 절차를 밟았어도 <b>퇴직에는 적용되지 않습니다</b></li>
+<li>마지막 급여 명세서에서 <b>항목</b>을 확인하세요</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<blockquote>
+<p>사용촉진 절차를 다 밟았으면 미사용 연차는 수당 없이 사라진다</p>
+<p>통보는 두 번 와야 하고 남은 일수가 적혀 있어야 한다</p>
+<p>수당은 하루치 통상임금에 못 쓴 일수를 곱해 계산한다</p>
+<p>회계연도 기준이어도 퇴사할 때는 입사일 기준으로 다시 본다</p>
+<p>퇴직으로 못 쓰게 된 연차는 촉진과 상관없이 정산된다</p>
+</blockquote>
+
+<p>연차는 회사가 주는 혜택이 아니라 법에 정해진 권리입니다. 눈치 보다가 놓치기엔 아까운 돈이에요.</p>
+
+<p>12월 첫 주에 남은 일수부터 확인해보세요. 생각보다 며칠 더 남아 있는 경우가 있더라고요.</p>
+
+<p>구체적인 판단은 회사 취업규칙과 임금 항목에 따라 달라지니 인사팀이나 노무 전문가에게 확인하시면 확실합니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 복사 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (2026-08-21 기준 정리)
+ · 연차유급휴가는 근로기준법 제60조, 사용촉진은 제61조에 규정
+ · 1년 이상 근속하고 출근율 요건을 채우면 연차 15일 발생
+ · 3년 이상 근속 시 2년마다 1일씩 가산되며 상한이 존재
+ · 입사 1년 미만 근로자는 1개월 개근 시 1일씩 발생
+ · 사용촉진 1차: 사용기간 만료 6개월 전 미사용 일수를 알리고 사용 시기 지정을 서면 요구
+ · 근로자가 10일 이내에 시기를 지정하지 않으면 사용자가 시기를 정해 만료 2개월 전까지 서면 통보 (2차)
+ · 두 단계를 모두 이행했음에도 사용하지 않은 연차는 수당 지급 의무가 면제됨
+ · 절차를 누락했거나 지정일에 노무 수령을 거부하지 않은 경우 수당 청구 가능
+ · 연차수당은 통상임금을 기준으로 산정하며 통상임금은 정기적·일률적으로 지급되는 임금
+ · 회계연도 기준 운영은 실무상 허용되나 퇴직 시 입사일 기준으로 재산정해 불리하지 않게 정산
+ · 퇴직으로 사용하지 못하게 된 연차는 사용촉진 여부와 무관하게 정산 대상
+ · 2026년 12월 25일 성탄절은 금요일 (달력 확인)
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 연차 가산일수의 상한과 구체적 산정 방식은 근속 구간별로 달라 수치를 적지 않았습니다
+ · 통상임금에 포함되는 개별 수당 판단은 회사 임금체계와 판례에 따라 달라 대표 사례만 적었습니다
+ · 성과급의 통상임금 포함 여부는 지급 조건에 따라 달라져 "대체로"로만 표현했습니다
+ · 연차 이월 허용 여부와 수당 지급 시기는 취업규칙·단체협약에 따라 다릅니다
+ · 1년 미만 근로자에 대한 사용촉진 시기(3개월 전·1개월 전)는 별도 규정이 있어 본문에서 다루지 않았습니다
+ · 미사용 연차수당의 소멸시효와 청구 절차는 사안별로 달라 적지 않았습니다
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "작년 12월에 연차가 엿새 남아 있었고 11월 종이 한 장이 촉진 통보였다"는 화자 설정입니다

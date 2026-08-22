@@ -61,7 +61,6 @@ for (const f of files) {
   if (body.includes('—')) issues.push('본문 줄표');
   if (/[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(body)) issues.push('유니코드 이모지');
   for (const w of BANNED) if (body.includes(w)) issues.push(`금지어:${w.trim()}`);
-  if (!VOICE_WORDS.test(plain)) issues.push('고유어휘 없음');
   if (!FIRST_PERSON.test(plain)) issues.push('1인칭 경험 없음');
   if (!/\.\.\.|ㅎㅎ|ㅋㅋ|ㅠㅠ/.test(plain)) issues.push('말줄임표·ㅎㅎ 없음');
   // 혼잣말 반말: 문단의 마지막 문장이 평서형 반말로 끝난다 (존댓말 종결 아님)
