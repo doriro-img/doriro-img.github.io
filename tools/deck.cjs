@@ -106,7 +106,7 @@ const cards = items.map((it, i) => `
   <div class="thumb">
     ${it.png ? `<img src="${esc(it.png)}" alt="${esc(it.slug)}" />` : '<div class="nopng">PNG 없음</div>'}
     <div class="tpath">
-      ${it.stale ? `<div class="stale">★ 레포 PNG와 다릅니다. <code>node tools/sync08.cjs ${esc(it.slug)}</code> 로 다시 동기화하세요</div>` : ''}
+      ${it.stale ? `<div class="stale">★ 레포 PNG와 다릅니다. <code>node tools/sync.cjs ${ym} ${esc(it.slug)}</code> 로 다시 동기화하세요</div>` : ''}
       <div><b>${esc(it.pngName)}</b> — 업로드 창의 <b>파일 이름</b> 칸에 붙여넣고 Enter</div>
       <code>${esc(it.pngPath)}</code>
       <button class="cp mini" data-cp="pngPath" data-i="${i}">파일경로 복사</button>
@@ -293,6 +293,6 @@ console.log(`${items.length}편 · ${Math.round(fs.statSync(OUT).size / 1024)}KB
 if (bad.length) console.log(`  ⚠ 지표 미달 ${bad.length}편: ${bad.map((i) => i.slug).join(', ')}`);
 if (stales.length) {
   console.log(`  ✗ 다운로드 PNG가 레포와 다름 ${stales.length}편 — 업로드하면 수정 전 이미지가 나갑니다`);
-  console.log(`    node tools/sync${ym.slice(4)}.cjs ${stales.map((i) => i.slug).join(' ')}`);
+  console.log(`    node tools/sync.cjs ${ym} ${stales.map((i) => i.slug).join(' ')}`);
 }
 console.log('저장:', OUT);
