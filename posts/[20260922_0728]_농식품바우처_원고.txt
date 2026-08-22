@@ -1,0 +1,265 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 22일 07:28
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260922_0728]_농식품바우처\
+   ├── 📄 [원고 파일]: [20260922_0728]_농식품바우처_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-foodvoucher.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260922_0728]_농식품바우처_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-foodvoucher.html
+
+■ 제목: 농식품바우처 품목과 사용처. 신청 자격과 온라인 결제 방법 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 농식품바우처, 농식품바우처신청, 농식품바우처품목, 농식품바우처사용처, 농식품바우처잔액조회, 농식품바우처온라인, 농림축산식품부, 신선식품지원, 취약계층식생활
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>농식품바우처 품목과 사용처. 신청 자격과 온라인 결제 방법 정리</p>
+
+<h2>살 수 있는 품목이 정해져 있습니다</h2>
+
+<p>농식품바우처는 취약계층이 신선식품을 사도록 지원하는 제도입니다. 답부터 적으면 아무거나 못 삽니다. 정해진 품목만 결제되고 가공식품은 대부분 빠져요.</p>
+
+<p>저희 이웃 어르신이 이걸 받으시는데요. 라면을 담았다가 결제가 안 돼 당황하셨다고 하더라고요.</p>
+
+<p>먹는 거면 다 되는 줄 알았다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M6 4v7a3 3 0 0 0 6 0V4" /><path d="M9 11v9" /><path d="M17 4c-1.5 2-1.5 5 0 7v9" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">품 목</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신선식품 위주입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">채소 과일 육류 계란 우유 잡곡 등이 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제 외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가공식품은 안 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">라면 과자 음료 같은 가공식품은 결제되지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">카 드</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">전용 카드로 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">발급받은 바우처 카드로 가맹점에서 결제합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사용 기간이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 기간이 지나면 남은 금액이 소멸됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>대상 품목</b> 채소 과일 육류 계란 우유 잡곡 등 신선식품입니다</li>
+<li><b>제외 품목</b> 라면 과자 음료 같은 가공식품은 결제되지 않습니다</li>
+<li><b>결제 수단</b> 발급받은 전용 바우처 카드로 가맹점에서 씁니다</li>
+<li><b>사용 기간</b> 기간이 지나면 남은 금액이 소멸됩니다</li>
+</ul>
+
+<h2>농식품바우처 신청 자격은 어떻게 됩니까?</h2>
+
+<p>소득 기준과 가구 요건을 봅니다. 사업 지역도 확인해야 해요.</p>
+
+<h3>기준 중위소득 이하 가구입니다</h3>
+
+<p>기초생활수급자와 차상위계층이 중심입니다. 임산부나 아동이 있는 가구를 우선하기도 합니다.</p>
+
+<p>가구원 수에 따라 지원 금액이 달라집니다. 인원이 많을수록 월 지원액이 큽니다.</p>
+
+<h3>사업 지역인지 확인하세요</h3>
+
+<p>전국에서 동시에 하는 사업이 아닙니다. 참여 지자체가 정해져 있어요.</p>
+
+<p>내가 사는 곳이 대상인지 주민센터에 물어보는 게 빠릅니다. 해마다 지역이 바뀌기도 합니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">가능</th>
+      <th style="padding:12px;text-align:left;">불가</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">채소 과일</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">신선 상태</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">주스 통조림</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">육류 계란</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신선 냉동육</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">햄 소시지</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">유제품</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">흰 우유</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">가공유 아이스크림</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">곡류</td>
+      <td style="padding:12px;">잡곡 등</td>
+      <td style="padding:12px;">과자 라면</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>채소와 과일</b> 신선 상태만 되고 주스나 통조림은 안 됩니다</li>
+<li><b>육류와 계란</b> 신선육과 냉동육은 되지만 햄과 소시지는 제외입니다</li>
+<li><b>유제품</b> 흰 우유는 되고 가공유와 아이스크림은 안 됩니다</li>
+</ul>
+
+<blockquote>같은 매장에서 사도 품목 코드로 걸러집니다. 계산대에서 나뉘어 결제되는 구조입니다.</blockquote>
+
+<h2>농식품바우처 온라인 결제도 됩니까</h2>
+
+<p>지정된 온라인 쇼핑몰에서 쓸 수 있습니다. 농협몰 같은 곳이 대표적이에요.</p>
+
+<p>오프라인은 농협 하나로마트와 지정 로컬푸드 매장이 중심입니다. 동네 슈퍼는 대부분 안 됩니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">장바구니를 따로 담으세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">지원 품목과 아닌 것을 한 번에 담으면 결제가 막히거나 복잡해집니다. 바우처로 살 것만 따로 계산하면 훨씬 수월합니다.</p>
+</div>
+
+<h3>잔액은 어디서 봅니까</h3>
+
+<p>카드사 앱이나 농식품바우처 누리집에서 확인합니다. 결제할 때마다 남은 금액이 문자로 오기도 해요.</p>
+
+<p>매달 충전 날짜가 정해져 있습니다. 그날 이후에 쓰면 됩니다.</p>
+
+<p>영수증에도 차감 내역이 찍힙니다. 얼마가 빠졌는지 그 자리에서 확인할 수 있어요.</p>
+
+<p>카드를 잃어버리면 재발급을 받습니다. 잔액은 그대로 남아 있으니 걱정하지 않아도 됩니다.</p>
+
+<p>가맹점 목록은 누리집에서 지역별로 검색됩니다. 집 근처에 어디가 있는지 미리 봐두면 편합니다.</p>
+
+<h2>신청은 어디서 합니까</h2>
+
+<p>주소지 행정복지센터에서 받습니다. 온라인 신청을 받는 지자체도 있어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">서 류</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신분증과 신청서</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">소득 확인은 행정 자료로 처리되는 경우가 많습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">모집 기간이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">연중 상시가 아니라 정해진 기간에 접수합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">변 동</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이사하면 알려야 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사업 지역 밖으로 옮기면 지원이 중단될 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>필요 서류</b> 신분증과 신청서가 기본이고 소득은 행정 자료로 확인합니다</li>
+<li><b>모집 기간</b> 연중 상시가 아니라 정해진 기간에 접수합니다</li>
+<li><b>주소 변동</b> 사업 지역 밖으로 이사하면 지원이 중단될 수 있습니다</li>
+</ul>
+
+<p>다른 식품 지원과 중복되는 부분이 있으면 조정됩니다. 담당자에게 확인해보세요.</p>
+
+<p>선정되면 문자로 안내가 옵니다. 카드는 우편으로 오거나 주민센터에서 받습니다.</p>
+
+<blockquote>부정 사용이 확인되면 환수됩니다. 카드를 남에게 빌려주는 것도 여기에 들어갑니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>신선식품만 되고 가공식품은 안 됩니다. 농협 하나로마트나 지정 온라인몰에서 따로 계산하면 편해요.</p>
+
+<p>저는 바우처라 아무 마트나 되는 줄 알았더라고요... 가맹점부터 확인하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 농식품바우처는 농림축산식품부가 운영하는 취약계층 식생활 지원 사업입니다
+ · 지원 품목은 채소 과일 육류 계란 우유 잡곡 등 신선식품입니다
+ · 라면 과자 음료 등 가공식품은 지원 대상이 아닙니다
+ · 주스와 통조림, 햄과 소시지, 가공유와 아이스크림은 제외됩니다
+ · 결제는 발급받은 전용 바우처 카드로 합니다
+ · 품목은 결제 시 상품 코드로 구분됩니다
+ · 사용 기간이 정해져 있으며 기간이 지나면 잔액이 소멸됩니다
+ · 지원 대상은 기초생활수급자와 차상위계층 등 기준 중위소득 이하 가구입니다
+ · 가구원 수에 따라 월 지원 금액이 달라집니다
+ · 전국 사업이 아니며 참여 지자체가 정해져 있습니다
+ · 농협 하나로마트와 지정 로컬푸드 매장, 지정 온라인몰에서 사용할 수 있습니다
+ · 잔액은 카드사 앱과 농식품바우처 누리집에서 조회합니다
+ · 신청은 주소지 행정복지센터에서 정해진 모집 기간에 받습니다
+ · 사업 지역 밖으로 이사하면 지원이 중단될 수 있습니다
+ · 부정 사용이 확인되면 환수 조치됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 가구원 수별 월 지원 금액
+ · 기준 중위소득 대비 선정 비율
+ · 2026년 사업 참여 지자체 목록
+ · 모집 기간과 카드 발급 소요 기간
+ · 사용 기간의 시작일과 종료일
+ · 지정 온라인몰의 전체 목록
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 이웃 어르신이 이걸 받으시는데요"
+ · "라면을 담았다가 결제가 안 돼 당황하셨다고 하더라고요"
+ · "저는 바우처라 아무 마트나 되는 줄 알았더라고요"
