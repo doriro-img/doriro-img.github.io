@@ -72,7 +72,7 @@
 <li><b>이의신청</b> 이미 부과된 뒤에 다투는 절차이고 법원 판단까지 갈 수 있습니다</li>
 </ul>
 
-<h2>과태료 조회는 어디서 하나요?</h2>
+<h2>주정차위반 과태료 금액 조회는 어디서 하나요?</h2>
 
 <p>고지서를 못 받았어도 조회가 됩니다. 창구가 여러 개예요.</p>
 
@@ -195,7 +195,7 @@
 
 <p>차를 빌려준 경우는 조금 다릅니다. 실제 운전자를 밝히면 그쪽으로 넘어가는 절차가 있습니다.</p>
 
-<h2>안 내면 어떻게 되나요?</h2>
+<h2>주정차위반 과태료 납부 방법과 안 내면 생기는 일</h2>
 
 <div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
   <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">

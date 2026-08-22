@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 18일 18:31
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260918_1831]_운전면허_벌점\
+   ├── 📄 [원고 파일]: [20260918_1831]_운전면허_벌점_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-penaltypoint.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260918_1831]_운전면허_벌점_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-penaltypoint.html
+
+■ 제목: 운전면허 벌점 소멸 기준과 감경 교육. 면허 정지가 시작되는 점수 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 운전면허벌점, 벌점소멸, 벌점조회, 벌점감경교육, 면허정지, 착한운전마일리지, 이파인, 누산점수, 특별교통안전교육
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>운전면허 벌점 소멸 기준과 감경 교육. 면허 정지가 시작되는 점수 정리</p>
+
+<h2>1년을 무사고로 넘기면 사라집니다</h2>
+
+<p>운전면허 벌점은 쌓이기만 하는 게 아닙니다. 답부터 적으면 마지막 위반일부터 1년 동안 새 벌점이 없으면 그동안의 벌점이 소멸합니다. 시간이 답이 되는 구조예요.</p>
+
+<p>저도 벌점이 붙은 뒤로 한동안 조심해서 다녔는데요. 1년이 지나니 조회 화면에서 사라졌더라고요.</p>
+
+<p>기다리는 것도 방법이었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">소 멸</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">1년 무위반이면 없어집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">마지막 위반일부터 1년간 새 벌점이 없으면 전부 소멸합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">정 지</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">40점부터 정지입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">누산점수가 40점에 도달하면 면허 정지 처분이 시작됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 8l9-4 9 4z" /><path d="M7 10.5V16c0 1.4 2.2 2.5 5 2.5s5-1.1 5-2.5v-5.5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">교 육</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">교육으로 감경됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">특별교통안전교육을 들으면 벌점을 일부 깎아줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">마 일 리 지</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">착한운전 마일리지</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">서약하고 1년을 지키면 점수가 쌓여 나중에 공제됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>소멸</b> 마지막 위반일부터 1년간 새 벌점이 없으면 전부 사라집니다</li>
+<li><b>면허 정지</b> 누산점수가 40점에 도달하면 정지 처분이 시작됩니다</li>
+<li><b>감경 교육</b> 특별교통안전교육을 들으면 벌점을 일부 깎아줍니다</li>
+<li><b>착한운전 마일리지</b> 서약하고 1년을 지키면 점수가 쌓입니다</li>
+</ul>
+
+<h2>정지는 어떻게 계산됩니까?</h2>
+
+<p>누산점수를 봅니다. 기간별로 기준이 다르게 잡혀 있어요.</p>
+
+<h3>1년 2년 3년으로 나눠 봅니다</h3>
+
+<p>1년 동안 121점, 2년 동안 201점, 3년 동안 271점이면 면허가 취소됩니다. 정지는 그보다 훨씬 낮은 기준이에요.</p>
+
+<p>정지 기간은 벌점 1점당 하루로 계산합니다. 40점이면 40일입니다.</p>
+
+<h3>한 번에 큰 점수가 붙는 위반이 있습니다</h3>
+
+<p>음주운전과 난폭운전, 사고 후 조치 불이행이 대표적입니다. 한 번으로 정지까지 갈 수 있어요.</p>
+
+<p>속도위반도 초과 폭이 크면 점수가 확 올라갑니다. 스쿨존이면 더 무겁습니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">기준</th>
+      <th style="padding:12px;text-align:left;">결과</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">누산 40점</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">벌점 합계</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">면허 정지</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">1년 121점</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">1년 누산</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">면허 취소</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">2년 201점</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">2년 누산</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">면허 취소</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">3년 271점</td>
+      <td style="padding:12px;">3년 누산</td>
+      <td style="padding:12px;">면허 취소</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>정지 기준</b> 누산점수 40점에 도달하면 면허가 정지됩니다</li>
+<li><b>취소 기준</b> 1년 121점, 2년 201점, 3년 271점이면 취소됩니다</li>
+<li><b>정지 기간</b> 벌점 1점을 하루로 계산해 정지 일수를 정합니다</li>
+</ul>
+
+<blockquote>벌점이 40점 미만이면 정지 처분이 없습니다. 다만 기록은 남아 있다가 1년이 지나야 소멸합니다.</blockquote>
+
+<h2>감경 교육은 무엇입니까</h2>
+
+<p>도로교통공단이 운영하는 특별교통안전교육입니다. 정해진 시간을 채우면 벌점을 깎아줘요.</p>
+
+<p>정지 처분 전에 미리 들으면 처분 자체를 줄일 수 있습니다. 정지 중에 들으면 기간이 단축됩니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">횟수 제한이 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">감경 교육은 일정 기간 안에 반복해서 받을 수 없습니다. 자주 쓸 수 있는 카드가 아니니 정말 필요할 때 쓰는 게 좋습니다.</p>
+</div>
+
+<h3>착한운전 마일리지는 어떤가요</h3>
+
+<p>이파인에서 서약하고 1년 동안 무위반 무사고를 지키면 점수가 쌓입니다. 나중에 벌점이 붙었을 때 공제할 수 있어요.</p>
+
+<p>서약은 여러 번 갱신됩니다. 매년 지키면 점수가 계속 누적됩니다.</p>
+
+<p>중간에 위반하면 서약이 깨지고 다시 시작합니다. 그동안 쌓인 점수는 남습니다.</p>
+
+<p>공제를 신청하는 시점도 정해져 있습니다. 정지 처분 통지를 받은 뒤에 신청해야 인정돼요.</p>
+
+<h2>조회는 어디서 합니까</h2>
+
+<p>경찰청 이파인에서 봅니다. 앱으로도 되고 웹으로도 됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">조 회</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이파인에서 확인합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">벌점과 과태료, 미납 내역을 한 화면에서 봅니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">반영에 시간이 걸립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">단속 직후에는 조회되지 않고 며칠 뒤에 뜹니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">이 의</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이의신청이 가능합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사실과 다르면 정해진 기한 안에 신청할 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>조회</b> 이파인에서 벌점과 과태료 내역을 한 번에 봅니다</li>
+<li><b>반영 시점</b> 단속 직후에는 안 뜨고 며칠 뒤에 조회됩니다</li>
+<li><b>이의신청</b> 사실과 다르면 정해진 기한 안에 신청할 수 있습니다</li>
+</ul>
+
+<p>과태료를 내도 벌점은 따로 관리됩니다. 무인 단속 과태료에는 벌점이 없어요.</p>
+
+<blockquote>정지 처분이 나오면 통지서가 옵니다. 처분 시작일 전에 면허증을 반납해야 합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>벌점은 1년 무위반이면 소멸하고 40점에서 정지가 시작됩니다. 급하면 특별교통안전교육으로 감경받을 수 있어요.</p>
+
+<p>저는 착한운전 마일리지를 서약해두고 매년 갱신하고 있더라고요... 조회부터 한 번 해보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 운전면허 벌점은 마지막 위반일부터 1년간 새 벌점이 없으면 소멸합니다
+ · 누산점수가 40점에 도달하면 면허 정지 처분이 시작됩니다
+ · 정지 기간은 벌점 1점을 1일로 계산합니다
+ · 1년간 121점, 2년간 201점, 3년간 271점이면 면허가 취소됩니다
+ · 음주운전, 난폭운전, 사고 후 조치 불이행 등은 한 번에 큰 벌점이 부과됩니다
+ · 어린이보호구역 위반은 벌점이 가중됩니다
+ · 도로교통공단의 특별교통안전교육을 이수하면 벌점을 감경받을 수 있습니다
+ · 감경 교육은 일정 기간 안에 반복 이수할 수 없습니다
+ · 착한운전 마일리지는 이파인에서 서약하고 1년 무위반 무사고를 지키면 점수가 적립됩니다
+ · 적립된 마일리지는 나중에 벌점 공제에 사용할 수 있습니다
+ · 벌점과 과태료 내역은 경찰청 이파인에서 조회합니다
+ · 단속 직후에는 조회되지 않고 반영에 며칠이 걸립니다
+ · 무인 단속으로 부과되는 과태료에는 벌점이 없습니다
+ · 정지 처분 통지를 받으면 처분 시작 전에 면허증을 반납해야 합니다
+ · 처분에 이의가 있으면 정해진 기한 안에 이의신청을 할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 위반 유형별 벌점 점수표
+ · 특별교통안전교육의 이수 시간과 감경 점수
+ · 감경 교육의 재이수 제한 기간
+ · 착한운전 마일리지의 연간 적립 점수와 공제 방식
+ · 이의신청의 기한과 절차
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 벌점이 붙은 뒤로 한동안 조심해서 다녔는데요"
+ · "1년이 지나니 조회 화면에서 사라졌더라고요"
+ · "저는 착한운전 마일리지를 서약해두고 매년 갱신하고 있더라고요"

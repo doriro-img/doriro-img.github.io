@@ -1,0 +1,261 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 16일 18:12
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260916_1812]_전월세_신고제\
+   ├── 📄 [원고 파일]: [20260916_1812]_전월세_신고제_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-rentreport.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260916_1812]_전월세_신고제_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-rentreport.html
+
+■ 제목: 전월세 신고제 대상과 과태료 기준. 임대차 신고 온라인 방법과 확정일자 효과
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 전월세신고제, 임대차신고, 전월세신고제과태료, 전월세신고제대상, 임대차신고필증, 확정일자, 부동산거래관리시스템, 묵시적갱신, 계도기간
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>전월세 신고제 대상과 과태료 기준. 임대차 신고 온라인 방법과 확정일자 효과</p>
+
+<h2>신고하면 확정일자가 자동으로 붙습니다</h2>
+
+<p>전월세 신고제는 일정 금액 이상의 임대차 계약을 관청에 알리는 의무입니다. 답부터 적으면 신고를 하면 확정일자가 자동으로 부여됩니다. 따로 주민센터에 가서 확정일자를 받을 필요가 없어요.</p>
+
+<p>저희도 이사할 때 전입신고와 확정일자를 따로 챙겼는데요. 임대차 신고 하나로 정리된다는 걸 알았더라고요.</p>
+
+<p>세 번 갈 일을 한 번에 끝낸다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">금액 기준을 넘는 계약</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보증금이나 월세가 정해진 금액을 넘으면 신고 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">계약일부터 30일 이내</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">잔금일이 아니라 계약을 체결한 날부터 셉니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 14l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">효 과</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">확정일자가 자동 부여됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신고필증을 받으면 확정일자를 따로 받을 필요가 없습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과 태 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">지연과 허위가 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">늦게 신고한 경우와 거짓으로 신고한 경우의 제재가 다릅니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>대상</b> 보증금이나 월세가 정해진 금액을 넘으면 신고 대상입니다</li>
+<li><b>기한</b> 잔금일이 아니라 계약 체결일부터 30일 이내입니다</li>
+<li><b>효과</b> 신고필증을 받으면 확정일자가 자동으로 부여됩니다</li>
+<li><b>과태료</b> 지연 신고와 허위 신고의 제재 수준이 다릅니다</li>
+</ul>
+
+<h2>누가 신고해야 하나요?</h2>
+
+<p>임대인과 임차인이 함께 하는 게 원칙입니다. 실제로는 한쪽이 해도 됩니다.</p>
+
+<h3>한 명이 하면 공동 신고로 봅니다</h3>
+
+<p>계약서를 첨부해 한쪽이 신고하면 양쪽이 함께 한 것으로 처리됩니다. 상대방 도장을 따로 받을 필요가 없어요.</p>
+
+<p>공인중개사가 대신 신고해주기도 합니다. 계약할 때 물어보면 됩니다.</p>
+
+<h3>온라인이 훨씬 간편합니다</h3>
+
+<p>부동산거래관리시스템에서 계약서를 올리면 됩니다. 주민센터 방문도 가능해요.</p>
+
+<p>공동인증서나 간편인증으로 로그인합니다. 계약서 사진만 있으면 10분이면 끝나더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">상황</th>
+      <th style="padding:12px;text-align:left;">신고 의무</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">신규 계약</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">있음</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">금액 기준 충족 시</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">갱신 계약</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">조건부</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">금액 변동 시 신고</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">묵시적 갱신</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">없음</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">조건 변동이 없음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">계약 해제</td>
+      <td style="padding:12px;">있음</td>
+      <td style="padding:12px;">변경 해제 신고</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>신규 계약</b> 금액 기준을 넘으면 신고해야 합니다</li>
+<li><b>갱신 계약</b> 보증금이나 월세가 바뀌면 신고 대상입니다</li>
+<li><b>묵시적 갱신</b> 조건 변동이 없으면 신고 의무가 없습니다</li>
+</ul>
+
+<blockquote>계약을 해제하거나 조건을 바꾸면 그 사실도 신고해야 합니다. 처음 신고로 끝나는 게 아닙니다.</blockquote>
+
+<h2>과태료는 얼마입니까</h2>
+
+<p>지연 기간과 금액에 따라 달라집니다. 오래 미룰수록 커져요.</p>
+
+<p>거짓으로 신고하면 지연보다 훨씬 무겁게 봅니다. 금액을 낮춰 적는 행위가 여기 들어갑니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">계도기간이 끝나면 실제로 부과됩니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">제도 도입 후 여러 차례 계도기간이 연장됐습니다. 계도기간에는 과태료를 물리지 않지만 신고 의무 자체는 그대로입니다. 현재 시점의 운영 상황을 확인하세요.</p>
+</div>
+
+<h3>세금 신고와 연결되나요</h3>
+
+<p>임대차 정보가 국세청에 공유됩니다. 임대소득 신고와 맞춰지는 구조예요.</p>
+
+<p>임대인이 신고를 꺼리는 이유가 여기 있습니다. 임차인 입장에서는 신고하는 게 유리합니다.</p>
+
+<p>임대인이 반대해도 임차인 혼자 신고할 수 있습니다. 계약서만 있으면 됩니다.</p>
+
+<p>신고했다고 계약을 해지당할 이유는 없습니다. 법에 정해진 의무를 이행하는 것이니까요.</p>
+
+<h2>임차인에게 무엇이 좋습니까</h2>
+
+<p>보증금을 지키는 데 직접 도움이 됩니다. 절차도 줄어들어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="10" width="16" height="11" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">보 호</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">우선변제권을 확보합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전입신고와 확정일자가 갖춰지면 보증금 순위가 생깁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M16 16l5 5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">정 보</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">시세 정보가 공개됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">실거래 임대료가 쌓여 다음 계약 때 참고할 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">서 류</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신고필증이 증빙이 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">월세 세액공제나 대출 서류로 활용할 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>보증금 보호</b> 전입신고와 확정일자가 갖춰지면 우선변제권이 생깁니다</li>
+<li><b>시세 정보</b> 실거래 임대료가 공개돼 다음 계약 때 참고됩니다</li>
+<li><b>신고필증</b> 월세 세액공제나 대출 서류로 활용할 수 있습니다</li>
+</ul>
+
+<p>확정일자는 신고한 날 부여됩니다. 대항력은 전입신고 다음 날부터라 두 가지를 같이 챙겨야 해요.</p>
+
+<blockquote>신고 대상이 아니어도 확정일자는 따로 받을 수 있습니다. 금액이 작다고 그냥 넘기지 마세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>계약일부터 30일 안에 부동산거래관리시스템에서 신고하세요. 확정일자가 자동으로 붙어 따로 다닐 일이 없어집니다.</p>
+
+<p>저는 확정일자를 받으러 주민센터를 갔다가 이미 처리됐다는 말을 듣고 허탈했더라고요... 온라인으로 미리 하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 전월세 신고제는 부동산 거래신고 등에 관한 법률에 따른 임대차 계약 신고 의무입니다
+ · 보증금이나 월차임이 정해진 금액을 넘는 계약이 신고 대상입니다
+ · 신고 기한은 계약 체결일부터 30일 이내입니다
+ · 임대인과 임차인의 공동 신고가 원칙이며 한쪽이 계약서를 첨부해 신고하면 공동 신고로 처리됩니다
+ · 공인중개사가 위임을 받아 대신 신고할 수 있습니다
+ · 신고는 부동산거래관리시스템 온라인과 주민센터 방문으로 가능합니다
+ · 임대차 신고를 하면 확정일자가 자동으로 부여됩니다
+ · 갱신 계약은 보증금이나 차임이 변동된 경우 신고 대상입니다
+ · 조건 변동이 없는 묵시적 갱신은 신고 의무가 없습니다
+ · 계약을 변경하거나 해제한 경우에도 신고해야 합니다
+ · 지연 신고와 거짓 신고에 대한 과태료 수준이 다릅니다
+ · 제도 시행 이후 계도기간이 여러 차례 운영됐습니다
+ · 신고된 임대차 정보는 실거래 자료로 공개됩니다
+ · 임대차 신고필증은 월세 세액공제와 대출 서류로 활용할 수 있습니다
+ · 대항력은 전입신고 다음 날 0시부터 발생합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 신고 대상이 되는 보증금과 월차임의 금액 기준
+ · 지연 신고 기간별 과태료 금액과 거짓 신고 과태료
+ · 계도기간의 현재 운영 여부와 종료 시점
+ · 신고 대상 지역의 범위
+ · 임대소득 과세와 연계되는 구체적 절차
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 이사할 때 전입신고와 확정일자를 따로 챙겼는데요"
+ · "임대차 신고 하나로 정리된다는 걸 알았더라고요"
+ · "계약서 사진만 있으면 10분이면 끝나더라고요"
+ · "저는 확정일자를 받으러 주민센터를 갔다가 이미 처리됐다는 말을 듣고 허탈했더라고요"

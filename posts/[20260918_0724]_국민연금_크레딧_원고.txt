@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 18일 07:24
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260918_0724]_국민연금_크레딧\
+   ├── 📄 [원고 파일]: [20260918_0724]_국민연금_크레딧_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-npscredit.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260918_0724]_국민연금_크레딧_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-npscredit.html
+
+■ 제목: 국민연금 크레딧 종류와 신청 방법. 출산크레딧이 수급 시점에 반영되는 이유
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 국민연금크레딧, 출산크레딧, 군복무크레딧, 실업크레딧, 국민연금가입기간, 노령연금, 국민연금공단, 크레딧신청, 연금수령액
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국민연금 크레딧 종류와 신청 방법. 출산크레딧이 수급 시점에 반영되는 이유</p>
+
+<h2>보험료를 안 내고 가입 기간을 얻는 제도입니다</h2>
+
+<p>국민연금 크레딧은 특정 사유가 있을 때 가입 기간을 더해주는 제도입니다. 답부터 적으면 세 가지가 있고 신청 시점이 각각 다릅니다. 출산크레딧은 지금 신청하는 게 아니라 연금을 받을 때 반영돼요.</p>
+
+<p>저희도 이 제도를 알아보다가 신청 시점을 착각했는데요. 지금 공단에 가도 처리가 안 된다고 하더라고요.</p>
+
+<p>제도마다 챙기는 시점이 다르다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 21s-8-4.6-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 6.4-8 11-8 11z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">출 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">둘째부터 인정됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">자녀가 둘 이상이면 자녀 수에 따라 기간을 더해줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">군 복 무</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">현역 복무자에게 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">병역 의무를 이행한 사람에게 일정 기간을 인정합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="7" width="18" height="13" rx="2" /><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">실 업</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">실업급여 받을 때 신청합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보험료의 일부를 국가가 지원해 가입 기간을 이어줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신청 시점이 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">실업크레딧만 그때그때 신청하고 나머지는 수급 시점에 반영됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>출산크레딧</b> 자녀가 둘 이상이면 자녀 수에 따라 기간을 더해줍니다</li>
+<li><b>군복무크레딧</b> 병역 의무를 이행한 사람에게 일정 기간을 인정합니다</li>
+<li><b>실업크레딧</b> 실업급여를 받을 때 보험료를 지원해 기간을 이어줍니다</li>
+<li><b>신청 시점</b> 실업크레딧만 그때 신청하고 나머지는 수급 때 반영됩니다</li>
+</ul>
+
+<h2>출산크레딧은 언제 반영됩니까?</h2>
+
+<p>연금을 받기 시작할 때 계산에 들어갑니다. 지금 신청서를 낼 수 없어요.</p>
+
+<h3>노령연금을 청구할 때 처리됩니다</h3>
+
+<p>연금 수급 연령이 되어 청구할 때 자녀 수를 확인합니다. 그때 기간이 더해져요.</p>
+
+<p>가족관계증명서로 자녀를 확인합니다. 미리 준비할 서류는 없습니다.</p>
+
+<h3>부모 중 한 명에게 갑니다</h3>
+
+<p>부부가 합의해 한 사람에게 몰아주거나 나눌 수 있습니다. 합의가 없으면 균등하게 나눕니다.</p>
+
+<p>한쪽이 가입 기간이 부족하면 그쪽으로 몰아주는 게 유리합니다. 최소 가입 기간을 채우는 데 쓸 수 있어요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">종류</th>
+      <th style="padding:12px;text-align:left;">신청 시점</th>
+      <th style="padding:12px;text-align:left;">본인 부담</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">출산크레딧</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">연금 청구 시</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">없음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">군복무크레딧</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">연금 청구 시</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">없음</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">실업크레딧</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">실업급여 수급 중</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">일부 부담</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">추후납부</td>
+      <td style="padding:12px;">언제든 가능</td>
+      <td style="padding:12px;">전액 부담</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>출산과 군복무</b> 연금을 청구할 때 반영되고 본인 부담이 없습니다</li>
+<li><b>실업크레딧</b> 실업급여를 받는 동안 신청하고 일부를 본인이 냅니다</li>
+<li><b>추후납부</b> 크레딧과 달리 보험료 전액을 본인이 부담합니다</li>
+</ul>
+
+<blockquote>크레딧은 공짜로 기간을 얻는 것이고 추후납부는 돈을 내고 기간을 사는 것입니다. 성격이 다릅니다.</blockquote>
+
+<h2>실업크레딧은 어떻게 신청합니까</h2>
+
+<p>실업급여를 신청할 때 함께 접수합니다. 고용센터나 국민연금공단에서 받아요.</p>
+
+<p>인정소득의 일정 비율을 보험료로 계산하고 그중 일부만 본인이 냅니다. 나머지는 국가가 부담합니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">재산과 소득이 많으면 제외됩니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">실업크레딧에는 재산세 과세표준과 종합소득 기준이 붙습니다. 실업 상태여도 자산이 일정 수준을 넘으면 지원 대상이 아닙니다.</p>
+</div>
+
+<h3>평생 받을 수 있는 개월 수가 있습니다</h3>
+
+<p>실업크레딧은 생애 통틀어 인정되는 기간이 정해져 있습니다. 여러 번 실직해도 합산이에요.</p>
+
+<p>한도를 다 쓰면 그다음부터는 지원이 안 됩니다. 필요할 때 쓰는 게 좋습니다.</p>
+
+<h2>얼마나 이득입니까</h2>
+
+<p>가입 기간이 늘면 연금액이 올라갑니다. 특히 최소 가입 기간을 못 채운 사람에게 큽니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">금 액</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">연금액이 올라갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가입 기간이 길수록 매달 받는 금액이 커집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">자 격</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">최소 기간을 채우는 데 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가입 기간이 모자라 연금을 못 받는 상황을 막아줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">한 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">인정 소득이 낮게 잡힙니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">크레딧 기간의 소득은 평균보다 낮은 수준으로 계산됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>연금액</b> 가입 기간이 길수록 매달 받는 금액이 커집니다</li>
+<li><b>수급 자격</b> 가입 기간이 모자라 연금을 못 받는 상황을 막아줍니다</li>
+<li><b>한계</b> 크레딧 기간의 인정 소득은 낮게 계산됩니다</li>
+</ul>
+
+<p>내 가입 기간은 국민연금공단 앱이나 홈페이지에서 확인할 수 있습니다. 예상 수령액도 같이 나와요.</p>
+
+<blockquote>크레딧으로 늘어난 기간도 정식 가입 기간입니다. 수급 자격을 따질 때 그대로 인정됩니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>출산과 군복무 크레딧은 연금을 청구할 때 자동으로 반영됩니다. 지금 챙길 건 실업급여를 받을 때 신청하는 실업크레딧이에요.</p>
+
+<p>저는 셋 다 미리 신청하는 줄 알고 공단에 전화했다가 알았더라고요... 실직 중이면 그것만 꼭 챙기세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국민연금 크레딧은 특정 사유가 있을 때 가입 기간을 추가로 인정하는 제도입니다
+ · 출산크레딧, 군복무크레딧, 실업크레딧 세 가지가 있습니다
+ · 출산크레딧은 자녀가 둘 이상인 경우 자녀 수에 따라 기간을 인정합니다
+ · 출산크레딧과 군복무크레딧은 노령연금을 청구하는 시점에 반영됩니다
+ · 출산크레딧은 부모 중 한 명에게 몰아주거나 나눌 수 있고 합의가 없으면 균등 배분합니다
+ · 군복무크레딧은 병역 의무를 이행한 사람에게 일정 기간을 인정합니다
+ · 실업크레딧은 구직급여를 받는 동안 신청하며 보험료의 일부를 본인이 부담합니다
+ · 실업크레딧은 고용센터와 국민연금공단에서 신청합니다
+ · 실업크레딧에는 재산세 과세표준과 종합소득 기준이 적용됩니다
+ · 실업크레딧은 생애 통틀어 인정되는 최대 개월 수가 정해져 있습니다
+ · 추후납부는 보험료 전액을 본인이 부담하는 별도 제도입니다
+ · 크레딧으로 인정된 기간은 정식 가입 기간으로 수급 자격 판단에 포함됩니다
+ · 크레딧 기간의 인정 소득은 전체 가입자 평균보다 낮게 산정됩니다
+ · 가입 기간과 예상 수령액은 국민연금공단 앱과 홈페이지에서 확인할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 출산크레딧의 자녀 수별 인정 개월 수와 최대 한도
+ · 군복무크레딧의 인정 개월 수
+ · 실업크레딧의 본인 부담 비율과 최대 인정 개월 수
+ · 실업크레딧 제외 기준이 되는 재산세 과세표준과 종합소득 금액
+ · 크레딧 기간의 소득 인정 수준
+ · 노령연금 최소 가입 기간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 이 제도를 알아보다가 신청 시점을 착각했는데요"
+ · "지금 공단에 가도 처리가 안 된다고 하더라고요"
+ · "저는 셋 다 미리 신청하는 줄 알고 공단에 전화했다가 알았더라고요"

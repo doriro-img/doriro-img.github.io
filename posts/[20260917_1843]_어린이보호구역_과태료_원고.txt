@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 17일 18:43
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260917_1843]_어린이보호구역_과태료\
+   ├── 📄 [원고 파일]: [20260917_1843]_어린이보호구역_과태료_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-schoolzone.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260917_1843]_어린이보호구역_과태료_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-schoolzone.html
+
+■ 제목: 어린이보호구역 과태료 조회와 시간 기준. 주말과 방학에도 적용되는 이유
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 어린이보호구역과태료, 스쿨존과태료, 어린이보호구역속도, 어린이보호구역주정차, 과태료조회, 민식이법, 범칙금, 어린이보호구역시간, 위택스
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>어린이보호구역 과태료 조회와 시간 기준. 주말과 방학에도 적용되는 이유</p>
+
+<h2>주말에도 스쿨존은 스쿨존입니다</h2>
+
+<p>어린이보호구역 과태료를 두고 시간 기준을 헷갈리는 분이 많습니다. 답부터 적으면 구역 자체는 24시간 유효하고 가중 처벌 시간대만 따로 있습니다. 주말이나 방학이라고 단속이 없어지지 않아요.</p>
+
+<p>저도 일요일 아침에는 괜찮겠지 하고 속도를 냈던 적이 있는데요. 카메라는 요일을 안 보더라고요.</p>
+
+<p>사람이 없어도 규정은 그대로다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">속 도</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">시속 30킬로미터 이하</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">구역 안에서는 제한속도가 낮게 정해져 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17h18" /><path d="M5 17V9l3-4h8l3 4v8" /><circle cx="8" cy="19" r="1.6" /><circle cx="16" cy="19" r="1.6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">주 정 차</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">전면 금지 구간이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">잠깐 세우는 것도 위반으로 잡히는 구간이 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 중</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">금액이 두 배로 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">일반 도로보다 과태료와 범칙금이 무겁게 매겨집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">사 고</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사고는 형사 처벌입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">어린이 사망이나 상해 사고는 가중 처벌 대상입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>속도</b> 구역 안에서는 제한속도가 낮게 정해져 있습니다</li>
+<li><b>주정차</b> 잠깐 세우는 것도 위반으로 잡히는 구간이 있습니다</li>
+<li><b>가중</b> 일반 도로보다 과태료와 범칙금이 무겁습니다</li>
+<li><b>사고</b> 어린이 사망이나 상해 사고는 가중 처벌 대상입니다</li>
+</ul>
+
+<h2>시간 기준은 어떻게 됩니까?</h2>
+
+<p>구역 지정과 가중 시간대를 나눠서 봐야 합니다. 이 둘이 다릅니다.</p>
+
+<h3>구역은 늘 유효합니다</h3>
+
+<p>어린이보호구역 표지가 있는 도로는 언제나 그 구역입니다. 밤이든 주말이든 제한속도가 적용돼요.</p>
+
+<p>단속 카메라도 24시간 돌아갑니다. 시간대에 따라 꺼지지 않습니다.</p>
+
+<h3>가중 시간대는 따로 있습니다</h3>
+
+<p>오전 8시부터 오후 8시 사이가 가중 구간입니다. 이 시간의 위반은 벌점과 금액이 더 무겁게 잡혀요.</p>
+
+<p>그 밖의 시간은 일반 기준으로 처리됩니다. 아예 없어지는 게 아니라 수위가 달라지는 겁니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">위반 유형</th>
+      <th style="padding:12px;text-align:left;">적용 시간</th>
+      <th style="padding:12px;text-align:left;">특징</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">속도위반</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">24시간</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가중 시간대 별도</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신호위반</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">24시간</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">벌점 가중</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">주정차위반</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">24시간</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">구간에 따라 전면 금지</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">보행자 보호 위반</td>
+      <td style="padding:12px;">24시간</td>
+      <td style="padding:12px;">일시정지 의무</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>속도와 신호</b> 24시간 단속되고 정해진 시간대에는 가중됩니다</li>
+<li><b>주정차</b> 구간에 따라 잠시 정차하는 것도 위반입니다</li>
+<li><b>보행자 보호</b> 횡단보도 앞 일시정지 의무가 그대로 적용됩니다</li>
+</ul>
+
+<blockquote>가중 시간대는 등하교 시간과 방과후 활동 시간을 감안해 정해집니다. 방학이라고 해제되지 않습니다.</blockquote>
+
+<h2>과태료 조회는 어디서 합니까</h2>
+
+<p>이파인이나 위택스에서 볼 수 있습니다. 부과 주체에 따라 조회처가 달라져요.</p>
+
+<p>속도와 신호위반은 경찰청 이파인, 주정차위반은 지자체라 위택스나 지자체 사이트에서 봅니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">사전통지 기간에 내면 깎입니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">고지서가 오기 전 사전통지 단계에서 자진 납부하면 일정 비율을 감경해줍니다. 미루면 그 할인이 사라지고 가산금이 붙습니다.</p>
+</div>
+
+<h3>과태료와 범칙금이 다릅니다</h3>
+
+<p>무인 카메라에 찍히면 차량 소유자에게 과태료가 나옵니다. 벌점은 없어요.</p>
+
+<p>현장에서 단속되면 운전자에게 범칙금과 벌점이 부과됩니다. 금액은 조금 낮지만 벌점이 붙습니다.</p>
+
+<p>과태료 고지서를 받고 운전자를 밝히면 범칙금으로 바꿀 수 있습니다. 벌점을 감수하고 금액을 줄이는 선택이에요.</p>
+
+<p>대부분은 그냥 과태료로 냅니다. 벌점이 쌓이면 면허 정지로 이어지니까요.</p>
+
+<h2>어떻게 하면 안 걸립니까</h2>
+
+<p>몇 가지 습관이면 대부분 막을 수 있습니다. 특히 속도와 정차가 핵심이에요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 12l4-3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">속 도</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">진입 전에 줄입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">표지판을 보고 나서 줄이면 이미 늦는 경우가 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 20V4M20 20V4" /><path d="M8 12h8" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">정 차</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">아이를 내려줄 때도 주의</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">잠깐 세우는 것도 구간에 따라 위반이 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">안 내</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">내비게이션 안내를 켜둡니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보호구역 진입과 단속 지점을 미리 알려줍니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>속도</b> 표지판을 보고 줄이면 늦으니 진입 전에 감속합니다</li>
+<li><b>정차</b> 아이를 내려주려 잠깐 세우는 것도 위반이 될 수 있습니다</li>
+<li><b>안내</b> 내비게이션의 보호구역 안내를 켜두면 놓치지 않습니다</li>
+</ul>
+
+<p>바닥에 붉은색으로 칠해진 구간이 대부분 보호구역입니다. 색이 바뀌면 속도부터 확인하세요.</p>
+
+<blockquote>보호구역 위반이 쌓이면 보험료 할증으로도 이어집니다. 과태료만 보고 넘길 문제가 아닙니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>어린이보호구역은 24시간 적용되고 정해진 시간대에 가중됩니다. 조회는 이파인과 위택스로 나뉘고 사전통지 기간에 내면 감경됩니다.</p>
+
+<p>저는 주말에는 해제되는 줄 알고 있었더라고요... 붉은 바닥이 보이면 그냥 속도를 줄이세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 어린이보호구역은 도로교통법에 따라 지정되며 지정 효력은 24시간 유지됩니다
+ · 구역 내 제한속도는 시속 30킬로미터 이하로 정해집니다
+ · 가중 처벌 시간대는 오전 8시부터 오후 8시까지입니다
+ · 가중 시간대 외에도 단속은 이루어지며 수위만 달라집니다
+ · 주말과 방학에도 보호구역 규정이 그대로 적용됩니다
+ · 어린이보호구역 내 주정차는 구간에 따라 전면 금지됩니다
+ · 보호구역 위반은 일반 도로보다 과태료와 범칙금이 무겁게 부과됩니다
+ · 무인 단속 시 차량 소유자에게 과태료가 부과되고 벌점은 없습니다
+ · 현장 단속 시 운전자에게 범칙금과 벌점이 부과됩니다
+ · 속도와 신호위반은 경찰청 이파인에서 조회합니다
+ · 주정차위반은 위택스와 지자체 사이트에서 조회합니다
+ · 사전통지 기간에 자진 납부하면 일정 비율이 감경됩니다
+ · 납부기한을 넘기면 가산금이 부과됩니다
+ · 어린이 사망 상해 사고는 특정범죄 가중처벌 등에 관한 법률로 가중 처벌됩니다
+ · 보호구역 노면은 붉은색으로 표시되는 경우가 많습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 속도 초과 구간별 과태료와 범칙금 금액
+ · 주정차위반 과태료 금액과 차종별 차이
+ · 자진 납부 시 감경 비율
+ · 가산금과 중가산금의 요율
+ · 보험료 할증이 적용되는 위반 횟수 기준
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 일요일 아침에는 괜찮겠지 하고 속도를 냈던 적이 있는데요"
+ · "카메라는 요일을 안 보더라고요"
+ · "저는 주말에는 해제되는 줄 알고 있었더라고요"

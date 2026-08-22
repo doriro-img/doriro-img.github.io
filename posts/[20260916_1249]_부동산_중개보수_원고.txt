@@ -1,0 +1,265 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 16일 12:49
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260916_1249]_부동산_중개보수\
+   ├── 📄 [원고 파일]: [20260916_1249]_부동산_중개보수_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-brokerfee.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260916_1249]_부동산_중개보수_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-brokerfee.html
+
+■ 제목: 부동산 중개보수 요율표와 계산 방법. 부가세와 협의가 가능한 구간 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 부동산중개보수, 중개보수요율표, 중개보수계산기, 중개보수부가세, 중개보수협의, 청년부동산중개보수, 복비, 공인중개사, 현금영수증
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>부동산 중개보수 요율표와 계산 방법. 부가세와 협의가 가능한 구간 정리</p>
+
+<h2>요율은 상한이지 정해진 금액이 아닙니다</h2>
+
+<p>부동산 중개보수는 지자체 조례가 정한 요율 안에서 정합니다. 답부터 적으면 그 요율은 최대치입니다. 그 아래로 협의하는 게 법에 어긋나지 않아요.</p>
+
+<p>저희도 전세 계약을 하면서 처음엔 요율이 고정 금액인 줄 알았는데요. 계약서 쓸 때 협의가 된다는 걸 알았더라고요.</p>
+
+<p>물어보지 않으면 상한으로 간다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">구 조</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">거래금액 곱하기 요율</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">거래금액에 구간별 요율을 곱해 계산합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">상 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">한도액이 따로 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">낮은 구간에는 계산값과 별개로 상한 금액이 걸립니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 가 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사업자 유형에 따라 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">일반과세자면 부가세가 별도로 붙습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">잔금일에 지급합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">다른 약정이 없으면 거래가 완료되는 때 냅니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>계산 구조</b> 거래금액에 구간별 요율을 곱해 산정합니다</li>
+<li><b>한도액</b> 낮은 구간에는 계산값과 별개로 상한 금액이 걸립니다</li>
+<li><b>부가세</b> 일반과세자면 부가가치세가 별도로 붙습니다</li>
+<li><b>지급 시점</b> 다른 약정이 없으면 잔금일에 지급합니다</li>
+</ul>
+
+<h2>거래금액은 어떻게 잡습니까?</h2>
+
+<p>매매는 매매가입니다. 문제는 전세와 월세예요.</p>
+
+<h3>월세는 환산보증금으로 계산합니다</h3>
+
+<p>보증금에 월세의 100배를 더해 거래금액을 만듭니다. 그 값이 일정 금액 미만이면 70배로 다시 계산해요.</p>
+
+<p>보증금 1000만원에 월세 50만원이면 6000만원이 됩니다. 이 금액에 요율을 곱합니다.</p>
+
+<h3>전세는 보증금 그대로입니다</h3>
+
+<p>보증금이 곧 거래금액입니다. 계산이 단순해요.</p>
+
+<p>매매와 임대차는 요율표가 다릅니다. 같은 금액이어도 매매 쪽이 높게 잡힙니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">항목</th>
+      <th style="padding:12px;text-align:left;">기준</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매매</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매매대금</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">구간별 요율</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">전세</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">보증금</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">임대차 요율</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">월세</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">보증금 더하기 월세 100배</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">소액은 70배</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">지급 주체</td>
+      <td style="padding:12px;">양쪽이 각각</td>
+      <td style="padding:12px;">매도인 매수인 별도</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>매매</b> 매매대금에 구간별 요율을 적용합니다</li>
+<li><b>전세</b> 보증금이 그대로 거래금액이 됩니다</li>
+<li><b>월세</b> 보증금에 월세의 100배를 더하고 소액이면 70배로 다시 계산합니다</li>
+</ul>
+
+<blockquote>중개보수는 거래 당사자 양쪽이 각각 냅니다. 한 중개사가 양쪽을 중개해도 각자 지급합니다.</blockquote>
+
+<h2>협의는 언제 해야 합니까</h2>
+
+<p>계약서를 쓰기 전에 해야 합니다. 잔금일에 이야기하면 늦어요.</p>
+
+<p>중개보수는 계약서에 적는 항목입니다. 미리 정하고 문서에 남기면 분쟁이 없습니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">중개대상물 확인설명서를 받으세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">공인중개사는 계약 전에 물건 상태와 권리관계를 설명하고 서면으로 줘야 합니다. 여기에 보수 금액도 적힙니다. 안 주면 요구하세요.</p>
+</div>
+
+<h3>현금영수증은 꼭 받으세요</h3>
+
+<p>중개보수는 현금영수증 의무 발행 업종입니다. 요청하지 않아도 발행해야 해요.</p>
+
+<p>연말정산 공제도 되고 나중에 분쟁이 생기면 증빙이 됩니다. 안 주면 국세청에 신고할 수 있습니다.</p>
+
+<h3>공제증서와 등록증도 확인하세요</h3>
+
+<p>중개사무소에는 등록증과 공제증서가 걸려 있어야 합니다. 손해가 났을 때 배상받는 근거예요.</p>
+
+<p>공제 한도와 기간이 유효한지도 봅니다. 만료된 증서가 붙어 있는 곳도 있습니다.</p>
+
+<p>대표자 이름과 등록번호를 사진으로 남겨두면 좋습니다. 나중에 연락이 안 될 때 쓸모가 있더라고요.</p>
+
+<h2>계약이 깨지면 보수를 내나요</h2>
+
+<p>누구의 잘못인지에 따라 다릅니다. 중개사의 책임이 아니면 청구할 수 있어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 14l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">완 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">계약이 성립하면 발생합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">계약서에 도장을 찍은 시점에 청구권이 생깁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">해 지</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">당사자 사정이면 청구됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">매수인이 마음을 바꿔 깨지면 보수를 내야 할 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과 실</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">중개사 잘못이면 못 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">설명 의무를 어겨 계약이 깨지면 보수 청구가 제한됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>계약 성립</b> 계약서에 도장을 찍은 시점에 청구권이 생깁니다</li>
+<li><b>당사자 사정</b> 마음을 바꿔 깨지면 보수를 내야 할 수 있습니다</li>
+<li><b>중개사 과실</b> 설명 의무 위반으로 깨지면 보수 청구가 제한됩니다</li>
+</ul>
+
+<p>분쟁이 생기면 한국공인중개사협회나 지자체 부동산 부서에 상담할 수 있습니다.</p>
+
+<blockquote>요율표는 시도 조례로 정해집니다. 지역마다 조금씩 다를 수 있으니 해당 지자체 기준을 보세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>요율은 상한이니 계약 전에 협의하고 계약서에 적으세요. 월세는 환산보증금으로 계산되고 현금영수증은 꼭 받으시면 됩니다.</p>
+
+<p>저는 이게 정찰제인 줄 알고 그냥 냈던 적이 있더라고요... 미리 물어보는 게 전부입니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 중개보수는 시도 조례가 정한 요율 범위 안에서 협의해 정합니다
+ · 조례의 요율은 상한이며 그보다 낮게 정할 수 있습니다
+ · 중개보수는 거래금액에 구간별 요율을 곱해 산정합니다
+ · 낮은 거래금액 구간에는 별도의 한도액이 적용됩니다
+ · 매매와 임대차의 요율표가 다르게 적용됩니다
+ · 월세는 보증금에 월차임의 100배를 더해 거래금액을 계산합니다
+ · 계산 결과가 일정 금액 미만이면 월차임의 70배로 다시 계산합니다
+ · 전세는 보증금이 거래금액이 됩니다
+ · 중개보수는 거래 당사자 양쪽이 각각 지급합니다
+ · 일반과세자인 개업공인중개사는 부가가치세를 별도로 청구합니다
+ · 다른 약정이 없으면 거래가 완료되는 시점에 지급합니다
+ · 공인중개사는 계약 전에 중개대상물 확인설명서를 교부해야 합니다
+ · 중개보수는 현금영수증 의무 발행 업종입니다
+ · 계약이 성립하면 중개보수 청구권이 발생합니다
+ · 중개사의 고의나 과실로 계약이 무효 취소된 경우 보수 청구가 제한됩니다
+ · 분쟁은 한국공인중개사협회와 지자체 부동산 부서에 상담할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 거래금액 구간별 상한 요율과 한도액
+ · 월세 환산 시 70배를 적용하는 기준 금액
+ · 주택 외 오피스텔과 상가의 요율 기준
+ · 지자체별 조례 요율의 차이
+ · 청년 중개보수 지원 사업의 대상과 금액
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 전세 계약을 하면서 처음엔 요율이 고정 금액인 줄 알았는데요"
+ · "계약서 쓸 때 협의가 된다는 걸 알았더라고요"
+ · "저는 이게 정찰제인 줄 알고 그냥 냈던 적이 있더라고요"

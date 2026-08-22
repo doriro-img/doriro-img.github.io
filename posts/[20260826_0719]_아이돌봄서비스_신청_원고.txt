@@ -110,7 +110,7 @@
 <li><b>소득만 보지 않습니다</b> 재산도 함께 반영해 소득인정액으로 판단합니다</li>
 </ul>
 
-<h2>신청 방법과 필요 서류는 무엇인가요?</h2>
+<h2>아이돌봄서비스 신청방법과 필요 서류는 무엇인가요?</h2>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
 

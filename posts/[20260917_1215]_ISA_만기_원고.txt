@@ -1,0 +1,263 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 17일 12:15
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260917_1215]_ISA_만기\
+   ├── 📄 [원고 파일]: [20260917_1215]_ISA_만기_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-maturity.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260917_1215]_ISA_만기_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-maturity.html
+
+■ 제목: ISA 만기 해지 방법과 연금계좌 이체. 만기 전에 종목을 정리해야 하는 이유
+■ 카테고리: 금융 및 생활 경제
+■ 태그: ISA만기, ISA만기해지, ISA만기연장, ISA연금계좌이체, ISA비과세한도, 중개형ISA, 만기일설정, 세액공제, 종목매도
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>ISA 만기 해지 방법과 연금계좌 이체. 만기 전에 종목을 정리해야 하는 이유</p>
+
+<h2>만기에는 현금으로만 나옵니다</h2>
+
+<p>ISA는 만기가 되면 계좌를 정리하고 세금을 정산합니다. 답부터 적으면 보유 종목은 만기 전에 팔아야 합니다. 주식이나 ETF를 들고 있으면 만기 처리가 막히거나 강제로 정리돼요.</p>
+
+<p>저도 만기 안내를 받고 계좌를 열어봤는데요. ETF가 남아 있어서 먼저 정리해야 한다고 나오더라고요.</p>
+
+<p>날짜만 기다리면 되는 게 아니었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">의무 가입 기간이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 기간을 채워야 비과세 혜택이 유지됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">정 리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">종목을 먼저 팔아야 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보유 상품을 현금화해야 만기 처리가 진행됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">정 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">순이익으로 계산합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이익과 손실을 합산한 뒤 비과세 한도를 적용합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12h18" /><path d="M14 5l7 7-7 7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">이 체</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">연금계좌로 옮길 수 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">만기 자금을 연금저축이나 IRP로 넣으면 추가 공제를 받습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>의무 기간</b> 정해진 기간을 채워야 비과세 혜택이 유지됩니다</li>
+<li><b>종목 정리</b> 보유 상품을 현금화해야 만기 처리가 진행됩니다</li>
+<li><b>세금 정산</b> 이익과 손실을 합산한 순이익에 비과세 한도를 적용합니다</li>
+<li><b>연금 이체</b> 만기 자금을 연금계좌로 옮기면 추가 공제를 받습니다</li>
+</ul>
+
+<h2>만기 해지 방법은 어떻게 되나요?</h2>
+
+<p>세 갈래입니다. 상황에 따라 답이 달라져요.</p>
+
+<h3>해지해서 현금으로 받습니다</h3>
+
+<p>세금 정산을 마치고 계좌로 입금됩니다. 돈이 필요하면 이 방법이에요.</p>
+
+<p>해지 후 곧바로 새 ISA를 열 수 있습니다. 비과세 한도가 다시 생깁니다.</p>
+
+<h3>만기를 연장합니다</h3>
+
+<p>계좌를 유지하면서 기간을 늘리는 방식입니다. 그동안 쌓인 손익은 정산되지 않아요.</p>
+
+<p>연장하면 납입 한도가 이어집니다. 굴리던 상품을 그대로 두고 갈 수 있습니다.</p>
+
+<h3>연금계좌로 옮기는 방법도 있습니다</h3>
+
+<p>만기 자금을 연금저축이나 IRP에 넣는 선택입니다. 세금을 한 번 더 아낄 수 있어요.</p>
+
+<p>이 경우에도 현금으로 정산된 뒤 이체됩니다. 종목이 그대로 넘어가지는 않습니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">선택</th>
+      <th style="padding:12px;text-align:left;">장점</th>
+      <th style="padding:12px;text-align:left;">고려할 점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">해지 후 재가입</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">비과세 한도 초기화</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">종목 매도 필요</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">만기 연장</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">종목 유지 가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">한도가 새로 안 생김</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">연금계좌 이체</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">추가 세액공제</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">중도인출 제한</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">방치</td>
+      <td style="padding:12px;">없음</td>
+      <td style="padding:12px;">일반 계좌로 전환될 수 있음</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>해지 후 재가입</b> 비과세 한도가 다시 생기지만 종목을 팔아야 합니다</li>
+<li><b>만기 연장</b> 종목을 그대로 두지만 한도가 새로 생기지는 않습니다</li>
+<li><b>연금계좌 이체</b> 추가 세액공제를 받는 대신 중도인출이 제한됩니다</li>
+</ul>
+
+<blockquote>만기 자금을 연금계좌에 넣으면 이체 금액의 일정 비율에 대해 세액공제를 받습니다. 한도가 따로 있습니다.</blockquote>
+
+<h2>연금계좌로 옮기면 무엇이 좋습니까</h2>
+
+<p>세액공제가 한 번 더 붙습니다. 기존 연금 납입 한도와 별개로 계산돼요.</p>
+
+<p>다만 연금계좌는 55세 이후 연금으로 받는 게 전제입니다. 중간에 빼면 세금이 붙습니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">이체 기한이 정해져 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">만기 후 정해진 기간 안에 연금계좌로 넣어야 공제를 받습니다. 그냥 통장에 두었다가 나중에 옮기면 일반 납입으로 처리됩니다.</p>
+</div>
+
+<h3>일부만 옮겨도 되나요</h3>
+
+<p>전액이 아니어도 됩니다. 필요한 만큼만 넣고 나머지는 쓸 수 있어요.</p>
+
+<p>공제는 옮긴 금액을 기준으로 계산됩니다. 한도를 넘긴 부분은 공제가 안 됩니다.</p>
+
+<h2>중도해지하면 어떻게 됩니까</h2>
+
+<p>의무 기간을 못 채우면 비과세가 사라집니다. 그동안 안 낸 세금을 내야 해요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">일반 계좌처럼 과세됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이자와 배당에 대해 일반 세율로 정산합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M8 12h8" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">예 외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부득이한 사유는 인정됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사망이나 해외 이주 등은 예외로 처리됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">인 출</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">납입 원금은 뺄 수 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">해지하지 않고 원금 범위에서 인출하는 방법이 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>과세 전환</b> 의무 기간을 못 채우면 일반 세율로 정산됩니다</li>
+<li><b>예외</b> 사망이나 해외 이주 등 부득이한 사유는 인정됩니다</li>
+<li><b>중도인출</b> 해지하지 않고 납입 원금 범위에서 뺄 수 있습니다</li>
+</ul>
+
+<p>만기일은 가입할 때 정하고 나중에 바꿀 수 있는 상품도 있습니다. 앱에서 확인해보세요.</p>
+
+<blockquote>손실이 난 종목이 있으면 만기 전에 정리하는 게 유리할 수 있습니다. 손익 통산으로 세금이 줄어듭니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>만기 전에 종목을 현금화하고 해지할지 연장할지 정하세요. 여유가 있으면 연금계좌로 옮겨 공제를 한 번 더 받는 방법이 있습니다.</p>
+
+<p>저는 만기일이 다가오는 것도 모르고 있다가 문자를 받고 알았더라고요... 미리 알림을 걸어두세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · ISA는 의무 가입 기간을 채워야 비과세 혜택이 유지됩니다
+ · 만기 처리를 위해서는 보유 종목을 현금화해야 합니다
+ · 세금은 계좌 내 이익과 손실을 합산한 순이익 기준으로 정산합니다
+ · 비과세 한도를 초과한 순이익에는 분리과세가 적용됩니다
+ · 만기 시 해지, 연장, 연금계좌 이체 중에서 선택할 수 있습니다
+ · 해지 후 재가입하면 비과세 한도가 새로 적용됩니다
+ · 만기를 연장하면 기존 계좌와 상품을 유지할 수 있습니다
+ · 만기 자금을 연금저축이나 IRP로 이체하면 이체 금액의 일정 비율을 세액공제받습니다
+ · 연금계좌 이체 세액공제에는 별도의 한도가 있습니다
+ · 이체는 만기 후 정해진 기간 안에 해야 공제 대상이 됩니다
+ · 전액이 아니라 일부만 이체할 수도 있습니다
+ · 연금계좌는 연금 수령 요건을 충족해야 하며 중도인출 시 세금이 부과됩니다
+ · 의무 기간을 채우지 못하고 해지하면 일반 세율로 과세됩니다
+ · 사망이나 해외 이주 등 부득이한 사유는 예외로 인정됩니다
+ · 해지하지 않고 납입 원금 범위에서 중도인출이 가능합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · ISA 의무 가입 기간의 연수
+ · 서민형과 일반형의 비과세 한도 금액
+ · 초과분에 적용되는 분리과세 세율
+ · 연금계좌 이체 시 세액공제율과 한도 금액
+ · 만기 후 연금계좌 이체가 인정되는 기간
+ · 연간 납입 한도와 총 납입 한도
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 만기 안내를 받고 계좌를 열어봤는데요"
+ · "ETF가 남아 있어서 먼저 정리해야 한다고 나오더라고요"
+ · "저는 만기일이 다가오는 것도 모르고 있다가 문자를 받고 알았더라고요"

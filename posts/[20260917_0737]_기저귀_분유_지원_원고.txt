@@ -1,0 +1,264 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 17일 07:37
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260917_0737]_기저귀_분유_지원\
+   ├── 📄 [원고 파일]: [20260917_0737]_기저귀_분유_지원_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-diaper.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260917_0737]_기저귀_분유_지원_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-diaper.html
+
+■ 제목: 기저귀 분유 지원금 신청 소득 기준과 사용처. 분유 지원으로 넘어가는 조건 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 기저귀분유지원, 기저귀분유지원금, 분유지원금신청, 기저귀바우처, 국민행복카드, 저소득층영아, 조제분유지원, 소득기준, 복지로
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>기저귀 분유 지원금 신청 소득 기준과 사용처. 분유 지원으로 넘어가는 조건 정리</p>
+
+<h2>분유 지원은 조건이 하나 더 붙습니다</h2>
+
+<p>기저귀 분유 지원은 저소득층 영아 가구의 육아 비용을 덜어주는 바우처입니다. 답부터 적으면 기저귀는 소득 기준만 맞으면 되고 분유는 모유 수유가 어려운 사유가 추가로 필요합니다. 두 가지를 같은 조건으로 알면 헷갈려요.</p>
+
+<p>제 지인이 기저귀만 받다가 분유도 되는 걸 뒤늦게 알았는데요. 사유 증빙이 필요하다는 게 차이더라고요.</p>
+
+<p>둘이 한 묶음인 줄 알았다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">소 득</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">기준 중위소득 이하</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기초생활수급과 차상위, 일정 소득 이하 가구가 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">연 령</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">영아기까지 지원합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">아이가 정해진 개월 수를 넘으면 지원이 끝납니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M9 3h6v3l2 3v9a3 3 0 0 1-3 3h-4a3 3 0 0 1-3-3V9l2-3z" /><path d="M8 13h8" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">분 유</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사유가 있어야 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">산모 사망이나 질병 등 모유 수유가 어려운 경우에 지원합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">결 제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">국민행복카드로 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지정된 온오프라인 판매처에서만 결제됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>소득 기준</b> 기초생활수급과 차상위, 일정 소득 이하 가구가 대상입니다</li>
+<li><b>연령</b> 아이가 정해진 개월 수를 넘으면 지원이 끝납니다</li>
+<li><b>분유 지원</b> 모유 수유가 어려운 사유가 확인돼야 합니다</li>
+<li><b>결제</b> 국민행복카드로 지정 판매처에서만 씁니다</li>
+</ul>
+
+<h2>분유 지원 사유는 무엇입니까?</h2>
+
+<p>산모나 아이 쪽 사정을 봅니다. 서류로 증명해야 해요.</p>
+
+<h3>산모 쪽 사유가 대부분입니다</h3>
+
+<p>산모가 사망했거나 중증 질환으로 수유가 어려운 경우입니다. 감염병이나 약물 치료 중인 경우도 포함돼요.</p>
+
+<p>진단서나 소견서가 필요합니다. 담당 의사에게 사유를 적어달라고 요청하면 됩니다.</p>
+
+<h3>아이 쪽 사유도 있습니다</h3>
+
+<p>선천성 대사이상처럼 특수 분유가 필요한 경우가 있습니다. 이때는 별도 지원 제도와도 연결돼요.</p>
+
+<p>입양이나 아동복지시설 보호 아동도 대상입니다. 산모가 함께 있지 않은 상황이니까요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">기저귀</th>
+      <th style="padding:12px;text-align:left;">조제분유</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">소득 요건</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">있음</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">있음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">추가 요건</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">없음</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">수유 곤란 사유</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">증빙</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">소득 서류</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">진단서 소견서</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">지급 방식</td>
+      <td style="padding:12px;">바우처 포인트</td>
+      <td style="padding:12px;">바우처 포인트</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>공통</b> 두 지원 모두 소득 요건을 봅니다</li>
+<li><b>차이</b> 분유는 모유 수유가 어려운 사유와 증빙이 추가로 필요합니다</li>
+<li><b>지급</b> 둘 다 국민행복카드 바우처 포인트로 지급됩니다</li>
+</ul>
+
+<blockquote>기저귀를 받다가 사유가 생기면 분유 지원으로 변경 신청할 수 있습니다. 처음부터 다시 하는 게 아닙니다.</blockquote>
+
+<h2>기저귀 바우처는 어디서 쓸 수 있습니까</h2>
+
+<p>지정된 판매처에서만 결제됩니다. 아무 마트에서나 되는 게 아니에요.</p>
+
+<p>대형 온라인몰과 육아용품 전문몰이 등록돼 있습니다. 오프라인은 지정 매장 목록을 확인해야 합니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">해당 품목만 결제됩니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">기저귀 바우처는 기저귀만, 분유 바우처는 조제분유만 결제됩니다. 장바구니에 다른 물건을 같이 담으면 결제가 막히니 따로 주문하세요.</p>
+</div>
+
+<h3>잔액은 이월되나요</h3>
+
+<p>매달 정해진 금액이 충전됩니다. 그달에 안 쓰면 다음 달로 넘어가지 않아요.</p>
+
+<p>기저귀는 한 번에 많이 사두는 게 낫습니다. 매달 잊지 않고 쓰는 게 관건입니다.</p>
+
+<p>충전일은 매달 정해져 있습니다. 카드사 앱에서 알림을 켜두면 놓치지 않아요.</p>
+
+<p>결제할 때 바우처가 먼저 빠집니다. 부족한 금액만 본인 부담으로 나가니 계산이 편합니다.</p>
+
+<h2>신청은 어떻게 합니까</h2>
+
+<p>주소지 행정복지센터나 복지로에서 합니다. 출생신고와 함께 처리해도 돼요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">서 류</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">소득 증빙과 신분증</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">금융정보 제공 동의서가 함께 필요합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">늦게 신청하면 소급이 없습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신청한 달부터 지원이 시작되는 게 원칙입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">변 동</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">소득이 오르면 중단됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기준을 넘기면 그 시점부터 지원이 멈춥니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>서류</b> 소득 증빙과 신분증, 금융정보 제공 동의서가 필요합니다</li>
+<li><b>신청 시점</b> 신청한 달부터 지원되며 소급 적용이 없습니다</li>
+<li><b>변동</b> 소득이 기준을 넘기면 그 시점부터 지원이 중단됩니다</li>
+</ul>
+
+<p>첫만남이용권이나 부모급여와는 별개입니다. 중복해서 받을 수 있어요.</p>
+
+<p>이미 국민행복카드가 있으면 새로 만들 필요가 없습니다. 그 카드에 바우처가 얹힙니다.</p>
+
+<blockquote>다태아면 아이 수만큼 지원됩니다. 한 명 몫으로 합쳐지지 않습니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>소득 기준에 맞으면 기저귀는 바로 신청됩니다. 분유는 수유가 어려운 사유를 진단서로 증명하면 추가로 받을 수 있어요.</p>
+
+<p>저는 이게 모든 출산 가구에 나오는 줄 알았는데 소득 요건이 있더라고요... 매달 잔액을 꼭 쓰세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 기저귀 조제분유 지원은 저소득층 영아 가구를 대상으로 하는 바우처 사업입니다
+ · 기초생활수급자, 차상위계층, 기준 중위소득 이하 가구가 지원 대상입니다
+ · 아이의 연령 요건이 있으며 정해진 개월 수를 넘으면 지원이 종료됩니다
+ · 기저귀 지원은 소득 요건만 충족하면 신청할 수 있습니다
+ · 조제분유 지원은 모유 수유가 어려운 사유가 추가로 확인돼야 합니다
+ · 산모 사망, 중증 질환, 감염병, 약물 치료 등이 수유 곤란 사유에 해당합니다
+ · 아동이 입양됐거나 아동복지시설 보호 중인 경우도 분유 지원 대상이 됩니다
+ · 사유 증빙으로 진단서나 의사 소견서가 필요합니다
+ · 지원금은 국민행복카드에 바우처 포인트로 지급됩니다
+ · 지정된 온라인몰과 오프라인 판매처에서만 결제할 수 있습니다
+ · 기저귀 바우처는 기저귀만, 분유 바우처는 조제분유만 결제됩니다
+ · 매월 지급되며 그달에 쓰지 않은 잔액은 이월되지 않습니다
+ · 신청은 주소지 행정복지센터와 복지로에서 합니다
+ · 신청한 달부터 지원이 시작되며 소급 적용되지 않습니다
+ · 소득이 기준을 넘으면 그 시점부터 지원이 중단됩니다
+ · 첫만남이용권, 부모급여와 중복해서 받을 수 있습니다
+ · 다태아는 아동 수만큼 지원됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 연도별 월 지원 금액과 기저귀 분유별 단가
+ · 기준 중위소득 대비 선정 비율
+ · 지원 대상 아동의 연령 상한 개월 수
+ · 지정 판매처의 전체 목록
+ · 기저귀에서 분유로 변경 신청할 때의 절차와 처리 기간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "제 지인이 기저귀만 받다가 분유도 되는 걸 뒤늦게 알았는데요"
+ · "사유 증빙이 필요하다는 게 차이더라고요"
+ · "저는 이게 모든 출산 가구에 나오는 줄 알았는데 소득 요건이 있더라고요"
