@@ -137,13 +137,24 @@ for (const f of files) {
     const head = kw.head || [], tail = kw.longtail || [];
     if (head.length + tail.length) {
       if (![...head, ...tail].some((k) => nt.includes(flat(k)))) issues.push('제목에 수집 키워드 없음');
-      // 소제목에는 롱테일을 푼다 (STYLE.md: 제목은 건조하게, 소제목은 질문형으로).
-      // 소제목은 "언제까지 확인해야 하나요?"처럼 풀어 쓰므로 롱테일 전체가 아니라
-      // 씨앗 뒤에 붙은 꼬리말("언제까지")만 비교한다.
-      const subs = flat([...h2, ...h3].join(' '));
+      // 소제목에는 롱테일을 원형 그대로 심는다.
+      //
+      // 예전에는 씨앗을 빼고 꼬리말만 비교했다. 그래서 검색어가 "하이패스 미납요금 조회"인데
+      // 소제목이 "미납요금 조회는 어디서 하나요?"여도 통과했다. 주어가 빠지면 검색어와
+      // 문자열이 안 맞아서 스니펫 후보가 못 된다.
+      // 실측: 8월 27편에서 상위 롱테일 81개 중 원형으로 담긴 건 4개(5%)뿐이었다.
+      //
+      // 다만 전부 넣으면 스터핑이다. 소제목 10개가 전부 "하이패스 ~"로 시작하면 읽기 나쁘다.
+      // 편당 2개를 하한으로 잡고, 지나치게 많으면 그것도 잡는다.
+      // 검색엔진은 구두점을 무시하고 구절을 맞춘다. 검사도 그렇게 해야 한다.
+      // 이게 없으면 "태풍 대비 행동 요령, 지하주차장" 같은 자연스러운 소제목이 반려된다.
+      const flatp = (x) => flat(x).replace(/[^\uAC00-\uD7A3\u3131-\u314Ea-z0-9]/g, '');
+      const subsArr = [...h2, ...h3].map(flatp);
+      const full = tail.filter((k) => flatp(k).length >= 4 && subsArr.some((x) => x.includes(flatp(k))));
+      if (tail.length >= 3 && full.length < 2) issues.push(`소제목 롱테일 원형 ${full.length}개 (2개 이상 필요)`);
       const sd = flat(kw.seeds ? kw.seeds[kw.seeds.length - 1] : '');
-      const tails = tail.map((k) => flat(k).replace(sd, '')).filter((x) => x.length >= 2);
-      if (tails.length >= 3 && !tails.some((x) => subs.includes(x))) issues.push('소제목에 롱테일 없음');
+      const withHead = sd.length >= 2 ? subsArr.filter((x) => x.includes(flatp(sd))).length : 0;
+      if (subsArr.length >= 6 && withHead > subsArr.length * 0.5) issues.push(`소제목 대표층 반복 ${withHead}/${subsArr.length} (스터핑)`);
     }
   }
 

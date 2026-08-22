@@ -361,12 +361,13 @@ function fromLineup(file) {
 
         const V = (k) => (out.get(k) || {}).total ?? null;
         const C = (k) => (out.get(k) || {}).comp ?? '';
+        const D = (k) => (out.get(k) || {}).depth ?? null;
         // 검색량을 1순위로, 자동완성 점수를 동점 처리로 쓴다.
         // 검색량이 없는 건(조회 실패) 뒤로 미루되 버리지는 않는다.
         const byVol = (a, b) => (V(b.k ?? b) ?? -1) - (V(a.k ?? a) ?? -1);
 
         for (const r of result) {
-          r.top = r.top.map((t) => ({ ...t, vol: V(t.k), comp: C(t.k) }))
+          r.top = r.top.map((t) => ({ ...t, vol: V(t.k), comp: C(t.k), depth: D(t.k) }))
             .sort((a, b) => (b.vol ?? -1) - (a.vol ?? -1) || b.v - a.v);
           r.head = r.head.slice().sort(byVol);
           r.longtail = r.longtail.slice().sort(byVol);
@@ -378,6 +379,22 @@ function fromLineup(file) {
           r.frag = (r._frags || []).map((k) => ({ k, vol: V(k) })).filter((x) => x.vol !== null)
             .sort((a, b) => b.vol - a.vol).slice(0, 4);
           delete r._frags;
+          // 검색량을 구간으로 나눈다. 경쟁률(문서수)을 못 재는 상태에서 쓰는 어림값이다.
+          //
+          //   dead  < 1,000        유입이 안 붙는다. 주제를 바꾼다.
+          //   work  1,000~20,000   개인 블로그가 실제로 먹는 구간. 여기 키워드로 소제목을 짠다.
+          //   big   > 20,000       공공기관·언론·대형사이트가 상위를 채운다.
+          //                        제목 앞머리 주제 선언용으로 쓰되 유입은 기대하지 않는다.
+          //
+          // 경계값은 측정이 아니라 어림이다. 문서수 API 를 붙이면 이 구간을 실제 경쟁률로 바꾼다.
+          const vall = r.top.map((t) => t.vol).filter((v) => v !== null);
+          r.band = {
+            dead: vall.filter((v) => v < 1000).length,
+            work: vall.filter((v) => v >= 1000 && v <= 20000).length,
+            big: vall.filter((v) => v > 20000).length,
+          };
+          // 광고가 많이 붙는 키워드는 오가닉 1위를 해도 화면 아래로 밀린다.
+          r.depth = r.top.length ? r.top[0].depth : null;
           const topMax = r.demand ? r.demand.max : 0;
           r.missedHead = r.frag.length && r.frag[0].vol > Math.max(topMax * 3, 3000) ? r.frag[0] : null;
         }
@@ -403,6 +420,7 @@ function fromLineup(file) {
     `  [주제층] ${r.longtail.join(' / ') || '(없음)'}\n` +
     `  [제목후보] ${r.top.slice(0, 6).map((x) => x.k + (x.vol == null ? '(' + x.v + ')' : '(' + x.vol.toLocaleString() + ')')).join(' / ') || '(없음)'}\n` +
     (r.demand ? `  수요     : 최대 ${r.demand.max.toLocaleString()}회/월${r.demand.max < 1000 ? '   ★ 저수요 — 주제를 바꾸는 게 낫습니다' : ''}\n` : '') +
+    (r.band ? `  구간     : 유입권(1천~2만) ${r.band.work}개 · 대형(2만+) ${r.band.big}개 · 사장(1천-) ${r.band.dead}개${r.band.work === 0 ? '   ★ 유입 기대 키워드 없음' : ''}${r.depth >= 3 ? '   [광고 ' + r.depth + '개 — 오가닉이 밀림]' : ''}\n` : '') +
     (r.frag && r.frag.length ? `  씨앗조각 : ${r.frag.map((x) => x.k + '(' + x.vol.toLocaleString() + ')').join(' / ')}\n` : '') +
     (r.missedHead ? `  ★ 대표층 : "${r.missedHead.k}" ${r.missedHead.vol.toLocaleString()}회 — 제목 앞머리에 이 말을 넣으세요\n` : '')
   ).join('\n');
@@ -450,6 +468,12 @@ function fromLineup(file) {
   if (missed.length) {
     console.log(`\n  ★ 대표층 누락 ${missed.length}개 — 씨앗이 좁아서 더 큰 말을 못 봤습니다.`);
     missed.slice(0, 12).forEach((r) => console.log(`      ${String(r.missedHead.vol).padStart(8)}회  "${r.missedHead.k}"   (후보 최대 ${r.demand.max.toLocaleString()})  ← ${r.topic}`));
+  }
+  // 검색량이 커도 전부 대형 구간이면 개인 블로그가 먹을 자리가 없다.
+  const nowork = result.filter((r) => r.band && r.band.work === 0 && r.band.dead + r.band.big > 0);
+  if (nowork.length) {
+    console.log(`\n  · 유입권 키워드 없음 ${nowork.length}개 — 1천~2만 구간이 비었습니다. 롱테일을 더 파세요.`);
+    nowork.slice(0, 10).forEach((r) => console.log(`      ${r.topic}   대형 ${r.band.big} / 사장 ${r.band.dead}`));
   }
   const low = result.filter((r) => r.demand && r.demand.max < 1000).sort((a, b) => a.demand.max - b.demand.max);
   if (low.length) {
