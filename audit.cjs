@@ -45,6 +45,8 @@ const VOICE_WORDS = /아내|연근이|김포|쿠팡|로켓프레시/;
 const FIRST_PERSON = /저는|저도|제가|제 [가-힣]|저희|우리 집|작년에|얼마 전|지난번|해봤|겪었|받아봤|가봤|써봤|물어봤|알아봤|찾아봤|들어봤/;
 
 const tally = {};
+// 문체 분포 — 한 달치를 모아서 본다. 개별 글이 아니라 묶음이 검사 대상이다.
+const voice = [];
 const bump = (k) => { tally[k] = (tally[k] || 0) + 1; };
 
 let files = [], bad = 0, total = 0;
@@ -66,14 +68,22 @@ for (const f of files) {
   const ps = [...prose.matchAll(/^<p>([\s\S]*?)<\/p>/gm)].map((x) => x[1].replace(/<[^>]+>/g, '').trim());
 
   // ── VOICE.md
+  // ★ 문체 지표는 편당 하한을 걸지 않는다.
+  //
+  // 예전엔 "더라고요 2회 미만" 을 반려했다. 그래서 103편 전부가 2회 이상이 됐고
+  // 0인 편이 하나도 없었다 (평균 4.6 · 변동계수 0.33).
+  // 사람이 103편을 쓰면 어떤 글엔 아예 안 나온다. 그 균일성 자체가 기계 생산의 지문이다.
+  // AI 탐지가 찾는 건 어휘가 아니라 부자연스러운 균일성이다.
+  //
+  // 하한 대신 과용만 잡고, 분포는 --full 의 묶음 검사에서 본다.
   const n = (t.match(/더라고요|더라구요/g) || []).length;
-  if (n < 2) issues.push(`더라고요 ${n}회`);
+  if (n > 8) issues.push(`더라고요 ${n}회 (과용)`);
   if (t.includes(BROKEN)) issues.push('인코딩 깨짐');
   if (body.includes('—')) issues.push('본문 줄표');
   if (/[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(body)) issues.push('유니코드 이모지');
   for (const w of BANNED) if (body.includes(w)) issues.push(`금지어:${w.trim()}`);
-  if (!FIRST_PERSON.test(plain)) issues.push('1인칭 경험 없음');
-  if (!/\.\.\.|ㅎㅎ|ㅋㅋ|ㅠㅠ/.test(plain)) issues.push('말줄임표·ㅎㅎ 없음');
+  const hasMe = FIRST_PERSON.test(plain);
+  const hasCasual = /\.\.\.|ㅎㅎ|ㅋㅋ|ㅠㅠ/.test(plain);
   // 혼잣말 반말: 문단의 마지막 문장이 평서형 반말로 끝난다 (존댓말 종결 아님)
   const banmal = ps.slice(1).some((p) => {
     const sents = p.split(/(?<![0-9])[.?!…]+s*/).filter((x) => x.trim());
@@ -82,7 +92,7 @@ for (const f of files) {
     if (isPolite(last)) return false;
     return /(다|지|야|네|군|더라|걸|해|봐)$/.test(last) && !/(까지|부터|마다|에서|으로|까요)$/.test(last);
   });
-  if (!banmal) issues.push('혼잣말 반말 없음');
+  // 하한 없음 — 묶음 분산으로 본다
   // 쉼표로 절 잇기 (연결어미 + 쉼표)
   for (const p of ps) {
     const q = p.replace(/(냉장고|선고|사고|신고|광고|창고|참고|최고|중고|원고|재고|경고|예고|금고|상고|항고), /g, " ");
@@ -175,10 +185,44 @@ for (const f of files) {
     }
   }
 
+  voice.push({ f, dr: n, me: hasMe, banmal: !!banmal, casual: hasCasual });
+
   if (issues.length) {
     bad++;
     issues.forEach((i) => bump(i.replace(/[:：].*|\s\d.*|\d+.*/, '').trim() || i));
     if (!SUM) console.log(`${f}\n    → ${issues.join(' / ')}`);
+  }
+}
+
+// ── 문체 균일성 ───────────────────────────────────────────────────────────
+// 규칙으로 하한을 걸면 모든 글이 하한 근처에 몰린다. 그 균일성이 기계 생산의 증거다.
+// 그래서 개별 글이 아니라 한 달치의 "분포" 를 본다.
+//
+// 실측 2026-08-23 (하한을 걸어놨을 때):
+//   더라고요 평균 4.6 · 변동계수 0.33 · 0인 편 0/103
+//   사람이 쓰면 글마다 들쭉날쭉해서 변동계수 0.6 이상이 나온다.
+if (voice.length >= 20) {
+  const a = voice.map((v) => v.dr);
+  const mean = a.reduce((x, y) => x + y, 0) / a.length;
+  const sd = Math.sqrt(a.reduce((x, y) => x + (y - mean) ** 2, 0) / a.length);
+  const cv = mean ? sd / mean : 0;
+  const pct = (k) => (voice.filter((v) => v[k]).length / voice.length * 100);
+  const warn = [];
+  if (cv < 0.5) warn.push(`더라고요 변동계수 ${cv.toFixed(2)} (0.5 이상이어야 자연스럽다)`);
+  for (const [k, name] of [['me', '1인칭'], ['banmal', '혼잣말 반말'], ['casual', '말줄임표·ㅎㅎ']]) {
+    const p = pct(k);
+    if (p > 92) warn.push(`${name} ${p.toFixed(0)}% (전편에 다 넣지 마세요. 60~85% 가 자연스럽다)`);
+  }
+  if (a.filter((x) => x === 0).length === 0 && voice.length >= 40) {
+    warn.push('더라고요 0회인 편이 하나도 없음 (몇 편은 아예 안 써야 한다)');
+  }
+  console.log('');
+  console.log(`[문체 분포] ${voice.length}편  더라고요 평균 ${mean.toFixed(1)} · 변동계수 ${cv.toFixed(2)} · 0회 ${a.filter((x) => x === 0).length}편`);
+  console.log(`           1인칭 ${pct('me').toFixed(0)}% · 혼잣말 ${pct('banmal').toFixed(0)}% · 말줄임표 ${pct('casual').toFixed(0)}%`);
+  if (warn.length) {
+    console.log('');
+    console.log('  ★ 균일성 경고 — 규칙대로 찍어내면 그 균일함이 지문이 됩니다');
+    warn.forEach((w) => console.log('      ' + w));
   }
 }
 

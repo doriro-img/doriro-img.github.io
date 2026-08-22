@@ -1,0 +1,259 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 26일 18:15
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260926_1815]_길고양이_중성화\
+   ├── 📄 [원고 파일]: [20260926_1815]_길고양이_중성화_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-tnr.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260926_1815]_길고양이_중성화_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-tnr.html
+
+■ 제목: 길고양이 중성화 신청 절차와 귀 표시의 뜻. 지자체 사업으로 진행하는 법
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 길고양이, 길고양이중성화, TNR, 중성화사업, 시군구청, 동물보호, 급식소, 귀커팅, 방사
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>길고양이 중성화 신청 절차와 귀 표시의 뜻. 지자체 사업으로 진행하는 법</p>
+
+<h2>개인이 잡아서 데려가는 게 아닙니다</h2>
+
+<p>동네 고양이가 늘어 걱정되는 분이 많습니다. 답부터 적으면 지자체 사업으로 신청하면 포획과 수술, 방사까지 지정 업체가 맡아서 합니다.</p>
+
+<p>저희 아파트 화단에도 몇 마리가 사는데요. 관리사무소에서 구청에 신청했더니 사람이 나왔더라고요.</p>
+
+<p>직접 잡으면 안 된다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="3" width="16" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">시군구청에 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">위치와 마릿수를 적어 접수합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="12" rx="2" /><path d="M3 10h18M7 6V4M17 6V4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">포획틀로 잡습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지정된 포획 인력이 나와서 진행합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3v18M3 12h18" /><circle cx="12" cy="12" r="9" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">동물병원에서 수술</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지정 병원에서 중성화와 회복을 거칩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 12a8 8 0 0 1 16 0" /><path d="M12 20v-8M8 16l4 4 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">잡은 자리에 놓아줍니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">원래 살던 곳으로 되돌리는 게 원칙입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 시군구청에 위치와 마릿수를 적어 신청합니다</li>
+<li><b>2단계</b> 지정된 인력이 포획틀로 포획합니다</li>
+<li><b>3단계</b> 지정 동물병원에서 수술과 회복을 거칩니다</li>
+<li><b>4단계</b> 포획한 자리에 다시 놓아줍니다</li>
+</ul>
+
+<h2>길고양이 TNR 신청은 어디에 합니까?</h2>
+
+<p>사는 지역의 시군구청이 창구입니다. 동물보호 담당 부서가 맡습니다.</p>
+
+<h3>TNR 신청 방법은 두 갈래입니다</h3>
+
+<p>전화나 방문으로 접수하는 방식이 기본입니다. 홈페이지에 신청 양식을 올려둔 곳도 많아요.</p>
+
+<p>위치를 구체적으로 적을수록 좋습니다. 사진이 있으면 함께 내면 처리가 빨라집니다.</p>
+
+<h3>민원으로도 접수됩니다</h3>
+
+<p>국민신문고나 지자체 민원 창구로도 들어갑니다. 다만 담당 부서로 넘어가는 데 시간이 걸려요.</p>
+
+<p>급식소를 운영하는 캣맘이 있으면 함께 신청하는 게 수월합니다. 고양이 습성을 알아야 포획이 됩니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">항목</th>
+      <th style="padding:12px;text-align:left;">내용</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">비용</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">지자체 예산으로 처리</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">신청자 부담 없음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">표시</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">한쪽 귀 끝을 자름</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">중복 포획 방지</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">제외 대상</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">임신과 수유 중</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">시기를 미룸</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">방사</td>
+      <td style="padding:12px;">포획 장소로 복귀</td>
+      <td style="padding:12px;">다른 곳 이동 금지</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>비용</b> 지자체 예산으로 진행되어 신청자가 내지 않습니다</li>
+<li><b>귀 표시</b> 한쪽 귀 끝을 잘라 수술한 개체임을 표시합니다</li>
+<li><b>방사</b> 원래 잡은 자리로 돌려보내는 것이 원칙입니다</li>
+</ul>
+
+<blockquote>귀 끝이 잘린 고양이는 이미 수술을 마친 개체입니다. 다시 신고할 필요가 없습니다.</blockquote>
+
+<h2>왜 다른 데로 옮기지 않나요</h2>
+
+<p>없애는 게 아니라 늘지 않게 하는 사업이기 때문입니다. 자리를 비우면 다른 고양이가 들어옵니다.</p>
+
+<p>이걸 진공 효과라고 부릅니다. 결국 숫자가 그대로 돌아옵니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">직접 포획하면 문제가 될 수 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">길고양이도 동물보호법의 보호를 받습니다. 개인이 마음대로 잡아 옮기거나 다치게 하면 처벌 대상이 될 수 있습니다. 사업 신청으로 진행하는 게 안전합니다.</p>
+</div>
+
+<h3>울음소리가 줄어듭니다</h3>
+
+<p>발정기 울음과 영역 다툼이 눈에 띄게 잦아듭니다. 민원의 상당 부분이 이 소리예요.</p>
+
+<p>수컷의 스프레이 냄새도 줄어듭니다. 주차장이나 화단 냄새로 힘들었다면 효과를 느낄 수 있습니다.</p>
+
+<h2>수술 뒤에 챙길 것</h2>
+
+<p>방사 직후가 가장 예민한 시기입니다. 며칠은 신경 써주면 좋습니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 8h16l-2 12H6z" /><path d="M8 8V5h8v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">물 과 밥</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가까운 곳에 두기</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">체력 회복에 도움이 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21V8l9-5 9 5v13z" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">은 신 처</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">숨을 곳을 남겨두기</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비바람을 피할 자리가 있어야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">관 찰</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상처를 지켜보기</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">붓거나 벌어지면 담당 부서에 알립니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>물과 밥</b> 가까운 곳에 두면 회복에 도움이 됩니다</li>
+<li><b>은신처</b> 비바람을 피할 자리를 남겨둡니다</li>
+<li><b>관찰</b> 상처가 붓거나 벌어지면 담당 부서에 연락합니다</li>
+</ul>
+
+<p>급식소를 만들 때는 이웃 동의를 먼저 구하는 게 좋습니다. 갈등이 생기면 사업 자체가 어려워집니다.</p>
+
+<p>밥자리는 사람 통행이 적은 곳으로 잡으세요. 남은 사료를 치우는 것도 중요합니다.</p>
+
+<blockquote>겨울 전에 마쳐두면 개체 수 관리가 수월합니다. 지자체 예산은 연초에 배정되는 편입니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>시군구청 동물보호 부서에 신청하면 포획과 수술, 방사까지 진행됩니다. 귀 끝이 잘린 고양이는 이미 마친 개체입니다.</p>
+
+<p>저는 다른 데로 옮겨주는 사업인 줄 알았더라고요... 제자리로 돌려놓는 게 핵심이었습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 길고양이 중성화 사업은 지자체가 예산으로 시행합니다
+ · 신청은 거주지 시군구청 동물보호 담당 부서에서 접수합니다
+ · 전화, 방문, 홈페이지 양식, 민원 창구로 신청할 수 있습니다
+ · 포획은 지정된 인력이 포획틀을 이용해 진행합니다
+ · 수술은 지정 동물병원에서 이뤄집니다
+ · 신청자가 비용을 부담하지 않습니다
+ · 수술한 개체는 한쪽 귀 끝을 잘라 표시합니다
+ · 귀 표시는 중복 포획을 막기 위한 것입니다
+ · 임신 중이거나 수유 중인 개체는 시기를 미룹니다
+ · 방사는 포획한 장소로 되돌리는 것이 원칙입니다
+ · 개체를 다른 지역으로 옮기면 빈자리에 새 개체가 유입됩니다
+ · 중성화 후 발정기 울음과 영역 다툼이 줄어듭니다
+ · 수컷의 스프레이 행동도 감소합니다
+ · 길고양이는 동물보호법의 적용을 받습니다
+ · 개인이 임의로 포획하거나 이동시키면 문제가 될 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 지자체별 연간 사업 물량과 예산 규모
+ · 신청부터 포획까지 걸리는 기간
+ · 수술 가능한 최소 개월령
+ · 임신 개체의 처리 기준
+ · 급식소 설치와 관련된 지자체 규정
+ · 동물보호법 위반 시 처벌 수위
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 아파트 화단에도 몇 마리가 사는데요"
+ · "관리사무소에서 구청에 신청했더니 사람이 나왔더라고요"
+ · "저는 다른 데로 옮겨주는 사업인 줄 알았더라고요"
