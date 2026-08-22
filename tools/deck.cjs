@@ -44,7 +44,9 @@ for (const f of fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym)).sort
     when: one(t, /■ 예약 발행 일시:\s*(.+)/),
     body: b,
     png: fs.existsSync(abs) ? rel : '',
-    pngPath: path.join(DL, folder).replace(/\//g, '\\'),
+    // 폴더가 아니라 파일까지 준다. 업로드 창의 '파일 이름' 칸에 붙여넣으면 바로 선택된다
+    pngPath: abs.replace(/\//g, '\\'),
+    pngName: slug + '.png',
     chars: b.replace(/<[^>]+>/g, '').replace(/https?:\/\/\S+/g, '').replace(/\s/g, '').length,
     blocks: (b.match(/margin\s*:\s*24px\s+0/g) || []).length + (b.match(/<blockquote>/g) || []).length,
     svg: (b.match(/<svg[\s>]/g) || []).length,
@@ -96,9 +98,10 @@ const cards = items.map((it, i) => `
   <div class="thumb">
     ${it.png ? `<img src="${esc(it.png)}" alt="${esc(it.slug)}" />` : '<div class="nopng">PNG 없음</div>'}
     <div class="tpath">
-      <div>대표이미지는 직접 업로드해야 합니다</div>
+      <div><b>${esc(it.pngName)}</b> — 업로드 창의 <b>파일 이름</b> 칸에 붙여넣고 Enter</div>
       <code>${esc(it.pngPath)}</code>
-      <button class="cp mini" data-cp="pngPath" data-i="${i}">경로 복사</button>
+      <button class="cp mini" data-cp="pngPath" data-i="${i}">파일경로 복사</button>
+      <button class="cp mini" data-cp="pngName" data-i="${i}">파일명만</button>
     </div>
   </div>
 
@@ -205,7 +208,7 @@ document.addEventListener('click', (e) => {
     const val = it[cp.dataset.cp];
     Promise.resolve(copy(val)).then((ok) => {
       if (!ok) { say('복사 실패 — 브라우저가 막았습니다'); return; }
-      const label = { title:'제목', tags:'태그', body:'본문 HTML', pngPath:'폴더 경로' }[cp.dataset.cp];
+      const label = { title:'제목', tags:'태그', body:'본문 HTML', pngPath:'파일 전체경로', pngName:'파일명' }[cp.dataset.cp];
       say(label + ' 복사됨' + (cp.dataset.cp === 'body' ? ' (' + it.chars.toLocaleString() + '자)' : ''));
       const t0 = cp.textContent; cp.textContent = '복사됨'; cp.classList.add('done');
       setTimeout(()=>{ cp.textContent = t0; cp.classList.remove('done'); }, 1200);
