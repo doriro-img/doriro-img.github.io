@@ -82,6 +82,25 @@ function ladder(topic) {
 const norm = (s) => s.toLowerCase().replace(/\s+/g, '');
 const onTopic = (k, seed) => norm(k).includes(norm(seed));
 
+// ─ 씨앗 성격 판정 ───────────────────────────────────────────
+// 1층 씨앗이 뱉은 접미어의 성격으로 씨앗을 3분류한다.
+//   정상     : 정보성 접미가 4개 중 1개 이상 → 그대로 간다
+//   구매의도 : 가격·추천·렌탈이 우세 → 정보글로 쇼핑 콘텐츠와 싸워야 한다. 소재 재검토
+//   딴도메인 : 둘 다 낮음 → 씨앗이 엉뚱한 데를 가리킨다 (겨울→겨울왕국, 아파트→드라마)
+//
+// ★ 게이트가 아니라 "눈으로 볼 목록 좁히기"다. 오탐이 적지 않다.
+//   정보성 사전에 없는 도메인 어휘를 쓰는 정상 씨앗도 딴도메인으로 걸린다.
+//   걸린 건 사람이 보고, 진짜 불량이면 라인업에 "씨앗:"을 적어 갈아끼운다.
+const INFO = /신청|조회|기준|대상|방법|자격|한도|계산|기간|서류|조건|지원|금액|세율|공제|해지|환급|납부|신고|절차|요건|제도|지급|수령|가입|변경|취소|확인|나이|시기|얼마|언제|어디|가능|불가|면제|감면|혜택|비용|요금|수수료|기한|연장|증명|발급|등록|폐지|개편|완화|사용|설치|점검|예방|보관|처리|센터|병원|기관|공단|청구|순위|규정|의무|위반|과태료|벌금|보험|급여|수당|바우처|계좌|세탁|관리|교체|수리|주의|위험|사고|화재|증상|효과|차이|비교|뜻/;
+const BUY = /가격|추천|최저가|구매|판매|파는곳|직구|할인|세일|사이즈|용량|대용량|미니|중고|보상판매|렌탈|렌털|리스|매장|쇼핑|배송|후기|브랜드/i;
+
+function verdictOf(list) {
+  if (!list.length) return { v: '무응답', info: 0, buy: 0 };
+  const info = list.filter((k) => INFO.test(k)).length / list.length;
+  const buy = list.filter((k) => BUY.test(k)).length / list.length;
+  return { v: info >= 0.25 ? '정상' : buy >= 0.25 ? '구매의도' : '딴도메인', info, buy };
+}
+
 // 씨앗이 통째로 안 물리면 뒤 어절을 떼며 좁혀 재시도한다.
 // 단 두 소스가 모두 "요청 실패"면 축약하지 않고 실패로 반환한다.
 // 장애를 "안 물림"으로 오진해 엉뚱한 머리 키워드로 내려가는 걸 막는다.
@@ -205,6 +224,9 @@ function fromLineup(file) {
       total: ranked.length,
       dropped,
       failed,
+      // 1층 씨앗이 뱉은 원본으로 판정한다 (필터·점수 반영 전)
+      fit: verdictOf(Object.values(byseed)[0] ? [...Object.values(byseed)[0].naver, ...Object.values(byseed)[0].google] : []),
+      bySeedGiven: !!it.seeds,
     });
     console.log(`${String(i + 1).padStart(3)}/${items.length}  ${it.topic}  [씨앗 ${hits.length}]  ${ranked.length}개  →  ${ranked.slice(0, 4).map((x) => x[0]).join(' | ') || '(응답 없음)'}`);
   }
@@ -236,8 +258,20 @@ function fromLineup(file) {
     `  (네이버 ${net.bySource.naver.ok}/${net.bySource.naver.ok + net.bySource.naver.fail}` +
     ` · 구글 ${net.bySource.google.ok}/${net.bySource.google.ok + net.bySource.google.fail})`);
   if (unfit.length) {
-    console.log(`  ⚠ 씨앗 재선정 필요 ${unfit.length}개 (주제층 3개 미만 = 1층이 일반명사)`);
+    console.log(`  ⚠ 씨앗 재선정 필요 ${unfit.length}개 (주제층 3개 미만)`);
     unfit.forEach((r) => console.log(`      ${r.topic}   [씨앗 ${r.seeds.join(' → ')}]  주제층 ${r.longtail.length}개`));
+  }
+  // 씨앗 성격 3분류 — 게이트가 아니라 눈으로 볼 목록이다. 씨앗을 직접 준 건 판정에서 뺀다.
+  const susp = result.filter((r) => !r.bySeedGiven && (r.fit.v === '구매의도' || r.fit.v === '딴도메인'));
+  if (susp.length) {
+    console.log(`\n  ⚠ 씨앗 성격 점검 권장 ${susp.length}개 / ${result.length}개 (오탐 있음. 보고 판단하세요)`);
+    for (const v of ['구매의도', '딴도메인']) {
+      const g = susp.filter((r) => r.fit.v === v);
+      if (!g.length) continue;
+      const why = v === '구매의도' ? '쇼핑 콘텐츠와 경쟁. 소재 재검토' : '씨앗이 딴 데를 가리킴. 라인업에 "씨앗:" 명시';
+      console.log(`      [${v}] ${g.length}개 — ${why}`);
+      g.forEach((r) => console.log(`         ${r.topic}   [씨앗 ${r.seeds[0]}]  정보 ${(r.fit.info * 100).toFixed(0)}% / 구매 ${(r.fit.buy * 100).toFixed(0)}%`));
+    }
   }
   console.log(`저장: ${OUT}`);
   console.log(`      ${OUT.replace(/\.json$/, '') + '.txt'}`);
