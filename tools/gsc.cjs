@@ -167,27 +167,27 @@ function posts(ym) {
   console.log(`노출 ${imp.toLocaleString()} · 클릭 ${clicks.toLocaleString()} · CTR ${imp ? (clicks / imp * 100).toFixed(2) : '0.00'}%`);
   console.log(`노출된 페이지 ${pages.length}개 · 유입 검색어 ${queries.length}개`);
 
-  // ── 색인·노출 판정 ──────────────────────────────────────────────────────
-  // 발행했는데 GSC 에 한 번도 안 나오면 색인이 안 됐거나 순위가 너무 낮은 것이다.
+  // ── 노출 범위 ───────────────────────────────────────────────────────────
+  //
+  // ★ 원고 파일과 GSC 페이지를 이름으로 대조할 수 없다.
+  //   티스토리 URL 이 숫자다(/126). 제목이 URL 에 안 들어간다.
+  //   예전에 "제목 앞 8자가 검색어에 있는지" 로 맞춰봤는데 성립하지 않는 방법이었다
+  //   (183편 중 1편만 잡혔다. 매칭이 안 되는 게 당연했다).
+  //
+  //   그래서 "몇 편이 노출되는가" 만 세고, 어느 편인지는 URL 로 직접 본다.
   const P = posts(CHECK);
-  if (P.length) {
+  console.log('');
+  console.log('════ 노출 범위 ════');
+  console.log(`  노출된 페이지 ${pages.length}개`);
+  if (P.length) console.log(`  레포의 ${CHECK || '전체'} 원고 ${P.length}편 (실제 발행 수는 티스토리 기준)`);
+
+  // 순위는 잡았는데 클릭이 0 이면 제목이 안 눌린 것이다. 글을 다시 쓸 게 아니라 제목만 고치면 된다.
+  const dead = pages.filter((r) => r.impressions >= 50 && r.clicks === 0);
+  if (dead.length) {
     console.log('');
-    console.log(`════ ${CHECK || '전체'} 원고 ${P.length}편 대조 ════`);
-    const seen = pages.map((r) => decodeURIComponent(r.keys[0]).toLowerCase());
-    const hit = [], miss = [];
-    for (const p of P) {
-      // 제목의 앞 12자가 URL 이나 쿼리에 잡히는지로 본다 (티스토리 URL 이 번호일 수 있다)
-      const head = p.title.replace(/[^가-힣a-z0-9]/gi, '').slice(0, 8).toLowerCase();
-      const q = queries.find((r) => r.keys[0].replace(/\s/g, '').includes(head.slice(0, 5)));
-      if (q) hit.push({ ...p, q }); else miss.push(p);
-    }
-    console.log(`  검색어로 잡힌 편 ${hit.length} · 안 잡힌 편 ${miss.length}`);
-    if (miss.length) {
-      console.log('');
-      console.log('  ★ 노출 기록이 없는 편 — 색인 안 됐거나 순위가 너무 낮습니다');
-      miss.slice(0, 15).forEach((p) => console.log('      ' + p.title.slice(0, 52)));
-      if (miss.length > 15) console.log(`      … 외 ${miss.length - 15}편`);
-    }
+    console.log(`  ★ 노출 50 이상인데 클릭 0 인 페이지 ${dead.length}개 — 제목을 고칠 자리`);
+    dead.sort((a, b) => b.impressions - a.impressions).slice(0, 10).forEach((r) =>
+      console.log(`      노출 ${String(r.impressions).padStart(5)} · ${r.position.toFixed(1)}위   ${decodeURIComponent(r.keys[0])}`));
   }
 
   // ── 순위 분포 ───────────────────────────────────────────────────────────
