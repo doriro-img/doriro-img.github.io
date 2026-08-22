@@ -44,9 +44,36 @@ const HEAVY = /세금|절세|양도세|상속세|증여|종부세|연말정산|�
 const VOICE_WORDS = /아내|연근이|김포|쿠팡|로켓프레시/;
 const FIRST_PERSON = /저는|저도|제가|제 [가-힣]|저희|우리 집|작년에|얼마 전|지난번|해봤|겪었|받아봤|가봤|써봤|물어봤|알아봤|찾아봤|들어봤/;
 
+// ── 화자 설정 ─────────────────────────────────────────────────────────────
+//
+// 이 블로그는 실제 한 사람이 쓴다. 원고가 그 사람과 어긋나면 안 된다.
+//
+//   기혼 남성(남편) · 아내 있음 · 자녀 없음 · 김포 거주 · 서울 출근
+//
+// 설정이 반복되는 건 오염이 아니라 일관성이다.
+// 실측: 김포 6편이 전부 다른 사건이었다 (더위·태풍·층간소음·대출·처가·출근).
+// 잡아야 하는 건 "설정과 모순되는 서술" 이다.
+// 실측 2026-08-23: 107편 중 1건 — 비대면진료 글의 "저희도 연휴에 아이가 아파서".
+// 화자에게 자녀가 없는데 있는 것처럼 읽혔다. 발행 뒤에 발견하면 못 고친다.
+//
+// ★ 화자 설정이 바뀌면(이사·출산 등) 아래를 고치세요. 안 고치면 멀쩡한 문장이 반려됩니다.
+const SPEAKER_CONTRA = [
+  // 여성 화자 어휘 — 화자는 남편이다
+  [/제 남편|우리 남편|저희 남편|남편이 |남편은 |남편도 |신랑/, '화자는 남편이다'],
+  [/시어머니|시아버지|시댁|시부모/, '남성 화자는 장인·장모·처가로 쓴다'],
+  [/제가 임신|제가 출산/, '여성 화자 표현'],
+  // 자녀 — 화자에게 자녀가 없다.
+  // "저희 이웃집 아이" · "조카" · "저희는 아직 아이가 없어서" 는 걸리면 안 되므로
+  // 1인칭과 아이 사이에 제3자·부정어가 끼면 통과시킨다.
+  [/(저희|우리|제)\s*(아이|딸|아들|애기|막내|첫째|둘째)(가|는|를|도|와|랑|한테|에게|\s)/, '화자에게 자녀가 없다'],
+  [/(저희|우리|저)(는|도|가)?(?![^.?!]{0,30}(이웃|옆집|조카|친구|동료|형|누나|언니|처제|처남|없|아직|기다리|생기면|낳으면|태어나면))[^.?!]{0,25}(아이|애)가\s*(아파|다쳐|생겨|커서|학교|어린이집|유치원)/, '화자에게 자녀가 없다'],
+];
+
 const tally = {};
 // 문체 분포 — 한 달치를 모아서 본다. 개별 글이 아니라 묶음이 검사 대상이다.
 const voice = [];
+// 1인칭 경험 문장 — 같은 사건을 우려먹는지 보려고 모은다.
+const episodes = [];
 const bump = (k) => { tally[k] = (tally[k] || 0) + 1; };
 
 let files = [], bad = 0, total = 0;
@@ -83,6 +110,10 @@ for (const f of files) {
   if (/[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u.test(body)) issues.push('유니코드 이모지');
   for (const w of BANNED) if (body.includes(w)) issues.push(`금지어:${w.trim()}`);
   const hasMe = FIRST_PERSON.test(plain);
+  for (const [re, why] of SPEAKER_CONTRA) {
+    const cm = plain.match(re);
+    if (cm) issues.push(`화자 모순:${cm[0].trim()} (${why})`);
+  }
   const hasCasual = /\.\.\.|ㅎㅎ|ㅋㅋ|ㅠㅠ/.test(plain);
   // 혼잣말 반말: 문단의 마지막 문장이 평서형 반말로 끝난다 (존댓말 종결 아님)
   const banmal = ps.slice(1).some((p) => {
@@ -186,6 +217,10 @@ for (const f of files) {
   }
 
   voice.push({ f, dr: n, me: hasMe, banmal: !!banmal, casual: hasCasual });
+  for (const sent of plain.split(/(?<=[.?!])\s+/)) {
+    const x = sent.trim();
+    if (x.length >= 14 && x.length <= 110 && /(저는|제가|저도|저희)/.test(x)) episodes.push({ f, s: x });
+  }
 
   if (issues.length) {
     bad++;
@@ -194,71 +229,36 @@ for (const f of files) {
   }
 }
 
-// ── 화자 배경 ─────────────────────────────────────────────────────────────
-// 고정된 인물·지명을 매달 쓰면 수백 편에서 같은 설정이 반복된다.
-// 실측 2026-08-23: 8월 ∩ 9월 인물 겹침 67% · 지명 겹침 50%.
-//   아내 15편 · 김포 6편 · 이웃 10편.
-// 이번 달과 지난달을 대조해서 겹치면 알린다. 반려하지는 않는다 — 세션이 이미 쓴
-// 79편을 뜯어고치려 들면 그게 더 나쁘다. 다음 달 persona 파일을 다르게 잡으라는 신호다.
-const REL = ['아내', '남편', '어머니', '아버지', '엄마', '아빠', '장인', '장모', '시어머니', '시아버지',
-  '처남', '매형', '사촌', '조카', '삼촌', '이모', '고모', '아들', '딸', '동료', '선배', '후배', '이웃', '옆집'];
-const PLACE = ['김포', '서울', '부산', '인천', '대구', '광주', '대전', '울산', '수원', '성남', '고양', '용인',
-  '청주', '전주', '창원', '제주', '강남', '분당', '일산', '판교', '동탄'];
-
-function personaOf(ym) {
-  const dir = path.join(ROOT, 'posts');
-  if (!fs.existsSync(dir)) return null;
-  const fl = fs.readdirSync(dir).filter((x) => x.startsWith('[' + ym));
-  if (!fl.length) return null;
-  const t = { rel: {}, place: {}, n: fl.length };
-  for (const x of fl) {
-    const raw = fs.readFileSync(path.join(dir, x), 'utf8');
-    const txt = raw.slice(raw.indexOf('<')).replace(/<[^>]+>/g, ' ');
-    for (const w of REL) if (txt.includes(w)) t.rel[w] = (t.rel[w] || 0) + 1;
-    for (const w of PLACE) if (txt.includes(w)) t.place[w] = (t.place[w] || 0) + 1;
-  }
-  return t;
-}
-
-if (voice.length >= 20 && yms.length === 1) {
-  const ym = yms[0];
-  const y = +ym.slice(0, 4), m = +ym.slice(4);
-  const prevYm = String(m === 1 ? y - 1 : y) + String(m === 1 ? 12 : m - 1).padStart(2, '0');
-  const cur = personaOf(ym), prev = personaOf(prevYm);
-  if (cur) {
-    const top = (o, k) => Object.entries(o[k]).sort((x, z) => z[1] - x[1]).slice(0, 4)
-      .map(([w, c]) => `${w} ${c}편`).join(' · ') || '없음';
-    console.log('');
-    console.log(`[화자 배경] 인물 ${top(cur, 'rel')}`);
-    console.log(`           지명 ${top(cur, 'place')}`);
-    if (prev) {
-      const ov = (k) => {
-        const A = Object.keys(cur[k]), B = Object.keys(prev[k]);
-        const inter = A.filter((x) => B.includes(x));
-        const uni = new Set([...A, ...B]).size;
-        return { inter, pct: uni ? inter.length / uni * 100 : 0 };
-      };
-      const r = ov('rel'), p = ov('place');
-      console.log(`           지난달(${prevYm}) 대비 겹침 — 인물 ${r.pct.toFixed(0)}% · 지명 ${p.pct.toFixed(0)}%`);
-      const bad = [];
-      if (r.pct > 40) bad.push(`인물 ${r.pct.toFixed(0)}% [${r.inter.slice(0, 6).join(' · ')}]`);
-      if (p.pct > 40) bad.push(`지명 ${p.pct.toFixed(0)}% [${p.inter.slice(0, 6).join(' · ')}]`);
-      if (bad.length) {
-        console.log('');
-        console.log('  ★ 배경 반복 — 다음 달 tools/persona_YYYYMM.md 를 지난달과 다르게 잡으세요');
-        bad.forEach((b) => console.log('      ' + b));
-      }
+// 같은 에피소드를 우려먹으면 읽는 사람이 먼저 알아챈다.
+// 1인칭 문장끼리 내용어가 많이 겹치면 같은 사건을 다시 쓴 것으로 본다.
+if (episodes.length >= 20) {
+  const key = (t) => new Set((t.match(/[가-힣]{2,}/g) || []).filter((w) => w.length >= 2));
+  const jac = (A, B) => {
+    const inter = [...A].filter((x) => B.has(x)).length;
+    const uni = new Set([...A, ...B]).size;
+    return uni ? inter / uni : 0;
+  };
+  const ks = episodes.map((e) => ({ ...e, k: key(e.s) }));
+  const pairs = [];
+  for (let x = 0; x < ks.length; x++) {
+    for (let y = x + 1; y < ks.length; y++) {
+      if (ks[x].f === ks[y].f) continue;
+      const v = jac(ks[x].k, ks[y].k);
+      if (v >= 0.5) pairs.push({ v, a: ks[x], b: ks[y] });
     }
   }
+  pairs.sort((p, q) => q.v - p.v);
+  if (pairs.length) {
+    console.log('');
+    console.log(`  ★ 에피소드 중복 ${pairs.length}쌍 — 같은 경험을 두 번 쓰지 마세요`);
+    pairs.slice(0, 6).forEach((p) => {
+      console.log(`      겹침 ${(p.v * 100).toFixed(0)}%`);
+      console.log(`        "${p.a.s.slice(0, 58)}"`);
+      console.log(`        "${p.b.s.slice(0, 58)}"`);
+    });
+  }
 }
 
-// ── 문체 균일성 ───────────────────────────────────────────────────────────
-// 규칙으로 하한을 걸면 모든 글이 하한 근처에 몰린다. 그 균일성이 기계 생산의 증거다.
-// 그래서 개별 글이 아니라 한 달치의 "분포" 를 본다.
-//
-// 실측 2026-08-23 (하한을 걸어놨을 때):
-//   더라고요 평균 4.6 · 변동계수 0.33 · 0인 편 0/103
-//   사람이 쓰면 글마다 들쭉날쭉해서 변동계수 0.6 이상이 나온다.
 if (voice.length >= 20) {
   const a = voice.map((v) => v.dr);
   const mean = a.reduce((x, y) => x + y, 0) / a.length;
