@@ -1,0 +1,261 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 15일 12:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260915_1226]_새출발기금\
+   ├── 📄 [원고 파일]: [20260915_1226]_새출발기금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-freshstart.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260915_1226]_새출발기금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-freshstart.html
+
+■ 제목: 새출발기금 조건과 신청 절차. 부실차주와 부실우려차주가 갈리는 지점
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 새출발기금, 새출발기금조건, 새출발기금신청, 새출발기금탕감, 부실차주, 부실우려차주, 소상공인채무조정, 캠코, 원금감면
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>새출발기금 조건과 신청 절차. 부실차주와 부실우려차주가 갈리는 지점</p>
+
+<h2>연체 90일이 갈림길입니다</h2>
+
+<p>새출발기금은 코로나 시기 피해를 본 소상공인과 자영업자의 빚을 조정해주는 제도입니다. 답부터 적으면 연체 90일을 넘겼는지가 지원 내용을 가릅니다. 넘겼으면 원금 감면까지 되고 안 넘겼으면 이자와 기간 조정만 됩니다.</p>
+
+<p>제 지인이 가게를 접으면서 이 제도를 알아봤는데요. 연체 일수에 따라 결과가 이렇게 다른 줄 몰랐다고 하더라고요.</p>
+
+<p>탕감이 되는 사람과 안 되는 사람이 나뉜다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부실차주</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">연체 90일 이상</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">원금 감면과 이자 감면을 함께 적용받을 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부실우려</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">연체 90일 미만</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">원금은 그대로 두고 금리 인하와 기간 연장을 지원합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V8l8-5 8 5v13" /><path d="M9 21v-6h6v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">소상공인과 자영업자</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 기간에 사업을 영위한 개인사업자와 법인 소상공인입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">채 무</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사업자 대출이 대상입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사업 목적 대출이 중심이고 개인 대출은 요건이 다릅니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>부실차주</b> 연체 90일 이상이면 원금 감면까지 적용됩니다</li>
+<li><b>부실우려차주</b> 연체 90일 미만이면 금리 인하와 기간 연장을 받습니다</li>
+<li><b>대상</b> 정해진 기간에 사업을 한 소상공인과 자영업자입니다</li>
+<li><b>채무 범위</b> 사업 목적 대출이 중심입니다</li>
+</ul>
+
+<h2>원금은 얼마나 깎이나요?</h2>
+
+<p>상환 능력을 따져서 정합니다. 무조건 절반을 깎아주는 게 아니에요.</p>
+
+<h3>갚을 수 없다고 판단된 부분만 조정합니다</h3>
+
+<p>소득과 재산을 조사해 갚을 수 있는 금액을 계산합니다. 그 이상은 감면 대상이 돼요.</p>
+
+<p>재산이 있으면 감면 폭이 줄어듭니다. 집이나 차가 있으면 그만큼 상환 능력으로 봅니다.</p>
+
+<h3>기초수급자는 감면 폭이 큽니다</h3>
+
+<p>취약계층은 더 높은 비율로 감면받습니다. 중증장애인과 고령자도 여기 들어가요.</p>
+
+<p>다만 남은 원금은 반드시 갚아야 합니다. 전액 탕감이 되는 제도가 아닙니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">부실차주</th>
+      <th style="padding:12px;text-align:left;">부실우려차주</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">원금</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">일부 감면</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">감면 없음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">이자</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">연체이자 감면</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">금리 인하</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">기간</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">장기 분할</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">거치와 분할</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">신용정보</td>
+      <td style="padding:12px;">등록 해제 지원</td>
+      <td style="padding:12px;">연체 기록 방지</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>원금</b> 부실차주만 감면 대상이고 부실우려차주는 감면이 없습니다</li>
+<li><b>이자와 기간</b> 양쪽 모두 부담을 낮추는 조정을 받습니다</li>
+<li><b>신용정보</b> 조정이 완료되면 연체 기록 정리에 도움이 됩니다</li>
+</ul>
+
+<blockquote>부실우려차주도 신청할 이유가 있습니다. 금리를 낮추고 상환을 미루는 것만으로 숨통이 트입니다.</blockquote>
+
+<h2>신청은 어디서 합니까</h2>
+
+<p>온라인 플랫폼이나 캠코 지역본부, 서민금융통합지원센터에서 받습니다. 방문 상담도 가능해요.</p>
+
+<p>신분증과 사업자등록 관련 서류, 소득 증빙이 필요합니다. 채무 내역은 기관이 직접 조회합니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">브로커에게 수수료를 주지 마세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">신청은 본인이 직접 할 수 있고 별도 대행 수수료가 필요 없습니다. 탕감을 보장한다며 돈을 요구하는 곳은 불법입니다.</p>
+</div>
+
+<h3>신청하면 추심이 멈추나요</h3>
+
+<p>접수되면 채권 금융회사에 통보됩니다. 그때부터 추심이 중지돼요.</p>
+
+<p>다만 심사 결과가 나올 때까지 시간이 걸립니다. 그동안 상황을 성실히 알려두는 게 좋습니다.</p>
+
+<p>모든 채권이 한 번에 조정되지는 않습니다. 협약에 가입하지 않은 기관의 채무는 빠질 수 있어요.</p>
+
+<p>빠진 채무는 따로 처리해야 합니다. 상담할 때 어느 채권이 포함되는지 목록으로 받아두세요.</p>
+
+<h2>조정 후에는 무엇을 지켜야 합니까</h2>
+
+<p>약정한 대로 갚아나가면 됩니다. 밀리면 조정이 취소돼요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">실 효</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">연속으로 밀리면 취소됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 횟수 이상 못 내면 조정 효력이 사라집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">신 용</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신규 대출이 제한됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">조정 기간 중에는 추가 대출과 카드 발급이 어렵습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">완 제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">다 갚으면 정리됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">완제 후에는 관련 기록이 해제되고 재기 지원과 연결됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>실효</b> 정해진 횟수 이상 못 내면 조정 효력이 사라집니다</li>
+<li><b>신용 제한</b> 조정 기간에는 신규 대출과 카드 발급이 어렵습니다</li>
+<li><b>완제</b> 다 갚으면 기록이 해제되고 재기 지원으로 이어집니다</li>
+</ul>
+
+<p>취업이나 재창업을 돕는 프로그램이 함께 연계됩니다. 상담할 때 같이 물어보세요.</p>
+
+<blockquote>신청 접수 기간이 정해져 있습니다. 연장 여부는 발표를 확인해야 합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>연체 90일 이상이면 원금 감면까지, 그 미만이면 금리와 기간 조정을 받습니다. 어느 쪽이든 캠코나 서민금융통합지원센터로 직접 문의하세요.</p>
+
+<p>저는 이런 제도가 완전히 빚을 없애주는 줄 알았는데 그건 아니더라고요... 대행 수수료 요구는 무조건 거르세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 새출발기금은 코로나 피해 소상공인과 자영업자의 채무를 조정하는 제도입니다
+ · 연체 90일 이상이면 부실차주, 90일 미만이면 부실우려차주로 분류됩니다
+ · 부실차주는 원금 감면과 연체이자 감면을 받을 수 있습니다
+ · 부실우려차주는 원금 감면 없이 금리 인하와 상환 기간 연장을 지원받습니다
+ · 원금 감면 폭은 소득과 재산을 조사해 상환 능력을 따져 결정합니다
+ · 기초생활수급자, 중증장애인, 고령자 등 취약계층은 감면 비율이 높습니다
+ · 전액 탕감이 아니며 조정된 원금은 상환해야 합니다
+ · 지원 대상은 정해진 기간에 사업을 영위한 개인사업자와 법인 소상공인입니다
+ · 사업 목적 대출이 조정 대상의 중심입니다
+ · 신청은 온라인 플랫폼과 캠코 지역본부, 서민금융통합지원센터에서 받습니다
+ · 신청에 별도 대행 수수료가 필요하지 않습니다
+ · 접수되면 채권 금융회사에 통보되고 추심이 중지됩니다
+ · 정해진 횟수 이상 변제를 못 하면 조정이 실효됩니다
+ · 조정 기간에는 신규 대출과 신용카드 이용이 제한됩니다
+ · 완제 후 관련 기록이 해제되고 재기 지원 프로그램과 연계됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 원금 감면율의 구간과 취약계층 우대 비율
+ · 지원 대상이 되는 사업 영위 기간의 기준일
+ · 조정 가능한 채무 총액의 상한
+ · 상환 기간과 거치 기간의 최대 연수
+ · 실효 기준이 되는 미납 횟수
+ · 2026년 접수 기간과 연장 여부
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "제 지인이 가게를 접으면서 이 제도를 알아봤는데요"
+ · "연체 일수에 따라 결과가 이렇게 다른 줄 몰랐다고 하더라고요"
+ · "저는 이런 제도가 완전히 빚을 없애주는 줄 알았는데 그건 아니더라고요"

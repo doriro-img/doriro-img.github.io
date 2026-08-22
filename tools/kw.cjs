@@ -332,10 +332,24 @@ function fromLineup(file) {
     const hasKey = fs.existsSync(path.join(__dirname, '..', '.env')) || process.env.NAVER_AD_API_KEY;
     if (advol && hasKey) {
       const pool = new Set();
+      // 씨앗이 좁으면 자동완성은 그 가지만 보여준다. 대표층이 후보에 아예 안 들어온다.
+      //   실측: 씨앗 "태풍 대비 행동요령" → 후보 최대 250회. 그런데 "태풍" 단독은 767만회였다.
+      // 그래서 씨앗을 쪼갠 조각도 같이 잰다. 재보면 알 수 있는 걸 추측하지 않는다.
+      const fragsOf = (r) => {
+        const w = [...new Set([r.topic, ...r.seeds])].join(' ').trim().split(/\s+/).filter((x) => x.length >= 2);
+        const f = new Set();
+        for (let i = 0; i < w.length; i++) {
+          f.add(w[i]);
+          if (i + 1 < w.length) f.add(w[i] + ' ' + w[i + 1]);
+        }
+        return [...f];
+      };
       for (const r of result) {
         for (const t of r.top) pool.add(t.k);
         for (const k of r.head.slice(0, 8)) pool.add(k);
         for (const k of r.longtail.slice(0, 10)) pool.add(k);
+        r._frags = fragsOf(r);
+        for (const k of r._frags) pool.add(k);
       }
       const keys = [...pool];
       console.log(`\n검색량 조회 ${keys.length}개…`);
@@ -360,6 +374,12 @@ function fromLineup(file) {
           r.demand = vols.length
             ? { max: Math.max(...vols), sum: vols.reduce((a, b) => a + b, 0), n: vols.length }
             : null;
+          // 씨앗 조각 중 후보 최대보다 훨씬 큰 게 있으면 대표층을 놓친 것이다.
+          r.frag = (r._frags || []).map((k) => ({ k, vol: V(k) })).filter((x) => x.vol !== null)
+            .sort((a, b) => b.vol - a.vol).slice(0, 4);
+          delete r._frags;
+          const topMax = r.demand ? r.demand.max : 0;
+          r.missedHead = r.frag.length && r.frag[0].vol > Math.max(topMax * 3, 3000) ? r.frag[0] : null;
         }
         volMeta = { queried: keys.length, answered: out.size, errs: errs.length, source: 'naver-searchad' };
         console.log(`검색량 ${out.size}/${keys.length}개 확보 · 호출 ${advol.stat.call} · 실패 ${advol.stat.fail}`);
@@ -382,7 +402,9 @@ function fromLineup(file) {
     `  [대표층] ${r.head.join(' / ') || '(없음)'}\n` +
     `  [주제층] ${r.longtail.join(' / ') || '(없음)'}\n` +
     `  [제목후보] ${r.top.slice(0, 6).map((x) => x.k + (x.vol == null ? '(' + x.v + ')' : '(' + x.vol.toLocaleString() + ')')).join(' / ') || '(없음)'}\n` +
-    (r.demand ? `  수요     : 최대 ${r.demand.max.toLocaleString()}회/월${r.demand.max < 1000 ? '   ★ 저수요 — 주제를 바꾸는 게 낫습니다' : ''}\n` : '')
+    (r.demand ? `  수요     : 최대 ${r.demand.max.toLocaleString()}회/월${r.demand.max < 1000 ? '   ★ 저수요 — 주제를 바꾸는 게 낫습니다' : ''}\n` : '') +
+    (r.frag && r.frag.length ? `  씨앗조각 : ${r.frag.map((x) => x.k + '(' + x.vol.toLocaleString() + ')').join(' / ')}\n` : '') +
+    (r.missedHead ? `  ★ 대표층 : "${r.missedHead.k}" ${r.missedHead.vol.toLocaleString()}회 — 제목 앞머리에 이 말을 넣으세요\n` : '')
   ).join('\n');
   fs.writeFileSync(OUT.replace(/\.json$/, '') + '.txt', txt, 'utf8');
 
@@ -424,6 +446,11 @@ function fromLineup(file) {
     }
   }
   // 검색량이 0 에 가까운 주제는 완벽하게 써도 유입이 0 이다. 쓰기 전에 걸러야 한다.
+  const missed = result.filter((r) => r.missedHead).sort((a, b) => b.missedHead.vol - a.missedHead.vol);
+  if (missed.length) {
+    console.log(`\n  ★ 대표층 누락 ${missed.length}개 — 씨앗이 좁아서 더 큰 말을 못 봤습니다.`);
+    missed.slice(0, 12).forEach((r) => console.log(`      ${String(r.missedHead.vol).padStart(8)}회  "${r.missedHead.k}"   (후보 최대 ${r.demand.max.toLocaleString()})  ← ${r.topic}`));
+  }
   const low = result.filter((r) => r.demand && r.demand.max < 1000).sort((a, b) => a.demand.max - b.demand.max);
   if (low.length) {
     console.log(`\n  ✗ 저수요 ${low.length}개 / ${result.length}개 — 최대 검색량이 월 1,000회 미만입니다. 주제를 교체하세요.`);
