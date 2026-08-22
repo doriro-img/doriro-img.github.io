@@ -1,0 +1,269 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 24일 07:13
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260924_0713]_국가유공자_혜택\
+   ├── 📄 [원고 파일]: [20260924_0713]_국가유공자_혜택_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-veteran.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260924_0713]_국가유공자_혜택_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-veteran.html
+
+■ 제목: 국가유공자 혜택 범위와 가족 승계 기준. 등록 신청부터 확인할 것
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 국가유공자, 국가유공자혜택, 보훈대상, 국가보훈부, 보훈병원, 유공자등록, 가족승계, 보훈보상대상자, 취업지원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국가유공자 혜택 범위와 가족 승계 기준. 등록 신청부터 확인할 것</p>
+
+<h2>등록부터 해야 시작됩니다</h2>
+
+<p>군 복무 중 다쳤다고 자동으로 대상이 되는 게 아닙니다. 답부터 적으면 본인이 국가보훈부에 등록을 신청하고 심사를 통과해야 자격이 생깁니다.</p>
+
+<p>저희 장인어른이 이걸 몇십 년 지나서 신청하셨는데요. 오래된 일이라 자료 모으는 게 제일 힘들었다고 하시더라고요.</p>
+
+<p>신청을 안 하면 아무것도 안 나온다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="3" width="16" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">보훈관서에 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주소지 관할 보훈지청에 등록을 접수합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M20 20l-4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">요건 심사가 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">공무 관련성이 있는지를 자료로 따집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l2.5 5 5.5.8-4 3.9.9 5.5L12 15.6 7.1 18.2l.9-5.5-4-3.9L9.5 8z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신체검사를 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">상이 정도에 따라 등급이 매겨집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">결정 뒤 지원이 시작</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">등록이 되어야 각종 지원을 받을 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 주소지 관할 보훈지청에 등록을 신청합니다</li>
+<li><b>2단계</b> 공무 관련성을 자료로 심사합니다</li>
+<li><b>3단계</b> 신체검사를 거쳐 상이등급이 정해집니다</li>
+<li><b>4단계</b> 등록이 결정된 뒤부터 지원이 시작됩니다</li>
+</ul>
+
+<h2>국가유공자 혜택 범위는 어디까지입니까?</h2>
+
+<p>한 가지가 아니라 여러 갈래로 나뉩니다. 등급과 유형에 따라 받는 것이 달라집니다.</p>
+
+<h3>돈으로 나오는 것</h3>
+
+<p>보상금이 매달 지급됩니다. 등급이 높을수록 금액이 커지는 구조예요.</p>
+
+<p>생활이 어려우면 생활조정수당 같은 별도 항목이 붙습니다. 별도 심사를 거칩니다.</p>
+
+<h3>감면은 자동이 아닙니다</h3>
+
+<p>자동차 취득과 등록에 붙는 세금이 줄어드는 항목이 있습니다. 차를 살 때 미리 챙겨야 해요.</p>
+
+<p>고속도로 통행료와 철도 요금도 감면 대상입니다. 신청을 해야 적용되는 게 대부분입니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">분야</th>
+      <th style="padding:12px;text-align:left;">내용</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">보상</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">매월 보상금</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">등급별 차등</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">의료</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">보훈병원 진료비 감면</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">위탁병원 포함</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">교육</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">본인과 자녀 학자금</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">연령 제한</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">취업</td>
+      <td style="padding:12px;">채용시험 가점</td>
+      <td style="padding:12px;">횟수 제한</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>보상</b> 등급에 따라 매월 보상금이 지급됩니다</li>
+<li><b>의료</b> 보훈병원과 위탁병원에서 진료비를 감면받습니다</li>
+<li><b>교육과 취업</b> 학자금 지원과 채용시험 가점이 있습니다</li>
+</ul>
+
+<blockquote>보훈보상대상자는 국가유공자와 구분되는 별도 유형입니다. 이름이 비슷해도 지원 수준이 다릅니다.</blockquote>
+
+<h2>국가유공자 혜택 병원 이용은 어떻게 됩니까</h2>
+
+<p>보훈병원이 중심입니다. 전국에 몇 곳뿐이라 멀면 불편합니다.</p>
+
+<p>그래서 위탁병원 제도가 있습니다. 집 근처 지정 병의원에서도 감면을 받을 수 있어요.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">감면 폭은 등급과 상이 부위로 갈립니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">모든 진료가 똑같이 감면되지는 않습니다. 인정된 상이 부위인지, 등급이 어떤지에 따라 본인부담이 달라집니다. 가족은 본인보다 감면 폭이 작습니다.</p>
+</div>
+
+<h3>위탁병원은 미리 확인하세요</h3>
+
+<p>아무 병원이나 되는 게 아닙니다. 지정된 곳에서만 적용됩니다.</p>
+
+<p>목록은 국가보훈부에서 확인할 수 있습니다. 이사하면 다시 찾아봐야 하더라고요.</p>
+
+<p>응급으로 일반 병원에 갔다면 감면이 안 됩니다. 나중에 소급해주는 구조가 아니에요.</p>
+
+<h3>보훈심사에 시간이 걸립니다</h3>
+
+<p>자료를 다 냈다고 바로 결정이 나오지 않습니다. 병상일지와 부대 기록을 확인하는 데 시간이 듭니다.</p>
+
+<p>오래된 사안일수록 자료가 남아 있는지가 관건입니다. 진료 기록과 동료 진술을 같이 준비하면 도움이 됩니다.</p>
+
+<p>결과가 아쉬우면 이의신청과 재심사를 넣을 수 있습니다. 기한이 정해져 있으니 통지서를 잘 보세요.</p>
+
+<h2>국가유공자 혜택 승계는 누구까지 갑니까</h2>
+
+<p>가족이 받는 것도 있지만 범위가 정해져 있습니다. 무한정 내려가지 않습니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="9" cy="8" r="3.5" /><circle cx="16" cy="9" r="2.5" /><path d="M3 20c0-3.3 2.7-5 6-5s6 1.7 6 5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">배 우 자</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">선순위 유족입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사망 후 보상금을 이어받는 첫 순위입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 14h6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">자 녀</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">교육과 취업 지원</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">연령과 횟수 제한이 붙는 항목이 많습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">손 자 녀</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">제한적으로만 인정</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">유형과 조건이 맞아야 대상이 됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>배우자</b> 사망 후 보상금을 이어받는 선순위 유족입니다</li>
+<li><b>자녀</b> 교육과 취업 지원이 있으나 연령과 횟수 제한이 붙습니다</li>
+<li><b>손자녀</b> 유형과 조건이 맞는 경우에만 제한적으로 인정됩니다</li>
+</ul>
+
+<p>독립유공자는 후손 지원 범위가 더 넓게 잡혀 있습니다. 유형별로 근거 법이 달라서 그렇습니다.</p>
+
+<blockquote>가족이라도 자동으로 등록되지 않습니다. 유족 등록을 따로 신청해야 지원이 시작됩니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>등록 신청과 심사를 거쳐야 자격이 생깁니다. 그다음에 항목별로 따로 신청해야 실제로 받습니다. 감면은 대부분 자동이 아니에요.</p>
+
+<p>저는 등록만 되면 다 알아서 붙는 줄 알았더라고요... 항목마다 챙겨야 합니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국가유공자 자격은 본인이 국가보훈부에 등록을 신청해 심사를 거쳐야 생깁니다
+ · 신청은 주소지 관할 보훈지청에서 접수합니다
+ · 공무 관련성 심사와 신체검사를 거쳐 상이등급이 결정됩니다
+ · 보상금은 매월 지급되며 등급에 따라 금액이 다릅니다
+ · 생활이 어려운 경우 생활조정수당 등 별도 항목이 있습니다
+ · 보훈병원과 지정 위탁병원에서 진료비를 감면받습니다
+ · 위탁병원은 지정된 곳에서만 감면이 적용됩니다
+ · 가족의 진료비 감면 폭은 본인보다 작습니다
+ · 자동차 취득 및 등록 관련 세금 감면 항목이 있습니다
+ · 고속도로 통행료와 철도 요금 감면은 신청해야 적용됩니다
+ · 본인과 자녀에 대한 학자금 지원이 있으며 연령 제한이 붙습니다
+ · 채용시험 가점은 적용 횟수에 제한이 있습니다
+ · 배우자는 사망 후 보상금을 이어받는 선순위 유족입니다
+ · 손자녀 지원은 유형과 조건이 맞는 경우에만 인정됩니다
+ · 보훈보상대상자는 국가유공자와 구분되는 별도 유형입니다
+ · 유족도 별도로 등록을 신청해야 지원이 시작됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 등급별 월 보상금 금액
+ · 진료비 감면율과 본인부담 비율
+ · 학자금 지원 대상 자녀의 연령 상한
+ · 채용시험 가점 비율과 적용 횟수
+ · 자동차 관련 세금 감면의 한도
+ · 손자녀 승계가 인정되는 구체적 요건
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 장인어른이 이걸 몇십 년 지나서 신청하셨는데요"
+ · "오래된 일이라 자료 모으는 게 제일 힘들었다고 하시더라고요"
+ · "이사하면 다시 찾아봐야 하더라고요"
+ · "저는 등록만 되면 다 알아서 붙는 줄 알았더라고요"
