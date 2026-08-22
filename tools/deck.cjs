@@ -12,6 +12,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { findPng, downloadDir } = require('./paths.cjs');
 const crypto = require('crypto');
 
 const ROOT = path.join(__dirname, '..');
@@ -19,7 +20,7 @@ const POSTS = path.join(ROOT, 'posts');
 const args = process.argv.slice(2);
 const ym = args.find((a) => /^\d{6}$/.test(a));
 if (!ym) { console.error('사용법: node tools/deck.cjs 202608 [--out <경로>]'); process.exit(1); }
-const DL = `C:/Users/park-/Downloads/블로그원고_${ym}`;
+const DL = downloadDir(ym);   // 사용자 홈에서 조립한다. 경로를 박지 않는다
 const OUT = args.indexOf('--out') >= 0 ? args[args.indexOf('--out') + 1] : path.join(DL, '_00_발행보드.html');
 
 const one = (t, re) => ((t.match(re) || [])[1] || '').trim();
@@ -39,7 +40,7 @@ for (const f of fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym)).sort
 
   // 썸네일 HTML 을 고쳐 다시 구웠는데 동기화를 안 하면 다운로드 사본만 낡는다.
   // 업로드하는 건 다운로드 사본이므로 이걸 놓치면 수정 전 이미지가 발행된다.
-  const repoPng = path.join(ROOT, '2026', String(new Date().getMonth() + 1).padStart(2, '0'), slug + '.png');
+  const repoPng = findPng(ROOT, slug);
   const md5 = (p) => (fs.existsSync(p) ? crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex') : '');
   const stale = fs.existsSync(repoPng) && fs.existsSync(abs) && md5(repoPng) !== md5(abs);
 

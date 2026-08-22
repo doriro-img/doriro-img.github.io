@@ -22,18 +22,11 @@ if (!ym) { console.error('사용법: node tools/sync.cjs 202609 [tc-slug…|--al
 const ALL = args.includes('--all');
 const CHECK = args.includes('--check');
 
-// PNG 는 굽던 시점의 월 폴더에 있다. 대상 월이 아니라 실제로 있는 곳을 찾는다.
-function findPng(slug) {
-  const base = path.join(ROOT, '2026');
-  if (!fs.existsSync(base)) return '';
-  for (const d of fs.readdirSync(base).sort().reverse()) {
-    const p = path.join(base, d, slug + '.png');
-    if (fs.existsSync(p)) return p;
-  }
-  return '';
-}
+// PNG 는 굽던 시점의 연·월 폴더에 있다. 대상 월이 아니라 실제로 있는 곳을 찾는다.
+const { findPng: _findPng, downloadDir } = require('./paths.cjs');
+const findPng = (slug) => _findPng(ROOT, slug);
 
-const DL = `C:/Users/park-/Downloads/블로그원고_${ym}`;
+const DL = downloadDir(ym);   // 사용자 홈에서 조립한다. 경로를 박지 않는다
 const md5 = (p) => crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex');
 
 const index = {};

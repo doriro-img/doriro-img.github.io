@@ -1,0 +1,259 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 29일 07:54
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260929_0754]_에너지효율개선사업\
+   ├── 📄 [원고 파일]: [20260929_0754]_에너지효율개선사업_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-energyfix.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260929_0754]_에너지효율개선사업_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-energyfix.html
+
+■ 제목: 에너지효율개선사업 신청 방법과 시공 범위. 겨울 오기 전에 넣어야 하는 이유
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 에너지효율개선사업, 한국에너지재단, 저소득층지원, 단열시공, 보일러교체, 창호교체, 에너지바우처, 주민센터, 냉방지원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>에너지효율개선사업 신청 방법과 시공 범위. 겨울 오기 전에 넣어야 하는 이유</p>
+
+<h2>돈이 아니라 공사로 지원합니다</h2>
+
+<p>난방비를 깎아주는 제도로 알고 계신 분이 많습니다. 답부터 적으면 현금 지원이 아니라 집을 고쳐주는 사업입니다.</p>
+
+<p>저희 동네에도 이 지원으로 창호를 바꾼 집이 있는데요. 겨울에 확실히 덜 춥다고 하시더라고요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="3" width="18" height="18" rx="2" /><path d="M3 9h18M9 9v12" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">단 열</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">벽과 천장을 손봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">열이 빠져나가는 곳을 막는 공사입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="4" width="16" height="16" rx="1.5" /><path d="M12 4v16M4 12h16" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">창 호</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">창문과 문을 바꿉니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">외풍이 심한 집에서 효과가 큽니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3c3 4 6 7 6 10a6 6 0 0 1-12 0c0-3 3-6 6-10z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">보 일 러</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">노후 기기를 교체합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">고효율 제품으로 바꿔주는 항목입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="9" rx="2" /><path d="M7 18h2M15 18h2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">냉 방</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">여름 지원도 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">에어컨 설치가 포함되는 해가 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>단열</b> 벽과 천장에서 열이 빠져나가는 곳을 막습니다</li>
+<li><b>창호</b> 외풍이 심한 집은 창문과 문 교체 효과가 큽니다</li>
+<li><b>보일러</b> 노후 기기를 고효율 제품으로 바꿔줍니다</li>
+<li><b>냉방</b> 에어컨 설치가 포함되는 경우가 있습니다</li>
+</ul>
+
+<h2>에너지효율개선사업 신청은 어디에 합니까?</h2>
+
+<p>주민센터가 기본 창구입니다. 한국에너지재단이 사업을 총괄합니다.</p>
+
+<h3>대상 가구가 정해져 있습니다</h3>
+
+<p>기초생활수급과 차상위계층이 우선입니다. 소득이 낮은 가구를 중심으로 선정합니다.</p>
+
+<p>지자체가 추천하는 취약가구도 포함됩니다. 홀몸 어르신과 장애인 가구가 여기 들어가더라고요.</p>
+
+<h3>집 상태를 보고 정합니다</h3>
+
+<p>신청서를 내면 조사원이 방문해 상태를 살핍니다. 어디를 고칠지는 이때 결정됩니다.</p>
+
+<p>본인이 원하는 항목을 다 해주는 건 아닙니다. 효과가 큰 곳부터 배정하는 구조입니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">단계</th>
+      <th style="padding:12px;text-align:left;">내용</th>
+      <th style="padding:12px;text-align:left;">주체</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">접수</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">신청서 제출</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">주민센터</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">조사</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">주택 상태 확인</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">시공사와 재단</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">선정</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">시공 항목 결정</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">한국에너지재단</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">시공</td>
+      <td style="padding:12px;">공사와 확인</td>
+      <td style="padding:12px;">지정 시공사</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>접수</b> 주민센터에 신청서를 냅니다</li>
+<li><b>조사</b> 방문 조사로 집 상태를 확인합니다</li>
+<li><b>시공</b> 선정된 항목을 지정 시공사가 진행합니다</li>
+</ul>
+
+<blockquote>세입자도 신청할 수 있습니다. 다만 집주인의 동의서가 필요합니다.</blockquote>
+
+<h2>에너지효율개선사업 보일러 교체도 됩니까</h2>
+
+<p>노후 보일러는 주요 항목 중 하나입니다. 오래됐을수록 우선순위가 올라갑니다.</p>
+
+<p>다만 기름보일러를 가스로 바꾸는 것처럼 연료를 바꾸는 공사는 조건이 다릅니다. 배관 여건을 함께 봅니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">예산이 정해져 있어 순서가 밀립니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">신청한다고 모두 그해에 시공되지는 않습니다. 예산 범위 안에서 우선순위대로 배정되고 나머지는 다음 해로 넘어갑니다. 겨울이 닥치기 전에 미리 접수해두는 편이 유리합니다.</p>
+</div>
+
+<h3>에너지효율개선사업 에어컨은 언제 신청합니까</h3>
+
+<p>냉방 지원은 여름 전에 접수를 받습니다. 난방 항목과 시기가 다릅니다.</p>
+
+<p>해마다 포함 여부가 달라집니다. 그해 공고를 확인해야 정확합니다.</p>
+
+<h2>다른 지원과 같이 받을 수 있나요</h2>
+
+<p>겹치는 제도가 있어서 헷갈립니다. 성격을 나눠 보면 정리가 됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="2" y="5" width="20" height="14" rx="2" /><path d="M2 10h20M6 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">바 우 처</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">에너지바우처는 요금</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전기와 가스 요금을 차감하는 제도입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21V8l9-5 9 5v13z" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">개 선 사 업</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이건 시공</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">집을 고쳐서 새는 열을 줄이는 방식입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">중 복</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">함께 받을 수 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">성격이 달라 동시에 이용 가능합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>에너지바우처</b> 전기와 가스 요금을 차감해주는 제도입니다</li>
+<li><b>효율개선사업</b> 집을 고쳐 열이 새는 것을 줄이는 시공입니다</li>
+<li><b>중복</b> 성격이 달라 함께 이용할 수 있습니다</li>
+</ul>
+
+<p>시공 후에는 확인서에 서명하게 됩니다. 마무리가 부실하면 그 자리에서 말해야 합니다.</p>
+
+<p>하자가 생기면 재단이나 시공사에 연락하면 됩니다. 일정 기간 보수를 받을 수 있는 구조입니다.</p>
+
+<blockquote>공사비를 요구하는 연락이 오면 의심하세요. 대상 가구는 본인 부담 없이 시공받는 것이 원칙입니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>주민센터에 신청하면 조사를 거쳐 시공 항목이 정해집니다. 예산 순서로 배정되니 겨울 전에 접수해두는 편이 낫습니다.</p>
+
+<p>현금으로 나오는 게 아니라는 점만 알고 계시면 헷갈릴 일이 없습니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 에너지효율개선사업은 현금 지원이 아니라 주택 시공을 지원하는 사업입니다
+ · 한국에너지재단이 사업을 총괄합니다
+ · 신청은 거주지 주민센터에서 접수합니다
+ · 기초생활수급자와 차상위계층이 우선 대상입니다
+ · 지자체가 추천하는 취약가구도 대상에 포함됩니다
+ · 신청 후 조사원이 방문해 주택 상태를 확인합니다
+ · 시공 항목은 조사 결과에 따라 결정됩니다
+ · 단열, 창호, 보일러 교체 등이 주요 항목입니다
+ · 냉방 지원으로 에어컨 설치가 포함되는 경우가 있습니다
+ · 냉방 지원은 여름 이전에 별도로 접수합니다
+ · 세입자도 집주인 동의서가 있으면 신청할 수 있습니다
+ · 예산 범위 안에서 우선순위에 따라 배정됩니다
+ · 그해에 시공되지 않으면 다음 해로 이월될 수 있습니다
+ · 에너지바우처는 요금을 차감하는 별도 제도입니다
+ · 에너지바우처와 효율개선사업은 함께 이용할 수 있습니다
+ · 대상 가구는 본인 부담 없이 시공받는 것이 원칙입니다
+ · 시공 후 일정 기간 하자 보수를 받을 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 가구당 지원 한도 금액
+ · 연도별 사업 물량과 접수 기간
+ · 냉방 지원 포함 여부와 대상 범위
+ · 연료 전환 공사의 허용 조건
+ · 시공 후 하자 보수 기간
+ · 우선순위 선정 기준의 세부 항목
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 동네에도 이 지원으로 창호를 바꾼 집이 있는데요"
+ · "겨울에 확실히 덜 춥다고 하시더라고요"
+ · "홀몸 어르신과 장애인 가구가 여기 들어가더라고요"

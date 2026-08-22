@@ -1,0 +1,265 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 28일 18:19
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260928_1819]_아파트_하자보수\
+   ├── 📄 [원고 파일]: [20260928_1819]_아파트_하자보수_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-defectfix.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260928_1819]_아파트_하자보수_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-defectfix.html
+
+■ 제목: 아파트 하자보수 기간은 항목마다 다릅니다. 청구 절차와 남길 기록
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 아파트하자보수, 하자보수기간, 하자담보책임, 하자보수보증금, 입주자대표회의, 하자심사분쟁조정위원회, 누수, 신축아파트, 공동주택관리법
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>아파트 하자보수 기간은 항목마다 다릅니다. 청구 절차와 남길 기록</p>
+
+<h2>한 덩어리로 정해져 있지 않습니다</h2>
+
+<p>새 아파트에 문제가 생기면 언제까지 고쳐달라고 할 수 있는지가 관건입니다. 답부터 적으면 공사 항목마다 기간이 따로 정해져 있습니다.</p>
+
+<p>도배와 타일 같은 마감은 짧고 방수와 구조는 훨씬 깁니다. 그래서 어떤 항목으로 분류되는지가 중요합니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="3" width="18" height="18" rx="2" /><path d="M3 9h18M9 9v12" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">마 감 공 사</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">기간이 짧습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">도배와 타일, 도장 같은 항목입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3c3 4 6 7 6 10a6 6 0 0 1-12 0c0-3 3-6 6-10z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방 수</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">길게 잡혀 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">누수와 결로가 여기에 걸립니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21V8l9-5 9 5v13z" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">구 조</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가장 깁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기둥과 내력벽 같은 주요 구조부입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 산 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사용검사일이 기준</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">입주일이 아니라 검사받은 날부터 셉니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>마감공사</b> 도배와 타일, 도장은 기간이 짧게 잡힙니다</li>
+<li><b>방수</b> 누수와 결로 관련 항목은 길게 인정됩니다</li>
+<li><b>구조</b> 기둥과 내력벽 등 주요 구조부가 가장 깁니다</li>
+<li><b>기산점</b> 입주일이 아니라 사용검사일부터 계산합니다</li>
+</ul>
+
+<h2>아파트 하자보수 기간은 어디에 적혀 있습니까?</h2>
+
+<p>공동주택관리법 시행령에 항목별로 표가 있습니다. 관리사무소에서도 안내를 받을 수 있습니다.</p>
+
+<h3>하자보수 기간 기준은 무엇입니까</h3>
+
+<p>세대 안의 하자는 사용검사일부터 셉니다. 공용부는 별도로 관리되지만 기산점은 같습니다.</p>
+
+<p>중간에 소유자가 바뀌어도 기간이 새로 시작되지 않습니다. 매매로 넘겨받았다면 남은 기간만 쓸 수 있습니다.</p>
+
+<h3>누수 하자보수 기간은 길게 잡힙니다</h3>
+
+<p>지붕과 지하, 외벽 방수는 긴 축에 들어갑니다. 아래층으로 물이 새는 경우가 여기에 해당합니다.</p>
+
+<p>다만 원인이 시공 문제인지 사용 문제인지 다툼이 생깁니다. 발견하자마자 사진을 찍어두는 것이 중요합니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">단계</th>
+      <th style="padding:12px;text-align:left;">내용</th>
+      <th style="padding:12px;text-align:left;">창구</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">접수</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">하자 신고서 제출</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">관리사무소</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">통보</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">시공사에 전달</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">입주자대표회의</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">보수</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">기한 내 이행</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">시공사</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">분쟁</td>
+      <td style="padding:12px;">하자 여부 심사</td>
+      <td style="padding:12px;">분쟁조정위원회</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>접수</b> 관리사무소에 하자 신고서를 냅니다</li>
+<li><b>통보</b> 입주자대표회의를 통해 시공사에 전달됩니다</li>
+<li><b>분쟁</b> 다툼이 생기면 하자심사분쟁조정위원회로 갑니다</li>
+</ul>
+
+<blockquote>구두로만 이야기하면 기록이 남지 않습니다. 반드시 서면이나 시스템으로 접수하세요.</blockquote>
+
+<h2>하자보수 기간 지나면 어떻게 됩니까</h2>
+
+<p>청구권이 사라져 시공사가 응하지 않아도 됩니다. 그래서 마지막 해가 되기 전에 점검하는 것이 좋습니다.</p>
+
+<p>다만 기간 안에 접수해둔 건은 그 뒤에 처리돼도 유효합니다. 접수 기록이 남아 있어야 합니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">보증금이 예치되어 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">시공사는 하자보수보증금을 맡겨둡니다. 보수를 이행하지 않으면 이 돈으로 다른 업체에 맡길 수 있습니다. 기간이 끝나면 단계적으로 시공사에 반환되기 때문에, 반환 전에 하자를 정리하는 것이 유리합니다.</p>
+</div>
+
+<h3>세대 안과 공용부를 구분합니다</h3>
+
+<p>세대 내부는 소유자가 직접 접수합니다. 복도와 주차장, 옥상 같은 공용부는 입주자대표회의가 나섭니다.</p>
+
+<p>공용부 문제는 개인이 밀어붙이기 어렵습니다. 관리사무소에 모아서 전달하는 편이 빠릅니다.</p>
+
+<h2>인정이 안 되는 경우</h2>
+
+<p>모든 문제가 하자로 잡히는 것은 아닙니다. 몇 가지는 제외됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">사 용 마 모</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">쓰다 보면 닳는 것</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">자연스러운 노후는 하자로 보지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">임 의 시 공</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">직접 손댄 부분</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">인테리어로 바꾼 곳은 제외될 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">관 리 부 실</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">관리 소홀로 생긴 것</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">환기 부족으로 인한 곰팡이 등이 다퉈집니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>사용 마모</b> 자연스러운 노후는 하자로 인정되지 않습니다</li>
+<li><b>임의 시공</b> 인테리어로 바꾼 부분은 제외될 수 있습니다</li>
+<li><b>관리 부실</b> 사용 방식에서 비롯된 문제는 다툼이 생깁니다</li>
+</ul>
+
+<p>결로와 곰팡이는 특히 원인 다툼이 잦습니다. 창호 시공 문제인지 환기 문제인지가 쟁점입니다.</p>
+
+<p>이럴 때는 전문 기관의 조사 결과가 결정적입니다. 분쟁조정위원회 절차에서 함께 다룹니다.</p>
+
+<h3>보수는 언제까지 해줍니까</h3>
+
+<p>통보를 받은 시공사는 정해진 기간 안에 보수 계획을 세워 알려야 합니다. 실제 공사는 그 계획에 따라 진행됩니다.</p>
+
+<p>약속한 날짜가 지나도 소식이 없으면 다시 서면으로 독촉하세요. 이 기록이 나중에 근거가 됩니다.</p>
+
+<p>같은 하자가 반복되면 재발 사실도 함께 적어두세요. 임시 조치만 하고 넘어간 경우가 드러납니다.</p>
+
+<blockquote>입주 초기 사전점검에서 최대한 잡아내는 게 가장 편합니다. 그때 남긴 목록이 뒤에 근거가 됩니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>항목별로 기간이 다르고 사용검사일부터 계산합니다. 기간이 끝나기 전에 서면으로 접수해두는 것이 핵심입니다.</p>
+
+<p>사진과 접수 기록만 잘 챙겨도 절반은 해결됩니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 아파트 하자담보책임기간은 공사 항목별로 다르게 정해져 있습니다
+ · 항목별 기간은 공동주택관리법 시행령에 규정되어 있습니다
+ · 마감공사에 해당하는 도배, 타일, 도장은 기간이 짧습니다
+ · 방수 공사는 상대적으로 긴 기간이 적용됩니다
+ · 기둥과 내력벽 등 주요 구조부는 가장 긴 기간이 적용됩니다
+ · 기간은 입주일이 아니라 사용검사일부터 기산합니다
+ · 소유자가 변경되어도 기간이 새로 시작되지 않습니다
+ · 세대 내부 하자는 소유자가 관리사무소에 접수합니다
+ · 공용부 하자는 입주자대표회의를 통해 청구합니다
+ · 기간 내에 접수한 건은 이후 처리되어도 유효합니다
+ · 시공사는 하자보수보증금을 예치합니다
+ · 보수를 이행하지 않으면 보증금으로 다른 업체에 맡길 수 있습니다
+ · 보증금은 기간 경과에 따라 단계적으로 반환됩니다
+ · 다툼이 생기면 하자심사분쟁조정위원회에 신청할 수 있습니다
+ · 자연스러운 사용 마모는 하자로 인정되지 않습니다
+ · 입주자가 임의로 시공한 부분은 제외될 수 있습니다
+ · 결로와 곰팡이는 원인에 따라 인정 여부가 갈립니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 항목별 하자담보책임기간의 연수
+ · 하자보수보증금의 예치 비율
+ · 보증금 단계별 반환 시점
+ · 하자 통보 후 시공사의 보수 착수 기한
+ · 분쟁조정 신청 비용과 처리 기간
+ · 사전점검에서 지적한 항목의 처리 기준
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · 이번 글에는 개인 경험을 넣지 않았습니다

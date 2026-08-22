@@ -24,7 +24,7 @@ const yms = args.filter((a) => /^\d{6}$/.test(a));
 if (!yms.length) { console.error('사용법: node audit.cjs 202611 [--full] [--sum]'); process.exit(1); }
 
 const ART = path.join(ROOT, 'art');
-const PNG = path.join(ROOT, '2026', String(new Date().getMonth() + 1).padStart(2, '0'));
+const { findPng, downloadDir } = require('./tools/paths.cjs');
 
 // 자동완성 수집 결과 — tools/kw_<연월>.json 이 있으면 키워드 반영까지 검사한다.
 // 없으면 그 검사만 조용히 건너뛴다 (없다고 실패로 치지 않는다).
@@ -205,8 +205,9 @@ for (const f of files) {
     if (!slug) issues.push('썸네일 slug 없음');
     else {
       if (!fs.existsSync(path.join(ART, slug + '.html'))) issues.push(`art/${slug}.html 없음`);
-      if (!fs.existsSync(path.join(PNG, slug + '.png'))) issues.push(`PNG 없음:${slug}`);
-      const dir = path.join(`C:/Users/park-/Downloads/블로그원고_${ym}`, f.replace(/_원고\.txt$/, ''));
+      // PNG 는 굽던 시점의 연·월 폴더에 있다. 대상 월과 다를 수 있으니 훑어서 찾는다.
+      if (!findPng(ROOT, slug)) issues.push(`PNG 없음:${slug}`);
+      const dir = path.join(downloadDir(ym), f.replace(/_원고\.txt$/, ''));
       if (!fs.existsSync(dir)) issues.push('다운로드 폴더 없음');
       else {
         const got = fs.readdirSync(dir);
