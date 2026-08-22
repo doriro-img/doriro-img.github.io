@@ -12,6 +12,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const ROOT = path.join(__dirname, '..');
 const POSTS = path.join(ROOT, 'posts');
@@ -36,6 +37,12 @@ for (const f of fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym)).sort
   const rel = `./${folder}/${slug}.png`;
   const abs = path.join(DL, folder, slug + '.png');
 
+  // 썸네일 HTML 을 고쳐 다시 구웠는데 동기화를 안 하면 다운로드 사본만 낡는다.
+  // 업로드하는 건 다운로드 사본이므로 이걸 놓치면 수정 전 이미지가 발행된다.
+  const repoPng = path.join(ROOT, '2026', String(new Date().getMonth() + 1).padStart(2, '0'), slug + '.png');
+  const md5 = (p) => (fs.existsSync(p) ? crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex') : '');
+  const stale = fs.existsSync(repoPng) && fs.existsSync(abs) && md5(repoPng) !== md5(abs);
+
   items.push({
     file: f, folder, slug,
     title: one(t, /■ 제목:\s*(.+)/),
@@ -47,6 +54,7 @@ for (const f of fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym)).sort
     // 폴더가 아니라 파일까지 준다. 업로드 창의 '파일 이름' 칸에 붙여넣으면 바로 선택된다
     pngPath: abs.replace(/\//g, '\\'),
     pngName: slug + '.png',
+    stale,
     chars: b.replace(/<[^>]+>/g, '').replace(/https?:\/\/\S+/g, '').replace(/\s/g, '').length,
     blocks: (b.match(/margin\s*:\s*24px\s+0/g) || []).length + (b.match(/<blockquote>/g) || []).length,
     svg: (b.match(/<svg[\s>]/g) || []).length,
@@ -98,6 +106,7 @@ const cards = items.map((it, i) => `
   <div class="thumb">
     ${it.png ? `<img src="${esc(it.png)}" alt="${esc(it.slug)}" />` : '<div class="nopng">PNG 없음</div>'}
     <div class="tpath">
+      ${it.stale ? `<div class="stale">★ 레포 PNG와 다릅니다. <code>node tools/sync08.cjs ${esc(it.slug)}</code> 로 다시 동기화하세요</div>` : ''}
       <div><b>${esc(it.pngName)}</b> — 업로드 창의 <b>파일 이름</b> 칸에 붙여넣고 Enter</div>
       <code>${esc(it.pngPath)}</code>
       <button class="cp mini" data-cp="pngPath" data-i="${i}">파일경로 복사</button>
@@ -149,6 +158,8 @@ const html = `<!doctype html>
   .nopng{width:96px;height:96px;border-radius:8px;background:#fff1f2;color:#be123c;font-size:11px;display:flex;align-items:center;justify-content:center}
   .tpath{font-size:12px;color:#868e96;line-height:1.7}
   .tpath code{display:block;background:#f8f9fa;padding:5px 8px;border-radius:5px;font-size:11px;color:#495057;margin:3px 0;word-break:break-all}
+  .tpath .stale{background:#fff1f2;color:#be123c;font-weight:700;padding:6px 10px;border-radius:6px;margin-bottom:6px}
+  .tpath .stale code{background:#ffe4e6;color:#9f1239;display:inline;padding:2px 5px}
   .toggle{width:100%;border:1px dashed #dee2e6;background:#fff;border-radius:8px;padding:8px;font-size:12px;color:#868e96;cursor:pointer;margin-top:6px}
   .preview{display:none;margin-top:10px}
   .preview.open{display:block}
@@ -277,6 +288,11 @@ fs.mkdirSync(path.dirname(OUT), { recursive: true });
 fs.writeFileSync(OUT, html, 'utf8');
 
 const bad = items.filter((i) => i.blocks < 5 || i.svg === 0 || i.uls < 3 || !i.png);
+const stales = items.filter((i) => i.stale);
 console.log(`${items.length}편 · ${Math.round(fs.statSync(OUT).size / 1024)}KB`);
 if (bad.length) console.log(`  ⚠ 지표 미달 ${bad.length}편: ${bad.map((i) => i.slug).join(', ')}`);
+if (stales.length) {
+  console.log(`  ✗ 다운로드 PNG가 레포와 다름 ${stales.length}편 — 업로드하면 수정 전 이미지가 나갑니다`);
+  console.log(`    node tools/sync${ym.slice(4)}.cjs ${stales.map((i) => i.slug).join(' ')}`);
+}
 console.log('저장:', OUT);
