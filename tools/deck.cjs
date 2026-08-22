@@ -53,6 +53,7 @@ for (const f of fs.readdirSync(POSTS).filter((n) => n.startsWith('[' + ym)).sort
     png: fs.existsSync(abs) ? rel : '',
     // 폴더가 아니라 파일까지 준다. 업로드 창의 '파일 이름' 칸에 붙여넣으면 바로 선택된다
     pngPath: abs.replace(/\//g, '\\'),
+    pngDir: path.join(DL, folder).replace(/\//g, '\\'),
     pngName: slug + '.png',
     stale,
     chars: b.replace(/<[^>]+>/g, '').replace(/https?:\/\/\S+/g, '').replace(/\s/g, '').length,
@@ -107,9 +108,11 @@ const cards = items.map((it, i) => `
     ${it.png ? `<img src="${esc(it.png)}" alt="${esc(it.slug)}" />` : '<div class="nopng">PNG 없음</div>'}
     <div class="tpath">
       ${it.stale ? `<div class="stale">★ 레포 PNG와 다릅니다. <code>node tools/sync.cjs ${ym} ${esc(it.slug)}</code> 로 다시 동기화하세요</div>` : ''}
-      <div><b>${esc(it.pngName)}</b> — 업로드 창의 <b>파일 이름</b> 칸에 붙여넣고 Enter</div>
+      <div><b>${esc(it.pngName)}</b></div>
+      <div class="hint">[열기] 대화상자 맨 아래 <b>파일 이름(N)</b> 칸에 붙여넣고 Enter — 탐색기 주소창이 아닙니다</div>
       <code>${esc(it.pngPath)}</code>
-      <button class="cp mini" data-cp="pngPath" data-i="${i}">파일경로 복사</button>
+      <button class="cp mini" data-cp="pngPath" data-i="${i}">파일경로</button>
+      <button class="cp mini" data-cp="pngDir" data-i="${i}">폴더경로</button>
       <button class="cp mini" data-cp="pngName" data-i="${i}">파일명만</button>
     </div>
   </div>
@@ -158,6 +161,7 @@ const html = `<!doctype html>
   .nopng{width:96px;height:96px;border-radius:8px;background:#fff1f2;color:#be123c;font-size:11px;display:flex;align-items:center;justify-content:center}
   .tpath{font-size:12px;color:#868e96;line-height:1.7}
   .tpath code{display:block;background:#f8f9fa;padding:5px 8px;border-radius:5px;font-size:11px;color:#495057;margin:3px 0;word-break:break-all}
+  .tpath .hint{color:#868e96;font-size:11px;margin:2px 0}
   .tpath .stale{background:#fff1f2;color:#be123c;font-weight:700;padding:6px 10px;border-radius:6px;margin-bottom:6px}
   .tpath .stale code{background:#ffe4e6;color:#9f1239;display:inline;padding:2px 5px}
   .toggle{width:100%;border:1px dashed #dee2e6;background:#fff;border-radius:8px;padding:8px;font-size:12px;color:#868e96;cursor:pointer;margin-top:6px}
@@ -219,7 +223,7 @@ document.addEventListener('click', (e) => {
     const val = it[cp.dataset.cp];
     Promise.resolve(copy(val)).then((ok) => {
       if (!ok) { say('복사 실패 — 브라우저가 막았습니다'); return; }
-      const label = { title:'제목', tags:'태그', body:'본문 HTML', pngPath:'파일 전체경로', pngName:'파일명' }[cp.dataset.cp];
+      const label = { title:'제목', tags:'태그', body:'본문 HTML', pngPath:'파일 전체경로', pngDir:'폴더 경로', pngName:'파일명' }[cp.dataset.cp];
       say(label + ' 복사됨' + (cp.dataset.cp === 'body' ? ' (' + it.chars.toLocaleString() + '자)' : ''));
       const t0 = cp.textContent; cp.textContent = '복사됨'; cp.classList.add('done');
       setTimeout(()=>{ cp.textContent = t0; cp.classList.remove('done'); }, 1200);
