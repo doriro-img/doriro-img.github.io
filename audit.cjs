@@ -99,9 +99,14 @@ for (const f of files) {
   const dup = h2.filter((x, i) => h2.indexOf(x) !== i);
   if (dup.length) issues.push(`h2 중복:${dup[0]}`);
   if (![...h2, ...h3].some((x) => x.includes('?'))) issues.push('소제목 질문형 0개');
-  const cards = (body.match(/margin:24px 0/g) || []).length;
+  // 시각블록 = 도식 래퍼(margin:24px 0) + 인용. 공백 유무에 걸리지 않게 느슨히 잡는다.
+  // 그리드 한 덩어리는 카드가 몇 장이든 도식 1개로 센다 (한눈에 한 장의 인포그래픽이므로).
+  const cards = (body.match(/margin\s*:\s*24px\s+0/g) || []).length;
   const bq = (body.match(/<blockquote>/g) || []).length;
   if (cards + bq < 5) issues.push(`시각블록 ${cards + bq}개`);
+  // STYLE.md: 도식에 글씨만 늘어놓지 않는다. 한눈에 '그림'으로 읽혀야 한다.
+  // 인라인 svg 아이콘이 한 개도 없으면 텍스트 박스만 늘어놓은 것이다.
+  if (cards >= 4 && !/<svg[\s>]/.test(body)) issues.push('도식에 시각요소 없음');
   const uls = (body.match(/<ul>/g) || []).length;
   if (uls < 3) issues.push(`ul요약 ${uls}개`);
   for (const p of ps) {
