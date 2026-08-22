@@ -28,6 +28,9 @@ const ROUNDS = parseInt(val('--rounds', '5'), 10);
 const WIDTH = parseInt(val('--width', '15'), 10);   // 라운드당 힌트 개수
 const MIN = parseInt(val('--min', '2000'), 10);
 const MAX = parseInt(val('--max', '60000'), 10);
+// 이 개월 수 안에 쓴 주제만 막는다. 그보다 오래됐으면 다시 쓸 수 있는 후보다.
+const FRESH = parseInt(val('--fresh', '12'), 10);
+const nowN = (() => { const d = new Date(); return d.getFullYear() * 12 + d.getMonth() + 1; })();
 
 // ★ 씨앗은 사람이 정하지 않는다. 이미 쓴 원고가 이 블로그가 무엇인지를 정의한다.
 //
@@ -82,28 +85,47 @@ const ADMIN = /신청|자격|기준|대상|조건|방법|절차|서류|기간|�
 const flat = (s) => String(s).toLowerCase().replace(/\s+/g, '');
 const norm = (s) => String(s).replace(/\s+/g, '').toUpperCase();
 
+// ★ 중복 차단은 "영구 금지" 가 아니다. 제도는 해마다 바뀐다.
+//   기준액·요율·신청 기간이 달라지면 작년 글은 틀린 글이 되고, 다시 쓰는 게 맞다.
+//   그래서 "언제 썼는지" 를 같이 들고 와서 최근 것만 막는다.
+//
+//   해가 지난 주제를 다시 쓸지 말지는 tools/revisit.cjs 가 판정한다.
+//   ("그 해 연도를 붙인 검색어" 에 수요가 있으면 새 글, 없으면 기존 글 수정)
+//
+// 반환: Map(정규화된 말 → 마지막으로 쓴 YYYYMM)
 function usedTopics() {
-  const u = new Set();
+  const u = new Map();
+  const put = (w, ym) => {
+    const k = flat(w);
+    if (!k) return;
+    if (!u.has(k) || u.get(k) < ym) u.set(k, ym);
+  };
   const T = path.join(ROOT, 'tools');
   if (fs.existsSync(T)) {
     for (const f of fs.readdirSync(T).filter((n) => /^kw_\d{6}\.json$/.test(n))) {
+      const ym = f.slice(3, 9);
       const raw = JSON.parse(fs.readFileSync(path.join(T, f), 'utf8'));
       for (const r of (raw.items || raw)) {
-        if (r.topic) u.add(flat(r.topic));
-        for (const s of (r.seeds || [])) u.add(flat(s));
-        for (const k of (r.top || []).slice(0, 6)) u.add(flat(k.k));
+        if (r.topic) put(r.topic, ym);
+        for (const sd of (r.seeds || [])) put(sd, ym);
+        for (const k of (r.top || []).slice(0, 6)) put(k.k, ym);
       }
     }
   }
-  const P = path.join(ROOT, 'posts');
-  if (fs.existsSync(P)) {
-    for (const f of fs.readdirSync(P)) {
-      const m = f.match(/\]_(.+?)_원고\.txt$/) || f.match(/^\d{4}-\d{2}-\d{2}-(.+)\.txt$/);
-      if (m) u.add(flat(m[1].replace(/_/g, ' ')));
+  const D = path.join(ROOT, 'posts');
+  if (fs.existsSync(D)) {
+    for (const f of fs.readdirSync(D)) {
+      // [20260823_0714]_주제_원고.txt = YYYYMM(6) + DD(2) + _ + HHMM(4)
+      let m = f.match(/^\[(\d{6})\d{2}_\d{4}\]_(.+?)_원고\.txt$/);
+      if (m) { put(m[2].replace(/_/g, ' '), m[1]); continue; }
+      m = f.match(/^(\d{4})-(\d{2})-\d{2}-(.+)\.txt$/);
+      if (m) put(m[3], m[1] + m[2]);
     }
   }
   return u;
 }
+
+const ymNum = (ym) => +ym.slice(0, 4) * 12 + +ym.slice(4);
 
 (async () => {
   const auto = seedsFromPosts();
@@ -170,7 +192,7 @@ function usedTopics() {
   //   미끼 트래픽 전략을 쓰기로 했으므로 CTR 0 인 글도 발행 가치가 있다.
   //   도메인 지수를 올리고 내부 링크로 수익 글에 트래픽을 흘려보낸다.
   //   그래서 CTR·광고수는 거르는 데 안 쓰고 열로만 보여준다.
-  const drop = { 짧음: 0, 제외업종: 0, 볼륨없음: 0, 볼륨밖: 0, 이미씀: 0 };
+  const drop = { 짧음: 0, 제외업종: 0, 볼륨없음: 0, 볼륨밖: 0, 최근에씀: 0 };
   const rows = [];
   for (const r of all.values()) {
     const k = r.keyword;
@@ -179,12 +201,21 @@ function usedTopics() {
     if (!r.total) { drop.볼륨없음++; continue; }
     if (r.total < MIN || r.total > MAX) { drop.볼륨밖++; continue; }
     const f = flat(k);
-    if ([...used].some((u) => u.length >= 3 && (f.includes(u) || u.includes(f)))) { drop.이미씀++; continue; }
+    // 최근에 쓴 것만 막는다. 오래된 건 다시 쓸 수 있으므로 후보로 남긴다.
+    let hitYm = null;
+    for (const [u, ym] of used) {
+      if (u.length < 3) continue;
+      if (!(f.includes(u) || u.includes(f))) continue;
+      if (!hitYm || ym > hitYm) hitYm = ym;
+    }
+    if (hitYm && nowN - ymNum(hitYm) < FRESH) { drop.최근에씀++; continue; }
+    const wasWritten = hitYm || null;
     rows.push({
       ...r,
       red: RED.test(k),
       admin: ADMIN.test(k),
       // 유입 = 검색량. 아무리 커도 개인 블로그가 다 먹지는 못하므로 3만에서 자른다
+      wasWritten,
       inflow: Math.min(r.total, 30000),
       // 수익 = 검색량 x 광고 클릭 성향. 0 이어도 미끼로 쓴다
       money: Math.round(r.total * (r.ctr || 0)),
@@ -205,7 +236,7 @@ function usedTopics() {
 
   const B = '`';
   const tbl = (a) => a.map((r) =>
-    `| ${r.keyword} | ${r.total.toLocaleString()} | ${r.ctr.toFixed(1)}% | ${r.depth} | ${Math.round(r.score).toLocaleString()} | ${r.round} |`).join('\n');
+    `| ${r.keyword} | ${r.total.toLocaleString()} | ${r.ctr == null ? '-' : r.ctr.toFixed(1) + '%'} | ${r.depth ?? '-'} | ${r.money.toLocaleString()} | ${r.round} | ${r.wasWritten ? r.wasWritten + ' 재방문' : '신규'} |`).join('\n');
 
   const md = `# 주제 후보 — 검색 수요 그래프에서 캐낸 것
 
@@ -254,8 +285,8 @@ ${B}장애인 활동지원${B} 19,680 이 서비스를 받으려는 사람입니
 
 여기서 먼저 고르세요. 신청·자격·과태료·환급처럼 절차를 묻는 말이 들어간 것들입니다.
 
-| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
-|---|---|---|---|---|---|
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round | 이력 |
+|---|---|---|---|---|---|---|
 ${tbl(blue)}
 
 ## 레드오션 ${red.length}개 — 권하지 않음
@@ -263,8 +294,8 @@ ${tbl(blue)}
 대출·보험·증권은 CTR 이 높지만 그건 광고주가 최대치로 붙었다는 뜻입니다.
 구글이 YMYL 로 분류해 개인 블로그에 상위를 거의 안 줍니다. 애드센스 정책 제한도 있습니다.
 
-| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
-|---|---|---|---|---|---|
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round | 이력 |
+|---|---|---|---|---|---|---|
 ${tbl(red)}
 
 ## 판단 필요 ${etc.length}개 — 신호가 없어서 못 가른 것
@@ -276,8 +307,8 @@ ${tbl(red)}
 예전에 이 구분을 하드 필터로 썼다가 5,175개 중 3,138개를 죽였고
 그중 129개가 실제로 정보성이었습니다. 그래서 거르지 않고 나누기만 합니다.
 
-| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round |
-|---|---|---|---|---|---|
+| 키워드 | 월 검색량 | 광고 CTR | 광고 수 | 수익점수 | round | 이력 |
+|---|---|---|---|---|---|---|
 ${tbl(etc)}
 `;
 

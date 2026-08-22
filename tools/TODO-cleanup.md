@@ -258,7 +258,8 @@ node tools/kw.cjs --lineup <파일> --out tools/kw_YYYYMM.json
 node audit.cjs YYYYMM --full
 node tools/artcheck.cjs --posts YYYYMM
 node tools/sync.cjs YYYYMM [--all|--check]
-node tools/discover.cjs --out tools/cand_YYYYMM.md   주제 후보 발굴 (라인업 전)
+node tools/revisit.cjs  --out tools/revisit_YYYYMM.md 재방문 판정 (연 1회 갱신 주제)
+node tools/discover.cjs --out tools/cand_YYYYMM.md    주제 후보 발굴 (라인업 전)
 node tools/deck.cjs YYYYMM
 ```
 
@@ -278,4 +279,9 @@ compIdx 는 광고주 경쟁률이지 SEO 경쟁률이 아니다
 
 CTR 은 총클릭 / 총검색이다
    PC CTR + 모바일 CTR 을 더하면 이중계산 (자동차보험이 13% 로 나왔다. 실제 5.77%)
+
+연도 접두 수요는 주제마다 갈린다
+   자녀장려금 → 2026 자녀장려금 100,190  (연 1회 신청 제도)
+   국민연금   → 2026 국민연금       100  (상시 제도)
+   전자는 매년 새 글, 후자는 기존 글 수정이 맞다
 ```
