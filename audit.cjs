@@ -194,6 +194,64 @@ for (const f of files) {
   }
 }
 
+// ── 화자 배경 ─────────────────────────────────────────────────────────────
+// 고정된 인물·지명을 매달 쓰면 수백 편에서 같은 설정이 반복된다.
+// 실측 2026-08-23: 8월 ∩ 9월 인물 겹침 67% · 지명 겹침 50%.
+//   아내 15편 · 김포 6편 · 이웃 10편.
+// 이번 달과 지난달을 대조해서 겹치면 알린다. 반려하지는 않는다 — 세션이 이미 쓴
+// 79편을 뜯어고치려 들면 그게 더 나쁘다. 다음 달 persona 파일을 다르게 잡으라는 신호다.
+const REL = ['아내', '남편', '어머니', '아버지', '엄마', '아빠', '장인', '장모', '시어머니', '시아버지',
+  '처남', '매형', '사촌', '조카', '삼촌', '이모', '고모', '아들', '딸', '동료', '선배', '후배', '이웃', '옆집'];
+const PLACE = ['김포', '서울', '부산', '인천', '대구', '광주', '대전', '울산', '수원', '성남', '고양', '용인',
+  '청주', '전주', '창원', '제주', '강남', '분당', '일산', '판교', '동탄'];
+
+function personaOf(ym) {
+  const dir = path.join(ROOT, 'posts');
+  if (!fs.existsSync(dir)) return null;
+  const fl = fs.readdirSync(dir).filter((x) => x.startsWith('[' + ym));
+  if (!fl.length) return null;
+  const t = { rel: {}, place: {}, n: fl.length };
+  for (const x of fl) {
+    const raw = fs.readFileSync(path.join(dir, x), 'utf8');
+    const txt = raw.slice(raw.indexOf('<')).replace(/<[^>]+>/g, ' ');
+    for (const w of REL) if (txt.includes(w)) t.rel[w] = (t.rel[w] || 0) + 1;
+    for (const w of PLACE) if (txt.includes(w)) t.place[w] = (t.place[w] || 0) + 1;
+  }
+  return t;
+}
+
+if (voice.length >= 20 && yms.length === 1) {
+  const ym = yms[0];
+  const y = +ym.slice(0, 4), m = +ym.slice(4);
+  const prevYm = String(m === 1 ? y - 1 : y) + String(m === 1 ? 12 : m - 1).padStart(2, '0');
+  const cur = personaOf(ym), prev = personaOf(prevYm);
+  if (cur) {
+    const top = (o, k) => Object.entries(o[k]).sort((x, z) => z[1] - x[1]).slice(0, 4)
+      .map(([w, c]) => `${w} ${c}편`).join(' · ') || '없음';
+    console.log('');
+    console.log(`[화자 배경] 인물 ${top(cur, 'rel')}`);
+    console.log(`           지명 ${top(cur, 'place')}`);
+    if (prev) {
+      const ov = (k) => {
+        const A = Object.keys(cur[k]), B = Object.keys(prev[k]);
+        const inter = A.filter((x) => B.includes(x));
+        const uni = new Set([...A, ...B]).size;
+        return { inter, pct: uni ? inter.length / uni * 100 : 0 };
+      };
+      const r = ov('rel'), p = ov('place');
+      console.log(`           지난달(${prevYm}) 대비 겹침 — 인물 ${r.pct.toFixed(0)}% · 지명 ${p.pct.toFixed(0)}%`);
+      const bad = [];
+      if (r.pct > 40) bad.push(`인물 ${r.pct.toFixed(0)}% [${r.inter.slice(0, 6).join(' · ')}]`);
+      if (p.pct > 40) bad.push(`지명 ${p.pct.toFixed(0)}% [${p.inter.slice(0, 6).join(' · ')}]`);
+      if (bad.length) {
+        console.log('');
+        console.log('  ★ 배경 반복 — 다음 달 tools/persona_YYYYMM.md 를 지난달과 다르게 잡으세요');
+        bad.forEach((b) => console.log('      ' + b));
+      }
+    }
+  }
+}
+
 // ── 문체 균일성 ───────────────────────────────────────────────────────────
 // 규칙으로 하한을 걸면 모든 글이 하한 근처에 몰린다. 그 균일성이 기계 생산의 증거다.
 // 그래서 개별 글이 아니라 한 달치의 "분포" 를 본다.

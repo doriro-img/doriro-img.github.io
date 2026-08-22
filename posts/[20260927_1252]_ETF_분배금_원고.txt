@@ -1,0 +1,287 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 27일 12:52
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260927_1252]_ETF_분배금\
+   ├── 📄 [원고 파일]: [20260927_1252]_ETF_분배금_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-etftax.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260927_1252]_ETF_분배금_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-etftax.html
+
+■ 제목: ETF 분배금 세금은 어디서 갈리나. 국내와 해외 상품의 과세 구조 차이
+■ 카테고리: 금융 및 생활 경제
+■ 태그: ETF, ETF분배금, 분배금세금, 배당소득세, 해외ETF, 커버드콜, ISA계좌, 연금계좌, 금융소득종합과세
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>ETF 분배금 세금은 어디서 갈리나. 국내와 해외 상품의 과세 구조 차이</p>
+
+<h2>분배금은 배당처럼 취급됩니다</h2>
+
+<p>ETF가 담고 있는 주식에서 배당이 나오면 그걸 모아 투자자에게 나눠줍니다. 답부터 적으면 이 돈은 배당소득으로 잡혀서 세금이 붙습니다.</p>
+
+<p>저도 처음에 분배금이 그냥 공짜로 늘어나는 줄 알았습니다. 통장에 찍힌 금액이 안내된 금액보다 적어서 그때 알았어요.</p>
+
+<p>세금은 이미 떼고 들어온다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">분 배 금</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">배당소득으로 과세</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지급될 때 원천징수하고 나머지가 입금됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">매 매 차 익</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상품마다 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">국내 주식형은 비과세이고 나머지는 과세됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 3" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">종 합 과 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">합계가 넘으면 합산</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이자와 배당을 더해 기준을 넘으면 신고 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7z" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">계 좌</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">어디에 담느냐가 큽니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">절세 계좌에 넣으면 과세 시점이 달라집니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>분배금</b> 배당소득으로 원천징수된 뒤 입금됩니다</li>
+<li><b>매매차익</b> 국내 주식형은 비과세이고 그 외는 과세됩니다</li>
+<li><b>종합과세</b> 이자와 배당의 합계가 기준을 넘으면 합산됩니다</li>
+<li><b>계좌</b> 절세 계좌를 쓰면 과세 방식이 달라집니다</li>
+</ul>
+
+<h2>국내 ETF 분배금 세금은 어떻게 붙습니까?</h2>
+
+<p>일반 증권 계좌에서 받으면 자동으로 처리됩니다. 따로 신고할 일이 없습니다.</p>
+
+<h3>자동으로 떼고 들어옵니다</h3>
+
+<p>증권사가 원천징수한 뒤 남은 금액이 계좌에 들어옵니다. 그래서 안내된 분배금과 실제 입금액이 다릅니다.</p>
+
+<p>거래내역에서 세액이 얼마인지 확인할 수 있습니다. 연말에 한 해치를 모아서 보면 됩니다.</p>
+
+<h3>매매차익과는 다릅니다</h3>
+
+<p>국내 주식형 ETF는 팔아서 남긴 차익에 세금이 없습니다. 분배금만 과세 대상입니다.</p>
+
+<p>반면 채권형과 파생형은 매매차익에도 세금이 붙습니다. 같은 국내 상장이어도 성격에 따라 갈립니다.</p>
+
+<p>그래서 상품 설명서의 과세 구분을 먼저 보는 습관이 필요합니다. 이름만 봐서는 알기 어렵습니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">분배금</th>
+      <th style="padding:12px;text-align:left;">매매차익</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">국내 주식형</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">배당소득세</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">비과세</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">국내 기타형</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">배당소득세</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">배당소득세</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">해외 상장</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">현지 원천징수</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">양도소득세 신고</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">절세 계좌</td>
+      <td style="padding:12px;">과세 이연 또는 저율</td>
+      <td style="padding:12px;">계좌 규정에 따름</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>국내 주식형</b> 분배금만 과세되고 매매차익은 비과세입니다</li>
+<li><b>국내 기타형</b> 분배금과 매매차익 모두 배당소득으로 과세됩니다</li>
+<li><b>해외 상장</b> 분배금은 현지에서, 매매차익은 양도소득으로 신고합니다</li>
+</ul>
+
+<blockquote>국내에 상장된 해외 지수 ETF와 해외 거래소에 상장된 ETF는 과세 방식이 다릅니다. 이름이 비슷해도 구분해야 합니다.</blockquote>
+
+<h2>해외 ETF 분배금 세금은 왜 다릅니까</h2>
+
+<p>돈이 나오는 나라에서 먼저 떼기 때문입니다. 그다음에 국내에서 정산합니다.</p>
+
+<p>이중과세를 막는 장치가 있어서 이미 낸 만큼은 공제받습니다. 다만 계산이 자동으로 끝나지는 않습니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">매매차익은 스스로 신고해야 합니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">해외 거래소에 상장된 ETF를 팔아 이익이 났다면 다음 해에 양도소득세를 직접 신고합니다. 증권사가 대신 떼주지 않기 때문에 놓치기 쉽습니다. 손실이 난 종목과 합쳐서 계산할 수 있으니 한 해 거래를 모아서 봐야 합니다.</p>
+</div>
+
+<h3>현지에서 먼저 뗍니다</h3>
+
+<p>미국 상장 상품이면 미국에서 배당세를 원천징수합니다. 그 뒤 남은 금액이 계좌에 들어옵니다.</p>
+
+<p>세율은 나라마다 다르고 조세조약에 따라 달라집니다. 증권사 안내문에 적용된 세율이 적혀 있습니다.</p>
+
+<h2>절세 계좌를 쓰면 달라집니다</h2>
+
+<p>같은 상품이어도 담는 그릇에 따라 결과가 바뀝니다. 이 차이가 생각보다 큽니다.</p>
+
+<h3>ISA 분배금 세금은 어떻게 됩니까</h3>
+
+<p>계좌 안에서는 세금을 떼지 않고 만기에 한 번에 정산합니다. 이익과 손실을 합쳐서 계산해요.</p>
+
+<p>일정 금액까지는 비과세이고 넘는 부분은 낮은 세율로 분리과세됩니다. 그래서 배당이 많이 나오는 상품과 잘 맞습니다.</p>
+
+<p>다만 의무 가입 기간이 있습니다. 중간에 깨면 혜택이 사라집니다.</p>
+
+<h3>커버드콜 분배금 세금이 복잡한 이유</h3>
+
+<p>옵션을 팔아 받은 프리미엄까지 재원으로 씁니다. 그래서 분배 재원의 성격이 섞입니다.</p>
+
+<p>원금에서 나눠주는 부분은 과세 대상이 아닙니다. 이 비율이 상품마다 다르게 잡힙니다.</p>
+
+<p>운용사가 공시하는 자료에 과세 재원 구분이 나옵니다. 실제 세후 수익률은 그걸 봐야 알 수 있습니다.</p>
+
+<h2>연말에 챙길 것</h2>
+
+<p>한 해 동안 받은 금액을 모아서 봐야 합니다. 계좌가 여러 개면 특히 그렇습니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">합 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">계좌를 모두 더합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">증권사별로 따로 보면 기준을 놓칩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시 기</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">지급일을 봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">언제 받았느냐로 귀속 연도가 갈립니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">건 강 보 험</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">보험료로 이어집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지역가입자는 소득에 반영될 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>합산</b> 여러 증권사 계좌의 배당을 모두 더해서 봐야 합니다</li>
+<li><b>귀속 시기</b> 실제 지급일 기준으로 연도가 나뉩니다</li>
+<li><b>건강보험</b> 지역가입자는 보험료 산정에 반영될 수 있습니다</li>
+</ul>
+
+<p>피부양자로 등록된 분은 특히 주의가 필요합니다. 소득이 일정 수준을 넘으면 자격이 흔들립니다.</p>
+
+<p>분배금이 많이 나오는 상품만 모으면 이 문제가 커집니다. 전체 자산 구성에서 균형을 보는 게 낫습니다.</p>
+
+<blockquote>세후 기준으로 비교해야 실제 수익이 보입니다. 표면 분배율만으로 상품을 고르면 착시가 생깁니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>분배금은 배당소득으로 과세되고 매매차익은 상품 유형에 따라 갈립니다. 절세 계좌를 쓰면 시점과 세율이 달라집니다.</p>
+
+<p>저는 분배율만 보고 골랐다가 세후로 계산하니 순서가 바뀌더라고요. 상품 설명서의 과세 구분부터 보시면 좋겠습니다.</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · ETF 분배금은 배당소득으로 분류되어 과세됩니다
+ · 국내 계좌에서 받는 분배금은 지급 시 원천징수됩니다
+ · 국내 주식형 ETF의 매매차익은 과세되지 않습니다
+ · 국내 상장 채권형과 파생형 ETF는 매매차익도 배당소득으로 과세됩니다
+ · 해외 거래소 상장 ETF의 매매차익은 양도소득세 신고 대상입니다
+ · 해외 상장 ETF의 매매차익은 증권사가 원천징수하지 않습니다
+ · 해외 양도소득은 같은 해의 손실과 통산해 계산할 수 있습니다
+ · 해외 상장 상품의 분배금은 현지에서 먼저 원천징수됩니다
+ · 조세조약에 따라 국가별 원천징수 세율이 다릅니다
+ · 외국납부세액공제로 이중과세를 조정합니다
+ · 이자소득과 배당소득의 합계가 기준을 넘으면 종합과세 대상이 됩니다
+ · ISA 계좌는 만기에 손익을 통산해 정산합니다
+ · ISA는 일정 금액까지 비과세, 초과분은 분리과세됩니다
+ · ISA에는 의무 가입 기간이 있습니다
+ · 커버드콜 ETF는 옵션 프리미엄을 분배 재원에 사용합니다
+ · 원금에서 지급되는 분배분은 과세 대상이 아닙니다
+ · 운용사 공시 자료에 과세 재원 구분이 표시됩니다
+ · 배당소득은 지역가입자의 건강보험료 산정에 반영될 수 있습니다
+ · 소득이 일정 수준을 넘으면 피부양자 자격에 영향을 줍니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 배당소득세 원천징수 세율
+ · 금융소득 종합과세 기준 금액
+ · 해외 양도소득세 세율과 기본공제 금액
+ · 국가별 배당 원천징수 세율
+ · ISA 비과세 한도와 분리과세 세율
+ · ISA 의무 가입 기간
+ · 건강보험 피부양자 소득 요건
+ · 상품별 과세 재원 비율
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 처음에 분배금이 그냥 공짜로 늘어나는 줄 알았습니다"
+ · "통장에 찍힌 금액이 안내된 금액보다 적어서 그때 알았어요"
+ · "저는 분배율만 보고 골랐다가 세후로 계산하니 순서가 바뀌더라고요"
