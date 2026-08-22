@@ -1,12 +1,17 @@
 // 자동완성 키워드 수집 — 라인업 확정 단계에서 딱 한 번만 돌린다.
 // 네이버 자동완성 + 구글 서제스트를 긁어서 제목·소제목에 박을 "실제로 사람들이 치는 말"을 뽑는다.
 //
-//   node tools/kw.cjs "연말정산 미리보기"                       주제 하나 (씨앗은 자동 계층화)
+//   node tools/kw.cjs --lineup <파일> --judge                   ★ 1단계: 씨앗 후보만 재서 표로 뱉는다
+//   node tools/kw.cjs --lineup <파일> --out tools/kw_202612.json ★ 2단계: 확정된 씨앗으로 수집
+//   node tools/kw.cjs "연말정산 미리보기"                       주제 하나
 //   node tools/kw.cjs --merge "연말정산" "연말정산 환급"          씨앗을 직접 여러 개 물려 한 덩어리로
-//   node tools/kw.cjs --lineup "<..._00_90편_키워드_라인업.txt>"  라인업 주제명 전량
 //   node tools/kw.cjs --lineup <파일> --deep                    상위 결과를 다시 씨앗으로 (느림)
-//   node tools/kw.cjs ... --out tools/kw_202612.json            저장 경로 지정
 //   node tools/kw.cjs ... --flat                                계층화 끄고 주제명 그대로만
+//
+// ▶ 권장 흐름은 2단계다. --judge 로 후보를 보고 사람(또는 LLM)이 씨앗을 정한 뒤
+//   라인업에 "씨앗:"으로 적고 2단계를 돌린다. 자동 채택은 편의용 폴백일 뿐이다.
+//   "아파트 승강기 갇힘"의 1층으로 [아파트 승강기]를 고르면 정보성 90%로 통과하지만
+//   대표층이 전부 교체비용·전기요금이 된다. 문맥이 다르다는 건 규칙으로 못 본다.
 //
 // ▶ 자동완성은 가지치기 트리다. 좁은 씨앗을 넣으면 그 가지 아래만 보인다.
 //   "연말정산 미리보기"로는 "연말정산 경정청구"가 절대 안 나온다. 두 결과의 교집합은 0이다.
@@ -79,15 +84,14 @@ const VERBY = /(는|한|된|될|할|하는|드는|지는|되는)$/;
 const norm = (s) => s.toLowerCase().replace(/\s+/g, '');
 const onTopic = (k, seed) => norm(k).includes(norm(seed));
 
-// ─ 씨앗 성격 판정 ───────────────────────────────────────────
-// 1층 씨앗이 뱉은 접미어의 성격으로 씨앗을 3분류한다.
-//   정상     : 정보성 접미가 4개 중 1개 이상 → 그대로 간다
-//   구매의도 : 가격·추천·렌탈이 우세 → 정보글로 쇼핑 콘텐츠와 싸워야 한다. 소재 재검토
-//   딴도메인 : 둘 다 낮음 → 씨앗이 엉뚱한 데를 가리킨다 (겨울→겨울왕국, 아파트→드라마)
-//
-// ★ 게이트가 아니라 "눈으로 볼 목록 좁히기"다. 오탐이 적지 않다.
-//   정보성 사전에 없는 도메인 어휘를 쓰는 정상 씨앗도 딴도메인으로 걸린다.
-//   걸린 건 사람이 보고, 진짜 불량이면 라인업에 "씨앗:"을 적어 갈아끼운다.
+// ─ 씨앗 성격 힌트 ───────────────────────────────────────────
+// ★ 이건 판정이 아니라 정렬 힌트다. 게이트로 쓰지 않는다.
+//   "이 말이 이 글의 주어인가"는 의미 질문이라 정규식으로는 못 푼다.
+//   사전을 아무리 키워도 새 도메인이 나오면 또 뚫린다. 판정은 --judge 로 사람에게 넘긴다.
+//   여기 남은 사전은 후보를 눈에 띄게 줄 세우는 용도까지만 한다.
+//   정상     : 정보성 접미가 4개 중 1개 이상
+//   구매의도 : 가격·추천·렌탈이 우세 → 정보글로 쇼핑 콘텐츠와 싸워야 한다
+//   딴도메인 : 둘 다 낮음 → 씨앗이 엉뚱한 데를 가리킬 가능성 (겨울→겨울왕국)
 const INFO = /신청|조회|기준|대상|방법|자격|한도|계산|기간|서류|조건|지원|금액|세율|공제|해지|환급|납부|신고|절차|요건|제도|지급|수령|가입|변경|취소|확인|나이|시기|얼마|언제|어디|가능|불가|면제|감면|혜택|비용|요금|수수료|기한|연장|증명|발급|등록|폐지|개편|완화|사용|설치|점검|예방|보관|처리|센터|병원|기관|공단|청구|순위|규정|의무|위반|과태료|벌금|보험|급여|수당|바우처|계좌|세탁|관리|교체|수리|주의|위험|사고|화재|증상|효과|차이|비교|뜻/;
 const BUY = /가격|추천|최저가|구매|판매|파는곳|직구|할인|세일|사이즈|용량|대용량|미니|중고|보상판매|렌탈|렌털|리스|매장|쇼핑|배송|후기|브랜드/i;
 
@@ -122,13 +126,14 @@ async function pickHead(topic) {
   for (const c of [...new Set(cands)]) {
     const [nv, gg] = await Promise.all([naver(c), google(c)]);
     if (nv === null && gg === null) continue;
-    const L = [...(nv || []), ...(gg || [])].filter((k) => onTopic(k, c));
-    tried.push({ q: c, n: L.length, ...verdictOf(L) });
+    const L = [...new Set([...(nv || []), ...(gg || [])])].filter((k) => onTopic(k, c));
+    tried.push({ q: c, n: L.length, sample: L.slice(0, 8), ...verdictOf(L) });
     await sleep(120);
   }
+  // 모수가 작아도 의도가 맞으면 유효한 롱테일이다. 하한을 5에서 3으로 낮춘다.
   // 자격을 갖춘 것 중 가장 넓은(짧은) 것을 쓴다. 1층의 일은 형제 가지를 보여주는 것이라
   // 좁은 걸 고르면 대표층이 2층과 같아져 소재 발굴이 안 된다.
-  const fit = tried.filter((x) => x.n >= 5 && x.info >= 0.25);
+  const fit = tried.filter((x) => x.n >= 3 && x.info >= 0.25);
   fit.sort((a, b) => a.q.split(/\s+/).length - b.q.split(/\s+/).length || a.q.length - b.q.length || b.info - a.info);
   return { pick: fit[0] || null, tried };
 }
@@ -190,6 +195,7 @@ function fromLineup(file) {
   const DEEP = has('--deep');
   const FLAT = has('--flat');
   const MERGE = has('--merge');
+  const JUDGE = has('--judge');
   const OUT = val('--out') || path.join(__dirname, 'kw.json');
   const LINEUP = val('--lineup');
 
@@ -203,6 +209,37 @@ function fromLineup(file) {
   else if (MERGE) items = free.length ? [{ topic: free[0], slug: '', seeds: free }] : [];
   else items = free.map((s) => ({ topic: s, slug: '' }));
   if (!items.length) { console.error('씨앗이 없습니다. 사용법은 파일 맨 위 주석을 보세요.'); process.exit(1); }
+
+  // 짝으로 나가는 .txt 가 입력 라인업을 덮어쓰면 한 달치 라인업이 날아간다.
+  const OUT_TXT = OUT.replace(/\.json$/, '') + '.txt';
+  if (LINEUP && path.resolve(OUT_TXT) === path.resolve(LINEUP)) {
+    console.error(`출력 ${OUT_TXT} 가 입력 라인업과 같은 파일입니다. --out 이름을 바꾸세요.`);
+    process.exit(1);
+  }
+
+  // ── --judge : 채택하지 않는다. 후보와 그 결과만 표로 내놓고 판정은 사람에게 넘긴다.
+  // 규칙으로 못 푸는 건 "이 말이 이 글의 주어인가"이므로 그 자리에 사람을 넣는다.
+  if (JUDGE) {
+    const report = [];
+    for (const [i, it] of items.entries()) {
+      const { tried } = await pickHead(it.topic);
+      tried.sort((a, b) => b.n - a.n);
+      report.push({ slug: it.slug, topic: it.topic, candidates: tried });
+      console.log(`${String(i + 1).padStart(3)}/${items.length}  ${it.topic}  후보 ${tried.length}개`);
+    }
+    fs.writeFileSync(OUT, JSON.stringify({ meta: { mode: 'judge', collectedAt: new Date().toISOString().slice(0, 16).replace('T', ' '), net }, items: report }, null, 2), 'utf8');
+    const txt = report.map((r) =>
+      `■ ${r.topic}${r.slug ? '  (' + r.slug + ')' : ''}\n` +
+      r.candidates.map((c) => `   n=${String(c.n).padStart(2)}  정보 ${String(Math.round(c.info * 100)).padStart(3)}%  [${c.q}]\n        ${c.sample.join(' / ') || '(없음)'}`).join('\n') + '\n'
+    ).join('\n');
+    fs.writeFileSync(OUT.replace(/\.json$/, '') + '.txt', txt, 'utf8');
+    console.log(`\n[판정 대기] ${report.length}개 주제의 씨앗 후보를 뽑았습니다.`);
+    console.log('  다음: 후보 표를 읽고 각 주제의 씨앗을 정한 뒤 라인업에 "씨앗: OOO"으로 적으세요.');
+    console.log('        그다음 --judge 없이 다시 돌리면 확정된 씨앗으로 수집합니다.');
+    console.log(`통신: 성공 ${net.ok} · 실패 ${net.fail} · 재시도 ${net.retry}`);
+    console.log(`저장: ${OUT}\n      ${OUT.replace(/\.json$/, '') + '.txt'}`);
+    return;
+  }
 
   const result = [];
   for (const [i, it] of items.entries()) {
@@ -222,9 +259,10 @@ function fromLineup(file) {
     const hits = [];
 
     let dropped = 0, failed = 0;
-    // 1층은 자유롭게, 2층부터는 1층을 닻으로 걸어 축약이 구멍으로 새는 걸 막는다
+    // 자동 유도한 2층은 1층을 닻으로 걸어 축약이 구멍으로 새는 걸 막는다.
+    // 직접 적어준 씨앗은 서로 독립이므로 닻을 걸지 않는다 (엘리베이터 갇힘이 승강기 갇힘에 막히면 안 된다).
     for (const [si, sd] of seeds.entries()) {
-      const h = await probe(sd, si === 0 ? null : hits[0]);
+      const h = await probe(sd, !it.seeds && si > 0 ? hits[0] : null);
       if (h.failed) failed++;
       hits.push(h.q);
       const nv = h.nv.filter((k) => onTopic(k, h.q));
@@ -265,8 +303,9 @@ function fromLineup(file) {
       seeds: hits,
       byseed,
       top: ranked.slice(0, 15).map(([k, v]) => ({ k, v, from: [...origin[k]] })),
+      // 모수가 작아도 의도가 맞으면 유효한 롱테일이라 넉넉히 남긴다. 자르는 건 배치 단계에서
       head: head.slice(0, 12),
-      longtail: longtail.slice(0, 10),
+      longtail: longtail.slice(0, 15),
       total: ranked.length,
       dropped,
       failed,
@@ -316,13 +355,13 @@ function fromLineup(file) {
     });
   }
   if (unfit.length) {
-    console.log(`  ⚠ 씨앗 재선정 필요 ${unfit.length}개 (주제층 3개 미만)`);
+    console.log(`  · 주제층 얕음 ${unfit.length}개 (참고. 모수가 작아도 의도가 맞으면 그대로 씁니다)`);
     unfit.forEach((r) => console.log(`      ${r.topic}   [씨앗 ${r.seeds.join(' → ')}]  주제층 ${r.longtail.length}개`));
   }
-  // 씨앗 성격 3분류 — 게이트가 아니라 눈으로 볼 목록이다. 씨앗을 직접 준 건 판정에서 뺀다.
+  // 씨앗 성격 힌트 — 게이트가 아니다. 씨앗을 직접 준 건 힌트에서 뺀다.
   const susp = result.filter((r) => !r.bySeedGiven && (r.fit.v === '구매의도' || r.fit.v === '딴도메인'));
   if (susp.length) {
-    console.log(`\n  ⚠ 씨앗 성격 점검 권장 ${susp.length}개 / ${result.length}개 (오탐 있음. 보고 판단하세요)`);
+    console.log(`\n  · 씨앗 성격 힌트 ${susp.length}개 / ${result.length}개 (판정 아님. --judge 로 직접 보세요)`);
     for (const v of ['구매의도', '딴도메인']) {
       const g = susp.filter((r) => r.fit.v === v);
       if (!g.length) continue;
