@@ -74,6 +74,8 @@ const tally = {};
 const voice = [];
 // 1인칭 경험 문장 — 같은 사건을 우려먹는지 보려고 모은다.
 const episodes = [];
+// 본문 구조 분포 — 문체와 같은 이유로 묶음 단위로 본다.
+const shape = [];
 const bump = (k) => { tally[k] = (tally[k] || 0) + 1; };
 
 let files = [], bad = 0, total = 0;
@@ -144,12 +146,17 @@ for (const f of files) {
   // 그리드 한 덩어리는 카드가 몇 장이든 도식 1개로 센다 (한눈에 한 장의 인포그래픽이므로).
   const cards = (body.match(/margin\s*:\s*24px\s+0/g) || []).length;
   const bq = (body.match(/<blockquote>/g) || []).length;
-  if (cards + bq < 5) issues.push(`시각블록 ${cards + bq}개`);
+  // ★ 하한을 5 에서 4 로 낮췄다. 문체 하한과 같은 문제가 여기서도 났다.
+  //   실측 2026-08-23: 117편의 카드 개수 변동계수 0.00 — 전부 정확히 4장이었다.
+  //   표는 전부 1개, svg 는 0.02, li 0.08, p 0.09. 문체(0.31~0.51)보다 훨씬 균일하다.
+  //   구조가 완벽히 같은 글이 100편 넘게 있으면 그게 템플릿 자동화의 지문이다.
+  //   하한은 최소한만 두고 분포는 --full 의 묶음 검사에서 본다.
+  if (cards + bq < 4) issues.push(`시각블록 ${cards + bq}개`);
   // STYLE.md: 도식에 글씨만 늘어놓지 않는다. 한눈에 '그림'으로 읽혀야 한다.
   // 인라인 svg 아이콘이 한 개도 없으면 텍스트 박스만 늘어놓은 것이다.
   if (cards >= 4 && !/<svg[\s>]/.test(body)) issues.push('도식에 시각요소 없음');
   const uls = (body.match(/<ul>/g) || []).length;
-  if (uls < 3) issues.push(`ul요약 ${uls}개`);
+  if (uls < 2) issues.push(`ul요약 ${uls}개`);
   for (const p of ps) {
     const s = p.split(/(?<![0-9])[.?!]\s+|(?<![0-9])[.?!]$/).filter((x) => x.trim());
     if (s.length >= 4) { issues.push('문단 4문장 이상'); break; }
@@ -218,6 +225,12 @@ for (const f of files) {
   }
 
   voice.push({ f, dr: n, me: hasMe, banmal: !!banmal, casual: hasCasual });
+  shape.push({
+    f, card: cards, table: (body.match(/<table[\s>]/g) || []).length,
+    svg: (body.match(/<svg[\s>]/g) || []).length, ul: uls,
+    li: (body.match(/<li[\s>]/g) || []).length, h2: h2.length,
+    p: (body.match(/<p[\s>]/g) || []).length, bq,
+  });
   for (const sent of plain.split(/(?<=[.?!])\s+/)) {
     const x = sent.trim();
     if (x.length >= 14 && x.length <= 110 && /(저는|제가|저도|저희)/.test(x)) episodes.push({ f, s: x });
@@ -256,6 +269,39 @@ if (episodes.length >= 20) {
       console.log(`      겹침 ${(p.v * 100).toFixed(0)}%`);
       console.log(`        "${p.a.s.slice(0, 58)}"`);
       console.log(`        "${p.b.s.slice(0, 58)}"`);
+    });
+  }
+}
+
+// ── 본문 구조 균일성 ──────────────────────────────────────────────────────
+//
+// 어미보다 이쪽이 더 강한 지문이다. 검색엔진이 보는 건 DOM 구조 + 문체 + 임베딩의
+// 조합인데, 그중 DOM 은 기계가 세기 가장 쉽다.
+//
+// 실측 2026-08-23 (하한을 걸어놨을 때, 117편):
+//   card 0.00 · table 0.00 · svg 0.02 · li 0.08 · p 0.09 · ul 0.13
+//   같은 시점 문체는 0.31~0.51 이었다. 구조가 훨씬 균일하다.
+//   카드가 117편 전부 정확히 4장인 건 "더라고요 2회 이상" 과 같은 원인이다 — 하한을 걸면
+//   전부 하한에 몰린다.
+if (shape.length >= 20) {
+  const st = (k) => {
+    const v = shape.map((x) => x[k]);
+    const m = v.reduce((x, y) => x + y, 0) / v.length;
+    const sd = Math.sqrt(v.reduce((x, y) => x + (y - m) ** 2, 0) / v.length);
+    return { m, cv: m ? sd / m : 0, min: Math.min(...v), max: Math.max(...v) };
+  };
+  const KEYS = [['card', '카드'], ['table', '표'], ['svg', 'svg'], ['ul', 'ul'], ['h2', 'h2'], ['p', '문단']];
+  console.log('');
+  console.log(`[구조 분포] ${shape.length}편  ` +
+    KEYS.map(([k, n]) => `${n} ${st(k).m.toFixed(1)}(${st(k).cv.toFixed(2)})`).join(' · ') +
+    '      괄호 안이 변동계수');
+  const rigid = KEYS.filter(([k]) => st(k).cv < 0.15);
+  if (rigid.length) {
+    console.log('');
+    console.log('  ★ 구조 균일 — 어미 반복보다 이게 더 잘 보이는 지문입니다');
+    rigid.forEach(([k, n]) => {
+      const r = st(k);
+      console.log(`      ${n} 변동계수 ${r.cv.toFixed(2)} · 범위 ${r.min}~${r.max} (0.2 이상이어야 자연스럽다)`);
     });
   }
 }
