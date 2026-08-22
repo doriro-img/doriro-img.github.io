@@ -23,7 +23,9 @@ const CHROME = process.env.CHROME_PATH || {
 
 const args = process.argv.slice(2);
 const pi = args.indexOf('--posts');
-let want = args.filter((a) => !a.startsWith('--') && a !== args[pi + 1]);
+// --posts 를 안 줬으면 pi 가 -1 이라 args[pi+1] 이 첫 인자가 된다. 그걸 값으로 오인해 지우면 안 된다
+const skipVal = pi >= 0 ? args[pi + 1] : null;
+let want = args.filter((a, i) => !a.startsWith('--') && !(pi >= 0 && i === pi + 1));
 
 if (pi >= 0) {
   const ym = args[pi + 1];
