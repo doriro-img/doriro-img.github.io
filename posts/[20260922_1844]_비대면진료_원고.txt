@@ -1,0 +1,264 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 22일 18:44
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260922_1844]_비대면진료\
+   ├── 📄 [원고 파일]: [20260922_1844]_비대면진료_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-telemed.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260922_1844]_비대면진료_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-telemed.html
+
+■ 제목: 비대면진료 처방전 받는 방법과 약국 수령 절차. 연휴에 이용할 때 확인할 것
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 비대면진료, 비대면진료처방전, 비대면진료약국, 비대면진료앱, 비대면진료실비, 재진원칙, 의료취약지, 처방전전송, 약배송
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>비대면진료 처방전 받는 방법과 약국 수령 절차. 연휴에 이용할 때 확인할 것</p>
+
+<h2>처방전은 환자에게 오지 않습니다</h2>
+
+<p>비대면진료를 처음 쓰면 처방전을 어떻게 받는지가 제일 헷갈립니다. 답부터 적으면 처방전은 병원이 약국으로 직접 보냅니다. 환자는 약국에 가서 이름만 대면 돼요.</p>
+
+<p>저희도 연휴에 아이가 아파서 이걸 써봤는데요. 앱에서 약국을 고르니 그쪽으로 바로 넘어가더라고요.</p>
+
+<p>종이를 들고 갈 필요가 없었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">앱에서 접수합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">증상을 입력하고 진료 가능한 의료기관을 고릅니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.9 2.1z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">전화나 화상으로 진료</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">의사가 연락해 증상을 확인하고 처방 여부를 정합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">처방전이 약국으로 갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">환자가 고른 약국으로 병원이 직접 전송합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M9 3h6v3l2 3v9a3 3 0 0 1-3 3h-4a3 3 0 0 1-3-3V9l2-3z" /><path d="M8 13h8" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">약국에서 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이름과 생년월일을 말하면 조제된 약을 내줍니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 앱에서 증상을 입력하고 진료 가능한 의료기관을 고릅니다</li>
+<li><b>2단계</b> 의사가 전화나 화상으로 연락해 진료합니다</li>
+<li><b>3단계</b> 처방전은 병원이 환자가 고른 약국으로 직접 보냅니다</li>
+<li><b>4단계</b> 약국에서 이름과 생년월일을 말하고 약을 받습니다</li>
+</ul>
+
+<h2>비대면진료 처방전 출력은 안 되나요?</h2>
+
+<p>환자가 직접 뽑는 방식이 아닙니다. 위조를 막으려고 그렇게 설계돼 있어요.</p>
+
+<h3>약국에 전송되는 게 원본입니다</h3>
+
+<p>병원이 팩스나 전산으로 약국에 보냅니다. 환자가 받는 건 접수 안내 정도예요.</p>
+
+<p>약국을 바꾸고 싶으면 병원에 다시 요청해야 합니다. 이미 보낸 처방전은 그 약국에 남아 있습니다.</p>
+
+<h3>약국이 거부할 수도 있습니다</h3>
+
+<p>재고가 없거나 조제가 어려우면 다른 곳을 찾아야 합니다. 미리 전화해보는 게 확실해요.</p>
+
+<p>앱에서 약국을 고를 때 재고 확인이 되는 곳도 있습니다. 그런 기능이 있으면 활용하세요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">상황</th>
+      <th style="padding:12px;text-align:left;">이용 가능</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">같은 질환 재진</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">기본 원칙</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">휴일과 야간</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">초진도 가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">시간대 조건</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">의료 취약지</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">초진도 가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">지역 조건</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">마약류 오남용 우려 의약품</td>
+      <td style="padding:12px;">불가</td>
+      <td style="padding:12px;">처방 제한</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>재진 원칙</b> 같은 질환으로 다시 보는 경우가 기본입니다</li>
+<li><b>휴일과 야간</b> 시간대 조건을 충족하면 초진도 가능합니다</li>
+<li><b>제한 의약품</b> 마약류와 오남용 우려 의약품은 처방되지 않습니다</li>
+</ul>
+
+<blockquote>연휴는 휴일 조건에 해당해 초진도 이용할 수 있는 경우가 많습니다. 앱 공지를 확인하세요.</blockquote>
+
+<h2>약은 배송이 됩니까</h2>
+
+<p>원칙은 약국 방문 수령입니다. 배송은 제한된 경우에만 됩니다.</p>
+
+<p>거동이 불편하거나 감염병 확진자처럼 정해진 사유가 있어야 합니다. 일반적인 경우는 직접 가야 해요.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">건강보험이 적용됩니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">비대면진료도 급여 항목이라 본인부담금만 내면 됩니다. 다만 대면 진료보다 진찰료가 조금 더 붙는 구조라 금액이 다르게 나올 수 있습니다.</p>
+</div>
+
+<h3>실비 청구도 되나요</h3>
+
+<p>진료비 영수증과 세부내역서가 나오면 청구할 수 있습니다. 앱에서 발급되는 경우가 많아요.</p>
+
+<p>약값은 실손 보장 대상이 아닌 경우가 있습니다. 가입한 상품 약관을 확인하세요.</p>
+
+<h3>비대면진료 처방전 기간은 얼마나 됩니까</h3>
+
+<p>처방전에는 사용 기간이 적혀 있습니다. 그 기간이 지나면 약국에서 조제를 못 해줘요.</p>
+
+<p>연휴에 받아두고 며칠 뒤에 가면 곤란해질 수 있습니다. 되도록 당일이나 다음 날에 찾아가는 게 안전합니다.</p>
+
+<p>기간이 지났으면 다시 진료를 받아야 합니다. 진료비도 새로 나갑니다.</p>
+
+<h2>어떤 경우에 쓰면 좋습니까</h2>
+
+<p>가벼운 증상과 이어지는 처방에 적합합니다. 응급 상황에는 맞지 않아요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">적 합</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">만성질환 약 처방</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">늘 먹던 약을 이어서 받을 때 편합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">연 휴</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문 연 병원이 없을 때</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">명절과 야간에 가벼운 증상이면 유용합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 적 합</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">응급 증상은 안 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가슴 통증이나 호흡곤란은 바로 119로 가야 합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>만성질환</b> 늘 먹던 약을 이어서 받을 때 편합니다</li>
+<li><b>연휴와 야간</b> 문 연 병원이 없을 때 가벼운 증상에 유용합니다</li>
+<li><b>응급 증상</b> 가슴 통증이나 호흡곤란은 바로 119로 연락해야 합니다</li>
+</ul>
+
+<p>진찰만 하고 처방이 안 나오는 경우도 있습니다. 화면으로 확인하기 어려운 증상이면 대면 진료를 권합니다.</p>
+
+<blockquote>어린이는 야간과 휴일에 상담만 되고 처방이 제한되는 경우가 있습니다. 앱 안내를 먼저 보세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>앱에서 접수하고 진료를 받으면 처방전은 약국으로 바로 넘어갑니다. 이름만 대고 받아 오시면 돼요.</p>
+
+<p>저는 처방전을 어떻게 받나 걱정했는데 아무것도 안 해도 되더라고요... 연휴에 특히 요긴합니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 비대면진료 처방전은 환자가 아니라 의료기관이 약국으로 직접 전송합니다
+ · 환자는 약국에서 이름과 생년월일을 확인받고 약을 수령합니다
+ · 진료는 전화나 화상으로 이뤄집니다
+ · 같은 질환에 대한 재진이 기본 원칙입니다
+ · 휴일과 야간 시간대에는 초진도 이용할 수 있습니다
+ · 의료 취약지 거주자는 초진 이용이 가능합니다
+ · 마약류와 오남용 우려 의약품은 처방이 제한됩니다
+ · 약은 약국 방문 수령이 원칙이며 배송은 제한된 사유에만 허용됩니다
+ · 거동 불편자와 감염병 확진자 등이 배송 허용 대상에 포함됩니다
+ · 비대면진료에도 건강보험이 적용되며 본인부담금만 부담합니다
+ · 대면 진료보다 진찰료가 추가되는 구조입니다
+ · 진료비 영수증과 세부내역서로 실손 청구가 가능합니다
+ · 화면으로 확인이 어려운 증상은 대면 진료를 권고할 수 있습니다
+ · 소아의 야간과 휴일 비대면진료는 처방이 제한되는 경우가 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 휴일과 야간의 정확한 시간대 기준
+ · 재진으로 인정되는 이전 진료 시점의 기간
+ · 의료 취약지의 지정 범위
+ · 비대면진료 추가 진찰료의 비율
+ · 약 배송이 허용되는 사유의 전체 목록
+ · 앱별 이용 수수료 부과 여부
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 연휴에 아이가 아파서 이걸 써봤는데요"
+ · "앱에서 약국을 고르니 그쪽으로 바로 넘어가더라고요"
+ · "저는 처방전을 어떻게 받나 걱정했는데 아무것도 안 해도 되더라고요"
