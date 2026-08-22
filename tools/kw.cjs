@@ -194,6 +194,7 @@ function fromLineup(file) {
   const val = (f) => (argv.indexOf(f) >= 0 ? argv[argv.indexOf(f) + 1] : null);
   const DEEP = has('--deep');
   const FLAT = has('--flat');
+  const NOVOL = has('--novol');
   const MERGE = has('--merge');
   const JUDGE = has('--judge');
   const OUT = val('--out') || path.join(__dirname, 'kw.json');
@@ -319,8 +320,59 @@ function fromLineup(file) {
     console.log(`${String(i + 1).padStart(3)}/${items.length}  ${it.topic}  [씨앗 ${hits.length}]  ${ranked.length}개  →  ${ranked.slice(0, 4).map((x) => x[0]).join(' | ') || '(응답 없음)'}`);
   }
 
+
+  // ── 검색량 ────────────────────────────────────────────────────────────────
+  // 자동완성은 "그 문자열이 존재한다"까지만 안다. 몇 명이 찾는지는 검색광고 API 가 안다.
+  // .env 에 키가 있으면 자동으로 붙는다. --novol 로 끌 수 있다.
+  // 실측: 자동완성 점수 1위와 검색량 1위가 일치한 건 90편 중 37편(41%)뿐이었다.
+  let volMeta = null;
+  if (!NOVOL) {
+    let advol = null;
+    try { advol = require('./advol.cjs'); } catch (e) { /* 모듈이 없으면 조용히 건너뛴다 */ }
+    const hasKey = fs.existsSync(path.join(__dirname, '..', '.env')) || process.env.NAVER_AD_API_KEY;
+    if (advol && hasKey) {
+      const pool = new Set();
+      for (const r of result) {
+        for (const t of r.top) pool.add(t.k);
+        for (const k of r.head.slice(0, 8)) pool.add(k);
+        for (const k of r.longtail.slice(0, 10)) pool.add(k);
+      }
+      const keys = [...pool];
+      console.log(`\n검색량 조회 ${keys.length}개…`);
+      try {
+        const { out, errs } = await advol.volume(keys, {
+          onProgress: (a, b) => process.stdout.write(`\r  ${a}/${b}`),
+        });
+        process.stdout.write('\r' + ' '.repeat(30) + '\r');
+
+        const V = (k) => (out.get(k) || {}).total ?? null;
+        const C = (k) => (out.get(k) || {}).comp ?? '';
+        // 검색량을 1순위로, 자동완성 점수를 동점 처리로 쓴다.
+        // 검색량이 없는 건(조회 실패) 뒤로 미루되 버리지는 않는다.
+        const byVol = (a, b) => (V(b.k ?? b) ?? -1) - (V(a.k ?? a) ?? -1);
+
+        for (const r of result) {
+          r.top = r.top.map((t) => ({ ...t, vol: V(t.k), comp: C(t.k) }))
+            .sort((a, b) => (b.vol ?? -1) - (a.vol ?? -1) || b.v - a.v);
+          r.head = r.head.slice().sort(byVol);
+          r.longtail = r.longtail.slice().sort(byVol);
+          const vols = r.top.map((t) => t.vol).filter((v) => v !== null);
+          r.demand = vols.length
+            ? { max: Math.max(...vols), sum: vols.reduce((a, b) => a + b, 0), n: vols.length }
+            : null;
+        }
+        volMeta = { queried: keys.length, answered: out.size, errs: errs.length, source: 'naver-searchad' };
+        console.log(`검색량 ${out.size}/${keys.length}개 확보 · 호출 ${advol.stat.call} · 실패 ${advol.stat.fail}`);
+      } catch (e) {
+        console.log(`검색량 조회 건너뜀: ${e.message}`);
+      }
+    } else if (!hasKey) {
+      console.log('\n· 검색량 생략 (.env 에 NAVER_AD_* 키가 없습니다). 자동완성 점수만으로 순위를 매깁니다.');
+    }
+  }
+
   // 자동완성은 시점마다 바뀐다. 언제 뽑은 건지 같이 박아둔다.
-  const stamp = { collectedAt: new Date().toISOString().slice(0, 16).replace('T', ' '), net, items: result.length };
+  const stamp = { collectedAt: new Date().toISOString().slice(0, 16).replace('T', ' '), net, items: result.length, vol: volMeta };
   fs.writeFileSync(OUT, JSON.stringify({ meta: stamp, items: result }, null, 2), 'utf8');
 
   // 사람이 읽는 표 — 층을 나눠서 적는다
@@ -329,7 +381,8 @@ function fromLineup(file) {
     `  씨앗     : ${r.seeds.join('  →  ')}   (수집 ${r.total}개)\n` +
     `  [대표층] ${r.head.join(' / ') || '(없음)'}\n` +
     `  [주제층] ${r.longtail.join(' / ') || '(없음)'}\n` +
-    `  [제목후보] ${r.top.slice(0, 6).map((x) => x.k + '(' + x.v + ')').join(' / ') || '(없음)'}\n`
+    `  [제목후보] ${r.top.slice(0, 6).map((x) => x.k + (x.vol == null ? '(' + x.v + ')' : '(' + x.vol.toLocaleString() + ')')).join(' / ') || '(없음)'}\n` +
+    (r.demand ? `  수요     : 최대 ${r.demand.max.toLocaleString()}회/월${r.demand.max < 1000 ? '   ★ 저수요 — 주제를 바꾸는 게 낫습니다' : ''}\n` : '')
   ).join('\n');
   fs.writeFileSync(OUT.replace(/\.json$/, '') + '.txt', txt, 'utf8');
 
@@ -369,6 +422,12 @@ function fromLineup(file) {
       console.log(`      [${v}] ${g.length}개 — ${why}`);
       g.forEach((r) => console.log(`         ${r.topic}   [씨앗 ${r.seeds[0]}]  정보 ${(r.fit.info * 100).toFixed(0)}% / 구매 ${(r.fit.buy * 100).toFixed(0)}%`));
     }
+  }
+  // 검색량이 0 에 가까운 주제는 완벽하게 써도 유입이 0 이다. 쓰기 전에 걸러야 한다.
+  const low = result.filter((r) => r.demand && r.demand.max < 1000).sort((a, b) => a.demand.max - b.demand.max);
+  if (low.length) {
+    console.log(`\n  ✗ 저수요 ${low.length}개 / ${result.length}개 — 최대 검색량이 월 1,000회 미만입니다. 주제를 교체하세요.`);
+    low.forEach((r) => console.log(`      ${String(r.demand.max).padStart(6)}회  ${r.topic}   최고 [${r.top[0].k}]`));
   }
   console.log(`저장: ${OUT}`);
   console.log(`      ${OUT.replace(/\.json$/, '') + '.txt'}`);

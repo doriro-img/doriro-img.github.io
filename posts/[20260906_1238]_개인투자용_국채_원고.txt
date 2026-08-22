@@ -1,0 +1,265 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 6일 12:38
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260906_1238]_개인투자용_국채\
+   ├── 📄 [원고 파일]: [20260906_1238]_개인투자용_국채_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-govbond.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260906_1238]_개인투자용_국채_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-govbond.html
+
+■ 제목: 개인투자용 국채 청약 방법과 세금 구조. 중도환매 조건과 건강보험료 영향 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 개인투자용국채, 개인투자용국채청약, 개인투자용국채세금, 개인투자용국채금리, 개인투자용국채단점, 국채경쟁률, 분리과세, 가산금리, 만기보유
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>개인투자용 국채 청약 방법과 세금 구조. 중도환매 조건과 건강보험료 영향 정리</p>
+
+<h2>만기까지 들고 있어야 이자가 제값입니다</h2>
+
+<p>개인투자용 국채는 개인만 살 수 있게 따로 만든 국채입니다. 답부터 적으면 만기까지 보유해야 가산금리와 세금 혜택을 다 받습니다. 중간에 팔면 그 두 가지가 모두 사라져요.</p>
+
+<p>저도 처음에 이걸 은행 예금처럼 생각했는데요. 중도에 깨면 손해 보는 구조가 예금보다 훨씬 크더라고요.</p>
+
+<p>급하게 쓸 돈으로 넣으면 안 되겠다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">발 행</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">개인만 살 수 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기관은 못 사고 개인 명의로만 매입할 수 있는 국채입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">이 자</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">만기에 한 번에 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">매달 이자가 나오지 않고 만기 때 복리로 계산해 지급합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">만기 보유 가산금리</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">끝까지 들고 있으면 표면금리에 가산금리가 더 붙습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">환 매</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">중도환매는 손해입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가산금리와 세금 혜택이 사라지고 표면금리만 적용됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>발행 대상</b> 기관은 못 사고 개인 명의로만 매입할 수 있습니다</li>
+<li><b>이자 지급</b> 매달이 아니라 만기에 복리로 계산해 한 번에 줍니다</li>
+<li><b>가산금리</b> 만기까지 보유하면 표면금리에 가산금리가 더 붙습니다</li>
+<li><b>중도환매</b> 가산금리와 세금 혜택이 사라지고 표면금리만 적용됩니다</li>
+</ul>
+
+<h2>청약은 어떻게 하나요?</h2>
+
+<p>주식처럼 아무 때나 사는 게 아닙니다. 매달 정해진 기간에 청약을 받아요.</p>
+
+<h3>판매대행 증권사에서만 됩니다</h3>
+
+<p>정부가 지정한 증권사 한 곳에서 청약을 받습니다. 은행 창구에서는 안 돼요.</p>
+
+<p>계좌를 미리 만들어둬야 청약일에 바로 넣을 수 있습니다. 저는 청약 기간을 알고도 계좌가 없어서 한 회차를 그냥 넘겼더라고요.</p>
+
+<h3>경쟁률이 높으면 배정이 깎입니다</h3>
+
+<p>청약 물량보다 신청이 많으면 비례로 나눠 배정합니다. 신청한 금액을 다 못 받을 수 있어요.</p>
+
+<p>소액 신청자를 먼저 채우고 나머지를 비례 배분하는 방식이 쓰입니다. 큰 금액을 넣을수록 배정률이 떨어집니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">만기 보유</th>
+      <th style="padding:12px;text-align:left;">중도환매</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">표면금리</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">적용</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">적용</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">가산금리</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">지급</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">없음</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">복리 적용</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">적용</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">단리 처리</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">분리과세</td>
+      <td style="padding:12px;">신청 가능</td>
+      <td style="padding:12px;">적용 안 됨</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>표면금리</b> 만기 보유든 중도환매든 기본 금리는 적용됩니다</li>
+<li><b>가산금리와 복리</b> 만기까지 들고 있어야 받을 수 있습니다</li>
+<li><b>분리과세</b> 만기 보유분에 대해서만 신청할 수 있습니다</li>
+</ul>
+
+<blockquote>중도환매는 정해진 기간이 지난 뒤에만 신청할 수 있고 매달 정해진 한도 안에서 처리됩니다.</blockquote>
+
+<h2>세금은 어떻게 붙습니까</h2>
+
+<p>이자소득세는 똑같이 냅니다. 다른 점은 분리과세를 고를 수 있다는 거예요.</p>
+
+<p>금융소득이 연간 일정 금액을 넘으면 종합과세로 넘어갑니다. 다른 소득과 합쳐져 세율이 올라가요.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">분리과세는 한도가 정해져 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">매입 금액 기준으로 분리과세를 적용받을 수 있는 한도가 있습니다. 그 한도를 넘긴 부분은 일반 이자소득으로 잡혀 종합과세 대상에 들어갑니다.</p>
+</div>
+
+<h3>건강보험료에도 영향이 있나요</h3>
+
+<p>지역가입자는 금융소득이 보험료 산정에 반영됩니다. 이자가 만기에 몰려 들어오는 점을 봐야 해요.</p>
+
+<p>10년, 20년 이자가 한 해에 한꺼번에 잡히는 구조입니다. 그해 소득이 커 보일 수 있습니다.</p>
+
+<h3>분리과세를 신청하는 시점이 따로 있습니다</h3>
+
+<p>청약할 때 신청하는 게 아닙니다. 만기에 이자를 받을 때 증권사를 통해 처리합니다.</p>
+
+<p>중도환매를 하면 그 물량은 분리과세에서 빠집니다. 남은 물량만 혜택을 받아요.</p>
+
+<p>한 사람이 여러 회차를 사도 한도는 합산해서 봅니다. 회차별로 따로 주는 게 아니더라고요.</p>
+
+<h2>누가 사면 맞을까요</h2>
+
+<p>당장 쓸 돈이 아닌 여윳돈에 맞습니다. 만기가 길어서 그래요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">적 합</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">노후 자금으로 묻어둘 돈</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">10년 이상 안 건드릴 돈이면 복리와 가산금리가 살아납니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21h18" /><path d="M4 21V9l8-5.5L20 9v12" /><path d="M9 21v-6h6v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">안 정</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">원금이 국가 보증입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">발행 주체가 정부라 신용위험이 가장 낮은 축에 듭니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 적 합</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">단기 자금은 안 맞습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">몇 년 안에 쓸 돈이면 예금이나 파킹통장이 낫습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>적합</b> 10년 이상 안 건드릴 돈이면 복리와 가산금리가 살아납니다</li>
+<li><b>안정성</b> 발행 주체가 정부라 신용위험이 가장 낮은 축에 듭니다</li>
+<li><b>부적합</b> 몇 년 안에 쓸 돈이면 예금이나 파킹통장이 낫습니다</li>
+</ul>
+
+<p>상속이나 증여는 됩니다. 다만 일반 매매로 남에게 넘기는 건 제한돼 있어요.</p>
+
+<blockquote>물가가 크게 오르면 실질 수익이 줄어듭니다. 고정금리 상품의 공통된 약점입니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>청약은 지정 증권사에서 매달 받고 배정은 경쟁률에 따라 깎입니다. 만기까지 들고 갈 자신이 있을 때만 넣으세요.</p>
+
+<p>저는 이게 예금 대체재라고 생각했다가 성격이 완전히 다르다는 걸 알았더라고요... 여윳돈인지부터 따져보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 개인투자용 국채는 개인만 매입할 수 있도록 발행되는 국채입니다
+ · 이자는 매달 지급되지 않고 만기에 복리로 계산해 원금과 함께 지급합니다
+ · 만기까지 보유하면 표면금리에 가산금리가 추가로 적용됩니다
+ · 중도환매하면 가산금리와 복리 적용, 분리과세 혜택이 사라집니다
+ · 중도환매는 일정 기간이 지난 뒤 정해진 한도 안에서 신청할 수 있습니다
+ · 청약은 정부가 지정한 판매대행 증권사에서 매달 정해진 기간에 받습니다
+ · 은행 창구에서는 청약할 수 없습니다
+ · 청약 물량보다 신청이 많으면 소액 우선 배정 후 비례 배분됩니다
+ · 만기 보유분에 대해 매입액 한도 내에서 분리과세를 신청할 수 있습니다
+ · 한도를 넘긴 부분은 일반 이자소득으로 과세됩니다
+ · 지역가입자는 금융소득이 건강보험료 산정에 반영됩니다
+ · 상속과 증여는 가능하지만 일반 매매를 통한 양도는 제한됩니다
+ · 발행 주체가 정부이므로 신용위험이 낮습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 회차별 표면금리와 가산금리 수치
+ · 만기 구조와 발행 종목별 기간
+ · 1인당 연간 청약 한도와 최소 청약 금액
+ · 분리과세 적용 한도 금액과 적용 세율
+ · 중도환매가 가능해지는 시점과 월별 환매 한도
+ · 회차별 청약 경쟁률과 배정 방식의 세부 기준
+ · 금융소득 종합과세 기준 금액
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 처음에 이걸 은행 예금처럼 생각했는데요"
+ · "중도에 깨면 손해 보는 구조가 예금보다 훨씬 크더라고요"
+ · "저는 청약 기간을 알고도 계좌가 없어서 한 회차를 그냥 넘겼더라고요"
+ · "저는 이게 예금 대체재라고 생각했다가 성격이 완전히 다르다는 걸 알았더라고요"

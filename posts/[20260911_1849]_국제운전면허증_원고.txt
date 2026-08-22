@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 11일 18:49
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260911_1849]_국제운전면허증\
+   ├── 📄 [원고 파일]: [20260911_1849]_국제운전면허증_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-intldriver.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260911_1849]_국제운전면허증_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-intldriver.html
+
+■ 제목: 국제운전면허증 발급 준비물과 유효기간. 온라인 신청과 나라별 인정 범위 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 국제운전면허증, 국제운전면허증발급, 국제운전면허증준비물, 국제운전면허증유효기간, 국제운전면허증온라인발급, 제네바협약, 렌터카, 여권사진, 경찰서발급
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국제운전면허증 발급 준비물과 유효기간. 온라인 신청과 나라별 인정 범위 정리</p>
+
+<h2>국내 면허증을 같이 들고 가야 합니다</h2>
+
+<p>국제운전면허증은 해외에서 차를 빌릴 때 필요한 서류입니다. 답부터 적으면 이것만 들고 가면 소용이 없습니다. 국내 운전면허증과 여권을 함께 제시해야 효력이 인정돼요.</p>
+
+<p>저희도 여행 준비하면서 이걸 몰라서 큰일 날 뻔했는데요. 렌터카 업체에서 세 개를 다 요구하더라고요.</p>
+
+<p>한 장만 챙기면 낭패 본다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">준 비 물</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">면허증과 여권 사진</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">운전면허증과 여권, 여권용 사진 한 장이 기본입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="5" width="14" height="16" rx="2" /><path d="M9 3v4M15 3v4M5 11h14" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">유효기간은 1년입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">발급일부터 1년이며 연장은 안 되고 다시 발급받아야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">범 위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">협약 가입국에서만 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">제네바협약 가입국에서 인정되고 안 되는 나라도 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">주 의</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">단독으로는 무효입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">국내 면허증과 여권을 함께 소지해야 효력이 인정됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>준비물</b> 운전면허증과 여권, 여권용 사진 한 장이 기본입니다</li>
+<li><b>유효기간</b> 발급일부터 1년이며 연장 없이 재발급해야 합니다</li>
+<li><b>인정 범위</b> 제네바협약 가입국에서 인정되고 예외 국가가 있습니다</li>
+<li><b>소지 의무</b> 국내 면허증과 여권을 함께 들고 있어야 효력이 있습니다</li>
+</ul>
+
+<h2>어디서 발급받나요?</h2>
+
+<p>경찰서와 운전면허시험장, 그리고 일부 공항에서 받습니다. 당일 발급이 됩니다.</p>
+
+<h3>온라인 발급도 가능합니다</h3>
+
+<p>안전운전 통합민원 사이트에서 신청할 수 있습니다. 발급받은 뒤 우편으로 받거나 방문 수령해요.</p>
+
+<p>다만 사진 규격이 맞아야 합니다. 온라인은 반려되면 시간이 더 걸리더라고요.</p>
+
+<h3>공항에서도 됩니다</h3>
+
+<p>인천공항과 김해공항 등에 발급 창구가 있습니다. 출국 당일에 받을 수 있어요.</p>
+
+<p>운영 시간이 정해져 있어서 새벽 비행기면 못 받습니다. 미리 받아두는 게 마음이 편합니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">발급처</th>
+      <th style="padding:12px;text-align:left;">소요 시간</th>
+      <th style="padding:12px;text-align:left;">특징</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">경찰서</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">즉시</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가까운 곳 이용</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">면허시험장</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">즉시</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">갱신과 함께 가능</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">공항 창구</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">즉시</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">운영 시간 확인</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">온라인</td>
+      <td style="padding:12px;">며칠 소요</td>
+      <td style="padding:12px;">우편 수령 가능</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>경찰서와 시험장</b> 서류만 갖추면 그 자리에서 발급됩니다</li>
+<li><b>공항 창구</b> 출국 당일 발급이 되지만 운영 시간을 확인해야 합니다</li>
+<li><b>온라인</b> 안전운전 통합민원에서 신청하고 우편으로 받을 수 있습니다</li>
+</ul>
+
+<blockquote>면허 정지나 취소 상태면 발급이 안 됩니다. 벌점이 쌓여 있다면 먼저 확인하세요.</blockquote>
+
+<h2>어느 나라에서 쓸 수 있습니까</h2>
+
+<p>제네바협약에 가입한 나라에서 통합니다. 대부분의 유럽과 미국, 동남아 여러 나라가 포함돼요.</p>
+
+<p>문제는 예외입니다. 중국은 협약 가입국이 아니라 우리 국제면허증이 통하지 않습니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">비엔나협약만 인정하는 나라가 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">우리나라는 제네바협약 가입국입니다. 비엔나협약 양식만 받는 나라에서는 렌터카를 거절당할 수 있으니 예약 전에 업체에 직접 확인하는 게 안전합니다.</p>
+</div>
+
+<h3>렌터카 업체 기준이 더 셀 수도 있습니다</h3>
+
+<p>나라에서 인정해도 업체가 추가 조건을 걸기도 합니다. 운전 경력이나 나이를 보는 곳이 있어요.</p>
+
+<p>신용카드도 본인 명의여야 합니다. 예약할 때 조건을 캡처해두면 나중에 다툼이 줄어듭니다.</p>
+
+<p>영문 이름 표기도 맞춰야 합니다. 여권과 국제면허증의 철자가 다르면 인수 단계에서 막힙니다.</p>
+
+<p>추가 운전자를 등록하려면 그 사람도 국제면허증이 있어야 합니다. 교대 운전을 계획했다면 같이 발급받으세요.</p>
+
+<h2>사고가 나면 어떻게 됩니까</h2>
+
+<p>현지 법에 따라 처리됩니다. 국제면허증이 있다고 특별한 보호를 받는 건 아니에요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">보 험</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">현지 보험을 확인합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">자차 면책과 대인 한도를 예약할 때 꼭 봐야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.9 2.1z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">연 락</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">영사콜센터를 저장해둡니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사고나 분쟁이 생기면 재외국민 지원을 받을 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">규 정</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">교통 규칙이 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">좌측통행이나 회전교차로 우선순위를 미리 익혀야 합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>보험</b> 자차 면책과 대인 한도를 예약할 때 확인합니다</li>
+<li><b>영사콜센터</b> 사고나 분쟁 시 재외국민 지원을 받을 수 있습니다</li>
+<li><b>현지 규정</b> 좌측통행과 회전교차로 우선순위를 미리 익힙니다</li>
+</ul>
+
+<p>국제면허증은 번역본 성격입니다. 위반을 하면 국내 면허에도 영향이 갈 수 있어요.</p>
+
+<blockquote>발급 수수료는 소액입니다. 여행 계획이 있으면 미리 받아두는 편이 낫습니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>면허증과 여권, 사진 한 장을 들고 가까운 경찰서에 가면 그 자리에서 나옵니다. 여행 갈 때 국내 면허증도 꼭 같이 챙기세요.</p>
+
+<p>저는 유효기간이 1년이라는 걸 잊고 있다가 다음 여행 때 다시 받았더라고요... 나라마다 인정 여부도 다르니 미리 확인하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국제운전면허증은 국내 운전면허증과 여권을 함께 소지해야 효력이 인정됩니다
+ · 발급 준비물은 운전면허증, 여권, 여권용 사진입니다
+ · 유효기간은 발급일부터 1년이며 연장이 되지 않습니다
+ · 발급처는 경찰서, 운전면허시험장, 일부 공항 창구입니다
+ · 안전운전 통합민원 사이트에서 온라인 신청이 가능합니다
+ · 우리나라는 제네바협약 가입국이며 협약 가입국에서 인정됩니다
+ · 중국은 제네바협약 가입국이 아니어서 우리 국제면허증이 통용되지 않습니다
+ · 비엔나협약 양식만 인정하는 국가가 있습니다
+ · 면허 정지나 취소 상태에서는 발급이 제한됩니다
+ · 렌터카 업체가 나이와 운전 경력 등 자체 조건을 추가할 수 있습니다
+ · 사고와 위반은 현지 법에 따라 처리됩니다
+ · 해외 사고나 분쟁 시 영사콜센터의 재외국민 지원을 받을 수 있습니다
+ · 발급 수수료가 부과됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 국제운전면허증 발급 수수료 금액
+ · 공항 발급 창구의 위치와 운영 시간
+ · 온라인 신청 후 우편 수령까지 걸리는 기간
+ · 제네바협약 가입국의 전체 목록과 최근 변동
+ · 국가별 렌터카 이용 시 추가 요구 서류
+ · 여권용 사진의 규격 요건
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 여행 준비하면서 이걸 몰라서 큰일 날 뻔했는데요"
+ · "렌터카 업체에서 세 개를 다 요구하더라고요"
+ · "온라인은 반려되면 시간이 더 걸리더라고요"
+ · "저는 유효기간이 1년이라는 걸 잊고 있다가 다음 여행 때 다시 받았더라고요"

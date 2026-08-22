@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 11일 12:21
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260911_1221]_카드_리볼빙\
+   ├── 📄 [원고 파일]: [20260911_1221]_카드_리볼빙_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-revolving.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260911_1221]_카드_리볼빙_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-revolving.html
+
+■ 제목: 카드 리볼빙 해지 방법과 이자 구조. 신용등급에 영향이 가는 이유 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 카드리볼빙, 리볼빙해지, 리볼빙이자, 리볼빙신용등급, 일부결제금액이월약정, 결제비율, 신용카드부채, 리볼빙단점, 카드대금
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>카드 리볼빙 해지 방법과 이자 구조. 신용등급에 영향이 가는 이유 정리</p>
+
+<h2>결제를 미루는 게 아니라 빌리는 것입니다</h2>
+
+<p>카드 리볼빙은 이번 달 카드값의 일부만 내고 나머지를 다음 달로 넘기는 서비스입니다. 답부터 적으면 미루는 게 아니라 대출입니다. 넘긴 금액에 이자가 붙고 그 금리가 상당히 높아요.</p>
+
+<p>저도 예전에 이게 무슨 유예 서비스인 줄 알고 신청할 뻔했는데요. 약관을 읽어보니 완전히 다른 이야기더라고요.</p>
+
+<p>이름만 부드럽지 결국 빚이다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">구 조</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">일부만 내고 이월합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">약정 결제비율만큼만 내고 나머지는 다음 달로 넘어갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">이 자</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">금리가 높습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이월 잔액에 카드론에 가까운 수준의 이자가 붙습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">누 적</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">잔액이 눈덩이가 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">매달 새 결제액이 더해져 갚아도 잔액이 잘 안 줄어듭니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">신 용</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신용평가에 반영됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이월 잔액이 부채로 잡혀 신용점수에 영향을 줍니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>구조</b> 약정 결제비율만큼만 내고 나머지는 다음 달로 넘어갑니다</li>
+<li><b>이자</b> 이월 잔액에 카드론에 가까운 수준의 이자가 붙습니다</li>
+<li><b>누적</b> 매달 새 결제액이 더해져 갚아도 잔액이 잘 안 줄어듭니다</li>
+<li><b>신용</b> 이월 잔액이 부채로 잡혀 신용점수에 영향을 줍니다</li>
+</ul>
+
+<h2>결제비율은 무엇인가요?</h2>
+
+<p>이번 달에 낼 비율을 미리 정해두는 겁니다. 낮을수록 당장 내는 돈이 적어요.</p>
+
+<h3>낮게 잡으면 부담이 커집니다</h3>
+
+<p>비율이 낮으면 이월 잔액이 크게 남습니다. 그만큼 이자가 많이 붙어요.</p>
+
+<p>비율을 높이면 당장은 부담스럽지만 총 이자는 줄어듭니다. 결국 빨리 갚는 게 답입니다.</p>
+
+<h3>현금서비스도 포함될 수 있습니다</h3>
+
+<p>일시불만이 아니라 현금서비스에도 리볼빙이 걸립니다. 두 가지 약정이 따로 있어요.</p>
+
+<p>내가 어느 쪽에 가입했는지 카드사 앱에서 확인하세요. 모르고 둘 다 걸려 있는 경우가 있더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">리볼빙</th>
+      <th style="padding:12px;text-align:left;">할부</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">대상</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">결제액 전체</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">건별 지정</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">기간</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">정해지지 않음</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">개월 수 확정</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">이자</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">잔액에 계속 발생</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">무이자 선택 가능</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">종료 시점</td>
+      <td style="padding:12px;">스스로 갚아야 끝</td>
+      <td style="padding:12px;">마지막 회차에 종료</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>대상</b> 할부는 건별로 고르지만 리볼빙은 결제액 전체에 걸립니다</li>
+<li><b>기간</b> 할부는 개월 수가 확정되지만 리볼빙은 끝이 정해지지 않습니다</li>
+<li><b>이자</b> 할부는 무이자가 있지만 리볼빙은 잔액에 계속 이자가 붙습니다</li>
+</ul>
+
+<blockquote>급한 달이 있으면 리볼빙보다 할부 전환이 낫습니다. 끝나는 날짜가 있다는 게 결정적인 차이입니다.</blockquote>
+
+<h2>해지는 어떻게 합니까</h2>
+
+<p>카드사 앱이나 고객센터에서 할 수 있습니다. 다만 조건이 하나 있어요.</p>
+
+<p>이월된 잔액을 전부 갚아야 완전히 해지됩니다. 잔액이 남아 있으면 신규 이월만 중단됩니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">먼저 신규 이월부터 끄세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">잔액을 다 갚을 돈이 없어도 약정을 중지하면 새로 넘어가는 금액이 없어집니다. 그다음 남은 잔액을 여유가 될 때마다 선결제로 줄여나가면 됩니다.</p>
+</div>
+
+<h3>선결제가 가장 빠릅니다</h3>
+
+<p>카드사 앱에서 이월 잔액을 미리 갚을 수 있습니다. 중도상환수수료도 없어요.</p>
+
+<p>이자는 잔액에 매일 붙습니다. 하루라도 빨리 넣는 게 이득입니다.</p>
+
+<p>잔액이 크면 카드론이나 신용대출로 갈아타는 방법도 있습니다. 금리 차이가 크면 그쪽이 유리해요.</p>
+
+<p>다만 대출이 하나 더 생기는 셈입니다. 총 부채가 늘지 않게 계산해보고 결정하세요.</p>
+
+<h2>왜 신용점수가 떨어집니까</h2>
+
+<p>이월 잔액이 대출로 잡히기 때문입니다. 카드값이 아니라 부채로 보는 거예요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 채</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">고금리 부채로 분류됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이월 잔액이 신용평가사에 대출 정보로 전달됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">오래 끌수록 불리합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">잔액을 계속 들고 있으면 상환 부담 지표가 나빠집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 출</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">대출 심사에 걸립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주담대나 전세대출을 받을 때 부채로 계산됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>부채 분류</b> 이월 잔액이 신용평가사에 대출 정보로 전달됩니다</li>
+<li><b>기간</b> 잔액을 오래 들고 있으면 상환 부담 지표가 나빠집니다</li>
+<li><b>대출 심사</b> 주담대나 전세대출을 받을 때 부채로 계산됩니다</li>
+</ul>
+
+<p>내 리볼빙 여부는 카드사 앱 결제 설정에서 확인됩니다. 가입한 기억이 없어도 한 번 열어보세요.</p>
+
+<blockquote>카드 발급이나 이벤트 참여 과정에서 자동으로 가입되는 경우가 있습니다. 안내를 못 봤다면 지금 확인이 필요합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>리볼빙은 유예가 아니라 고금리 대출입니다. 걸려 있다면 신규 이월부터 끄고 선결제로 잔액을 줄이세요.</p>
+
+<p>저는 결제일에 돈이 모자랄 때 이걸 쓰라는 안내를 여러 번 받았더라고요... 그때마다 할부로 돌렸습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 리볼빙의 정식 명칭은 일부결제금액이월약정입니다
+ · 약정 결제비율만큼만 결제하고 나머지 금액은 다음 달로 이월됩니다
+ · 이월된 잔액에는 이자가 부과되며 금리 수준이 높습니다
+ · 결제비율이 낮을수록 이월 잔액과 이자 부담이 커집니다
+ · 일시불 리볼빙과 현금서비스 리볼빙은 별도 약정입니다
+ · 할부는 기간이 확정되지만 리볼빙은 종료 시점이 정해져 있지 않습니다
+ · 이월 잔액은 신용평가사에 부채 정보로 반영됩니다
+ · 이월 잔액은 주택담보대출과 전세대출 심사에서 부채로 계산됩니다
+ · 해지는 카드사 앱과 고객센터에서 신청할 수 있습니다
+ · 이월 잔액이 남아 있으면 신규 이월만 중단되고 완전 해지는 되지 않습니다
+ · 이월 잔액은 선결제로 미리 갚을 수 있으며 중도상환수수료가 없습니다
+ · 이자는 잔액에 일할로 계산됩니다
+ · 카드 발급이나 이벤트 과정에서 리볼빙에 가입되는 경우가 있습니다
+ · 가입 여부는 카드사 앱의 결제 설정에서 확인할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 카드사별 리볼빙 금리 구간과 평균 적용 금리
+ · 결제비율의 최소값과 최대값
+ · 리볼빙 이용이 신용점수에 미치는 하락 폭
+ · 카드사별 약정 한도와 연체 시 처리 방식
+ · 선결제 처리에 걸리는 반영 시점
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 예전에 이게 무슨 유예 서비스인 줄 알고 신청할 뻔했는데요"
+ · "약관을 읽어보니 완전히 다른 이야기더라고요"
+ · "모르고 둘 다 걸려 있는 경우가 있더라고요"
+ · "저는 결제일에 돈이 모자랄 때 이걸 쓰라는 안내를 여러 번 받았더라고요"

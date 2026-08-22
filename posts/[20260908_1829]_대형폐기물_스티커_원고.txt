@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 8일 18:29
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260908_1829]_대형폐기물_스티커\
+   ├── 📄 [원고 파일]: [20260908_1829]_대형폐기물_스티커_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-bulkwaste.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260908_1829]_대형폐기물_스티커_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-bulkwaste.html
+
+■ 제목: 대형폐기물 스티커 파는 곳과 인터넷 발급 방법. 붙이는 위치와 무단투기 과태료
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 대형폐기물스티커, 대형폐기물신고, 대형폐기물스티커파는곳, 대형폐기물인터넷신고, 폐기물수수료, 무단투기과태료, 폐가전무상수거, 이사폐기물, 스티커붙이는법
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>대형폐기물 스티커 파는 곳과 인터넷 발급 방법. 붙이는 위치와 무단투기 과태료</p>
+
+<h2>이제 편의점보다 인터넷이 빠릅니다</h2>
+
+<p>대형폐기물 스티커는 예전처럼 동네 슈퍼에서 사는 방식만 있는 게 아닙니다. 답부터 적으면 지자체 홈페이지에서 신고하고 종이에 출력하거나 번호만 적어 붙이면 됩니다. 밤에도 되고 결제도 카드로 돼요.</p>
+
+<p>저희도 이사할 때 큰 가구를 버리면서 이걸 처음 해봤는데요. 편의점을 돌아다닌 시간이 아깝더라고요.</p>
+
+<p>안 팔면 어쩌나 걱정할 필요가 없었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방 법 1</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">인터넷 신고</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">거주지 구청 홈페이지나 앱에서 품목을 고르고 결제합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방 법 2</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">판매소 구매</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주민센터와 지정 판매소, 일부 편의점에서 스티커를 삽니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 격</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">품목과 크기로 정해집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">같은 소파라도 인승에 따라 수수료가 달라집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과 태 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">그냥 내놓으면 무단투기</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">스티커 없이 배출하면 폐기물관리법에 따라 과태료가 나옵니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>인터넷 신고</b> 구청 홈페이지나 앱에서 품목을 고르고 카드로 결제합니다</li>
+<li><b>판매소 구매</b> 주민센터와 지정 판매소, 일부 편의점에서 삽니다</li>
+<li><b>수수료</b> 품목과 크기에 따라 금액이 달라집니다</li>
+<li><b>과태료</b> 스티커 없이 배출하면 무단투기로 과태료가 부과됩니다</li>
+</ul>
+
+<h2>인터넷 신고는 어떻게 하나요?</h2>
+
+<p>거주지 지자체 홈페이지로 들어갑니다. 구마다 시스템이 조금씩 달라요.</p>
+
+<h3>주소와 품목을 고릅니다</h3>
+
+<p>배출할 주소를 넣고 목록에서 품목을 찾습니다. 크기나 인승을 고르면 수수료가 계산돼요.</p>
+
+<p>목록에 없는 물건은 기타로 신고하고 사진을 올리기도 합니다. 담당자가 확인해 금액을 정해줍니다.</p>
+
+<h3>배출 예정일을 지정합니다</h3>
+
+<p>날짜를 정하면 그날 수거해 갑니다. 지정한 날 아침까지 내놓아야 해요.</p>
+
+<p>동네마다 수거 요일이 정해져 있는 곳도 있습니다. 저는 이걸 몰라서 이틀을 그냥 세워뒀더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">배출 대상</th>
+      <th style="padding:12px;text-align:left;">처리 방법</th>
+      <th style="padding:12px;text-align:left;">비용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가구 침대 매트리스</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">대형폐기물 신고</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">유료</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">냉장고 세탁기 TV</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">폐가전 무상수거</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">무료</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">소형 가전 다량</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">무상수거 묶음 배출</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">무료</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">건축 폐자재</td>
+      <td style="padding:12px;">전문 처리업체</td>
+      <td style="padding:12px;">별도 계약</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>가구와 매트리스</b> 대형폐기물로 신고하고 수수료를 냅니다</li>
+<li><b>대형 가전</b> 폐가전 무상수거 예약으로 공짜로 가져갑니다</li>
+<li><b>건축 폐자재</b> 생활폐기물이 아니라 전문 업체를 통해 처리합니다</li>
+</ul>
+
+<blockquote>냉장고 세탁기 에어컨 TV는 스티커를 살 필요가 없습니다. 무상수거 예약이 훨씬 이득입니다.</blockquote>
+
+<h2>스티커는 어디에 붙입니까</h2>
+
+<p>수거하는 사람이 바로 보이는 곳에 붙입니다. 비를 맞아도 안 떨어지게 해야 해요.</p>
+
+<p>인터넷 신고는 스티커가 없는 경우가 많습니다. 신고번호를 종이에 크게 적어 붙이면 됩니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">비닐로 한 번 감싸주세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">종이에 적은 번호는 비에 젖으면 못 알아봅니다. 투명 테이프로 덮거나 비닐에 넣어 붙이면 수거가 밀리는 일이 줄어듭니다.</p>
+</div>
+
+<h3>배출 장소도 정해져 있습니다</h3>
+
+<p>아파트는 지정된 배출 장소가 따로 있습니다. 관리사무소에 물어보세요.</p>
+
+<p>단독주택은 집 앞 도로변에 내놓습니다. 통행에 방해되지 않게 두는 게 원칙입니다.</p>
+
+<p>엘리베이터가 없는 건물은 1층까지 내려두어야 합니다. 수거 기사가 계단으로 올라가지 않습니다.</p>
+
+<p>침대 매트리스는 세워두면 넘어질 수 있습니다. 벽에 붙여 눕히는 편이 안전하더라고요.</p>
+
+<h2>과태료는 얼마나 나옵니까</h2>
+
+<p>폐기물관리법에 따라 부과됩니다. 생각보다 금액이 작지 않아요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="7" width="18" height="12" rx="2" /><circle cx="12" cy="13" r="3" /><path d="M8 7l1.5-3h5L16 7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">단 속</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">CCTV와 신고로 잡힙니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">상습 무단투기 지역에는 카메라가 설치돼 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">증 거</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">버린 물건에서 나옵니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">택배 송장이나 서류가 남아 있으면 배출자가 특정됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">회 수</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">치우면 감경되기도 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">스스로 회수하고 정식으로 신고하면 조정되는 경우가 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>단속</b> 상습 무단투기 지역에는 CCTV가 설치돼 있습니다</li>
+<li><b>증거</b> 버린 물건에 송장이나 서류가 남으면 배출자가 특정됩니다</li>
+<li><b>회수</b> 스스로 치우고 정식 신고하면 조정되는 경우가 있습니다</li>
+</ul>
+
+<p>이사 업체가 대신 처리해주기도 합니다. 계약할 때 폐기물 처리가 포함인지 확인하세요.</p>
+
+<blockquote>중고로 팔거나 나눔을 하면 수수료가 아예 안 듭니다. 쓸 만한 가구는 먼저 내놓아보세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>가구는 구청 홈페이지에서 신고하고 번호를 적어 붙이면 됩니다. 냉장고와 세탁기는 무상수거로 부르세요.</p>
+
+<p>저는 스티커를 파는 곳을 찾느라 편의점 세 곳을 돌았던 적이 있더라고요... 지금은 그냥 인터넷으로 합니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 대형폐기물은 배출 전에 신고하고 수수료를 납부해야 합니다
+ · 신고는 거주지 지자체 홈페이지와 전용 앱, 주민센터와 지정 판매소에서 가능합니다
+ · 인터넷 신고 시 스티커 대신 신고번호를 적어 붙이는 방식이 널리 쓰입니다
+ · 수수료는 품목과 크기에 따라 다르게 책정됩니다
+ · 목록에 없는 품목은 기타로 신고하고 담당자가 금액을 확인합니다
+ · 배출 예정일을 지정하고 그날 아침까지 지정 장소에 내놓아야 합니다
+ · 냉장고 세탁기 에어컨 TV 등 대형 가전은 폐가전 무상수거로 무료 처리됩니다
+ · 소형 가전은 일정 수량 이상을 모으면 무상수거 대상이 됩니다
+ · 건축 폐자재는 생활폐기물이 아니라 전문 처리업체를 통해 처리합니다
+ · 스티커 없이 배출하면 폐기물관리법에 따라 무단투기 과태료가 부과됩니다
+ · 상습 무단투기 지역에는 단속 CCTV가 설치돼 있습니다
+ · 배출된 물건에서 송장이나 서류가 발견되면 배출자를 특정할 수 있습니다
+ · 아파트는 관리사무소가 정한 배출 장소를 이용합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 품목별 대형폐기물 수수료 금액과 지자체별 차이
+ · 무단투기 과태료의 금액과 위반 유형별 구간
+ · 소형 가전 무상수거의 최소 수량 기준
+ · 지자체별 수거 요일과 처리 소요 기간
+ · 자진 회수 시 과태료 감경 여부와 기준
+ · 신고 후 취소나 변경이 가능한 기한
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 이사할 때 큰 가구를 버리면서 이걸 처음 해봤는데요"
+ · "편의점을 돌아다닌 시간이 아깝더라고요"
+ · "저는 이걸 몰라서 이틀을 그냥 세워뒀더라고요"
+ · "저는 스티커를 파는 곳을 찾느라 편의점 세 곳을 돌았던 적이 있더라고요"

@@ -1,0 +1,254 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 8일 12:43
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260908_1243]_4세대_실손보험\
+   ├── 📄 [원고 파일]: [20260908_1243]_4세대_실손보험_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-gen4ins.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260908_1243]_4세대_실손보험_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-gen4ins.html
+
+■ 제목: 4세대 실손보험 전환 방법과 할증 기준. 비급여 이용량으로 보험료가 갈리는 구조
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 4세대실손보험, 실손보험전환, 4세대실손보험할증, 비급여자기부담금, 실손보험재가입, 1세대실손, 실손보험비교, 보험료차등제, 실손24
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>4세대 실손보험 전환 방법과 할증 기준. 비급여 이용량으로 보험료가 갈리는 구조</p>
+
+<h2>병원을 얼마나 가느냐로 보험료가 달라집니다</h2>
+
+<p>4세대 실손보험은 앞선 세대와 구조가 다릅니다. 답부터 적으면 비급여를 많이 쓰면 다음 해 보험료가 올라가고 안 쓰면 내려갑니다. 자동차보험처럼 개인별로 등급이 매겨지는 방식이에요.</p>
+
+<p>저도 오래된 실손을 그대로 두다가 보험료 고지서를 보고 비교해봤는데요. 병원을 거의 안 가는 해에는 4세대가 확실히 싸더라고요.</p>
+
+<p>어느 쪽이 유리한지는 사람마다 다르다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">구 조</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">급여와 비급여를 분리합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주계약은 급여, 특약은 비급여로 나뉘어 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">차 등 제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">비급여 이용량으로 할증</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">직전 기간 비급여 보험금에 따라 등급이 나뉘어 보험료가 달라집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">재 가 입</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">재가입 주기가 짧습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 주기마다 그 시점의 약관으로 다시 가입하는 구조입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">자기부담</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">자기부담률이 높습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">앞선 세대보다 본인이 내는 비율이 커서 소액 청구는 손해입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>구조</b> 주계약은 급여, 특약은 비급여로 나뉘어 있습니다</li>
+<li><b>보험료 차등제</b> 직전 기간 비급여 보험금에 따라 등급이 나뉩니다</li>
+<li><b>재가입</b> 정해진 주기마다 그 시점의 약관으로 다시 가입합니다</li>
+<li><b>자기부담률</b> 앞선 세대보다 높아 소액 청구는 실익이 적습니다</li>
+</ul>
+
+<h2>전환 방법은 어떻게 되나요?</h2>
+
+<p>가입한 보험사에 신청하면 됩니다. 새로 심사를 받는 게 아니에요.</p>
+
+<h3>같은 보험사 안에서만 됩니다</h3>
+
+<p>계약전환 제도는 기존 보험사에서 4세대로 옮기는 방식입니다. 다른 회사로 갈아타려면 신규 가입이라 심사를 받습니다.</p>
+
+<p>전환은 무심사입니다. 병력이 있어도 그대로 넘어갈 수 있어요.</p>
+
+<h3>기존 계약은 소멸합니다</h3>
+
+<p>전환하면 이전 세대 계약은 없어집니다. 다시 돌아갈 수 없어요.</p>
+
+<p>일정 기간 안에는 철회가 가능한 제도가 있습니다. 보험사에 기간을 꼭 확인하세요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">세대</th>
+      <th style="padding:12px;text-align:left;">특징</th>
+      <th style="padding:12px;text-align:left;">자기부담</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">1세대</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">보장 범위가 가장 넓음</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매우 낮음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">2세대</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">표준화 이후 계약</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">낮음</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">3세대</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">일부 비급여 특약 분리</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">중간</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">4세대</td>
+      <td style="padding:12px;">비급여 차등제 도입</td>
+      <td style="padding:12px;">높음</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>1세대와 2세대</b> 보장이 넓고 자기부담이 낮아 병원을 자주 가면 유리합니다</li>
+<li><b>3세대</b> 일부 비급여가 특약으로 분리된 중간 형태입니다</li>
+<li><b>4세대</b> 비급여 차등제가 있어 병원을 덜 가면 보험료가 내려갑니다</li>
+</ul>
+
+<blockquote>오래된 계약일수록 보장이 좋지만 보험료 인상률도 큽니다. 지금 보험료와 앞으로의 인상을 같이 봐야 합니다.</blockquote>
+
+<h2>할증 기준은 어떻게 되나요</h2>
+
+<p>직전 기간에 받은 비급여 보험금 총액으로 등급을 매깁니다. 급여는 계산에 안 들어가요.</p>
+
+<p>등급은 여러 단계로 나뉘고 가장 높은 단계는 보험료가 크게 올라갑니다. 반대로 아예 안 받았으면 할인이 붙습니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">중증 질환은 차등에서 빠집니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">암이나 뇌혈관질환, 희귀난치성질환 같은 중증 치료로 받은 보험금은 할증 계산에서 제외됩니다. 큰 병에 걸렸다고 보험료가 뛰지는 않습니다.</p>
+</div>
+
+<h3>어떤 항목이 비급여인가요</h3>
+
+<p>도수치료, 체외충격파, 영양주사, 비급여 MRI 같은 항목입니다. 실손 적자의 상당 부분을 차지해왔어요.</p>
+
+<p>이런 치료를 자주 받는 분은 4세대 전환이 불리할 수 있습니다. 최근 몇 년 청구 내역을 먼저 뽑아보세요.</p>
+
+<h2>누가 전환하면 좋을까요</h2>
+
+<p>병원 이용 패턴이 답을 정합니다. 나이보다 이게 더 중요해요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">유 리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">병원을 거의 안 가는 경우</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">청구 이력이 없으면 할인 등급으로 보험료가 내려갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">불 리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">도수치료를 자주 받는 경우</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비급여 청구가 많으면 할증과 높은 자기부담이 겹칩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">확 인</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">청구 내역부터 뽑습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">최근 몇 년간 받은 보험금을 확인하고 판단하면 됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>유리한 경우</b> 청구 이력이 없으면 할인 등급으로 보험료가 내려갑니다</li>
+<li><b>불리한 경우</b> 비급여 청구가 많으면 할증과 높은 자기부담이 겹칩니다</li>
+<li><b>판단 방법</b> 최근 몇 년간 받은 보험금 내역을 먼저 확인합니다</li>
+</ul>
+
+<p>보험사 앱이나 내보험찾아줌에서 가입 세대와 청구 이력을 볼 수 있습니다. 숫자를 놓고 결정하세요.</p>
+
+<blockquote>전환 뒤에는 원래 계약으로 못 돌아갑니다. 급하게 결정할 일이 아닙니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>4세대는 병원을 덜 가는 사람에게 유리한 구조입니다. 비급여 청구가 잦다면 지금 계약을 유지하는 편이 나을 수 있어요.</p>
+
+<p>저는 무조건 갈아타는 게 이득인 줄 알았는데 계산해보니 아니더라고요... 청구 내역부터 열어보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 4세대 실손보험은 주계약을 급여, 특약을 비급여로 분리한 구조입니다
+ · 비급여 보험금 수령액에 따라 다음 기간 보험료가 할인 또는 할증되는 차등제가 적용됩니다
+ · 급여 항목 보험금은 할증 계산에 반영되지 않습니다
+ · 암, 뇌혈관질환, 희귀난치성질환 등 중증 질환 관련 보험금은 차등제에서 제외됩니다
+ · 4세대는 이전 세대보다 자기부담률이 높습니다
+ · 정해진 재가입 주기마다 그 시점의 약관으로 다시 가입하는 구조입니다
+ · 계약전환은 기존 가입 보험사 안에서만 가능합니다
+ · 계약전환은 별도 심사 없이 진행됩니다
+ · 전환하면 기존 세대 계약은 소멸하며 일정 기간 내 철회 제도가 있습니다
+ · 다른 보험사로 옮기려면 신규 가입이라 심사를 받아야 합니다
+ · 도수치료, 체외충격파, 영양주사, 비급여 MRI 등이 대표적인 비급여 항목입니다
+ · 가입 세대와 청구 이력은 보험사 앱과 내보험찾아줌에서 확인할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 보험료 차등제의 등급 구간과 등급별 할인 할증률
+ · 4세대의 급여 비급여별 자기부담률 수치
+ · 재가입 주기의 연수
+ · 계약전환 후 철회가 가능한 기간
+ · 세대별 보험료 수준과 연도별 인상률
+ · 5세대 실손보험 도입 논의의 진행 상황
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 오래된 실손을 그대로 두다가 보험료 고지서를 보고 비교해봤는데요"
+ · "병원을 거의 안 가는 해에는 4세대가 확실히 싸더라고요"
+ · "저는 무조건 갈아타는 게 이득인 줄 알았는데 계산해보니 아니더라고요"

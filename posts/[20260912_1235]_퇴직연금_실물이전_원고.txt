@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 12일 12:35
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260912_1235]_퇴직연금_실물이전\
+   ├── 📄 [원고 파일]: [20260912_1235]_퇴직연금_실물이전_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-pentransfer.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260912_1235]_퇴직연금_실물이전_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-pentransfer.html
+
+■ 제목: 퇴직연금 실물이전 방법과 사전조회 순서. 현금이전과 갈리는 지점 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 퇴직연금실물이전, 실물이전제도, 실물이전사전조회, 현금이전, IRP이전, DC형이전, 퇴직연금계좌이동, 매도손실, 금융감독원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>퇴직연금 실물이전 방법과 사전조회 순서. 현금이전과 갈리는 지점 정리</p>
+
+<h2>팔지 않고 그대로 옮깁니다</h2>
+
+<p>퇴직연금 실물이전은 계좌를 다른 금융사로 옮길 때 갖고 있던 상품을 그대로 이전하는 제도입니다. 답부터 적으면 예전에는 무조건 팔아야 했습니다. 이제는 팔지 않고 옮길 수 있어 손실 확정을 피할 수 있어요.</p>
+
+<p>저도 수수료가 싼 곳으로 옮기려다 이 제도를 알았는데요. 다 팔고 옮기라는 안내를 듣고 미뤄뒀던 게 풀리더라고요.</p>
+
+<p>손해 보고 옮길 이유가 없어졌다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12h18" /><path d="M14 5l7 7-7 7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">개 념</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상품을 그대로 옮깁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보유한 펀드와 ETF를 매도하지 않고 새 계좌로 이전합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M16 16l5 5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">사전조회</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">먼저 조회부터 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">받는 쪽에서 취급하는 상품인지 미리 확인하는 절차입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제 외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">안 옮겨지는 상품이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">받는 금융사가 취급하지 않는 상품은 팔아서 현금으로 옮깁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">며칠이 걸립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신청 후 이전이 완료될 때까지 영업일이 소요됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>개념</b> 보유한 펀드와 ETF를 매도하지 않고 새 계좌로 이전합니다</li>
+<li><b>사전조회</b> 받는 쪽에서 취급하는 상품인지 미리 확인합니다</li>
+<li><b>제외 상품</b> 취급하지 않는 상품은 매도해 현금으로 옮깁니다</li>
+<li><b>소요 기간</b> 신청 후 완료까지 영업일이 걸립니다</li>
+</ul>
+
+<h2>왜 매도가 문제였나요?</h2>
+
+<p>옮기려면 무조건 팔아야 했기 때문입니다. 그 시점의 가격으로 손익이 확정됐어요.</p>
+
+<h3>손실 구간에서 옮기기 어려웠습니다</h3>
+
+<p>계좌가 마이너스일 때 팔면 손실이 그대로 굳습니다. 수수료를 아끼려다 더 큰 손해를 보는 구조였어요.</p>
+
+<p>다시 사려 해도 그사이 가격이 오르면 수량이 줄어듭니다. 며칠의 공백이 생각보다 크더라고요.</p>
+
+<h3>이제는 그 공백이 없습니다</h3>
+
+<p>상품이 그대로 넘어가니 시장에서 빠져 있는 기간이 사라집니다. 수량도 유지돼요.</p>
+
+<p>다만 이전 중에는 매매가 제한됩니다. 급하게 사고팔 계획이 있으면 시점을 조정하세요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">실물이전</th>
+      <th style="padding:12px;text-align:left;">현금이전</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매도 여부</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">팔지 않음</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">전부 매도</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">손익 확정</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">유지</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">그 시점에 확정</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">시장 공백</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">없음</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">발생</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">가능 조건</td>
+      <td style="padding:12px;">양쪽이 취급하는 상품</td>
+      <td style="padding:12px;">제한 없음</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>매도 여부</b> 실물이전은 팔지 않고 현금이전은 전부 매도합니다</li>
+<li><b>손익</b> 실물이전은 평가손익이 유지되고 현금이전은 그 시점에 확정됩니다</li>
+<li><b>가능 조건</b> 실물이전은 양쪽 금융사가 모두 취급하는 상품이어야 합니다</li>
+</ul>
+
+<blockquote>원리금보장 상품 중에도 이전이 안 되는 게 있습니다. 예금은 만기 전 이전이 제한되는 경우가 많습니다.</blockquote>
+
+<h2>사전조회는 어떻게 합니까</h2>
+
+<p>옮겨 갈 금융사에서 조회를 신청합니다. 지금 갖고 있는 상품 목록을 보내 확인받는 절차예요.</p>
+
+<p>결과가 나오면 이전 가능과 불가능이 나뉩니다. 불가능한 것만 팔고 나머지는 그대로 옮기면 됩니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">계좌 종류가 같아야 옮겨집니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">IRP는 IRP로, DC는 DC로 옮기는 게 원칙입니다. 계좌 성격이 다르면 실물이전 대상이 아니니 이전 전에 어떤 계좌인지부터 확인해야 합니다.</p>
+</div>
+
+<h3>수수료는 왜 비교하나요</h3>
+
+<p>퇴직연금은 운용관리와 자산관리 수수료가 매년 빠집니다. 오래 굴릴수록 차이가 커져요.</p>
+
+<p>증권사는 수수료를 면제하는 곳이 많습니다. 다만 상품 라인업이 다르니 함께 봐야 합니다.</p>
+
+<h2>옮기기 전에 볼 것</h2>
+
+<p>수수료만 보고 결정하면 아쉬울 수 있습니다. 세 가지를 같이 보세요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">수 수 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">면제 조건을 봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비대면 개설이나 일정 기간만 면제되는 경우가 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="4" width="16" height="16" rx="2" /><path d="M8 12h8M12 8v8" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">상 품</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">라인업이 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내가 사고 싶은 ETF와 펀드가 있는지 미리 확인합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">앱</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">운용 편의성도 봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">매매 화면이 불편하면 결국 손이 안 갑니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>수수료</b> 비대면 개설이나 기간 한정 면제인지 조건을 봅니다</li>
+<li><b>상품 라인업</b> 사고 싶은 ETF와 펀드를 취급하는지 확인합니다</li>
+<li><b>운용 편의성</b> 매매 화면이 불편하면 결국 방치하게 됩니다</li>
+</ul>
+
+<p>회사가 정한 사업자가 있는 DC형은 개인이 마음대로 못 옮깁니다. IRP는 자유롭게 이동할 수 있어요.</p>
+
+<blockquote>이전 신청은 옮겨 갈 금융사에서 합니다. 기존 금융사에 따로 해지 신청을 할 필요가 없습니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>옮길 금융사에서 사전조회를 먼저 하고 이전 가능 목록을 받으세요. 안 되는 상품만 정리하면 나머지는 그대로 넘어갑니다.</p>
+
+<p>저는 수수료 차이가 별거 아닐 줄 알았는데 20년으로 계산해보니 꽤 크더라고요... 손실 구간이어도 이제는 옮길 수 있습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 퇴직연금 실물이전은 보유 상품을 매도하지 않고 다른 금융사 계좌로 옮기는 제도입니다
+ · 제도 도입 전에는 이전 시 보유 상품을 전부 매도해야 했습니다
+ · 실물이전은 받는 금융사가 해당 상품을 취급할 때만 가능합니다
+ · 취급하지 않는 상품은 매도 후 현금으로 이전합니다
+ · 이전 전에 사전조회를 통해 이전 가능 여부를 확인합니다
+ · 이전 신청은 옮겨 갈 금융사에서 하며 기존 금융사에 별도 해지 신청이 필요 없습니다
+ · IRP는 IRP로, DC는 DC로 같은 종류의 계좌 간에 이전합니다
+ · 이전 처리에는 영업일 기준 일정 기간이 소요됩니다
+ · 이전 진행 중에는 매매가 제한됩니다
+ · 원리금보장 상품은 만기 전 이전이 제한되는 경우가 있습니다
+ · 퇴직연금 계좌에는 운용관리 수수료와 자산관리 수수료가 부과됩니다
+ · 증권사 중에는 수수료를 면제하는 곳이 있습니다
+ · 회사가 사업자를 정한 DC형은 개인이 임의로 금융사를 바꿀 수 없습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 실물이전이 가능한 상품의 구체적 범위
+ · 이전 처리에 걸리는 영업일 수
+ · 금융사별 운용관리와 자산관리 수수료율
+ · 수수료 면제 조건과 면제 기간
+ · 원리금보장 상품의 이전 제한 요건
+ · 사전조회 결과가 나오기까지 걸리는 시간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 수수료가 싼 곳으로 옮기려다 이 제도를 알았는데요"
+ · "다 팔고 옮기라는 안내를 듣고 미뤄뒀던 게 풀리더라고요"
+ · "며칠의 공백이 생각보다 크더라고요"
+ · "저는 수수료 차이가 별거 아닐 줄 알았는데 20년으로 계산해보니 꽤 크더라고요"

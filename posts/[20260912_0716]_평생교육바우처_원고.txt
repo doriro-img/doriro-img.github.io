@@ -1,0 +1,268 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 12일 07:16
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260912_0716]_평생교육바우처\
+   ├── 📄 [원고 파일]: [20260912_0716]_평생교육바우처_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-eduvoucher.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260912_0716]_평생교육바우처_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-eduvoucher.html
+
+■ 제목: 평생교육바우처 사용처와 신청 자격. 카드 발급 후 결제되는 강좌 구분법
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 평생교육바우처, 평생교육바우처사용처, 평생교육바우처카드, 평생교육바우처신청, 평생교육이용권, 국가평생교육진흥원, 내일배움카드, 바우처사용기한, 온라인강좌
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>평생교육바우처 사용처와 신청 자격. 카드 발급 후 결제되는 강좌 구분법</p>
+
+<h2>등록된 기관에서만 결제됩니다</h2>
+
+<p>평생교육바우처는 성인이 배우고 싶은 걸 배우도록 수강료를 지원하는 이용권입니다. 답부터 적으면 아무 학원에서나 쓸 수 없습니다. 사업에 등록된 평생교육기관에서만 결제돼요.</p>
+
+<p>저도 이걸 알아보다가 동네 학원에서 안 된다는 걸 알고 놀랐는데요. 사용처 검색을 먼저 하는 게 순서더라고요.</p>
+
+<p>카드부터 받아놓고 헤맬 뻔했다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M9 10h6M9 14h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">저소득 성인이 대상입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기초생활수급자와 차상위, 기준 중위소득 이하 가구가 신청합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">카 드</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">전용 카드로 결제합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">선정되면 지정 카드사에서 바우처 카드를 발급받습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 21s7-5.4 7-11a7 7 0 1 0-14 0c0 5.6 7 11 7 11z" /><circle cx="12" cy="10" r="2.6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">사 용 처</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">등록 기관에서만 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사업에 참여 등록한 평생교육기관의 강좌만 결제됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사용 기한이 있습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 기간 안에 안 쓰면 남은 금액이 소멸됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>지원 대상</b> 기초생활수급자와 차상위, 기준 중위소득 이하 성인입니다</li>
+<li><b>전용 카드</b> 선정되면 지정 카드사에서 바우처 카드를 발급받습니다</li>
+<li><b>사용처</b> 사업에 참여 등록한 평생교육기관의 강좌만 결제됩니다</li>
+<li><b>사용 기한</b> 정해진 기간 안에 안 쓰면 잔액이 소멸됩니다</li>
+</ul>
+
+<h2>무엇을 배울 수 있나요?</h2>
+
+<p>직업 훈련만 있는 게 아닙니다. 취미와 교양도 포함이에요.</p>
+
+<h3>온라인 강좌가 많습니다</h3>
+
+<p>등록된 온라인 교육 플랫폼에서 결제할 수 있습니다. 지방에 살아도 선택지가 넓어요.</p>
+
+<p>어학과 자격증 강의가 특히 많습니다. 인문 교양이나 컴퓨터 활용도 있더라고요.</p>
+
+<h3>교재비도 되는 경우가 있습니다</h3>
+
+<p>강좌와 묶인 교재는 함께 결제되기도 합니다. 기관마다 처리가 달라요.</p>
+
+<p>단순 도서 구입은 안 됩니다. 강의 없이 책만 사는 건 지원 목적에 안 맞거든요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">평생교육바우처</th>
+      <th style="padding:12px;text-align:left;">내일배움카드</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">목적</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">평생학습 지원</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">직업능력 개발</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">주관</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">교육부</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">고용노동부</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">소득 요건</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">있음</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">대부분 없음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">자부담</td>
+      <td style="padding:12px;">한도 내 전액 지원</td>
+      <td style="padding:12px;">과정별 자부담</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>목적</b> 평생교육바우처는 평생학습, 내일배움카드는 직업능력 개발입니다</li>
+<li><b>소득 요건</b> 평생교육바우처는 소득 기준이 있고 내일배움카드는 대부분 없습니다</li>
+<li><b>자부담</b> 바우처는 한도 안에서 전액 지원되고 내일배움카드는 자부담이 붙습니다</li>
+</ul>
+
+<blockquote>두 제도는 목적이 달라 함께 활용할 수 있습니다. 중복 여부는 과정별로 확인하세요.</blockquote>
+
+<h2>신청은 어떻게 합니까</h2>
+
+<p>평생교육바우처 누리집에서 온라인으로 신청합니다. 모집 기간이 정해져 있어요.</p>
+
+<p>신청 인원이 예산보다 많으면 선정 절차를 거칩니다. 소득이 낮은 순으로 우선 선정되는 구조입니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">추가 모집이 열리기도 합니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">1차에서 떨어져도 예산이 남으면 추가 모집을 진행합니다. 누리집 공지를 확인하거나 알림을 받아두면 기회를 놓치지 않습니다.</p>
+</div>
+
+<h3>지역 바우처와 다릅니다</h3>
+
+<p>검색하면 지자체 이름이 붙은 평생교육바우처가 나옵니다. 그건 별개 사업이에요.</p>
+
+<p>국가 사업과 지역 사업은 신청처와 자격이 다릅니다. 사는 곳 지자체 홈페이지도 따로 확인해보세요.</p>
+
+<h3>선정 결과는 문자로 옵니다</h3>
+
+<p>발표일에 문자와 누리집 공지로 알려줍니다. 로그인해서 직접 확인할 수도 있어요.</p>
+
+<p>선정됐는데 카드를 안 만들면 지원이 취소됩니다. 발급 기한이 따로 있으니 안내를 잘 보세요.</p>
+
+<p>카드는 우편으로 옵니다. 도착까지 며칠 걸리니 수강 신청 일정을 여유 있게 잡는 게 좋더라고요.</p>
+
+<h2>카드를 받은 뒤에는 무엇을 합니까</h2>
+
+<p>사용처를 먼저 찾고 등록하는 순서입니다. 결제 방식도 알아두면 편해요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M16 16l5 5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">검 색</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">누리집에서 기관을 찾습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지역과 분야로 등록 기관을 검색할 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">결 제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">본인 명의로만 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가족이 대신 결제하거나 양도하는 것은 금지됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">환 불</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">환불은 바우처로 돌아옵니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">수강 취소 시 현금이 아니라 잔액으로 복구됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>기관 검색</b> 누리집에서 지역과 분야로 등록 기관을 찾습니다</li>
+<li><b>본인 사용</b> 가족 대리 결제나 양도는 금지됩니다</li>
+<li><b>환불</b> 수강 취소 시 현금이 아니라 바우처 잔액으로 복구됩니다</li>
+</ul>
+
+<p>부정 사용이 확인되면 환수되고 다음 신청이 제한됩니다. 현금화 제안은 절대 응하지 마세요.</p>
+
+<blockquote>잔액과 사용 내역은 카드사 앱과 누리집에서 확인됩니다. 기한 전에 한 번 점검하세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>소득 요건에 해당하면 누리집에서 신청하고 카드를 받으세요. 배우고 싶은 강좌가 등록 기관 것인지부터 확인하면 됩니다.</p>
+
+<p>저는 이게 직업 교육 전용인 줄 알았는데 취미 강좌도 되더라고요... 기한 지나면 그냥 사라지니 미루지 마세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 평생교육바우처는 교육부와 국가평생교육진흥원이 운영하는 평생학습 지원 사업입니다
+ · 지원 대상은 기초생활수급자, 차상위계층, 기준 중위소득 이하 가구의 성인입니다
+ · 선정되면 지정 카드사에서 전용 바우처 카드를 발급받습니다
+ · 사업에 참여 등록한 평생교육기관의 강좌에서만 결제됩니다
+ · 온라인 교육 플랫폼도 등록 기관에 포함됩니다
+ · 강좌와 연계된 교재비는 기관에 따라 결제가 가능합니다
+ · 단순 도서 구입은 지원 대상이 아닙니다
+ · 사용 기한이 정해져 있고 기한 내 미사용 잔액은 소멸됩니다
+ · 신청은 평생교육바우처 누리집에서 모집 기간에 온라인으로 합니다
+ · 신청이 예산을 초과하면 소득 수준 등을 고려해 선정합니다
+ · 예산이 남으면 추가 모집이 진행되기도 합니다
+ · 지자체가 운영하는 유사 사업은 국가 사업과 별개입니다
+ · 본인 명의로만 사용해야 하며 대리 결제와 양도가 금지됩니다
+ · 수강 취소 시 환불금은 현금이 아니라 바우처 잔액으로 복구됩니다
+ · 부정 사용 시 환수와 신청 제한 조치가 있습니다
+ · 잔액과 사용 내역은 카드사 앱과 누리집에서 조회합니다
+ · 내일배움카드는 고용노동부 사업으로 목적과 자격이 다릅니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 연간 1인당 지원 금액
+ · 기준 중위소득 대비 신청 자격 비율
+ · 2026년 모집 기간과 추가 모집 일정
+ · 사용 기한의 종료일
+ · 등록 기관 수와 분야별 강좌 범위
+ · 지자체별 유사 사업의 지원 금액과 자격
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 이걸 알아보다가 동네 학원에서 안 된다는 걸 알고 놀랐는데요"
+ · "사용처 검색을 먼저 하는 게 순서더라고요"
+ · "인문 교양이나 컴퓨터 활용도 있더라고요"
+ · "저는 이게 직업 교육 전용인 줄 알았는데 취미 강좌도 되더라고요"

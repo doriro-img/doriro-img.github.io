@@ -1,0 +1,254 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 4일 12:52
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260904_1252]_예금자보호\
+   ├── 📄 [원고 파일]: [20260904_1252]_예금자보호_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-deposit.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260904_1252]_예금자보호_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-deposit.html
+
+■ 제목: 예금자보호한도 1억 상향과 은행별 적용. 신협과 저축은행이 다른 이유 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 예금자보호한도, 예금자보호1억, 예금자보호법, 저축은행예금자보호, 신협예금자보호, 예금보험공사, 우체국예금, CMA예금자보호, 예금보호대상
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>예금자보호한도 1억 상향과 은행별 적용. 신협과 저축은행이 다른 이유 정리</p>
+
+<h2>한도는 사람이 아니라 금융회사마다 붙습니다</h2>
+
+<p>예금자보호한도는 금융회사가 망했을 때 예금보험공사가 대신 돌려주는 최대 금액입니다. 답부터 적으면 이 한도는 한 사람이 아니라 금융회사 한 곳당 적용됩니다. 그래서 여러 은행에 나눠 넣으면 그만큼 보호받습니다.</p>
+
+<p>저희도 목돈을 잠깐 굴릴 때 이걸 몰라서 한 은행에 다 넣어뒀는데요. 나눠 넣는 게 기본이라는 걸 나중에 알았더라고요.</p>
+
+<p>한 군데 몰아넣을 이유가 없다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21h18" /><path d="M5 21V9l7-5 7 5v12" /><path d="M9 21v-6h6v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">단 위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">금융회사별로 따집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">같은 회사의 여러 계좌는 합산해서 한 한도로 봅니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">범 위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">원금과 이자를 합칩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보호 금액은 원금만이 아니라 소정의 이자를 더한 값입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제 외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">투자상품은 안 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">펀드 주식 채권 실적배당형 상품은 보호 대상이 아닙니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 관</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">보호하는 곳이 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신협 새마을금고 농협 단위조합은 각자의 기금으로 보호합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>적용 단위</b> 금융회사 한 곳당 한도가 붙고 같은 회사 계좌는 합산됩니다</li>
+<li><b>보호 범위</b> 원금에 소정의 이자를 더한 금액까지 보호됩니다</li>
+<li><b>제외 상품</b> 펀드 주식 채권 같은 실적배당형은 보호되지 않습니다</li>
+<li><b>보호 기관</b> 신협 새마을금고 등은 예금보험공사가 아닌 자체 기금으로 보호합니다</li>
+</ul>
+
+<h2>1억으로 오르면 무엇이 달라지나요?</h2>
+
+<p>오랫동안 5천만원이었던 한도가 1억으로 올라갑니다. 나눠 넣어야 하는 기준선이 두 배가 되는 거예요.</p>
+
+<h3>계좌를 덜 쪼개도 됩니다</h3>
+
+<p>예전에는 5천만원 단위로 은행을 옮겨 다녀야 했습니다. 이제는 한 곳에 더 많이 둘 수 있어요.</p>
+
+<p>이자까지 포함해서 한도를 계산해야 합니다. 딱 한도에 맞춰 넣으면 이자가 붙어 한도를 넘어갑니다.</p>
+
+<h3>고금리 상품 경쟁이 붙습니다</h3>
+
+<p>저축은행 쪽으로 돈이 옮겨갈 수 있습니다. 보호 한도가 커지면 위험 부담이 줄어드니까요.</p>
+
+<p>다만 금리가 높다고 무조건 안전한 건 아닙니다. 회사의 재무 상태를 같이 보는 게 맞더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">기관</th>
+      <th style="padding:12px;text-align:left;">보호 주체</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">은행 저축은행</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">예금보험공사</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">예금자보호법 적용</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신협</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신협중앙회 기금</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">자체 예금자보호</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">새마을금고</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">새마을금고중앙회</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">자체 기금</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">우체국</td>
+      <td style="padding:12px;">국가</td>
+      <td style="padding:12px;">전액 보장</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>은행과 저축은행</b> 예금보험공사가 예금자보호법에 따라 보호합니다</li>
+<li><b>신협과 새마을금고</b> 각 중앙회의 자체 기금으로 보호합니다</li>
+<li><b>우체국</b> 국가가 지급을 보장해 한도 제한이 없습니다</li>
+</ul>
+
+<blockquote>우체국 예금은 우체국예금보험에 관한 법률에 따라 국가가 전액 지급을 보장합니다. 한도 개념이 다릅니다.</blockquote>
+
+<h2>어떤 상품이 보호되지 않습니까</h2>
+
+<p>원금이 보장되는 예금 성격이어야 합니다. 수익이 시장에 따라 변하는 건 빠집니다.</p>
+
+<p>펀드와 주식은 당연히 제외입니다. 문제는 은행 창구에서 파는 상품 중에도 제외되는 게 있다는 점이에요.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">CMA는 종류에 따라 갈립니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">종금형 CMA는 예금자보호 대상이지만 RP형과 발행어음형, MMF형은 예금자보호가 되지 않습니다. 같은 CMA라는 이름을 써도 성격이 전혀 다릅니다.</p>
+</div>
+
+<h3>가입할 때 표시를 확인하세요</h3>
+
+<p>상품설명서에 예금자보호 여부가 반드시 적혀 있습니다. 가입 화면에도 문구가 나와요.</p>
+
+<p>보호 대상이 아니라고 나쁜 상품이라는 뜻은 아닙니다. 위험을 알고 고르는 것과 모르고 드는 건 다를 뿐입니다.</p>
+
+<h2>돈을 어떻게 나눠야 하나요</h2>
+
+<p>기준은 간단합니다. 한 회사에 한도를 넘기지 않는 것부터 시작해요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">이 자</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이자 몫을 비워두세요</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">만기 이자까지 더해 한도를 넘지 않게 여유를 두고 넣습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21v-2a5 5 0 0 1 5-5h6a5 5 0 0 1 5 5v2" /><circle cx="12" cy="7" r="4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">명 의</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">명의를 나누면 각각 보호됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">부부가 각자 명의로 두면 한도가 따로 적용됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">지 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">지점을 나눠도 소용없습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">같은 은행이면 지점이 달라도 하나로 합산합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>이자 여유</b> 만기 이자까지 더해 한도를 넘지 않게 여유를 두고 넣습니다</li>
+<li><b>명의 분산</b> 부부가 각자 명의로 두면 한도가 따로 적용됩니다</li>
+<li><b>지점 분산</b> 같은 은행이면 지점이 달라도 하나로 합산됩니다</li>
+</ul>
+
+<p>신협과 새마을금고는 조합마다 별개 법인입니다. 다른 조합에 나눠 넣으면 각각 보호를 받습니다.</p>
+
+<blockquote>대출이 있으면 예금에서 먼저 상계 처리되는 경우가 있습니다. 순수하게 예금만 돌려받는 게 아닙니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>한 금융회사에 한도를 넘겨 두지 마세요. 이자까지 계산해서 여유를 두는 게 핵심입니다.</p>
+
+<p>저는 예금자보호가 통장 하나에 붙는 줄 알았는데 회사 단위더라고요... 지점만 옮기는 건 아무 의미가 없습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 예금자보호는 금융회사가 파산할 때 예금보험공사가 대신 지급하는 제도입니다
+ · 보호 한도는 예금자 1인이 금융회사 한 곳에 대해 적용받습니다
+ · 같은 금융회사의 여러 계좌와 여러 지점은 합산해 하나의 한도로 봅니다
+ · 보호 금액은 원금과 소정의 이자를 합한 금액입니다
+ · 예금자보호한도는 5천만원에서 1억원으로 상향되는 내용이 법으로 정해졌습니다
+ · 펀드 주식 채권 등 실적배당형 상품은 보호 대상이 아닙니다
+ · 종금형 CMA는 보호 대상이고 RP형 발행어음형 MMF형은 보호 대상이 아닙니다
+ · 신협과 새마을금고, 농협 수협 단위조합은 각 중앙회의 자체 기금으로 보호합니다
+ · 우체국 예금은 우체국예금보험에 관한 법률에 따라 국가가 지급을 보장합니다
+ · 신협과 새마을금고는 조합별로 별개 법인이라 조합마다 보호가 적용됩니다
+ · 상품설명서와 가입 화면에 예금자보호 여부가 표시됩니다
+ · 같은 금융회사에 대출이 있으면 예금과 상계 처리될 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 예금자보호한도 1억원 상향의 시행일과 적용 시점
+ · 상호금융권과 업권별 한도 적용 시기의 차이
+ · 소정의 이자를 산정할 때 적용하는 이율 기준
+ · 저축은행별 재무 건전성 지표와 공시 확인 방법
+ · 예금보험공사의 가지급금 지급 절차와 소요 기간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 목돈을 잠깐 굴릴 때 이걸 몰라서 한 은행에 다 넣어뒀는데요"
+ · "나눠 넣는 게 기본이라는 걸 나중에 알았더라고요"
+ · "회사의 재무 상태를 같이 보는 게 맞더라고요"
+ · "저는 예금자보호가 통장 하나에 붙는 줄 알았는데 회사 단위더라고요"

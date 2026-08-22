@@ -1,0 +1,261 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 12일 18:28
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260912_1828]_투명페트병_분리배출\
+   ├── 📄 [원고 파일]: [20260912_1828]_투명페트병_분리배출_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-plastic.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260912_1828]_투명페트병_분리배출_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-plastic.html
+
+■ 제목: 투명 페트병 분리배출 방법과 뚜껑 처리. 의무화 대상과 과태료 기준 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 투명페트병분리배출, 페트병분리배출방법, 투명페트병뚜껑, 분리배출의무화, 분리배출과태료, 라벨제거, 재활용, 무인회수기, 공동주택분리배출
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>투명 페트병 분리배출 방법과 뚜껑 처리. 의무화 대상과 과태료 기준 정리</p>
+
+<h2>뚜껑은 닫아서 버리는 게 맞습니다</h2>
+
+<p>투명 페트병 분리배출은 라벨을 떼고 따로 모으는 게 기본입니다. 답부터 적으면 뚜껑은 빼서 버리라는 안내와 닫아서 버리라는 안내가 섞여 있습니다. 지금은 닫아서 배출하는 쪽이 표준이에요.</p>
+
+<p>저희 아파트에서도 이걸 두고 이웃분과 얘기가 나왔는데요. 관리사무소에 물어보니 닫아서 내라고 하더라고요.</p>
+
+<p>예전에 배운 게 지금은 다르다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M10 2h4v3l2 3v11a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3V8l2-3z" /><path d="M8 12h8" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">내용물을 비우고 헹굽니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">음료가 남아 있으면 재활용 품질이 떨어집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 8h16v8H4z" /><path d="M8 4l-2 4M16 4l2 4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">라벨을 뗍니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비닐 라벨은 따로 떼어 비닐류로 버립니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M6 12h12" /><path d="M9 8l3-4 3 4" /><path d="M9 16l3 4 3-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">밟아서 찌그러뜨립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">부피를 줄이면 수거와 운반이 훨씬 수월해집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">뚜껑을 닫아 전용함에</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">뚜껑을 닫아 부피를 유지한 채 투명 페트병 전용함에 넣습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 내용물을 비우고 물로 한 번 헹굽니다</li>
+<li><b>2단계</b> 비닐 라벨을 떼어 비닐류로 따로 버립니다</li>
+<li><b>3단계</b> 밟아서 부피를 줄입니다</li>
+<li><b>4단계</b> 뚜껑을 닫아 투명 페트병 전용함에 넣습니다</li>
+</ul>
+
+<h2>뚜껑은 왜 닫으라고 하나요?</h2>
+
+<p>예전에는 재질이 달라 빼라고 했습니다. 지금은 선별 기술이 좋아져서 상황이 달라졌어요.</p>
+
+<h3>찌그러뜨린 상태를 유지합니다</h3>
+
+<p>뚜껑을 닫으면 눌러놓은 부피가 그대로 유지됩니다. 수거 차량에 더 많이 실려요.</p>
+
+<p>뚜껑만 따로 버리면 크기가 작아 선별 과정에서 걸러지지 않습니다. 결국 소각되는 경우가 많더라고요.</p>
+
+<h3>재질이 달라도 분리됩니다</h3>
+
+<p>뚜껑은 페트가 아니라 다른 플라스틱입니다. 재활용 공정에서 물에 뜨고 가라앉는 성질로 분리해요.</p>
+
+<p>고리 부분도 그대로 두면 됩니다. 억지로 뜯을 필요가 없습니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">품목</th>
+      <th style="padding:12px;text-align:left;">투명 페트</th>
+      <th style="padding:12px;text-align:left;">처리</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">생수병 음료병</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">해당</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">전용함</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">색깔 있는 페트병</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">아님</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">일반 플라스틱</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">간장 식용유병</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">아님</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">일반 플라스틱</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">비닐 라벨</td>
+      <td style="padding:12px;">아님</td>
+      <td style="padding:12px;">비닐류</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>투명 페트</b> 생수병과 음료병이 전용함 대상입니다</li>
+<li><b>색깔 페트</b> 초록이나 갈색 병은 일반 플라스틱으로 버립니다</li>
+<li><b>간장과 식용유병</b> 내용물이 배어 있어 투명 페트에 넣지 않습니다</li>
+</ul>
+
+<blockquote>투명해 보여도 이물질이 남은 병은 제외입니다. 기름이나 색이 밴 병은 일반 플라스틱으로 갑니다.</blockquote>
+
+<h2>투명 페트병 의무화 대상은 어디까지입니까</h2>
+
+<p>공동주택부터 시작해 단독주택까지 확대됐습니다. 아파트는 전용 수거함이 따로 있어요.</p>
+
+<p>단독주택은 배출 요일이 정해진 곳이 많습니다. 그날 투명 페트병만 따로 담아 내놓습니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">잘못 버리면 과태료 대상입니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">재활용품을 종량제 봉투에 넣거나 분리 기준을 지키지 않으면 폐기물관리법에 따라 과태료가 부과될 수 있습니다. 실제로는 계도 위주지만 반복되면 부과됩니다.</p>
+</div>
+
+<h3>무인회수기를 쓰면 포인트가 쌓입니다</h3>
+
+<p>지자체가 설치한 회수기에 넣으면 개수만큼 포인트가 들어옵니다. 현금으로 바꾸거나 지역화폐로 받아요.</p>
+
+<p>라벨을 떼고 찌그러뜨리지 않은 상태로 넣어야 인식됩니다. 기계마다 조건이 조금 다릅니다.</p>
+
+<p>하루에 넣을 수 있는 개수에 제한이 있습니다. 한꺼번에 모아 가면 다 못 넣을 수 있어요.</p>
+
+<p>설치 위치는 지자체 홈페이지나 앱에서 찾습니다. 주민센터와 공원에 두는 곳이 많습니다.</p>
+
+<p>포인트는 일정 금액이 쌓여야 인출됩니다. 소액이라도 꾸준히 넣으면 생각보다 빨리 모이더라고요.</p>
+
+<h2>왜 이렇게까지 나누나요</h2>
+
+<p>투명 페트만 모으면 옷을 만들 수 있는 고품질 원료가 됩니다. 섞이면 그 가치가 사라져요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 7l8-4 8 4-8 4z" /><path d="M4 12l8 4 8-4M4 17l8 4 8-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">품 질</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">고품질 원료가 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">투명한 것만 모으면 섬유와 식품용기로 재생됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">수 입</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">수입 의존을 줄입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">고품질 폐페트를 수입하던 물량을 국내에서 대체합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3v18" /><path d="M5 8c3 0 5 2 7 4M19 8c-3 0-5 2-7 4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">비 용</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">선별 비용이 줄어듭니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">배출 단계에서 나누면 선별장 부담이 크게 줄어듭니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>품질</b> 투명한 것만 모으면 섬유와 식품용기로 재생됩니다</li>
+<li><b>수입 대체</b> 고품질 폐페트 수입 물량을 국내에서 대체합니다</li>
+<li><b>비용</b> 배출 단계에서 나누면 선별장 부담이 줄어듭니다</li>
+</ul>
+
+<p>라벨이 잘 안 떨어지면 뜨거운 물에 잠깐 담가보세요. 절취선이 있는 제품도 늘고 있습니다.</p>
+
+<blockquote>배출 요일과 방법은 지자체마다 다릅니다. 아파트는 관리사무소 안내를 따르면 됩니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>헹구고 라벨 떼고 밟아서 뚜껑 닫아 전용함에 넣으면 끝입니다. 색깔 있는 병과 기름병은 일반 플라스틱으로 가세요.</p>
+
+<p>저는 뚜껑을 빼는 게 맞는 줄 알고 몇 년을 그렇게 했더라고요... 이제는 닫아서 냅니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 투명 페트병 분리배출은 공동주택부터 시행돼 단독주택으로 확대됐습니다
+ · 배출 순서는 내용물 비우기, 라벨 제거, 압착, 뚜껑 닫아 배출입니다
+ · 현재 안내 기준은 뚜껑을 닫아서 배출하는 것입니다
+ · 뚜껑을 닫으면 압착한 부피가 유지돼 수거 효율이 올라갑니다
+ · 뚜껑만 따로 버리면 크기가 작아 선별 과정에서 걸러지기 어렵습니다
+ · 뚜껑은 페트와 다른 재질이며 재활용 공정에서 비중 차이로 분리됩니다
+ · 색깔이 있는 페트병은 투명 페트병 전용 배출 대상이 아닙니다
+ · 간장이나 식용유가 담겼던 병은 이물질 때문에 제외됩니다
+ · 비닐 라벨은 비닐류로 따로 배출합니다
+ · 재활용품을 종량제 봉투에 넣거나 기준을 지키지 않으면 과태료 대상이 될 수 있습니다
+ · 지자체가 설치한 무인회수기에 넣으면 포인트가 적립됩니다
+ · 투명 페트만 모으면 섬유와 식품용기 원료로 재생할 수 있습니다
+ · 배출 요일과 방법은 지자체와 공동주택마다 다릅니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 분리배출 기준 위반 과태료의 금액
+ · 무인회수기의 개당 적립 포인트와 현금 전환 기준
+ · 지자체별 단독주택 배출 요일
+ · 무인회수기가 인식하는 페트병의 상태 조건
+ · 투명 페트병 재활용률의 최근 수치
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 아파트에서도 이걸 두고 이웃분과 얘기가 나왔는데요"
+ · "관리사무소에 물어보니 닫아서 내라고 하더라고요"
+ · "결국 소각되는 경우가 많더라고요"
+ · "저는 뚜껑을 빼는 게 맞는 줄 알고 몇 년을 그렇게 했더라고요"

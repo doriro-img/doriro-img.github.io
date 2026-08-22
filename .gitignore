@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+
+# API 키 — 이 레포는 공개다. push.cjs 가 git add -A 를 쓰므로 반드시 막아둔다.
+.env
+.env.*
+!.env.example

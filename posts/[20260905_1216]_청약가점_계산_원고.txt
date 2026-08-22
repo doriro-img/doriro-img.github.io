@@ -1,0 +1,258 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 5일 12:16
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260905_1216]_청약가점_계산\
+   ├── 📄 [원고 파일]: [20260905_1216]_청약가점_계산_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-subpoint.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260905_1216]_청약가점_계산_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-subpoint.html
+
+■ 제목: 청약 가점 계산 방법과 부양가족 인정 범위. 무주택 기간이 시작되는 시점 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 청약가점계산, 청약가점, 부양가족, 무주택기간, 청약통장가입기간, 청약홈, 가점계산기, 청약가점표, 부적격당첨
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>청약 가점 계산 방법과 부양가족 인정 범위. 무주택 기간이 시작되는 시점 정리</p>
+
+<h2>가점은 세 항목을 더한 값입니다</h2>
+
+<p>청약 가점 계산은 무주택 기간과 부양가족 수, 청약통장 가입 기간 세 가지를 더해서 나옵니다. 답부터 적으면 만점은 84점이고 부양가족 배점이 가장 큽니다. 그래서 같은 나이라도 가족 구성에 따라 점수 차이가 크게 벌어져요.</p>
+
+<p>저도 처음 계산해보고 생각보다 점수가 낮아서 놀랐는데요. 무주택 기간을 잘못 세고 있었더라고요.</p>
+
+<p>내가 아는 계산이 틀렸었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 10.5 12 3l9 7.5" /><path d="M5 10v10h14V10" /><path d="M10 20v-6h4v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">32 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">무주택 기간</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">최대 32점이며 1년 단위로 점수가 올라갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21v-2a5 5 0 0 1 5-5h6a5 5 0 0 1 5 5v2" /><circle cx="12" cy="7" r="4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">35 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부양가족 수</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">최대 35점으로 배점이 가장 크고 한 명당 5점씩 붙습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">17 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">청약통장 가입 기간</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">최대 17점이며 가입한 날부터 계산합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">84 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">만점은 84점입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">세 항목을 더한 값이며 잘못 적으면 부적격 처리됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>무주택 기간</b> 최대 32점이며 1년 단위로 점수가 올라갑니다</li>
+<li><b>부양가족 수</b> 최대 35점으로 배점이 가장 크고 한 명당 5점씩 붙습니다</li>
+<li><b>청약통장 가입 기간</b> 최대 17점이며 가입한 날부터 계산합니다</li>
+<li><b>만점</b> 세 항목을 더해 84점이고 잘못 적으면 부적격 처리됩니다</li>
+</ul>
+
+<h2>무주택 기간은 언제부터 세나요?</h2>
+
+<p>여기서 가장 많이 틀립니다. 태어난 날부터 세는 게 아니에요.</p>
+
+<h3>만 30세가 기준점입니다</h3>
+
+<p>만 30세가 되는 날부터 무주택 기간을 셉니다. 그전에는 아무리 집이 없어도 0점입니다.</p>
+
+<p>예외가 하나 있습니다. 만 30세 전에 혼인신고를 했다면 혼인신고일부터 세요.</p>
+
+<h3>집을 팔았다면 처분한 날부터입니다</h3>
+
+<p>중간에 집을 가졌던 적이 있으면 무주택 기간이 끊깁니다. 판 날짜부터 다시 시작해요.</p>
+
+<p>배우자가 결혼 전에 집을 갖고 있었어도 마찬가지입니다. 세대 기준으로 보기 때문이더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">상황</th>
+      <th style="padding:12px;text-align:left;">기산일</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">미혼</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">만 30세 생일</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">그전은 0점</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">30세 전 혼인</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">혼인신고일</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">등록기준 확인</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">주택 처분 이력</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">처분 등기일</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">기간 초기화</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">배우자 주택 보유</td>
+      <td style="padding:12px;">처분일 기준</td>
+      <td style="padding:12px;">세대 단위 판단</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>미혼</b> 만 30세 생일부터 세고 그전에는 점수가 없습니다</li>
+<li><b>30세 전 혼인</b> 혼인신고일부터 무주택 기간을 셉니다</li>
+<li><b>주택 처분</b> 판 날짜부터 다시 시작하며 배우자 보유도 함께 봅니다</li>
+</ul>
+
+<blockquote>전용면적 20제곱미터 이하 소형 주택 한 채는 무주택으로 보는 예외가 있습니다. 조건이 붙으니 공고문을 확인하세요.</blockquote>
+
+<h2>부양가족은 누구까지 넣습니까</h2>
+
+<p>배점이 제일 큰 만큼 판정이 까다롭습니다. 등본에 같이 있다고 다 되는 게 아니에요.</p>
+
+<p>본인은 부양가족에 들어가지 않습니다. 배우자와 직계존속, 직계비속을 셉니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">부모님은 3년 등재가 조건입니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">직계존속을 부양가족으로 넣으려면 청약 신청일 기준 일정 기간 이상 계속 같은 세대에 등재돼 있어야 합니다. 부모님이 다른 주택을 갖고 있으면 부양가족에서 빠집니다.</p>
+</div>
+
+<h3>자녀는 나이를 봅니다</h3>
+
+<p>미혼 자녀는 나이 제한 없이 들어가는 게 원칙입니다. 다만 만 30세가 넘으면 조건이 붙어요.</p>
+
+<p>만 30세 이상 미혼 자녀는 일정 기간 이상 같은 세대에 있어야 인정됩니다. 손자녀는 부모가 모두 사망한 경우에만 인정돼요.</p>
+
+<h2>가입 기간 계산 방법은 어떻게 되나요</h2>
+
+<p>청약통장을 만든 날부터 셉니다. 납입 횟수와는 다른 개념이에요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가입일부터 셉니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">중간에 납입을 쉬어도 가입 기간은 계속 흘러갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">승 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">명의 변경은 제한적입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사망 상속 같은 정해진 사유일 때만 가입 기간이 승계됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">해 지</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">해지하면 처음부터입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">통장을 깨고 새로 만들면 가입 기간이 0에서 다시 시작합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>기산일</b> 가입한 날부터 세고 납입을 쉬어도 기간은 흘러갑니다</li>
+<li><b>명의 변경</b> 사망 상속 같은 정해진 사유일 때만 기간이 승계됩니다</li>
+<li><b>해지</b> 통장을 깨고 새로 만들면 가입 기간이 0에서 다시 시작합니다</li>
+</ul>
+
+<p>정확한 점수는 청약홈의 청약가점 계산기로 확인합니다. 모의 계산이라 실제 신청과는 별개예요.</p>
+
+<blockquote>가점을 잘못 적어 당첨되면 부적격으로 취소되고 일정 기간 청약이 제한됩니다. 헷갈리면 공고문과 청약홈을 다시 보세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>무주택 기간은 만 30세나 혼인신고일부터, 부양가족은 세대 등재와 주택 보유 여부까지 봅니다. 통장 기간은 가입일 기준입니다.</p>
+
+<p>저는 부양가족 항목에서 부모님을 넣을 수 있는지 몰라서 몇 점을 그냥 흘렸더라고요... 청약홈 계산기로 한 번 돌려보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 청약 가점은 무주택 기간, 부양가족 수, 청약통장 가입 기간을 합산합니다
+ · 무주택 기간 배점은 최대 32점입니다
+ · 부양가족 수 배점은 최대 35점으로 세 항목 중 가장 큽니다
+ · 청약통장 가입 기간 배점은 최대 17점입니다
+ · 가점 만점은 84점입니다
+ · 무주택 기간은 만 30세부터 기산하며 그 전에 혼인신고를 했다면 혼인신고일부터 셉니다
+ · 주택을 보유했던 이력이 있으면 처분일부터 무주택 기간을 다시 계산합니다
+ · 배우자의 주택 보유도 세대 기준으로 함께 판단합니다
+ · 부양가족에 본인은 포함되지 않고 배우자와 직계존비속을 셉니다
+ · 직계존속은 일정 기간 이상 같은 세대에 등재돼 있어야 인정됩니다
+ · 주택을 소유한 직계존속은 부양가족에서 제외됩니다
+ · 손자녀는 부모가 모두 사망한 경우에 한해 인정됩니다
+ · 청약통장 가입 기간은 가입일부터 계산하며 납입 중단과 무관합니다
+ · 통장을 해지하고 재가입하면 가입 기간이 처음부터 다시 시작합니다
+ · 가점을 잘못 기재해 당첨되면 부적격 처리되고 청약이 제한됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 무주택 기간과 가입 기간의 연차별 세부 배점표
+ · 직계존속 부양가족 인정에 필요한 세대 등재 기간
+ · 만 30세 이상 미혼 자녀의 세대 등재 기간 요건
+ · 무주택으로 보는 소형 저가주택의 면적과 가액 기준
+ · 부적격 당첨 시 청약 제한 기간
+ · 특별공급과 일반공급의 가점제 적용 비율
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 처음 계산해보고 생각보다 점수가 낮아서 놀랐는데요"
+ · "무주택 기간을 잘못 세고 있었더라고요"
+ · "세대 기준으로 보기 때문이더라고요"
+ · "저는 부양가족 항목에서 부모님을 넣을 수 있는지 몰라서 몇 점을 그냥 흘렸더라고요"

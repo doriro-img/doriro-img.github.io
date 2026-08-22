@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 3일 07:36
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260903_0736]_문화누리카드\
+   ├── 📄 [원고 파일]: [20260903_0736]_문화누리카드_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-culturecard.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260903_0736]_문화누리카드_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-culturecard.html
+
+■ 제목: 문화누리카드 사용처와 잔액조회 방법. 온라인 결제와 연말 소멸 전 쓰는 순서
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 문화누리카드, 문화누리카드사용처, 문화누리카드잔액조회, 문화누리카드온라인, 문화누리카드충전, 문화누리카드가맹점, 통합문화이용권, 문화누리카드영화예매, 문화누리카드신청
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>문화누리카드 사용처와 잔액조회 방법. 온라인 결제와 연말 소멸 전 쓰는 순서</p>
+
+<h2>남은 금액은 해가 바뀌면 사라집니다</h2>
+
+<p>문화누리카드는 기초생활수급자와 차상위계층에게 문화 체육 관광비를 지원하는 카드입니다. 답부터 적으면 그해 안에 다 써야 합니다. 남은 잔액은 이월되지 않고 소멸돼요.</p>
+
+<p>저희 이웃분이 이걸 몰라서 몇 년째 절반만 쓰고 계셨는데요. 사용처를 알려드렸더니 그제야 잘 쓰시더라고요.</p>
+
+<p>안 쓰면 그냥 없어지는 돈이다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">수급자와 차상위계층</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기초생활수급자와 차상위계층에게 1인당 연간 지원금을 줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">그해 안에 써야 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">사용 기한이 지나면 남은 금액은 이월 없이 소멸됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">재 충 전</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">자동 재충전이 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전년도에 일정 금액 이상 쓴 사람은 신청 없이 자동으로 충전됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M9 10h6M9 14h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">범 위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문화 여행 체육 세 갈래</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">공연 영화 도서 숙박 교통 운동 관련 가맹점에서 쓸 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>지원 대상</b> 기초생활수급자와 차상위계층에게 1인당 연간 지원금을 줍니다</li>
+<li><b>사용 기한</b> 기한이 지나면 남은 금액은 이월 없이 소멸됩니다</li>
+<li><b>자동 재충전</b> 전년도에 일정 금액 이상 쓴 사람은 신청 없이 충전됩니다</li>
+<li><b>사용 범위</b> 공연 영화 도서 숙박 교통 운동 가맹점에서 쓸 수 있습니다</li>
+</ul>
+
+<h2>어디에서 쓸 수 있나요?</h2>
+
+<p>생각보다 훨씬 넓습니다. 문화 쪽만 되는 줄 아는 분이 많은데 여행과 체육도 포함이에요.</p>
+
+<h3>영화관과 서점은 거의 다 됩니다</h3>
+
+<p>주요 멀티플렉스 영화관과 대형 서점이 가맹점입니다. 온라인 예매도 되고 현장 발권도 됩니다.</p>
+
+<p>서점에서는 도서와 문구를 같이 사는 경우가 있는데 문구는 결제가 안 되는 곳이 있더라고요. 계산 전에 한 번 물어보세요.</p>
+
+<h3>기차표와 고속버스도 됩니다</h3>
+
+<p>KTX와 무궁화호, 고속버스 예매가 가능합니다. 명절에 고향 갈 때 쓰기 좋아요.</p>
+
+<p>숙박은 일부 예약 플랫폼에서 됩니다. 지역 축제나 관광지 입장료도 가맹점이면 결제됩니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">분야</th>
+      <th style="padding:12px;text-align:left;">쓸 수 있는 곳</th>
+      <th style="padding:12px;text-align:left;">온라인</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">문화예술</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">영화관 공연장 서점 화방</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">가능</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">국내여행</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">기차 고속버스 숙박 관광지</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">가능</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">체육</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">체육시설 이용료 스포츠용품</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">일부</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">제외</td>
+      <td style="padding:12px;">식음료 주류 담배 현금인출</td>
+      <td style="padding:12px;">불가</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>문화예술</b> 영화관 공연장 서점 화방에서 온라인 결제도 됩니다</li>
+<li><b>국내여행</b> 기차와 고속버스 예매, 숙박과 관광지 입장료가 가능합니다</li>
+<li><b>제외 항목</b> 식음료 주류 담배와 현금 인출은 되지 않습니다</li>
+</ul>
+
+<blockquote>같은 매장이라도 가맹 등록이 안 돼 있으면 결제가 막힙니다. 문화누리 누리집 가맹점 검색으로 미리 확인하세요.</blockquote>
+
+<h2>잔액조회는 어떻게 합니까</h2>
+
+<p>세 가지 방법이 있습니다. 편한 걸로 하나만 알아두면 됩니다.</p>
+
+<p>문화누리카드 누리집이나 앱에서 카드번호를 넣으면 바로 보입니다. 카드사 앱으로도 조회되고 ARS 전화도 가능해요.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">결제할 때 순서를 정해두세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">지원금이 남아 있으면 지원금부터 빠져나갑니다. 금액이 모자라면 부족한 만큼만 본인 부담으로 결제되니 잔액을 알고 가면 계산이 편합니다.</p>
+</div>
+
+<h3>카드를 잃어버렸다면</h3>
+
+<p>카드사 고객센터로 분실 신고를 하고 재발급을 받습니다. 잔액은 그대로 남아요.</p>
+
+<p>재발급 수수료가 붙는 경우가 있습니다. 주민센터에서 발급받은 카드는 창구에서 처리하는 게 빠르더라고요.</p>
+
+<h2>신청은 언제 해야 하나요</h2>
+
+<p>매년 초에 발급 기간이 열립니다. 그 기간이 지나도 연중 발급을 받는 지자체가 있어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M3 10.5 12 3l9 7.5" /><path d="M5 10v10h14V10" /><path d="M10 20v-6h4v6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방 문</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">행정복지센터</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신분증을 들고 주소지 주민센터에 가면 그 자리에서 발급됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">온 라 인</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문화누리 누리집</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">본인 인증 후 온라인으로 신청하면 카드가 집으로 옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21v-2a5 5 0 0 1 5-5h6a5 5 0 0 1 5 5v2" /><circle cx="12" cy="7" r="4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가족이 대신 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">같은 세대 가족은 위임장 없이 대리 신청이 가능한 곳이 많습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>행정복지센터</b> 신분증을 들고 가면 그 자리에서 발급됩니다</li>
+<li><b>온라인 신청</b> 문화누리 누리집에서 본인 인증 후 신청하면 집으로 옵니다</li>
+<li><b>대리 신청</b> 같은 세대 가족은 위임장 없이 되는 곳이 많습니다</li>
+</ul>
+
+<p>기존 카드가 있으면 새로 만들 필요가 없습니다. 그 카드에 그대로 충전됩니다.</p>
+
+<blockquote>전년도에 일정 금액 이상 사용한 분은 자동 재충전 대상입니다. 신청하지 않아도 됩니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>영화와 도서만 생각하지 말고 기차표와 체육시설까지 넓게 보세요. 잔액은 누리집이나 앱에서 카드번호만 넣으면 바로 확인됩니다.</p>
+
+<p>저는 이 카드가 문화생활 전용인 줄 알았는데 명절 기차표까지 된다는 걸 알고 놀랐습니다... 연말 되기 전에 잔액부터 한번 보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 문화누리카드는 통합문화이용권 사업으로 문화체육관광부가 운영합니다
+ · 지원 대상은 기초생활수급자와 차상위계층입니다
+ · 지원금은 1인당 연간 단위로 지급되며 사용 기한이 지나면 소멸됩니다
+ · 잔액은 다음 해로 이월되지 않습니다
+ · 전년도에 일정 금액 이상 사용한 경우 신청 없이 자동 재충전됩니다
+ · 사용 분야는 문화예술, 국내여행, 체육 세 가지입니다
+ · 영화관 공연장 서점 화방, 기차와 고속버스 예매, 숙박과 관광지가 가맹점에 포함됩니다
+ · 식음료 주류 담배 구매와 현금 인출은 사용이 제한됩니다
+ · 잔액은 문화누리카드 누리집과 앱, 카드사 앱, ARS로 조회합니다
+ · 결제 시 지원금이 먼저 차감되고 부족분만 본인 부담으로 결제됩니다
+ · 발급은 주소지 행정복지센터 방문과 문화누리 누리집 온라인으로 가능합니다
+ · 기존 카드 보유자는 재발급 없이 같은 카드에 충전됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 1인당 연간 지원 금액
+ · 사용 기한의 정확한 마감일
+ · 자동 재충전 대상이 되는 전년도 최소 사용 금액과 비율
+ · 연도별 발급 신청 기간과 지자체별 연중 발급 운영 여부
+ · 카드 재발급 수수료 금액
+ · 온라인 가맹점 목록과 플랫폼별 사용 가능 범위
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 이웃분이 이걸 몰라서 몇 년째 절반만 쓰고 계셨는데요"
+ · "사용처를 알려드렸더니 그제야 잘 쓰시더라고요"
+ · "문구는 결제가 안 되는 곳이 있더라고요"
+ · "주민센터에서 발급받은 카드는 창구에서 처리하는 게 빠르더라고요"
+ · "저는 이 카드가 문화생활 전용인 줄 알았는데 명절 기차표까지 된다는 걸 알고 놀랐습니다"

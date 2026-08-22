@@ -1,0 +1,252 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 1일 18:26
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260901_1826]_주민등록_사실조사\
+   ├── 📄 [원고 파일]: [20260901_1826]_주민등록_사실조사_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-residentsurvey.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260901_1826]_주민등록_사실조사_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-residentsurvey.html
+
+■ 제목: 주민등록 사실조사 비대면 방법과 안 하면 생기는 일. 세대원 확인과 GPS 인증 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 주민등록사실조사, 사실조사비대면, 사실조사과태료, 사실조사세대원, 정부24, 주민등록법, 거주불명등록, 사실조사gps, 주민등록사실조사안하면
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주민등록 사실조사 비대면 방법과 안 하면 생기는 일. 세대원 확인과 GPS 인증 정리</p>
+
+<h2>집에 사람이 왔다 갔다는 안내문을 받으셨나요</h2>
+
+<p>주민등록 사실조사는 등록된 주소에 실제로 사는지를 확인하는 절차입니다. 답부터 적으면 비대면으로 먼저 끝내는 게 제일 편합니다. 안 하면 방문조사 대상이 되고 최종적으로 과태료까지 갑니다.</p>
+
+<p>저희 집도 작년에 문에 안내문이 붙어 있었는데요. 앱으로 하는 게 있는 줄 모르고 낮에 사람 오기를 기다렸더라고요.</p>
+
+<p>그냥 안 하고 넘어가면 되는 줄 알았다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">비대면 조사 기간</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정부24 앱에서 세대주가 직접 참여해 끝낼 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 10.5 12 3l9 7.5" /><path d="M5 10v10h14V10" /><path d="M10 20v-6h4v6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">방문 조사</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비대면에 참여하지 않은 세대는 통장이나 담당 공무원이 직접 찾아옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사실조사 결과 정리</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">실제 거주가 확인되지 않으면 최고와 공고 절차로 넘어갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">불 이 익</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">거주불명 등록</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주소가 읍면동 사무소로 옮겨지고 각종 행정 서비스가 막힙니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>비대면 조사</b> 정부24 앱에서 세대주가 직접 참여해 끝낼 수 있습니다</li>
+<li><b>방문 조사</b> 참여하지 않은 세대는 통장이나 담당 공무원이 직접 찾아옵니다</li>
+<li><b>결과 정리</b> 실제 거주가 확인되지 않으면 최고와 공고 절차로 넘어갑니다</li>
+<li><b>거주불명 등록</b> 주소가 읍면동 사무소로 옮겨지고 행정 서비스가 막힙니다</li>
+</ul>
+
+<h2>비대면 조사는 어떻게 하나요?</h2>
+
+<p>정부24 앱을 깔고 로그인한 뒤 사실조사 메뉴로 들어갑니다. 세대주 본인만 할 수 있어요.</p>
+
+<h3>GPS 위치 확인이 핵심입니다</h3>
+
+<p>앱이 휴대폰 위치를 읽어서 등록된 주소와 맞는지를 봅니다. 그래서 집 안에서 해야 합니다.</p>
+
+<p>회사나 카페에서 누르면 위치가 안 맞아 진행이 막힙니다. 저는 퇴근하고 집에 와서 다시 눌렀더니 한 번에 되더라고요.</p>
+
+<h3>세대원 정보를 화면에서 확인합니다</h3>
+
+<p>현재 등록된 세대원이 쭉 뜹니다. 실제로 같이 사는 사람이 맞는지 체크하면 끝이에요.</p>
+
+<p>이사 나간 가족이 그대로 올라 있으면 여기서 걸립니다. 그 사람은 따로 전입신고를 해야 정리가 됩니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">상황</th>
+      <th style="padding:12px;text-align:left;">비대면으로 되나</th>
+      <th style="padding:12px;text-align:left;">해야 할 일</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">세대원 그대로</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">앱에서 확인만</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">이사 나간 세대원 있음</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">일부 가능</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">본인이 전입신고</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">세대주가 장기 부재</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">어려움</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">주민센터 문의</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">중점조사 대상 세대</td>
+      <td style="padding:12px;">불가</td>
+      <td style="padding:12px;">방문조사 응대</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>세대원 그대로</b> 앱에서 확인만 누르면 그 자리에서 끝납니다</li>
+<li><b>이사 나간 세대원</b> 그 사람이 직접 전입신고를 해야 정리됩니다</li>
+<li><b>중점조사 대상</b> 비대면이 안 되고 방문조사를 받아야 합니다</li>
+</ul>
+
+<blockquote>비대면 참여는 세대주만 됩니다. 세대원은 참여 버튼이 아예 뜨지 않습니다.</blockquote>
+
+<h2>중점조사 대상은 왜 따로 봅니까</h2>
+
+<p>모든 세대를 다 방문하지는 않습니다. 기록상 문제가 있어 보이는 세대만 골라서 직접 확인해요.</p>
+
+<p>사망 의심자가 있거나 100세 이상 고령자가 있는 세대, 장기 결석 아동이 있는 세대가 여기 들어갑니다. 복지 사각지대를 찾으려는 목적이 큽니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">신분증을 먼저 확인하세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">방문조사원은 공무원증이나 조사원증을 갖고 다닙니다. 계좌번호나 비밀번호를 묻는 일은 절대 없으니 그런 요구가 오면 주민센터에 바로 전화하세요.</p>
+</div>
+
+<h3>이사한 지 얼마 안 됐다면</h3>
+
+<p>전입신고를 제대로 했으면 그 주소로 조사가 갑니다. 문제는 신고를 안 하고 이사한 경우예요.</p>
+
+<p>이때가 과태료가 붙는 자리입니다. 사실조사 기간에 자진신고를 하면 감면을 해주는 지자체도 있더라고요.</p>
+
+<h2>안 하면 어떻게 되나요</h2>
+
+<p>바로 과태료가 나오는 건 아닙니다. 단계가 있어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M4 6l8 7 8-7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">최 고</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">최고서가 옵니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">거주 사실을 확인할 수 없으니 신고하라는 통지가 먼저 나갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="3" width="16" height="18" rx="2" /><path d="M8 8h8M8 12h8M8 16h5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">공 고</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">공고 절차로 넘어갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">최고에도 응답이 없으면 게시판에 공고한 뒤 직권 조치가 들어갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과 태 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신고 의무 위반 과태료</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전입신고를 기한 안에 하지 않은 사실이 드러나면 과태료가 부과됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>최고서 발송</b> 거주 사실을 확인할 수 없으니 신고하라는 통지가 먼저 나갑니다</li>
+<li><b>공고 절차</b> 응답이 없으면 공고 후 직권 조치가 들어갑니다</li>
+<li><b>과태료</b> 전입신고를 기한 안에 하지 않은 사실이 드러나면 부과됩니다</li>
+</ul>
+
+<p>거주불명으로 등록되면 등본에 그렇게 찍힙니다. 은행 업무나 대출, 각종 신청에서 바로 걸려요.</p>
+
+<blockquote>거주불명 등록은 주민등록을 말소하는 게 아닙니다. 다시 전입신고를 하면 정상으로 돌아옵니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>안내문을 받았으면 집에서 정부24 앱을 열고 세대주 계정으로 확인만 누르면 됩니다. 5분도 안 걸려요.</p>
+
+<p>저는 처음에 이게 무슨 조사인가 싶어서 미뤘는데 알고 보니 별거 아니더라고요... 이사 나간 가족이 등본에 남아 있는지만 이번 기회에 같이 보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 주민등록 사실조사는 주민등록법에 따라 실제 거주 여부를 확인하는 절차입니다
+ · 비대면 조사는 정부24 앱에서 세대주 본인이 참여합니다
+ · 비대면 참여 시 휴대폰 GPS로 등록 주소와 실제 위치가 일치하는지 확인합니다
+ · 비대면에 참여하지 않은 세대는 방문조사 대상이 됩니다
+ · 중점조사 대상에는 사망 의심자, 고령자 세대, 장기 결석 아동 세대 등이 포함됩니다
+ · 방문조사원은 공무원증이나 조사원증을 소지합니다
+ · 거주 사실이 확인되지 않으면 최고와 공고를 거쳐 거주불명 등록으로 처리됩니다
+ · 거주불명 등록은 주민등록 말소가 아니며 전입신고로 회복됩니다
+ · 전입신고 의무를 기한 내에 이행하지 않으면 과태료 부과 대상입니다
+ · 세대원은 비대면 참여를 할 수 없고 세대주만 가능합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 사실조사의 비대면 참여 기간과 방문조사 기간
+ · 전입신고 지연에 따른 과태료 금액과 기간별 차등 기준
+ · 사실조사 기간 자진신고 시 과태료 감면 여부와 지자체별 운영 차이
+ · 중점조사 대상 세대의 구체적 선정 기준
+ · 거주불명 등록 이후 회복까지 걸리는 처리 기간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 집도 작년에 문에 안내문이 붙어 있었는데요"
+ · "앱으로 하는 게 있는 줄 모르고 낮에 사람 오기를 기다렸더라고요"
+ · "저는 퇴근하고 집에 와서 다시 눌렀더니 한 번에 되더라고요"
+ · "저는 처음에 이게 무슨 조사인가 싶어서 미뤘는데 알고 보니 별거 아니더라고요"

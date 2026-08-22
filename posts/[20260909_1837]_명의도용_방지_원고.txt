@@ -1,0 +1,259 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 9일 18:37
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260909_1837]_명의도용_방지\
+   ├── 📄 [원고 파일]: [20260909_1837]_명의도용_방지_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-msafer.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260909_1837]_명의도용_방지_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-msafer.html
+
+■ 제목: 명의도용방지서비스 가입과 조회 방법. 가입제한과 해지 절차 차이 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 명의도용방지서비스, 명의도용방지, 엠세이퍼, 가입사실현황조회, 명의도용방지해지, 유심교체, 휴대폰명의도용, 개인정보노출자, PASS앱
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>명의도용방지서비스 가입과 조회 방법. 가입제한과 해지 절차 차이 정리</p>
+
+<h2>내 이름으로 개통된 휴대폰이 몇 대인지 압니까</h2>
+
+<p>명의도용방지서비스는 내 명의로 개통된 통신 회선을 확인하고 새 개통을 막아주는 무료 서비스입니다. 답부터 적으면 조회와 차단이 서로 다른 기능입니다. 조회만 하고 안심하면 막아주지는 않아요.</p>
+
+<p>저도 이 서비스를 알고 나서 조회해봤는데요. 오래전에 해지한 줄 알았던 회선이 하나 남아 있더라고요.</p>
+
+<p>모르고 지나간 게 있을 수도 있다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M16 16l5 5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">조 회</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가입사실현황조회</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내 명의로 개통된 이동전화와 인터넷 회선을 전부 보여줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="10" width="16" height="11" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">차 단</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가입제한서비스</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신규 개통 자체를 막아두는 기능으로 따로 신청해야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="6" width="16" height="12" rx="2" /><path d="M4 10h16" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">알 림</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가입사실 통보</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">새 회선이 개통되면 문자나 메일로 알려주는 기능입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">비 용</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">전부 무료입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가입비도 월정액도 없어 부담 없이 걸어둘 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>가입사실현황조회</b> 내 명의로 개통된 이동전화와 인터넷 회선을 보여줍니다</li>
+<li><b>가입제한서비스</b> 신규 개통을 막는 기능으로 따로 신청해야 합니다</li>
+<li><b>가입사실 통보</b> 새 회선이 개통되면 문자나 메일로 알려줍니다</li>
+<li><b>비용</b> 가입비와 월정액이 없는 무료 서비스입니다</li>
+</ul>
+
+<h2>가입은 어디서 하나요?</h2>
+
+<p>명의도용방지서비스 홈페이지나 통신사 인증 앱에서 합니다. 본인 인증만 하면 끝나요.</p>
+
+<h3>PASS 앱에서도 됩니다</h3>
+
+<p>통신 3사 인증 앱 안에 메뉴가 들어 있습니다. 별도 가입 없이 바로 조회할 수 있어요.</p>
+
+<p>알뜰폰 회선도 조회에 잡힙니다. 통신사 상관없이 명의 기준으로 보여주더라고요.</p>
+
+<h3>가입제한은 켜두면 불편할 수 있습니다</h3>
+
+<p>내가 새로 개통할 때도 막힙니다. 해제하고 개통한 다음 다시 걸어야 해요.</p>
+
+<p>번호이동이나 기기변경을 자주 하는 분은 이 점을 감안하세요. 그래도 안전이 먼저입니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">기능</th>
+      <th style="padding:12px;text-align:left;">무엇을 하나</th>
+      <th style="padding:12px;text-align:left;">신청</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">현황 조회</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">기존 회선 확인</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">인증만 하면 즉시</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">가입 제한</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신규 개통 차단</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">별도 신청 필요</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">가입 통보</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">개통 시 알림</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">별도 신청 필요</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">해지</td>
+      <td style="padding:12px;">제한 해제</td>
+      <td style="padding:12px;">본인 인증 후 즉시</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>현황 조회</b> 본인 인증만 하면 기존 회선을 바로 확인할 수 있습니다</li>
+<li><b>가입 제한과 통보</b> 각각 별도로 신청해야 작동합니다</li>
+<li><b>해지</b> 본인 인증 후 즉시 해제되며 다시 걸 수도 있습니다</li>
+</ul>
+
+<blockquote>조회 결과에 모르는 회선이 있으면 해당 통신사 고객센터에 바로 연락하세요. 명의도용 신고 절차가 따로 있습니다.</blockquote>
+
+<h2>모르는 회선이 나오면 어떻게 합니까</h2>
+
+<p>먼저 그 통신사에 명의도용 신고를 합니다. 회선 정지와 조사가 시작돼요.</p>
+
+<p>요금이 이미 청구됐다면 납부를 보류하고 이의를 제기합니다. 도용이 확인되면 취소됩니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">유심 교체 요구는 특히 위험합니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">누군가 내 명의로 유심을 재발급받으면 문자 인증이 그쪽으로 갑니다. 계좌와 간편결제까지 뚫릴 수 있어서 유심 관련 변경 알림이 오면 즉시 통신사에 확인해야 합니다.</p>
+</div>
+
+<h3>계좌 쪽도 같이 봅니다</h3>
+
+<p>통신만 도용됐다고 보기 어렵습니다. 어카운트인포에서 내 명의 계좌도 조회해보세요.</p>
+
+<p>파인에서 보험과 대출 내역도 볼 수 있습니다. 한 번에 훑어두면 마음이 놓입니다.</p>
+
+<p>도용이 확인되면 경찰에 신고해두는 편이 낫습니다. 사건사고사실확인원이 통신사와 금융사 처리에 쓰입니다.</p>
+
+<p>주민등록번호가 유출됐다면 변경 신청도 가능합니다. 요건이 까다롭지만 길이 아예 없지는 않더라고요.</p>
+
+<h2>미리 걸어두면 좋은 것</h2>
+
+<p>도용을 겪은 뒤에 하는 것보다 미리 막는 게 훨씬 쉽습니다. 다 무료예요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="10" width="16" height="11" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">통 신</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가입제한과 통보</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신규 개통을 막고 개통 시 알림을 받도록 함께 걸어둡니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">금 융</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">개인정보 노출자 등록</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">금융감독원에 등록하면 금융회사가 본인 확인을 강화합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">신 용</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신용조회 알림</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내 신용정보가 조회되면 알려주는 서비스를 켜둡니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>통신</b> 가입제한과 가입사실 통보를 함께 걸어둡니다</li>
+<li><b>금융</b> 개인정보 노출자로 등록하면 본인 확인이 강화됩니다</li>
+<li><b>신용</b> 신용정보 조회 알림 서비스를 켜두면 이상 징후를 빨리 압니다</li>
+</ul>
+
+<p>가족 명의도 한 번 확인해보세요. 부모님 명의로 개통된 회선이 문제가 되는 경우가 종종 있습니다.</p>
+
+<blockquote>서비스에 가입해도 이미 개통된 회선은 자동으로 해지되지 않습니다. 조회로 확인하고 직접 정리해야 합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>먼저 조회해서 모르는 회선이 있는지 보고 가입제한과 통보를 같이 걸어두세요. 전부 무료라 안 할 이유가 없습니다.</p>
+
+<p>저는 이걸 미루다가 한참 뒤에야 했는데 5분도 안 걸리더라고요... 부모님 것도 한번 봐드리세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 명의도용방지서비스는 본인 명의 통신 회선을 확인하고 신규 개통을 제한하는 서비스입니다
+ · 가입사실현황조회, 가입제한서비스, 가입사실 통보 세 기능으로 구성됩니다
+ · 조회와 차단은 서로 다른 기능으로 각각 신청해야 합니다
+ · 서비스 이용은 무료입니다
+ · 명의도용방지서비스 홈페이지와 통신 3사 인증 앱에서 이용할 수 있습니다
+ · 알뜰폰 회선도 명의 기준으로 조회 결과에 포함됩니다
+ · 가입제한을 걸면 본인이 신규 개통할 때도 해제 절차가 필요합니다
+ · 모르는 회선이 확인되면 해당 통신사에 명의도용 신고를 할 수 있습니다
+ · 유심 재발급이 도용되면 문자 인증이 탈취되어 금융 피해로 이어질 수 있습니다
+ · 어카운트인포에서 본인 명의 계좌를 조회할 수 있습니다
+ · 파인에서 보험과 대출 가입 내역을 조회할 수 있습니다
+ · 금융감독원 개인정보 노출자 등록 제도가 있습니다
+ · 서비스 가입 이전에 개통된 회선은 자동으로 해지되지 않습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 가입제한 신청 후 적용까지 걸리는 시간
+ · 명의도용 신고 접수 후 조사 처리 기간
+ · 도용 확인 시 요금 취소와 환급 절차
+ · 개인정보 노출자 등록의 유효기간과 해제 절차
+ · 통신사별 명의도용 신고 창구와 필요 서류
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 이 서비스를 알고 나서 조회해봤는데요"
+ · "오래전에 해지한 줄 알았던 회선이 하나 남아 있더라고요"
+ · "통신사 상관없이 명의 기준으로 보여주더라고요"
+ · "저는 이걸 미루다가 한참 뒤에야 했는데 5분도 안 걸리더라고요"

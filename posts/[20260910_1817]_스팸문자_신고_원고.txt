@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 10일 18:17
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260910_1817]_스팸문자_신고\
+   ├── 📄 [원고 파일]: [20260910_1817]_스팸문자_신고_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-spamblock.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260910_1817]_스팸문자_신고_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-spamblock.html
+
+■ 제목: 스팸문자 신고 방법과 포상금 여부. 아이폰과 갤럭시 차단 설정 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 스팸문자신고, 스팸문자차단, 불법스팸신고, 스팸문자신고포상금, 갤럭시스팸차단, 아이폰스팸문자, 118신고, 스미싱, 한국인터넷진흥원
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>스팸문자 신고 방법과 포상금 여부. 아이폰과 갤럭시 차단 설정 정리</p>
+
+<h2>신고와 차단은 다른 일입니다</h2>
+
+<p>스팸문자 신고는 휴대폰에서 몇 번만 누르면 끝납니다. 답부터 적으면 신고해야 발신번호가 제재를 받고 차단만 하면 나한테만 안 옵니다. 두 개를 같이 해야 효과가 있어요.</p>
+
+<p>저도 예전엔 그냥 삭제만 했는데요. 신고 버튼을 누르기 시작하니 확실히 줄어들더라고요.</p>
+
+<p>지우기만 하면 끝이 없다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 번</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문자 앱에서 바로 신고</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">메시지를 길게 눌러 스팸 신고를 고르면 한국인터넷진흥원으로 갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.9 2.1z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 번</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">118로 신고</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전화나 문자로 불법스팸 신고를 접수할 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="10" width="16" height="11" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 번</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">통신사 차단 서비스</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">통신사 부가서비스로 스팸을 걸러주는 기능을 켤 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">주 의</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">링크는 절대 누르지 마세요</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">스미싱은 링크를 누르는 순간 악성 앱이 설치될 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>문자 앱 신고</b> 메시지를 길게 눌러 스팸 신고를 고르면 진흥원으로 접수됩니다</li>
+<li><b>118 신고</b> 전화나 문자로 불법스팸을 접수할 수 있습니다</li>
+<li><b>통신사 차단</b> 부가서비스로 스팸을 걸러주는 기능을 켤 수 있습니다</li>
+<li><b>주의</b> 스미싱 링크는 누르는 순간 악성 앱이 설치될 수 있습니다</li>
+</ul>
+
+<h2>신고하면 어떻게 되나요?</h2>
+
+<p>발신번호가 조사 대상이 됩니다. 반복 확인되면 회선이 정지돼요.</p>
+
+<h3>과태료가 부과됩니다</h3>
+
+<p>동의 없이 광고 문자를 보내면 정보통신망법 위반입니다. 야간 전송이나 수신거부 안내 누락도 위반이에요.</p>
+
+<p>대량 발송 업체는 금액이 커집니다. 신고가 쌓이면 추적이 훨씬 쉬워집니다.</p>
+
+<h3>포상금은 따로 없습니다</h3>
+
+<p>불법스팸 신고 자체로 개인에게 돈을 주지는 않습니다. 검색하면 포상금 이야기가 나오는데 다른 제도와 섞인 경우가 많아요.</p>
+
+<p>돈을 준다며 개인정보를 요구하는 안내는 의심하세요. 그게 또 다른 사기더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">유형</th>
+      <th style="padding:12px;text-align:left;">특징</th>
+      <th style="padding:12px;text-align:left;">대응</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">광고 스팸</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">대출 도박 홍보</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">신고 후 차단</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">스미싱</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">택배 청첩장 사칭 링크</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">링크 금지 신고</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">기관 사칭</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">과태료 검찰 사칭</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">기관에 직접 확인</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">정상 광고</td>
+      <td style="padding:12px;">광고 표기와 수신거부 있음</td>
+      <td style="padding:12px;">수신거부 신청</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>광고 스팸</b> 대출과 도박 홍보 문자는 신고하고 번호를 차단합니다</li>
+<li><b>스미싱</b> 택배나 청첩장을 사칭한 링크는 절대 누르지 않습니다</li>
+<li><b>정상 광고</b> 광고 표기와 수신거부 안내가 있으면 수신거부를 신청합니다</li>
+</ul>
+
+<blockquote>문자 맨 앞에 광고라고 적혀 있고 무료 수신거부 번호가 있으면 합법 광고입니다. 이건 신고 대상이 아닙니다.</blockquote>
+
+<h2>차단 설정은 어떻게 합니까</h2>
+
+<p>기기마다 방식이 조금 다릅니다. 둘 다 기본 기능으로 들어 있어요.</p>
+
+<p>갤럭시는 메시지 앱 설정에서 번호와 문구를 함께 차단할 수 있습니다. 특정 단어가 들어간 문자를 통째로 거를 수 있어요.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">아이폰은 필터링을 켜세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">설정의 메시지 항목에서 모르는 발신자 필터링을 켜면 연락처에 없는 번호가 별도 탭으로 분리됩니다. 알림도 오지 않아 훨씬 조용해집니다.</p>
+</div>
+
+<h3>수신거부는 눌러도 되나요</h3>
+
+<p>합법 광고면 눌러도 됩니다. 그쪽은 처리해야 할 의무가 있어요.</p>
+
+<p>불법 스팸이면 누르지 마세요. 번호가 살아 있다는 신호가 돼서 더 많이 옵니다.</p>
+
+<p>발신번호가 매번 바뀌는 것도 특징입니다. 한 번호만 차단해서는 끝이 안 나요.</p>
+
+<p>그래서 문구 차단이 더 효과적입니다. 자주 나오는 단어를 몇 개 등록해두면 훨씬 조용해집니다.</p>
+
+<h2>미리 막아두면 좋은 것</h2>
+
+<p>내 번호가 어디서 새는지를 줄이는 게 근본 대책입니다. 몇 가지만 손보면 됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M4 6l8 7 8-7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">동 의</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">마케팅 동의를 정리합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가입한 서비스의 광고 수신 동의를 찾아 끄면 양이 확 줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M16 16l5 5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">점 검</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">수신동의 조회 서비스</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">어느 회사가 내 번호로 광고를 보내는지 한 번에 확인합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="4" y="10" width="16" height="11" rx="2" /><path d="M8 10V7a4 4 0 0 1 8 0v3" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">보 안</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">출처를 모르는 앱 설치 금지</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">설정에서 알 수 없는 출처 설치를 꺼두면 스미싱 피해가 줄어듭니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>마케팅 동의</b> 가입 서비스의 광고 수신 동의를 찾아 끄면 양이 확 줍니다</li>
+<li><b>수신동의 조회</b> 어느 회사가 내 번호로 광고를 보내는지 확인합니다</li>
+<li><b>보안 설정</b> 알 수 없는 출처의 앱 설치를 꺼두면 스미싱 피해가 줄어듭니다</li>
+</ul>
+
+<p>이미 링크를 눌렀다면 바로 데이터를 끄고 통신사와 118에 알리세요. 소액결제 차단도 함께 신청합니다.</p>
+
+<blockquote>모바일 백신으로 검사하고 의심 앱은 삭제하세요. 초기화가 가장 확실한 방법입니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>스팸이 오면 지우지 말고 신고 버튼을 먼저 누르세요. 그다음 번호를 차단하고 필터링 설정을 켜두면 됩니다.</p>
+
+<p>저는 하루에 몇 통씩 오던 게 신고를 시작하고 눈에 띄게 줄었더라고요... 링크만은 절대 누르지 마세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 스팸문자 신고는 휴대폰 문자 앱의 스팸 신고 기능으로 접수됩니다
+ · 신고 내용은 한국인터넷진흥원으로 전달됩니다
+ · 118은 불법스팸과 개인정보 침해 신고 상담 번호입니다
+ · 수신자 동의 없는 광고 문자 전송은 정보통신망법 위반입니다
+ · 야간 광고 전송과 수신거부 안내 누락도 위반 사유입니다
+ · 불법스팸 신고에 대해 개인에게 지급하는 포상금 제도는 별도로 운영되지 않습니다
+ · 합법 광고 문자는 앞에 광고 표기가 있고 무료 수신거부 번호가 안내됩니다
+ · 불법 스팸의 수신거부를 누르면 번호가 유효함을 알리는 신호가 될 수 있습니다
+ · 갤럭시는 메시지 앱 설정에서 번호와 문구 차단을 지원합니다
+ · 아이폰은 설정의 메시지에서 모르는 발신자 필터링을 켤 수 있습니다
+ · 통신사별 스팸 차단 부가서비스를 신청할 수 있습니다
+ · 스미싱 링크를 누르면 악성 앱이 설치될 수 있습니다
+ · 알 수 없는 출처의 앱 설치를 차단하면 스미싱 피해를 줄일 수 있습니다
+ · 광고 수신 동의 현황은 수신동의 조회 서비스로 확인할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 불법 광고 문자 전송에 대한 과태료 금액과 부과 기준
+ · 야간 광고 전송이 금지되는 정확한 시간대
+ · 신고 접수 후 조사와 회선 정지까지의 처리 기간
+ · 통신사별 스팸 차단 부가서비스의 이용료와 기능 차이
+ · 수신동의 조회 서비스의 운영 주체와 접속 경로
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저도 예전엔 그냥 삭제만 했는데요"
+ · "신고 버튼을 누르기 시작하니 확실히 줄어들더라고요"
+ · "그게 또 다른 사기더라고요"
+ · "저는 하루에 몇 통씩 오던 게 신고를 시작하고 눈에 띄게 줄었더라고요"

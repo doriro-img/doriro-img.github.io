@@ -1,0 +1,276 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 14일 12:45
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260914_1245]_종부세_합산배제\
+   ├── 📄 [원고 파일]: [20260914_1245]_종부세_합산배제_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-jongbuse.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260914_1245]_종부세_합산배제_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-jongbuse.html
+
+■ 제목: 종부세 합산배제 신고 대상과 신고기간. 한 번 신고하면 다음 해가 편해지는 이유
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 종부세합산배제, 종부세합산배제신고, 합산배제신고기간, 임대주택합산배제, 사원용주택, 홈택스, 종합부동산세, 과세특례, 부부공동명의
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>종부세 합산배제 신고 대상과 신고기간. 한 번 신고하면 다음 해가 편해지는 이유</p>
+
+<h2>9월에 신고해야 12월 고지서가 달라집니다</h2>
+
+<p>종부세 합산배제는 특정 주택을 종합부동산세 계산에서 빼달라고 신고하는 제도입니다. 답부터 적으면 신고 기간이 9월이고 이때를 놓치면 12월 고지서에 그대로 반영됩니다. 나중에 경정청구로 되돌릴 수는 있지만 훨씬 번거로워요.</p>
+
+<p>저희 친척이 임대주택을 갖고 있는데 이 신고를 몰라서 세금을 다 냈다고 하더라고요. 나중에 돌려받긴 했는데 몇 달이 걸렸습니다.</p>
+
+<p>미리 빼는 게 훨씬 낫다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">9월에 신고합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">매년 9월 중 정해진 기간에 홈택스나 세무서로 신고합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 10.5 12 3l9 7.5" /><path d="M5 10v10h14V10" /><path d="M10 20v-6h4v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">임대주택과 사원용 주택</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">등록 임대주택과 사원용 주택 등이 배제 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">유 지</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">한 번 하면 이어집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기존 신고 내용에 변동이 없으면 다시 신고하지 않아도 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">변 동</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">바뀌면 제외신고를 합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">요건이 깨지면 배제에서 빼달라고 따로 신고해야 합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>신고 기간</b> 매년 9월 중 정해진 기간에 홈택스나 세무서로 신고합니다</li>
+<li><b>대상</b> 등록 임대주택과 사원용 주택 등이 배제 대상입니다</li>
+<li><b>유지</b> 변동이 없으면 다시 신고하지 않아도 됩니다</li>
+<li><b>변동 시</b> 요건이 깨지면 제외신고를 따로 해야 합니다</li>
+</ul>
+
+<h2>어떤 주택이 빠집니까?</h2>
+
+<p>세법이 정한 것만 됩니다. 내가 안 살고 세를 준다고 다 되는 게 아니에요.</p>
+
+<h3>등록 임대주택이 대표적입니다</h3>
+
+<p>지자체와 세무서에 임대사업자로 등록한 주택입니다. 의무 임대 기간과 임대료 증액 제한을 지켜야 해요.</p>
+
+<p>요건을 어기면 배제가 취소되고 그동안 안 낸 세금을 추징합니다. 가산세까지 붙습니다.</p>
+
+<h3>사원용 주택과 기숙사도 됩니다</h3>
+
+<p>회사가 직원에게 제공하는 주택이 여기 들어갑니다. 종업원의 범위와 면적 요건이 있어요.</p>
+
+<p>미분양 주택이나 어린이집용 주택도 대상입니다. 상황이 특수하면 국세청 안내를 먼저 보세요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">합산배제 신고</th>
+      <th style="padding:12px;text-align:left;">과세특례 신청</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">대상</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">임대 사원용 주택</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">부부 공동명의 1주택</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">효과</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">과세 대상에서 제외</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">1주택자 방식 적용</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">시기</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">9월</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">9월</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">재신고</td>
+      <td style="padding:12px;">변동 시에만</td>
+      <td style="padding:12px;">변동 시에만</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>합산배제</b> 임대주택과 사원용 주택을 과세 대상에서 뺍니다</li>
+<li><b>과세특례</b> 부부 공동명의 1주택자가 단독명의 방식을 고를 수 있습니다</li>
+<li><b>공통</b> 둘 다 9월에 신고하고 변동이 없으면 재신고가 필요 없습니다</li>
+</ul>
+
+<blockquote>부부 공동명의 특례는 고령자와 장기보유 공제를 받으려는 경우에 유리합니다. 지분 방식과 비교해보고 고르세요.</blockquote>
+
+<h2>신고는 어떻게 합니까</h2>
+
+<p>홈택스에서 종합부동산세 메뉴로 들어갑니다. 관할 세무서 방문이나 우편도 됩니다.</p>
+
+<p>국세청이 대상자에게 안내문을 보냅니다. 안내를 받았다면 그대로 따라가면 돼요.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">안내문이 안 와도 신고할 수 있습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">국세청이 파악하지 못한 사정이 있을 수 있습니다. 요건에 해당한다고 판단되면 안내문 없이도 직접 신고하면 됩니다. 판단이 어려우면 세무서에 문의하세요.</p>
+</div>
+
+<h3>기간을 놓치면 방법이 있나요</h3>
+
+<p>12월 납부 기간에 신고하는 길이 열려 있습니다. 그것도 놓치면 경정청구를 해야 해요.</p>
+
+<p>경정청구는 세금을 낸 뒤 돌려달라고 하는 절차입니다. 심사에 시간이 걸립니다.</p>
+
+<h3>세액이 커지는 구조부터 알아두세요</h3>
+
+<p>종합부동산세는 보유한 주택 공시가격을 모두 더한 뒤 공제금액을 뺀 값에 세율을 곱합니다. 주택 수가 늘면 세율 구간 자체가 올라갑니다.</p>
+
+<p>그래서 한 채를 빼느냐 마느냐로 세액이 크게 달라집니다. 합산배제가 단순한 서류 절차가 아닌 이유입니다.</p>
+
+<p>배제되면 그 주택의 재산세는 그대로 냅니다. 종부세 계산에서만 빠지는 거예요.</p>
+
+<p>1세대 1주택 판정에도 영향이 갑니다. 합산배제 주택은 주택 수에서 빠지는 경우가 있어 공제금액이 달라질 수 있습니다.</p>
+
+<h2>요건이 깨지면 어떻게 됩니까</h2>
+
+<p>배제받았던 세금을 다시 내야 합니다. 이걸 추징이라고 부릅니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">의무 임대 기간</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기간을 못 채우고 팔면 배제가 취소됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">임 대 료</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">증액 제한을 지킵니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정해진 비율을 넘겨 올리면 요건이 깨집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 산 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">이자 상당액이 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">그동안 안 낸 세금에 이자 성격의 금액이 더해집니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>의무 임대 기간</b> 기간을 못 채우고 팔면 배제가 취소됩니다</li>
+<li><b>임대료 증액 제한</b> 정해진 비율을 넘겨 올리면 요건이 깨집니다</li>
+<li><b>추징</b> 그동안 안 낸 세금에 이자 상당액이 더해집니다</li>
+</ul>
+
+<p>임대사업자 등록을 자진 말소하는 경우도 있습니다. 사유에 따라 추징이 면제되기도 해요.</p>
+
+<h3>고지서를 받고 나서 확인할 것</h3>
+
+<p>12월 고지서에는 과세 대상 주택 목록이 함께 옵니다. 배제 신청한 주택이 빠졌는지 그 자리에서 확인하세요.</p>
+
+<p>빠지지 않았다면 세무서에 문의합니다. 신고가 제대로 접수되지 않았을 수 있어요.</p>
+
+<p>세액이 일정 금액을 넘으면 분납도 됩니다. 납부 기한 안에 신청하면 나눠 낼 수 있습니다.</p>
+
+<p>농어촌특별세가 함께 부과되는 점도 알아두세요. 고지서에 종부세와 별도 항목으로 찍혀 나옵니다.</p>
+
+<blockquote>과세기준일은 6월 1일입니다. 그날 기준 소유와 요건으로 판단합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>임대주택이나 사원용 주택이 있으면 9월에 합산배제 신고를 하세요. 부부 공동명의 1주택자는 과세특례도 같은 시기에 봅니다.</p>
+
+<p>저는 이게 매년 해야 하는 건 줄 알았는데 변동이 없으면 안 해도 되더라고요... 안내문이 오면 그때 확인하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 종부세 합산배제는 특정 주택을 종합부동산세 과세 대상에서 제외하는 제도입니다
+ · 합산배제 신고는 매년 9월 중 정해진 기간에 합니다
+ · 신고는 홈택스, 관할 세무서 방문, 우편으로 가능합니다
+ · 국세청이 대상자로 판단한 납세자에게 안내문을 발송합니다
+ · 안내문을 받지 않아도 요건에 해당하면 직접 신고할 수 있습니다
+ · 등록 임대주택, 사원용 주택, 기숙사, 미분양 주택, 어린이집용 주택 등이 배제 대상입니다
+ · 등록 임대주택은 의무 임대 기간과 임대료 증액 제한 요건을 지켜야 합니다
+ · 기존 신고 내용에 변동이 없으면 다시 신고하지 않아도 됩니다
+ · 요건이 변경되면 합산배제 제외신고를 해야 합니다
+ · 요건 위반 시 배제받은 세액이 추징되고 이자 상당액이 가산됩니다
+ · 부부 공동명의 1주택자 과세특례도 같은 시기에 신청합니다
+ · 과세특례를 적용하면 1주택자 방식으로 고령자와 장기보유 공제를 받을 수 있습니다
+ · 9월 신고 기간을 놓치면 12월 납부 기간에 신고하거나 경정청구를 해야 합니다
+ · 종합부동산세 과세기준일은 매년 6월 1일입니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 합산배제 신고 기간의 정확한 시작일과 종료일
+ · 등록 임대주택의 의무 임대 기간과 임대료 증액 제한 비율
+ · 사원용 주택의 면적과 종업원 요건
+ · 부부 공동명의 과세특례의 유불리 판단 기준
+ · 요건 위반 시 이자 상당액의 계산 방식
+ · 자진 말소 시 추징 면제가 인정되는 사유
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 친척이 임대주택을 갖고 있는데 이 신고를 몰라서 세금을 다 냈다고 하더라고요"
+ · "나중에 돌려받긴 했는데 몇 달이 걸렸습니다"
+ · "저는 이게 매년 해야 하는 건 줄 알았는데 변동이 없으면 안 해도 되더라고요"

@@ -1,0 +1,257 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 5일 07:44
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260905_0744]_국민행복카드\
+   ├── 📄 [원고 파일]: [20260905_0744]_국민행복카드_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-pregcard.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260905_0744]_국민행복카드_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-pregcard.html
+
+■ 제목: 국민행복카드 발급과 바우처 신청 순서. 카드사 비교와 사용처 확인 방법
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 국민행복카드, 국민행복카드발급, 국민행복카드바우처, 국민행복카드사용처, 국민행복카드비교, 임신출산진료비, 건강보험공단, 바우처신청, 국민행복카드잔액조회
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국민행복카드 발급과 바우처 신청 순서. 카드사 비교와 사용처 확인 방법</p>
+
+<h2>카드를 먼저 만들고 바우처를 얹습니다</h2>
+
+<p>국민행복카드는 정부 바우처를 담는 그릇 역할을 하는 카드입니다. 답부터 적으면 카드만 만들면 돈이 들어오지 않습니다. 카드를 발급받은 뒤 각 바우처를 따로 신청해야 지원금이 올라가요.</p>
+
+<p>저희 처제도 이걸 헷갈려서 카드만 받아두고 몇 주를 기다렸는데요. 신청을 따로 해야 한다는 걸 나중에 알았더라고요.</p>
+
+<p>카드가 곧 지원금은 아니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">카드부터 발급받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지정된 카드사에서 신용 또는 체크카드로 발급합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">바우처를 신청합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">받으려는 바우처마다 소관 기관에 따로 신청해야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">포인트가 카드에 올라갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">승인이 나면 바우처 금액이 카드 포인트 형태로 충전됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사용 기한 안에 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">바우처마다 사용 기한이 정해져 있고 지나면 소멸됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 지정된 카드사에서 신용 또는 체크카드로 발급합니다</li>
+<li><b>2단계</b> 받으려는 바우처마다 소관 기관에 따로 신청합니다</li>
+<li><b>3단계</b> 승인이 나면 금액이 카드 포인트로 충전됩니다</li>
+<li><b>4단계</b> 바우처마다 사용 기한이 있고 지나면 소멸됩니다</li>
+</ul>
+
+<h2>어떤 바우처를 담을 수 있나요?</h2>
+
+<p>임신 출산이 대표적이지만 그것만은 아닙니다. 여러 부처의 바우처가 이 카드 하나로 모입니다.</p>
+
+<h3>임신출산 진료비가 가장 많이 씁니다</h3>
+
+<p>임신이 확인되면 병원에서 확인서를 받아 신청합니다. 산부인과 진료비와 약제비에 쓸 수 있어요.</p>
+
+<p>분만 취약지에 살면 금액이 더 붙습니다. 다태아면 지원 금액이 올라갑니다.</p>
+
+<h3>아이 돌봄과 에너지도 이 카드입니다</h3>
+
+<p>아이돌봄서비스 정부지원금과 기저귀 조제분유 지원, 에너지바우처가 같은 카드로 처리됩니다. 하나만 있으면 계속 씁니다.</p>
+
+<p>산모신생아 건강관리 지원과 청소년 산모 지원도 여기 들어갑니다. 종류가 생각보다 많더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">바우처</th>
+      <th style="padding:12px;text-align:left;">신청하는 곳</th>
+      <th style="padding:12px;text-align:left;">주요 사용처</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">임신출산 진료비</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">건강보험공단 카드사</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">병원 약국</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">아이돌봄서비스</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">복지로 주민센터</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">돌봄 이용료</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">기저귀 조제분유</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">복지로 주민센터</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">지정 온오프라인</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">에너지바우처</td>
+      <td style="padding:12px;">주민센터</td>
+      <td style="padding:12px;">전기 가스 등</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>임신출산 진료비</b> 건강보험공단이나 카드사에서 신청해 병원과 약국에서 씁니다</li>
+<li><b>아이돌봄과 기저귀</b> 복지로나 주민센터에서 신청합니다</li>
+<li><b>에너지바우처</b> 주민센터 신청 후 같은 카드로 요금을 결제합니다</li>
+</ul>
+
+<blockquote>바우처마다 소관 부처와 신청처가 다릅니다. 카드가 있다고 자동으로 얹히지 않습니다.</blockquote>
+
+<h2>카드사는 어디를 골라야 합니까</h2>
+
+<p>지원금 액수는 어느 카드사를 골라도 같습니다. 정부가 정한 금액이라 달라지지 않아요.</p>
+
+<p>차이가 나는 건 카드사 자체 혜택입니다. 육아용품점 할인이나 캐시백 같은 부가 서비스가 붙습니다.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">신용카드가 부담되면 체크카드로 하세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">체크카드로도 바우처를 다 받을 수 있습니다. 신용 심사가 없어 발급이 빠르고 연회비 부담도 없습니다. 다만 카드사 부가 혜택은 신용카드 쪽이 더 큰 편입니다.</p>
+</div>
+
+<h3>발급은 어디서 하나요</h3>
+
+<p>카드사 앱이나 홈페이지, 은행 창구, 주민센터에서 가능합니다. 온라인이 제일 빠릅니다.</p>
+
+<p>실물 카드가 오기 전에도 바우처 신청은 됩니다. 카드번호가 나오면 그때부터 사용 가능해요.</p>
+
+<h2>잔액과 사용처는 어떻게 확인합니까</h2>
+
+<p>바우처마다 잔액이 따로 잡힙니다. 하나로 합쳐지지 않아요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">조 회</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">카드사 앱에서 봅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">바우처 항목별로 남은 금액과 사용 기한이 나옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 21s7-5.4 7-11a7 7 0 1 0-14 0c0 5.6 7 11 7 11z" /><circle cx="12" cy="10" r="2.6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 맹 점</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">바우처마다 사용처가 다릅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">임신출산은 병원 약국, 기저귀는 지정 판매처로 제한됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">기한이 지나면 사라집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">임신출산 지원금은 분만일 이후 정해진 기간까지만 쓸 수 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>잔액 조회</b> 카드사 앱에서 바우처 항목별 잔액과 기한을 봅니다</li>
+<li><b>가맹점</b> 임신출산은 병원 약국, 기저귀는 지정 판매처로 제한됩니다</li>
+<li><b>사용 기한</b> 임신출산 지원금은 분만일 이후 정해진 기간까지만 쓸 수 있습니다</li>
+</ul>
+
+<p>결제할 때 바우처 잔액이 먼저 빠지고 모자란 금액만 본인 부담으로 나갑니다. 따로 말하지 않아도 자동으로 처리돼요.</p>
+
+<blockquote>유산이나 사산의 경우에도 신청이 가능합니다. 진단서를 받아 공단에 문의하세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>카드 발급과 바우처 신청은 별개 절차입니다. 카드를 먼저 만들고 받을 바우처를 하나씩 신청하세요.</p>
+
+<p>저는 이 카드가 임신부 전용인 줄 알았는데 에너지바우처까지 담기더라고요... 이미 있으면 새로 만들지 마시고 그 카드에 얹으세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국민행복카드는 여러 정부 바우처를 하나의 카드로 이용하게 하는 통합 카드입니다
+ · 카드 발급과 바우처 신청은 별개 절차입니다
+ · 지정된 카드사에서 신용카드 또는 체크카드로 발급할 수 있습니다
+ · 임신출산 진료비 지원은 건강보험공단이나 카드사를 통해 신청합니다
+ · 다태아와 분만 취약지 거주자는 지원 금액이 추가됩니다
+ · 아이돌봄서비스, 기저귀 조제분유 지원, 에너지바우처가 같은 카드로 처리됩니다
+ · 산모신생아 건강관리 지원과 청소년 산모 지원도 이 카드로 이용합니다
+ · 바우처 지원 금액은 카드사와 관계없이 동일합니다
+ · 카드사별로 자체 부가 혜택이 다릅니다
+ · 발급은 카드사 앱과 홈페이지, 은행 창구, 주민센터에서 가능합니다
+ · 실물 카드 수령 전에도 카드번호가 발급되면 사용할 수 있습니다
+ · 바우처별로 잔액과 사용 기한이 따로 관리됩니다
+ · 결제 시 바우처 잔액이 먼저 차감되고 부족분만 본인 부담으로 결제됩니다
+ · 유산과 사산의 경우에도 임신출산 진료비 지원 신청이 가능합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 임신출산 진료비 지원 금액과 다태아 추가 지원액
+ · 분만 취약지 추가 지원 금액과 대상 지역
+ · 임신출산 지원금의 분만일 이후 사용 가능 기간
+ · 카드사별 부가 혜택과 연회비
+ · 기저귀 조제분유 지원의 소득 기준과 지정 판매처 목록
+ · 각 바우처의 연도별 지원 단가
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 처제도 이걸 헷갈려서 카드만 받아두고 몇 주를 기다렸는데요"
+ · "신청을 따로 해야 한다는 걸 나중에 알았더라고요"
+ · "종류가 생각보다 많더라고요"
+ · "저는 이 카드가 임신부 전용인 줄 알았는데 에너지바우처까지 담기더라고요"

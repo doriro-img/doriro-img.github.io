@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 6일 07:19
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260906_0719]_난임부부_시술비\
+   ├── 📄 [원고 파일]: [20260906_0719]_난임부부_시술비_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-fertility.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260906_0719]_난임부부_시술비_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-fertility.html
+
+■ 제목: 난임부부 시술비 지원 신청 서류와 순서. 통지서 발급 시점과 사실혼 인정 범위
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 난임부부시술비, 난임부부시술비지원, 난임지원금, 난임시술비신청, 난임지원통지서, 사실혼난임지원, 체외수정, 인공수정, 난임지원횟수
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>난임부부 시술비 지원 신청 서류와 순서. 통지서 발급 시점과 사실혼 인정 범위</p>
+
+<h2>시술을 시작하기 전에 통지서를 받아야 합니다</h2>
+
+<p>난임부부 시술비 지원은 체외수정과 인공수정 비용의 본인부담금을 덜어주는 제도입니다. 답부터 적으면 시술을 받고 나서 신청하면 늦습니다. 지원 결정 통지서를 먼저 받고 그 유효기간 안에 시술해야 해요.</p>
+
+<p>저희 부부도 아이를 기다리며 이것저것 알아봤는데요. 순서를 잘못 밟아 지원을 못 받는 경우가 꽤 있더라고요.</p>
+
+<p>순서 하나 틀리면 그 회차는 날아간다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">1 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">진단서를 받습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">난임 시술 의료기관에서 난임 진단서를 발급받습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">2 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">보건소나 정부24에 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주소지 보건소 방문 또는 온라인으로 지원을 신청합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 6h16v12H4z" /><path d="M4 6l8 7 8-7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">3 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">지원 결정 통지서 수령</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">통지서에 적힌 유효기간 안에 시술을 시작해야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="4" width="18" height="16" rx="2" /><path d="M12 8v8M8 12h8" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">4 단 계</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">병원에 통지서를 제출</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">시술 병원에 내면 결제할 때 지원금이 바로 차감됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>1단계</b> 난임 시술 의료기관에서 난임 진단서를 발급받습니다</li>
+<li><b>2단계</b> 주소지 보건소 방문 또는 온라인으로 지원을 신청합니다</li>
+<li><b>3단계</b> 지원 결정 통지서를 받고 유효기간 안에 시술을 시작합니다</li>
+<li><b>4단계</b> 병원에 통지서를 내면 결제할 때 지원금이 차감됩니다</li>
+</ul>
+
+<h2>누가 신청할 수 있나요?</h2>
+
+<p>법률혼 부부만 되는 게 아닙니다. 요건이 몇 년 사이 많이 넓어졌어요.</p>
+
+<h3>사실혼도 인정됩니다</h3>
+
+<p>혼인신고를 하지 않았어도 신청할 수 있습니다. 다만 증명이 필요해요.</p>
+
+<p>일정 기간 이상 함께 거주한 사실을 확인할 서류와 당사자 확인서가 들어갑니다. 주민등록등본과 보증인 진술이 쓰이더라고요.</p>
+
+<h3>소득 기준은 어떻게 되나요</h3>
+
+<p>예전에는 기준 중위소득으로 잘랐습니다. 지금은 지자체별로 소득 기준을 없앤 곳이 늘었어요.</p>
+
+<p>거주지에 따라 다르니 보건소에 먼저 물어보는 게 정확합니다. 같은 조건이라도 지역에 따라 결과가 달라집니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#1e3a8a;color:#fff;">
+      <th style="padding:12px;text-align:left;">서류</th>
+      <th style="padding:12px;text-align:left;">어디서</th>
+      <th style="padding:12px;text-align:left;">누구 것</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">난임 진단서</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">지정 의료기관</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">부부 공동</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">주민등록등본</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">정부24</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">신청인</td>
+    </tr>
+    <tr style="background:#eff6ff;">
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">건강보험 자격확인서</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">건강보험공단</td>
+      <td style="padding:12px;border-bottom:1px solid #dbeafe;">부부 각각</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">사실혼 확인 서류</td>
+      <td style="padding:12px;">보건소 양식</td>
+      <td style="padding:12px;">사실혼만</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>난임 진단서</b> 정부가 지정한 난임 시술 의료기관에서 발급받습니다</li>
+<li><b>등본과 자격확인서</b> 정부24와 건강보험공단에서 부부 각각 준비합니다</li>
+<li><b>사실혼 서류</b> 보건소 양식에 맞춰 함께 산 사실을 증명합니다</li>
+</ul>
+
+<blockquote>진단서에는 유효기간이 있습니다. 오래된 진단서로는 신청이 반려될 수 있습니다.</blockquote>
+
+<h2>통지서 유효기간이 지나면 어떻게 됩니까</h2>
+
+<p>그 회차는 지원을 못 받습니다. 다시 신청해서 새 통지서를 받아야 해요.</p>
+
+<p>시술이 중간에 취소되거나 미뤄지는 일이 흔합니다. 몸 상태에 따라 주기가 밀리니까요.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">중단되면 병원에 바로 알리세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">시술이 중단되면 사용한 만큼만 차감하고 남은 회차를 살릴 수 있는 경우가 있습니다. 병원 원무과와 보건소에 상황을 알려두면 처리가 달라집니다.</p>
+</div>
+
+<h3>지원 횟수는 어떻게 세나요</h3>
+
+<p>신선 배아와 동결 배아, 인공수정이 각각 따로 셉니다. 합쳐서 한 덩어리가 아니에요.</p>
+
+<p>회차를 다 쓰면 지자체 자체 사업으로 추가 지원을 하는 곳이 있습니다. 거주지 보건소에 확인해보세요.</p>
+
+<h2>어떤 비용이 지원되나요</h2>
+
+<p>건강보험이 적용된 뒤 남는 본인부담금이 대상입니다. 병원비 전체가 아니에요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대 상</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">급여 본인부담금</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">건강보험이 적용된 시술비 중 본인이 내는 부분입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M9 3h6v4H9z" /><path d="M7 7h10l1 14H6z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">일 부</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">비급여 항목 일부</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">배아 동결비와 유산방지제 같은 항목이 한도 안에서 포함됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제 외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">제외되는 항목</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">시술과 직접 관련 없는 검사와 상급병실료 등은 빠집니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>급여 본인부담금</b> 건강보험이 적용된 시술비 중 본인 부담분이 대상입니다</li>
+<li><b>비급여 일부</b> 배아 동결비와 유산방지제가 한도 안에서 포함됩니다</li>
+<li><b>제외 항목</b> 시술과 무관한 검사와 상급병실료는 지원되지 않습니다</li>
+</ul>
+
+<p>지원금은 병원에서 결제할 때 바로 빠집니다. 나중에 환급받는 방식이 아니에요.</p>
+
+<blockquote>난임 시술 의료기관으로 지정된 병원에서만 지원이 적용됩니다. 옮길 때는 지정 여부를 먼저 확인하세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>진단서를 먼저 받고 보건소에 신청해 통지서를 손에 쥔 다음 시술을 시작하세요. 순서만 지키면 나머지는 병원에서 알아서 처리해줍니다.</p>
+
+<p>저는 이 절차가 복잡하다고만 들었는데 실제로는 통지서 하나가 전부더라고요... 사실혼도 되니 미리 포기하지 마세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 난임부부 시술비 지원은 체외수정과 인공수정의 본인부담금을 지원하는 사업입니다
+ · 시술 전에 지원 결정 통지서를 받아야 하며 유효기간 안에 시술을 시작해야 합니다
+ · 신청 순서는 난임 진단서 발급, 보건소 또는 온라인 신청, 통지서 수령, 병원 제출입니다
+ · 사실혼 관계도 지원 대상에 포함되며 별도 증빙 서류가 필요합니다
+ · 소득 기준은 지자체에 따라 폐지되거나 다르게 운영됩니다
+ · 지원 횟수는 신선 배아, 동결 배아, 인공수정으로 나누어 관리됩니다
+ · 지원 대상 비용은 건강보험 급여 적용 후의 본인부담금입니다
+ · 배아 동결비와 유산방지제 등 일부 비급여가 한도 내에서 포함됩니다
+ · 시술과 직접 관련 없는 검사비와 상급병실료는 지원되지 않습니다
+ · 지원금은 병원 결제 시 차감되며 사후 환급 방식이 아닙니다
+ · 정부가 지정한 난임 시술 의료기관에서만 지원이 적용됩니다
+ · 난임 진단서에는 유효기간이 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 시술 종류별 1회 지원 상한 금액
+ · 연령대별 지원 금액 차등 여부
+ · 지원 결정 통지서의 유효기간
+ · 시술 종류별 지원 가능 횟수
+ · 사실혼 인정에 필요한 동거 기간과 증빙 서류 목록
+ · 지자체별 소득 기준 폐지 여부와 추가 지원 사업
+ · 지원되는 비급여 항목의 한도 금액
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 부부도 아이를 기다리며 이것저것 알아봤는데요"
+ · "순서를 잘못 밟아 지원을 못 받는 경우가 꽤 있더라고요"
+ · "주민등록등본과 보증인 진술이 쓰이더라고요"
+ · "저는 이 절차가 복잡하다고만 들었는데 실제로는 통지서 하나가 전부더라고요"

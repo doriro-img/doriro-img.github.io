@@ -1,0 +1,262 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 14일 18:18
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260914_1818]_지방_쓰는_법\
+   ├── 📄 [원고 파일]: [20260914_1818]_지방_쓰는_법_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-jibang.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260914_1818]_지방_쓰는_법_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-jibang.html
+
+■ 제목: 제사 지방 쓰는법과 종이 규격. 아버지 어머니 위치와 한글 표기 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 지방쓰는법, 제사지방쓰는법, 지방종이크기, 아버지지방, 어머니지방, 한글지방, 지방태우기, 차례지방, 위패
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>제사 지방 쓰는법과 종이 규격. 아버지 어머니 위치와 한글 표기 정리</p>
+
+<h2>왼쪽이 아버지 오른쪽이 어머니입니다</h2>
+
+<p>제사 지방 쓰는법에서 가장 많이 묻는 게 위치입니다. 답부터 적으면 지방을 마주 봤을 때 왼쪽이 남자 조상, 오른쪽이 여자 조상입니다. 한 분만 돌아가셨으면 가운데에 한 줄로 씁니다.</p>
+
+<p>저희도 명절마다 이걸 매번 검색했는데요. 아버지가 적어두신 종이를 찾아보니 그렇게 돼 있더라고요.</p>
+
+<p>매년 헷갈리는 게 나만은 아니었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="6" y="3" width="12" height="18" rx="1" /><path d="M9 8h6M9 12h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">규 격</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">세로로 긴 흰 종이</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">폭보다 길이가 긴 흰 한지에 세로로 씁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 12h16" /><path d="M8 6v12M16 6v12" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">위 치</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">남좌여우로 놓습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">보는 사람 기준 왼쪽이 남자, 오른쪽이 여자 조상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">구 성</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">세 부분으로 나뉩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">관계, 직위, 이름 순으로 적고 마지막에 신위를 씁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3c2 4-2 5 0 9 2-2 4 1 3 4a5 5 0 1 1-8-4c2 3 3-1 1-3 2-2 4-4 4-6z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">마 무 리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">끝나면 태웁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">제사가 끝나면 지방을 소각하는 것이 전통입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>종이 규격</b> 폭보다 길이가 긴 흰 한지에 세로로 씁니다</li>
+<li><b>위치</b> 보는 사람 기준 왼쪽이 남자, 오른쪽이 여자 조상입니다</li>
+<li><b>구성</b> 관계와 직위, 이름을 적고 마지막에 신위를 씁니다</li>
+<li><b>마무리</b> 제사가 끝나면 지방을 태우는 것이 전통입니다</li>
+</ul>
+
+<h2>무엇을 적어야 하나요?</h2>
+
+<p>세 덩어리를 순서대로 붙이면 됩니다. 규칙만 알면 어렵지 않아요.</p>
+
+<h3>고와 비로 구분합니다</h3>
+
+<p>돌아가신 아버지는 현고로 시작합니다. 어머니는 현비로 씁니다. 앞의 현은 존경을 나타내는 말이에요.</p>
+
+<p>조부모면 현조고와 현조비가 됩니다. 증조부모는 현증조고와 현증조비입니다.</p>
+
+<p>고조부모까지 올라가면 현고조고와 현고조비로 씁니다. 조가 하나씩 늘어난다고 생각하면 쉽습니다.</p>
+
+<h3>직위와 이름을 붙입니다</h3>
+
+<p>벼슬이 없으면 남자는 학생, 여자는 유인이라고 씁니다. 관직이 있었으면 그 이름을 넣어요.</p>
+
+<p>여자 조상은 본관과 성씨를 적습니다. 김해김씨면 유인김해김씨가 됩니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">대상</th>
+      <th style="padding:12px;text-align:left;">한자 표기</th>
+      <th style="padding:12px;text-align:left;">한글 표기</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">아버지</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">顯考學生府君神位</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">현고학생부군신위</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">어머니</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">顯妣孺人本貫姓氏神位</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">현비유인본관성씨신위</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">할아버지</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">顯祖考學生府君神位</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">현조고학생부군신위</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">할머니</td>
+      <td style="padding:12px;">顯祖妣孺人本貫姓氏神位</td>
+      <td style="padding:12px;">현조비유인본관성씨신위</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>아버지</b> 현고학생부군신위로 적습니다</li>
+<li><b>어머니</b> 현비유인 뒤에 본관과 성씨를 넣고 신위로 끝냅니다</li>
+<li><b>조부모</b> 고와 비 앞에 조를 붙여 현조고와 현조비로 씁니다</li>
+</ul>
+
+<blockquote>한글로 써도 됩니다. 성균관도 한글 지방을 인정하고 있어 읽기 쉬운 쪽을 고르면 됩니다.</blockquote>
+
+<h2>종이 크기는 얼마로 합니까</h2>
+
+<p>정해진 규격이 있긴 하지만 절대적이지 않습니다. 세로로 긴 형태면 됩니다.</p>
+
+<p>보통 폭 6센티미터, 길이 22센티미터 안팎으로 씁니다. A4 용지를 세로로 잘라 쓰는 집도 많아요.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">사진으로 대신하는 집이 늘었습니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">지방 대신 고인의 사진을 올리는 경우가 많아졌습니다. 형식보다 기리는 마음이 중요하다는 쪽으로 인식이 바뀌고 있어 어느 쪽을 택해도 무방합니다.</p>
+</div>
+
+<h3>위쪽 모서리를 둥글게 자릅니다</h3>
+
+<p>전통적으로는 종이 윗부분의 양쪽 모서리를 조금 둥글게 자릅니다. 하늘을 뜻한다고 해요.</p>
+
+<p>안 잘라도 문제가 되지는 않습니다. 격식을 갖추고 싶을 때만 참고하세요.</p>
+
+<p>글씨는 검은 먹이나 검은 펜으로 씁니다. 붉은 색은 쓰지 않는 것이 관례예요.</p>
+
+<p>세로로 가운데 정렬해 씁니다. 글자 크기는 종이 폭에 맞춰 균일하게 잡으면 보기 좋습니다.</p>
+
+<h2>차례와 제사가 다릅니까</h2>
+
+<p>지방을 쓰는 방식은 같습니다. 다만 모시는 범위가 달라져요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제 사</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">돌아가신 날에 지냅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">그날 기리는 조상 한 분이나 부부의 지방만 씁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 6v6l4 2" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">차 례</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">명절 아침에 지냅니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">모시는 조상을 함께 올려 지방이 여러 장이 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 20h16" /><path d="M7 20V9h10v11" /><path d="M10 20v-5h4v5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">배 치</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">윗대가 왼쪽입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">여러 대를 모실 때 윗대 조상을 왼쪽에 놓습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>제사</b> 돌아가신 날에 지내며 그분의 지방만 씁니다</li>
+<li><b>차례</b> 명절에 여러 조상을 함께 모셔 지방이 여러 장이 됩니다</li>
+<li><b>배치</b> 여러 대를 모실 때 윗대 조상을 왼쪽에 놓습니다</li>
+</ul>
+
+<p>미리 써두면 당일이 훨씬 여유롭습니다. 붓펜이나 굵은 사인펜이면 충분해요.</p>
+
+<blockquote>집안마다 방식이 조금씩 다릅니다. 어른들께 여쭤보는 게 가장 정확합니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>아버지는 현고학생부군신위, 어머니는 현비유인 뒤에 본관과 성씨를 넣습니다. 왼쪽이 남자 오른쪽이 여자예요.</p>
+
+<p>저는 한자로 쓰다가 획을 틀려서 몇 번을 다시 썼더라고요... 요즘은 한글로도 괜찮으니 편한 쪽으로 하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 지방은 신주를 대신해 종이에 고인을 표시하는 것입니다
+ · 지방은 세로로 긴 흰 종이에 세로쓰기로 작성합니다
+ · 통상 폭 6센티미터, 길이 22센티미터 안팎으로 씁니다
+ · 보는 사람 기준 왼쪽에 남자 조상, 오른쪽에 여자 조상을 놓습니다
+ · 한 분만 모실 때는 가운데에 한 줄로 씁니다
+ · 아버지는 현고학생부군신위로 씁니다
+ · 어머니는 현비유인 뒤에 본관과 성씨를 적고 신위로 마칩니다
+ · 조부모는 현조고와 현조비, 증조부모는 현증조고와 현증조비로 표기합니다
+ · 벼슬이 없는 경우 남자는 학생, 여자는 유인이라고 씁니다
+ · 관직이 있었던 경우 해당 관직명을 넣습니다
+ · 성균관은 한글 지방 사용을 인정하고 있습니다
+ · 전통적으로 종이 윗부분 양쪽 모서리를 둥글게 자릅니다
+ · 제사가 끝나면 지방을 태우는 것이 전통입니다
+ · 지방 대신 고인의 사진을 올리는 방식도 널리 쓰입니다
+ · 여러 대를 함께 모실 때 윗대 조상을 왼쪽에 배치합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 집안과 지역별 표기 관행의 차이
+ · 관직이 있었던 경우의 정확한 표기 방식
+ · 배우자나 형제를 모실 때의 지방 표기
+ · 종이 규격의 전거와 유래
+ · 지방 소각 방식에 관한 예법의 세부 기준
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 명절마다 이걸 매번 검색했는데요"
+ · "아버지가 적어두신 종이를 찾아보니 그렇게 돼 있더라고요"
+ · "저는 한자로 쓰다가 획을 틀려서 몇 번을 다시 썼더라고요"

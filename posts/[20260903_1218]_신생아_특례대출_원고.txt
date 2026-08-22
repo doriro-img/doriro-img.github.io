@@ -1,0 +1,268 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 3일 12:18
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260903_1218]_신생아_특례대출\
+   ├── 📄 [원고 파일]: [20260903_1218]_신생아_특례대출_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-newbornloan.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260903_1218]_신생아_특례대출_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-newbornloan.html
+
+■ 제목: 신생아 특례대출 조건과 대환 가능 범위. 전세와 구입 자금이 갈리는 지점 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 신생아특례대출, 신생아특례대출조건, 신생아특례대출대환, 신생아특례대출전세, 신생아특례대출한도, 특례대출종류, 주택도시기금, 기금e든든, 출산가구대출
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>신생아 특례대출 조건과 대환 가능 범위. 전세와 구입 자금이 갈리는 지점 정리</p>
+
+<h2>출산일이 기준입니다</h2>
+
+<p>신생아 특례대출은 아이를 낳은 가구에 낮은 금리로 주택자금을 빌려주는 제도입니다. 답부터 적으면 신청일이 아니라 출산일로 자격을 봅니다. 대출 신청일 기준 정해진 기간 안에 출산한 가구가 대상이에요.</p>
+
+<p>저희 부부도 주변에서 이 이야기를 많이 들었는데요. 혼인 여부보다 출산 여부를 본다는 게 다른 상품과 제일 큰 차이더라고요.</p>
+
+<p>결혼을 안 해도 아이가 있으면 된다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">자 격</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">출산 기간 요건</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대출 신청일 기준 정해진 기간 안에 출산한 무주택 가구가 대상입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">소 득</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부부 합산 소득 상한</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">연소득 기준과 순자산 기준을 동시에 넘지 않아야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 10.5 12 3l9 7.5" /><path d="M5 10v10h14V10" /><path d="M10 20v-6h4v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">주 택</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">주택 가격과 면적 제한</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주택가액과 전용면적 상한이 정해져 있어 큰 집은 대상이 아닙니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21v-2a5 5 0 0 1 5-5h2" /><circle cx="10" cy="8" r="4" /><path d="M16 16h6M19 13v6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">우 대</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">추가 출산 시 금리 인하</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대출 기간 중 아이를 더 낳으면 금리가 내려가고 기간이 연장됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>출산 요건</b> 신청일 기준 정해진 기간 안에 출산한 무주택 가구가 대상입니다</li>
+<li><b>소득과 자산</b> 부부 합산 연소득과 순자산 기준을 동시에 봅니다</li>
+<li><b>주택 요건</b> 주택가액과 전용면적 상한이 정해져 있습니다</li>
+<li><b>추가 출산</b> 기간 중 아이를 더 낳으면 금리가 내려가고 기간이 연장됩니다</li>
+</ul>
+
+<h2>전세와 구입은 무엇이 다릅니까?</h2>
+
+<p>두 개가 별개 상품입니다. 이름만 같고 한도도 요건도 다르게 잡혀요.</p>
+
+<h3>구입자금은 집을 살 때 씁니다</h3>
+
+<p>매매 계약을 하고 소유권을 넘겨받을 때 쓰는 대출입니다. 등기와 동시에 실행돼요.</p>
+
+<p>주택가액 상한이 걸려 있어서 서울 아파트는 대상이 안 되는 경우가 많습니다. 지역보다 가격으로 잘리는 구조입니다.</p>
+
+<h3>전세자금은 보증금 용도입니다</h3>
+
+<p>임차보증금을 마련할 때 씁니다. 잔금 치르기 전에 신청해야 하는 건 다른 기금 대출과 같아요.</p>
+
+<p>보증금 한도와 대출 한도가 따로 있습니다. 보증금이 상한을 넘으면 아예 신청이 안 되더라고요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">구분</th>
+      <th style="padding:12px;text-align:left;">구입자금</th>
+      <th style="padding:12px;text-align:left;">전세자금</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">용도</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">주택 매입</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">임차보증금</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">가격 기준</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">주택가액 상한</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">보증금 상한</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">실행 시점</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">소유권 이전 시</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">임차 잔금 전</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">대환</td>
+      <td style="padding:12px;">기존 주담대 가능</td>
+      <td style="padding:12px;">기존 전세대출 가능</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>구입자금</b> 주택 매입 용도이며 주택가액 상한으로 대상이 갈립니다</li>
+<li><b>전세자금</b> 임차보증금 용도이며 잔금 전에 신청해야 합니다</li>
+<li><b>대환</b> 구입은 기존 주담대를, 전세는 기존 전세대출을 갈아탈 수 있습니다</li>
+</ul>
+
+<blockquote>이미 잔금을 치르고 등기까지 마쳤다면 신규 대출은 안 됩니다. 이때는 대환 요건에 맞는지를 봐야 합니다.</blockquote>
+
+<h2>신생아 특례대출 대환은 어디까지 되나요</h2>
+
+<p>이미 받은 대출을 신생아 특례로 갈아타는 게 대환입니다. 금리 차이가 커서 관심이 많은 부분이에요.</p>
+
+<p>기존 대출을 실행한 시점과 잔액, 대상 주택 요건을 다 봅니다. 조건을 하나라도 못 맞추면 갈아타기가 막힙니다.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">중도상환수수료를 먼저 계산하세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">기존 은행 대출을 갚으면서 중도상환수수료가 나올 수 있습니다. 갈아타서 아끼는 이자와 지금 내는 수수료를 나란히 놓고 비교해야 실제 이득이 보입니다.</p>
+</div>
+
+<h3>대환에도 기간 제한이 있습니다</h3>
+
+<p>기존 대출 실행 후 일정 기간이 지나야 신청할 수 있는 경우가 있습니다. 은행마다 안내가 조금씩 달라요.</p>
+
+<p>저는 이 부분을 은행 두 곳에 물어봤는데 답이 미묘하게 다르더라고요. 기금e든든 안내와 취급 은행 답변을 같이 확인하세요.</p>
+
+<h3>서류는 출생 사실과 소득 두 묶음입니다</h3>
+
+<p>가족관계증명서와 기본증명서로 출생을 확인합니다. 아이 이름이 올라가 있어야 해서 출생신고를 먼저 마쳐야 해요.</p>
+
+<p>소득은 재직증명서와 원천징수영수증으로 봅니다. 맞벌이면 배우자 서류도 같은 세트로 필요합니다.</p>
+
+<p>여기에 주민등록등본과 혼인관계증명서가 붙습니다. 무주택 확인용으로 세대원 전부가 나오게 떼야 하더라고요.</p>
+
+<h2>금리 우대는 어떻게 쌓입니까</h2>
+
+<p>기본 금리에서 항목별로 깎아나가는 구조입니다. 중복 적용이 되는 게 강점이에요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 21s-7-4.4-7-9a4 4 0 0 1 7-2.6A4 4 0 0 1 19 12c0 4.6-7 9-7 9z" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">출 산</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">추가 출산 우대</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대출 기간 중 아이를 더 낳으면 자녀 한 명당 금리가 더 내려갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">청 약</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">청약저축 가입 기간</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주택청약종합저축을 오래 유지했으면 우대 항목으로 잡힙니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">전 자</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부동산 전자계약</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전자계약시스템으로 계약하면 금리를 조금 더 깎아줍니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>추가 출산</b> 기간 중 아이를 더 낳으면 자녀 한 명당 금리가 더 내려갑니다</li>
+<li><b>청약저축</b> 주택청약종합저축을 오래 유지했으면 우대 항목이 됩니다</li>
+<li><b>전자계약</b> 부동산 전자계약시스템을 쓰면 금리를 조금 더 깎아줍니다</li>
+</ul>
+
+<p>신청은 기금e든든에서 자격 조회를 하고 취급 은행에 서류를 냅니다. 출생 사실을 확인할 가족관계증명서가 핵심 서류예요.</p>
+
+<p>우대금리를 다 받아도 내려갈 수 있는 하한선이 따로 있습니다. 항목을 아무리 쌓아도 그 아래로는 안 내려갑니다.</p>
+
+<p>반대로 대출 기간 중에 소득이 크게 늘면 우대가 사라지기도 합니다. 매년 자격을 다시 확인하는 상품이라 그렇습니다.</p>
+
+<blockquote>대출 기간 중 다른 집을 사면 무주택 요건이 깨집니다. 우대금리가 사라지고 회수 대상이 될 수 있습니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>출산일과 소득, 그리고 사려는 집의 가격이 세 개의 관문입니다. 전세와 구입은 별개 상품이니 내 상황에 맞는 쪽부터 보세요.</p>
+
+<p>저는 이 대출이 신혼부부용인 줄 알았는데 혼인신고와 무관하게 출산 기준이더라고요... 대환은 수수료 계산부터 해보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 신생아 특례대출은 주택도시기금의 출산 가구 대상 주택자금 대출입니다
+ · 자격은 혼인 여부가 아니라 대출 신청일 기준 일정 기간 내 출산 사실로 판단합니다
+ · 무주택 요건과 부부 합산 연소득 기준, 순자산 기준을 함께 충족해야 합니다
+ · 구입자금과 전세자금은 별도 상품이며 한도와 요건이 다릅니다
+ · 구입자금은 주택가액과 전용면적 상한이 있습니다
+ · 전세자금은 임차보증금 상한이 있고 임차 잔금 전에 신청해야 합니다
+ · 기존 주택담보대출과 전세대출을 신생아 특례로 대환할 수 있습니다
+ · 대환 시 기존 대출의 중도상환수수료가 발생할 수 있습니다
+ · 대출 기간 중 추가 출산 시 자녀 수에 따라 금리가 추가로 인하되고 기간이 연장됩니다
+ · 청약저축 가입 기간과 부동산 전자계약 이용이 우대금리 항목에 포함됩니다
+ · 자격 조회는 기금e든든에서 하고 접수는 취급 은행에서 합니다
+ · 출생 사실 확인을 위해 가족관계증명서가 필요합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 대상이 되는 출산일 범위와 신청일 기준 인정 기간
+ · 부부 합산 연소득 상한액과 순자산 기준 금액
+ · 구입자금의 주택가액 상한과 대출 한도
+ · 전세자금의 보증금 상한과 대출 한도
+ · 기본 금리 구간과 소득 구간별 적용 금리
+ · 추가 출산 시 자녀당 금리 인하 폭과 우대금리 하한
+ · 대환 신청이 가능한 기존 대출 실행일 요건
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 부부도 주변에서 이 이야기를 많이 들었는데요"
+ · "혼인 여부보다 출산 여부를 본다는 게 다른 상품과 제일 큰 차이더라고요"
+ · "보증금이 상한을 넘으면 아예 신청이 안 되더라고요"
+ · "저는 이 부분을 은행 두 곳에 물어봤는데 답이 미묘하게 다르더라고요"

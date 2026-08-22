@@ -1,0 +1,258 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 2일 18:13
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260902_1813]_예초기_사고\
+   ├── 📄 [원고 파일]: [20260902_1813]_예초기_사고_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-brushcutter.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260902_1813]_예초기_사고_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-brushcutter.html
+
+■ 제목: 예초기 사고 사례와 보상 처리. 안전날 선택과 벌초 전 확인할 보호장비 정리
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 예초기사고, 예초기사고보상, 예초기안전날, 예초기보호장비, 벌초안전, 예초기안전모, 농기계사고, 예초기날종류, 벌초사고
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>예초기 사고 사례와 보상 처리. 안전날 선택과 벌초 전 확인할 보호장비 정리</p>
+
+<h2>날이 부러져 튀는 사고가 제일 많습니다</h2>
+
+<p>예초기 사고는 벌초철에 몰립니다. 답부터 적으면 다치는 원인 1위는 날에 직접 베이는 게 아니라 부러진 날 조각과 튄 돌입니다. 그래서 보호안경과 안면보호구가 장갑보다 먼저예요.</p>
+
+<p>저희 아버지도 몇 해 전에 예초기를 돌리다 튄 돌에 정강이를 맞았는데요. 두꺼운 작업복을 입었는데도 멍이 크게 들었더라고요.</p>
+
+<p>날만 조심하면 되는 줄 알았다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="3" /><path d="M12 3v6M12 15v6M3 12h6M15 12h6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">원 인 1</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">날 파손과 비산</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">돌이나 철사에 부딪혀 날이 깨지면 조각이 얼굴 쪽으로 튑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">원 인 2</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">킥백 현상</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">날 앞쪽이 단단한 것에 닿으면 기계가 반대로 튕겨 나옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">원 인 3</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">벌집과 뱀</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">풀숲을 건드리다 벌집을 치거나 뱀에 물리는 사고가 함께 납니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시 기</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">벌초철에 몰립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">추석 앞 몇 주에 사고가 집중돼 응급실 방문이 늘어납니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>날 파손과 비산</b> 돌이나 철사에 부딪혀 깨진 조각이 얼굴 쪽으로 튑니다</li>
+<li><b>킥백 현상</b> 날 앞쪽이 단단한 것에 닿으면 기계가 반대로 튕겨 나옵니다</li>
+<li><b>벌집과 뱀</b> 풀숲을 건드리다 벌집을 치거나 뱀에 물리는 사고가 같이 납니다</li>
+<li><b>시기</b> 추석 앞 몇 주에 사고가 집중됩니다</li>
+</ul>
+
+<h2>안전날은 어떤 걸 골라야 하나요?</h2>
+
+<p>날 종류에 따라 위험도가 완전히 다릅니다. 무조건 잘 깎이는 날이 좋은 게 아니에요.</p>
+
+<h3>나일론 날이 가장 안전합니다</h3>
+
+<p>줄이 돌아가면서 풀을 끊는 방식입니다. 돌에 부딪혀도 줄만 끊어져서 큰 사고로 잘 안 갑니다.</p>
+
+<p>대신 굵은 줄기나 잡목은 잘 안 잘립니다. 봉분 주변처럼 돌이 많은 곳에 쓰기 좋더라고요.</p>
+
+<h3>금속 날은 보호덮개가 필수입니다</h3>
+
+<p>2도날이나 3도날은 절삭력이 좋은 만큼 위험합니다. 안전덮개를 떼고 쓰는 분들이 있는데 그러면 안 됩니다.</p>
+
+<p>톱날 형태는 잡목용이라 풀 벌초에는 과합니다. 회전 속도가 높아 킥백도 더 세게 옵니다.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">날 종류</th>
+      <th style="padding:12px;text-align:left;">쓰임</th>
+      <th style="padding:12px;text-align:left;">위험도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">나일론 줄날</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">부드러운 풀 묘지 주변</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">낮음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">2도 3도날</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">일반 잡초</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">중간</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">원형 톱날</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">잡목 관목</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">높음</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">체인식 날</td>
+      <td style="padding:12px;">굵은 줄기</td>
+      <td style="padding:12px;">매우 높음</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>나일론 줄날</b> 묘지 주변처럼 돌이 많은 곳에 쓰기 좋고 위험이 낮습니다</li>
+<li><b>2도 3도날</b> 일반 잡초용이며 보호덮개를 반드시 달아야 합니다</li>
+<li><b>톱날과 체인식</b> 잡목용이라 풀 벌초에는 과하고 킥백이 강합니다</li>
+</ul>
+
+<blockquote>보호덮개를 떼면 잘 깎이는 게 아니라 튀는 방향이 넓어지는 것뿐입니다. 절대 떼지 마세요.</blockquote>
+
+<h2>보호장비는 무엇부터 챙깁니까</h2>
+
+<p>순서가 있습니다. 다치는 부위 순서대로 챙기면 돼요.</p>
+
+<p>얼굴과 눈이 첫 번째입니다. 안면보호구가 달린 안전모나 최소한 보호안경은 꼭 쓰세요.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3a9 9 0 0 1 9 9v3H3v-3a9 9 0 0 1 9-9z" /><path d="M3 15h18" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">긴 바지와 안전화는 기본입니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">반바지나 슬리퍼 차림은 절대 안 됩니다. 무릎 아래 정강이가 가장 많이 다치는 부위라 두꺼운 작업복 바지에 목이 있는 신발을 신어야 합니다.</p>
+</div>
+
+<h3>혼자 하지 마세요</h3>
+
+<p>산속이라 통신이 잘 안 터지는 곳이 많습니다. 사고가 나면 부를 사람이 없어요.</p>
+
+<p>둘 이상이 가되 서로 15미터는 떨어져서 작업합니다. 옆 사람 날에 튄 돌이 나한테 옵니다.</p>
+
+<p>작업 전에 풀숲을 발로 밟거나 막대기로 두드려 보세요. 벌집과 뱀을 미리 쫓는 가장 확실한 방법입니다.</p>
+
+<p>돌과 철사도 이때 같이 걷어냅니다. 날이 부딪힐 만한 걸 미리 치우면 파손 사고 자체가 줄어듭니다.</p>
+
+<h2>사고가 나면 보상은 어떻게 받나요</h2>
+
+<p>본인 실수로 다친 경우와 남이 다치게 한 경우가 다릅니다. 절차부터 나뉘어요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">본 인</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상해보험과 실손</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">본인이 다친 경우 가입한 상해보험과 실손의료비로 처리합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21v-2a5 5 0 0 1 5-5h2" /><circle cx="10" cy="8" r="4" /><path d="M16 14l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">타 인</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">일상생활배상책임</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내가 남을 다치게 했다면 특약이 있는지부터 확인합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M20 7H4a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1z" /><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">업 무</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">대행업체는 산재</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">벌초 대행 작업자가 다친 경우 산재보험으로 처리됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>본인 부상</b> 가입한 상해보험과 실손의료비로 처리합니다</li>
+<li><b>타인 부상</b> 일상생활배상책임 특약이 있는지 먼저 확인합니다</li>
+<li><b>대행업체</b> 작업자가 다친 경우 산재보험으로 처리됩니다</li>
+</ul>
+
+<p>어느 쪽이든 병원 기록이 먼저입니다. 상처를 집에서 소독하고 넘어가면 나중에 인정받기 어려워요.</p>
+
+<blockquote>파상풍 위험이 있습니다. 흙이 묻은 상처는 작아 보여도 병원에서 처치를 받으세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>묘지 주변은 나일론 줄날로 가고 보호덮개는 그대로 두세요. 안면보호구와 긴 바지, 안전화까지 갖추면 큰 사고는 거의 막힙니다.</p>
+
+<p>저는 예초기가 그냥 풀 깎는 기계인 줄 알았는데 회전 속도를 알고 나서 생각이 바뀌더라고요... 서두르지 말고 천천히 하세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 예초기 사고는 벌초가 몰리는 추석 전 기간에 집중됩니다
+ · 주요 사고 유형은 날 파손 조각과 이물질 비산, 킥백, 날에 직접 접촉입니다
+ · 킥백은 회전하는 날의 앞쪽이 단단한 물체에 닿을 때 기계가 튕기는 현상입니다
+ · 나일론 줄날은 돌에 부딪혀도 줄이 끊어져 금속 날보다 위험이 낮습니다
+ · 2도날 3도날 원형 톱날 체인식 날 순으로 절삭력과 위험도가 함께 올라갑니다
+ · 예초기 안전덮개는 비산 방향을 제한하는 장치로 제거하면 안 됩니다
+ · 보호장비는 안면보호구 또는 보호안경, 긴 작업복 바지, 목이 있는 안전화가 기본입니다
+ · 작업자 간 15미터 이상 거리를 두는 것이 권장됩니다
+ · 벌초 중 벌 쏘임과 뱀 물림 사고가 함께 발생합니다
+ · 본인 부상은 상해보험과 실손의료비, 타인 부상은 일상생활배상책임 특약으로 처리합니다
+ · 벌초 대행업체 작업자의 부상은 산재보험 대상입니다
+ · 흙이 묻은 상처는 파상풍 위험이 있어 병원 처치가 필요합니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 연도별 예초기 사고 발생 건수와 부상 부위별 비율
+ · 벌초 대행 비용의 지역별 단가
+ · 일상생활배상책임 특약의 보상 한도와 자기부담금
+ · 예초기 날 종류별 회전수와 규격 기준
+ · 안전덮개 미장착 시 제재 여부
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 아버지도 몇 해 전에 예초기를 돌리다 튄 돌에 정강이를 맞았는데요"
+ · "두꺼운 작업복을 입었는데도 멍이 크게 들었더라고요"
+ · "봉분 주변처럼 돌이 많은 곳에 쓰기 좋더라고요"
+ · "저는 예초기가 그냥 풀 깎는 기계인 줄 알았는데 회전 속도를 알고 나서 생각이 바뀌더라고요"
