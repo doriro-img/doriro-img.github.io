@@ -1,0 +1,259 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 23일 18:35
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260923_1835]_소액결제_차단\
+   ├── 📄 [원고 파일]: [20260923_1835]_소액결제_차단_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-micropay.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260923_1835]_소액결제_차단_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-micropay.html
+
+■ 제목: 소액결제 차단 신청 방법과 한도 확인하는 곳. 스미싱 피해를 막는 설정
+■ 카테고리: 생활 규정 및 IT
+■ 태그: 소액결제, 소액결제차단, 소액결제한도, 휴대폰결제, 스미싱, 통신사설정, 정보이용료, 콘텐츠이용료, 통신요금
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>소액결제 차단 신청 방법과 한도 확인하는 곳. 스미싱 피해를 막는 설정</p>
+
+<h2>통신요금에 같이 붙어 나갑니다</h2>
+
+<p>휴대폰 번호만으로 결제가 되는 기능이 기본으로 켜져 있습니다. 답부터 적으면 쓰지 않을 거면 꺼두는 게 낫고, 통신사 앱에서 몇 번만 누르면 됩니다.</p>
+
+<p>저희 아버지가 문자 링크를 눌렀다가 요금 고지서에 모르는 금액이 찍힌 적이 있는데요. 그때 처음 이 설정을 알았더라고요.</p>
+
+<p>안 쓰면 꺼두는 게 맞다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">경 로 1</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">통신사 앱에서</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">본인 회선이면 바로 켜고 끌 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.9 2.1z" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">경 로 2</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">고객센터 전화로</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">앱이 어려우면 상담원에게 요청하면 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M3 21V8l9-5 9 5v13z" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">경 로 3</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">대리점 방문으로</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신분증을 들고 가면 그 자리에서 처리됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7z" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">효 과</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문자 링크가 무력해집니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">결제 창까지 가도 승인이 나지 않습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>앱</b> 통신사 앱에서 본인 회선을 직접 설정합니다</li>
+<li><b>전화</b> 고객센터 상담원에게 요청해도 됩니다</li>
+<li><b>방문</b> 대리점에서 신분증을 내면 바로 처리됩니다</li>
+<li><b>효과</b> 차단해두면 결제 승인 자체가 나지 않습니다</li>
+</ul>
+
+<h2>소액결제 한도 확인은 어디서 합니까?</h2>
+
+<p>내 회선에 얼마가 걸려 있는지부터 봐야 합니다. 생각보다 큰 금액이 잡혀 있는 경우가 많아요.</p>
+
+<h3>통신사 앱에서 바로 보입니다</h3>
+
+<p>메뉴 이름은 통신사마다 다릅니다. 콘텐츠 이용료나 휴대폰 결제라는 이름으로 들어가 있어요.</p>
+
+<p>이번 달 쓴 금액과 남은 금액이 같이 나옵니다. 모르는 결제가 있으면 여기서 먼저 보입니다.</p>
+
+<h3>차단은 세 갈래로 나뉩니다</h3>
+
+<p>물건을 사는 상품 결제와 게임 아이템 같은 정보이용료가 따로 관리됩니다. 하나만 막으면 다른 쪽이 열려 있을 수 있어요.</p>
+
+<p>둘 다 막아야 완전히 닫힙니다. 앱에서 항목이 나뉘어 있는지 확인해보세요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#374151;color:#fff;">
+      <th style="padding:12px;text-align:left;">항목</th>
+      <th style="padding:12px;text-align:left;">내용</th>
+      <th style="padding:12px;text-align:left;">설정</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">상품 결제</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">쇼핑몰 물건값</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">별도 차단</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">정보이용료</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">게임 아이템과 앱 결제</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">별도 차단</td>
+    </tr>
+    <tr style="background:#f3f4f6;">
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">한도 조정</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">월 사용 상한</td>
+      <td style="padding:12px;border-bottom:1px solid #e5e7eb;">금액 지정</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">해제</td>
+      <td style="padding:12px;">차단을 다시 푸는 것</td>
+      <td style="padding:12px;">본인 확인</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>상품 결제</b> 쇼핑몰 물건값에 해당하는 항목입니다</li>
+<li><b>정보이용료</b> 게임 아이템과 앱 안 결제가 여기 들어갑니다</li>
+<li><b>한도</b> 아예 막지 않고 금액만 낮춰둘 수도 있습니다</li>
+</ul>
+
+<blockquote>가족 회선을 명의자가 대신 설정할 수 있습니다. 아이 휴대폰이면 이걸 먼저 확인하세요.</blockquote>
+
+<h2>소액결제 한도 상향은 어떻게 합니까</h2>
+
+<p>필요해서 올리는 경우도 있습니다. 반대 방향도 같은 자리에서 됩니다.</p>
+
+<p>본인 확인을 거쳐야 하고 통신사가 정한 상한을 넘을 수는 없습니다. 연체가 있으면 조정이 막힙니다.</p>
+
+<div style="background:#f3f4f6;border-left:5px solid #374151;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#374151;">상향을 유도하는 문자는 의심하세요</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">한도를 올리라거나 인증번호를 알려달라는 연락은 정상적인 통신사 절차가 아닙니다. 설정은 본인이 앱이나 고객센터에서 직접 하는 것이고, 링크를 통해 처리되지 않습니다.</p>
+</div>
+
+<h3>소액결제 한도 초기화가 되는 시점</h3>
+
+<p>사용액은 월 단위로 리셋됩니다. 결제 마감일이 지나면 다시 처음부터 쌓여요.</p>
+
+<p>이번 달에 한도를 다 썼다고 차단된 건 아닙니다. 다음 달이 되면 그대로 풀립니다.</p>
+
+<h2>어떤 사람이 차단해두면 좋습니까</h2>
+
+<p>휴대폰 결제를 쓸 일이 없으면 켜둘 이유가 없습니다. 몇 가지 경우는 특히 그렇습니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="8" r="4" /><path d="M4 21c0-4 3.5-6 8-6s8 2 8 6" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 모 님</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">문자 링크에 취약합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">차단해두면 눌러도 결제가 되지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="12" rx="2" /><path d="M8 12h.01M12 12h.01M16 12h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">아 이</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">게임 결제가 새어 나갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정보이용료 항목을 같이 막아야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #374151;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 4v5c0 5-3.5 8-8 9-4.5-1-8-4-8-9V7z" /><path d="M12 9v4M12 16h.01" />
+      </svg>
+      <span style="background:#f3f4f6;color:#374151;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">분 실</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">잃어버렸을 때 피해가 큽니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">미리 막아두면 번호만으로는 못 씁니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>부모님 회선</b> 문자 링크를 눌러도 승인이 나지 않습니다</li>
+<li><b>아이 회선</b> 정보이용료까지 같이 막아야 새는 걸 막습니다</li>
+<li><b>분실 대비</b> 번호만으로 결제되는 통로를 미리 닫아둡니다</li>
+</ul>
+
+<h3>이미 결제가 됐다면</h3>
+
+<p>통신사 고객센터에 이의를 제기할 수 있습니다. 결제 대행사 조사가 붙습니다.</p>
+
+<p>동시에 경찰서에 신고하고 접수증을 받아두세요. 조사 과정에서 필요합니다.</p>
+
+<blockquote>결제일이 지나 요금이 빠져나간 뒤에는 돌려받는 절차가 길어집니다. 고지서를 매달 훑어보는 게 낫습니다.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>통신사 앱에 들어가서 한도를 보고 안 쓰면 차단해두면 됩니다. 상품 결제와 정보이용료를 같이 막아야 완전히 닫힙니다.</p>
+
+<p>저는 이게 기본으로 켜져 있는 줄도 몰랐더라고요... 부모님 폰부터 확인해보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 휴대폰 소액결제는 통신요금에 합산되어 청구됩니다
+ · 차단과 한도 조정은 통신사 앱, 고객센터, 대리점에서 처리합니다
+ · 상품 결제와 정보이용료는 별도 항목으로 관리됩니다
+ · 한 항목만 차단하면 다른 항목은 열려 있을 수 있습니다
+ · 아예 차단하지 않고 월 한도 금액만 낮출 수도 있습니다
+ · 사용액은 월 단위로 초기화됩니다
+ · 명의자는 가족 회선의 설정을 대신 처리할 수 있습니다
+ · 한도 상향에는 본인 확인이 필요합니다
+ · 통신사가 정한 상한을 넘어서는 조정은 불가능합니다
+ · 요금 연체가 있으면 한도 조정이 제한됩니다
+ · 통신사는 문자 링크로 한도 조정을 요구하지 않습니다
+ · 부정 결제는 통신사 고객센터 이의제기와 경찰 신고를 병행합니다
+ · 신고 접수증은 결제 대행사 조사 과정에서 요구될 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 통신사별 월 한도 상한 금액
+ · 미성년자 회선의 기본 한도
+ · 차단 신청 후 적용까지 걸리는 시간
+ · 이의제기 처리 기간과 환불 절차
+ · 정보이용료와 상품 결제의 정확한 구분 기준
+ · 알뜰폰 사업자별 설정 방법
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 아버지가 문자 링크를 눌렀다가 요금 고지서에 모르는 금액이 찍힌 적이 있는데요"
+ · "그때 처음 이 설정을 알았더라고요"
+ · "저는 이게 기본으로 켜져 있는 줄도 몰랐더라고요"
