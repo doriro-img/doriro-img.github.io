@@ -22,23 +22,41 @@ const path = require('path');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// ─ 통신 계층 ────────────────────────────────────────────────
+// ★ null 은 "요청 실패", [] 는 "진짜 결과 없음"이다. 이 둘을 절대 섞지 않는다.
+//   섞으면 네트워크 장애가 "씨앗이 안 물렸다"는 오진으로 번져 엉뚱한 축약을 부른다.
+const net = { ok: 0, fail: 0, retry: 0, bySource: { naver: { ok: 0, fail: 0 }, google: { ok: 0, fail: 0 } } };
+const CACHE = new Map();   // 같은 씨앗을 두 번 때리지 않는다
+
+async function get(url, src, tries = 3) {
+  if (CACHE.has(url)) return CACHE.get(url);
+  for (let i = 0; i < tries; i++) {
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA } });
+      if (r.status === 429 || r.status >= 500) { net.retry++; await sleep(800 * (i + 1)); continue; }
+      if (!r.ok) break;
+      const t = await r.text();
+      net.ok++; net.bySource[src].ok++;
+      CACHE.set(url, t);
+      return t;
+    } catch (e) { net.retry++; await sleep(500 * (i + 1)); }
+  }
+  net.fail++; net.bySource[src].fail++;
+  CACHE.set(url, null);
+  return null;
+}
+
 async function naver(q) {
-  const u = 'https://ac.search.naver.com/nx/ac?q=' + encodeURIComponent(q) +
-    '&st=100&r_format=json&r_enc=UTF-8&r_unicode=0&ans=2&run=2&rev=4&q_enc=UTF-8';
-  try {
-    const r = await fetch(u, { headers: { 'User-Agent': UA } });
-    const j = await r.json();
-    return ((j.items || [])[0] || []).map((x) => x[0]).filter(Boolean);
-  } catch (e) { return []; }
+  const t = await get('https://ac.search.naver.com/nx/ac?q=' + encodeURIComponent(q) +
+    '&st=100&r_format=json&r_enc=UTF-8&r_unicode=0&ans=2&run=2&rev=4&q_enc=UTF-8', 'naver');
+  if (t === null) return null;
+  try { return ((JSON.parse(t).items || [])[0] || []).map((x) => x[0]).filter(Boolean); } catch (e) { return null; }
 }
 
 async function google(q) {
-  const u = 'https://suggestqueries.google.com/complete/search?client=firefox&hl=ko&ie=utf-8&oe=utf-8&q=' + encodeURIComponent(q);
-  try {
-    const r = await fetch(u, { headers: { 'User-Agent': UA } });
-    const j = JSON.parse(await r.text());
-    return (j[1] || []).filter(Boolean);
-  } catch (e) { return []; }
+  const t = await get('https://suggestqueries.google.com/complete/search?client=firefox&hl=ko&ie=utf-8&oe=utf-8&q=' + encodeURIComponent(q), 'google');
+  if (t === null) return null;
+  try { return (JSON.parse(t)[1] || []).filter(Boolean); } catch (e) { return null; }
 }
 
 // 씨앗은 딱 2층이다. 3층 이상은 만들지 않는다.
@@ -65,18 +83,24 @@ const norm = (s) => s.toLowerCase().replace(/\s+/g, '');
 const onTopic = (k, seed) => norm(k).includes(norm(seed));
 
 // 씨앗이 통째로 안 물리면 뒤 어절을 떼며 좁혀 재시도한다.
+// 단 두 소스가 모두 "요청 실패"면 축약하지 않고 실패로 반환한다.
+// 장애를 "안 물림"으로 오진해 엉뚱한 머리 키워드로 내려가는 걸 막는다.
 async function probe(seed) {
   const w = seed.trim().split(/\s+/);
-  for (let n = w.length; n >= 1; n--) {
-    const q = w.slice(0, n).join(' ');
+  const try1 = async (q) => {
     const [nv, gg] = await Promise.all([naver(q), google(q)]);
-    if (nv.length || gg.length) return { q, nv, gg };
+    if (nv === null && gg === null) return { q, nv: [], gg: [], failed: true };
+    const a = nv || [], b = gg || [];
+    return a.length || b.length ? { q, nv: a, gg: b } : null;
+  };
+  for (let n = w.length; n >= 1; n--) {
+    const r = await try1(w.slice(0, n).join(' '));
+    if (r) return r;
     if (n > 1) await sleep(100);
   }
   for (let n = 1; n < w.length; n++) {
-    const q = w.slice(n).join(' ');
-    const [nv, gg] = await Promise.all([naver(q), google(q)]);
-    if (nv.length || gg.length) return { q, nv, gg };
+    const r = await try1(w.slice(n).join(' '));
+    if (r) return r;
     await sleep(100);
   }
   return { q: seed, nv: [], gg: [] };
@@ -133,9 +157,10 @@ function fromLineup(file) {
     const byseed = {};
     const hits = [];
 
-    let dropped = 0;
+    let dropped = 0, failed = 0;
     for (const sd of seeds) {
       const h = await probe(sd);
+      if (h.failed) failed++;
       hits.push(h.q);
       const nv = h.nv.filter((k) => onTopic(k, h.q));
       const gg = h.gg.filter((k) => onTopic(k, h.q));
@@ -179,11 +204,14 @@ function fromLineup(file) {
       longtail: longtail.slice(0, 10),
       total: ranked.length,
       dropped,
+      failed,
     });
     console.log(`${String(i + 1).padStart(3)}/${items.length}  ${it.topic}  [씨앗 ${hits.length}]  ${ranked.length}개  →  ${ranked.slice(0, 4).map((x) => x[0]).join(' | ') || '(응답 없음)'}`);
   }
 
-  fs.writeFileSync(OUT, JSON.stringify(result, null, 2), 'utf8');
+  // 자동완성은 시점마다 바뀐다. 언제 뽑은 건지 같이 박아둔다.
+  const stamp = { collectedAt: new Date().toISOString().slice(0, 16).replace('T', ' '), net, items: result.length };
+  fs.writeFileSync(OUT, JSON.stringify({ meta: stamp, items: result }, null, 2), 'utf8');
 
   // 사람이 읽는 표 — 층을 나눠서 적는다
   const txt = result.map((r) =>
@@ -202,11 +230,25 @@ function fromLineup(file) {
   //   예) "한파" → 한파나라(게임) / 한파는 주로 12월 2월에 발생한다(교과서 문장)
   //   이럴 땐 제도명·상품명 같은 고유명으로 씨앗을 다시 잡아야 한다.
   const unfit = result.filter((r) => r.longtail.length < 3);
+  const broke = result.filter((r) => r.failed);
   console.log(`\n${result.length}개 수집 · 무응답 ${dead}개 · 주제당 평균 ${avg}개 · 오타추천 ${drop}개 걸러냄`);
+  console.log(`통신: 성공 ${net.ok} · 실패 ${net.fail} · 재시도 ${net.retry}` +
+    `  (네이버 ${net.bySource.naver.ok}/${net.bySource.naver.ok + net.bySource.naver.fail}` +
+    ` · 구글 ${net.bySource.google.ok}/${net.bySource.google.ok + net.bySource.google.fail})`);
   if (unfit.length) {
     console.log(`  ⚠ 씨앗 재선정 필요 ${unfit.length}개 (주제층 3개 미만 = 1층이 일반명사)`);
     unfit.forEach((r) => console.log(`      ${r.topic}   [씨앗 ${r.seeds.join(' → ')}]  주제층 ${r.longtail.length}개`));
   }
   console.log(`저장: ${OUT}`);
   console.log(`      ${OUT.replace(/\.json$/, '') + '.txt'}`);
+
+  // 한쪽 소스가 통째로 죽으면 점수 체계(네이버 2점 / 구글 1점)가 무너진다. 조용히 넘기지 않는다.
+  for (const [k, v] of Object.entries(net.bySource)) {
+    if (v.fail && !v.ok) { console.error(`\n✗ ${k} 전량 실패. 점수 체계가 한쪽으로 기울었습니다. 이 결과를 쓰지 마세요.`); process.exit(1); }
+  }
+  if (broke.length) {
+    console.error(`\n✗ 통신 실패로 씨앗을 못 물린 주제 ${broke.length}개: ${broke.map((r) => r.topic).join(', ')}`);
+    console.error('  같은 명령을 다시 돌리세요. 성공분은 캐시가 아니라 파일에 남아 있으니 덮어써도 됩니다.');
+    process.exit(1);
+  }
 })();

@@ -26,6 +26,17 @@ if (!yms.length) { console.error('사용법: node audit.cjs 202611 [--full] [--s
 const ART = path.join(ROOT, 'art');
 const PNG = path.join(ROOT, '2026', String(new Date().getMonth() + 1).padStart(2, '0'));
 
+// 자동완성 수집 결과 — tools/kw_<연월>.json 이 있으면 키워드 반영까지 검사한다.
+// 없으면 그 검사만 조용히 건너뛴다 (없다고 실패로 치지 않는다).
+const flat = (s) => s.toLowerCase().replace(/\s+/g, '');
+const KW = {};
+for (const ym of yms) {
+  const p = path.join(ROOT, 'tools', `kw_${ym}.json`);
+  if (!fs.existsSync(p)) continue;
+  const raw = JSON.parse(fs.readFileSync(p, 'utf8'));
+  for (const r of (Array.isArray(raw) ? raw : raw.items || [])) if (r.slug) KW[r.slug] = r;
+}
+
 const BANNED = ['뿐만 아니라', '더 나아가', '요약하자면', '결론적으로', '라는 점을 기억하세요',
   '신중하게 판단하셔야 합니다', '지금까지', '또한 ', '따라서 ', '종합하면', '핵심은', '여러분'];
 const BROKEN = String.fromCharCode(92) + '<p' + String.fromCharCode(92) + '>';
@@ -111,9 +122,28 @@ for (const f of files) {
   if (chars < min) issues.push(`${chars}자 (기준 ${min})`);
   for (const sec of ['■ 숫자·사실 출처', '■ 확인 필요']) if (!t.includes(sec)) issues.push(`푸터없음:${sec}`);
 
+  // 키워드 반영 — tools/kw_<연월>.json 이 있을 때만 검사한다.
+  // 자동완성을 뽑아놓고 제목·소제목에 안 쓰면 수집한 의미가 없다.
+  const slug = (t.match(/tc-[a-z0-9]+/) || [])[0];
+  const kw = slug && KW[slug];
+  if (kw) {
+    const title = (t.match(/■ 제목:\s*(.+)/) || [])[1] || '';
+    const nt = flat(title);
+    const head = kw.head || [], tail = kw.longtail || [];
+    if (head.length + tail.length) {
+      if (![...head, ...tail].some((k) => nt.includes(flat(k)))) issues.push('제목에 수집 키워드 없음');
+      // 소제목에는 롱테일을 푼다 (STYLE.md: 제목은 건조하게, 소제목은 질문형으로).
+      // 소제목은 "언제까지 확인해야 하나요?"처럼 풀어 쓰므로 롱테일 전체가 아니라
+      // 씨앗 뒤에 붙은 꼬리말("언제까지")만 비교한다.
+      const subs = flat([...h2, ...h3].join(' '));
+      const sd = flat(kw.seeds ? kw.seeds[kw.seeds.length - 1] : '');
+      const tails = tail.map((k) => flat(k).replace(sd, '')).filter((x) => x.length >= 2);
+      if (tails.length >= 3 && !tails.some((x) => subs.includes(x))) issues.push('소제목에 롱테일 없음');
+    }
+  }
+
   // 썸네일 짝 · 다운로드 묶음
   if (FULL) {
-    const slug = (t.match(/tc-[a-z0-9]+/) || [])[0];
     const ym = f.slice(1, 7);
     if (!slug) issues.push('썸네일 slug 없음');
     else {
