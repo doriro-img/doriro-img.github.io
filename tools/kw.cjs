@@ -59,21 +59,18 @@ async function google(q) {
   try { return (JSON.parse(t)[1] || []).filter(Boolean); } catch (e) { return null; }
 }
 
-// 씨앗은 딱 2층이다. 3층 이상은 만들지 않는다.
-//   1층 [대표] 제도·상품·사물의 고유명 그 자체. 그 말만으로 뜻이 통해야 한다
-//   2층 [주제] 대표 + 그 글이 다루는 행위·속성 하나
-//
-//   "연말정산 미리보기"      → ["연말정산", "연말정산 미리보기"]
-//   "국민연금 추후납부 방법"  → ["국민연금", "국민연금 추후납부"]      ← 3층은 안 만든다
-//   "종합부동산세 고지 분납"  → ["종합부동산세", "종합부동산세 고지"]
-//   "금 달러 투자 세금"      → ["금 달러", "금 달러 투자"]           ← 1글자 머리는 붙여 쓴다
-function ladder(topic) {
-  const w = topic.trim().split(/\s+/);
-  if (w.length === 1) return [topic.trim()];
-  const head = w[0].length >= 2 ? w[0] : w.slice(0, 2).join(' ');
-  const hw = head.split(/\s+/).length;
-  return [...new Set([head, w.slice(0, hw + 1).join(' ')])];
-}
+// 서술어 단독은 1층 씨앗이 될 수 없다.
+// "차이" → 차이797·차이홍·차이나타운, "해지" → 해지는시간·해지개 처럼
+// 정보성 점수는 만점으로 뜨면서 완전히 딴 개체를 가리킨다. 2어절 이상이면 통과시킨다.
+const TAIL = /^(차이|비교|방법|기준|조건|정리|총정리|안내|신청|해지|취소|변경|확인|조회|계산|준비|대응|관리|사용|점검|주의|유의사항|필요|가능|여부|시기|기간|금액|비용|요금|한도|자격|대상|절차|서류|후기|추천|순서|과정|이유|원인|효과|증상|종류|현황|제도|지원|혜택|정보|가이드|팁)$/;
+
+// 대분류어 단독도 1층이 될 수 없다.
+// "보험" "세금" "교통"은 정보성 접미가 많아 자격은 통과하지만 글 주제를 전혀 안 가리킨다.
+// "대리운전 요금 보험"의 1층이 [보험]이면 대표층이 통째로 남의 글 키워드가 된다.
+const BROAD = /^(보험|세금|대출|금융|교통|의료|건강|부동산|주택|아파트|자동차|차량|온라인|오프라인|투자|달러|주식|연금|급여|수당|카드|은행|병원|약국|학교|회사|정부|국가|지원금|보조금|가전|가구|의류|음식|여행|겨울|여름|봄|가을|어린이|청년|노인|부모|자녀|배우자|가족|남자|여자|기타)$/;
+
+// 용언 활용형("달라지는" "바뀌는" "받는")은 명사가 아니라 씨앗이 못 된다.
+const VERBY = /(는|한|된|될|할|하는|드는|지는|되는)$/;
 
 // 자동완성은 오타 교정 후보를 같이 던진다.
 //   한파 → 한판·한판승부·고기한판 / 배우자 → 배우 장미희 / 창호 → 창환·창홍
@@ -101,12 +98,52 @@ function verdictOf(list) {
   return { v: info >= 0.25 ? '정상' : buy >= 0.25 ? '구매의도' : '딴도메인', info, buy };
 }
 
+// ─ 1층 씨앗 선택 ───────────────────────────────────────────
+// 추측하지 않는다. 주제명에서 만들 수 있는 후보를 전부 자동완성에 넣어보고 이긴 걸 쓴다.
+//
+// 첫 어절을 자르면 구멍 키워드가 난다. 한국어 복합 주제명은
+// [수식어 + 주어 + 서술] 어순이 흔해서 주어가 앞에 없는 경우가 많기 때문이다.
+//   "아파트 승강기 갇힘"    첫 어절 [아파트] → 아파트 드라마·몇부작   ✗
+//                          측정 채택 [아파트 승강기] → 사용료·교체·전기요금  ✓
+//   "어린이 국가예방접종"   첫 어절 [어린이] → 어린이대공원·뮤지컬     ✗
+//                          측정 채택 [국가예방접종] → 접종표·조회·도우미  ✓
+//
+// 자격: 필터 후 5개 이상 && 정보성 25% 이상. 아무도 자격이 없으면 씨앗이 없는 주제다.
+// 그건 도구가 실패한 게 아니라 주제명을 다시 지으라는 신호다.
+async function pickHead(topic) {
+  const w = topic.trim().split(/\s+/);
+  const ok1 = (x) => x.length >= 2 && !TAIL.test(x) && !BROAD.test(x) && !VERBY.test(x);
+  const cands = [];
+  for (let i = 0; i < w.length; i++) {
+    if (ok1(w[i])) cands.push(w[i]);
+    if (i + 1 < w.length) cands.push(w.slice(i, i + 2).join(' '));
+  }
+  const tried = [];
+  for (const c of [...new Set(cands)]) {
+    const [nv, gg] = await Promise.all([naver(c), google(c)]);
+    if (nv === null && gg === null) continue;
+    const L = [...(nv || []), ...(gg || [])].filter((k) => onTopic(k, c));
+    tried.push({ q: c, n: L.length, ...verdictOf(L) });
+    await sleep(120);
+  }
+  // 자격을 갖춘 것 중 가장 넓은(짧은) 것을 쓴다. 1층의 일은 형제 가지를 보여주는 것이라
+  // 좁은 걸 고르면 대표층이 2층과 같아져 소재 발굴이 안 된다.
+  const fit = tried.filter((x) => x.n >= 5 && x.info >= 0.25);
+  fit.sort((a, b) => a.q.split(/\s+/).length - b.q.split(/\s+/).length || a.q.length - b.q.length || b.info - a.info);
+  return { pick: fit[0] || null, tried };
+}
+
 // 씨앗이 통째로 안 물리면 뒤 어절을 떼며 좁혀 재시도한다.
 // 단 두 소스가 모두 "요청 실패"면 축약하지 않고 실패로 반환한다.
 // 장애를 "안 물림"으로 오진해 엉뚱한 머리 키워드로 내려가는 걸 막는다.
-async function probe(seed) {
+// anchor를 주면 그 말을 잃는 축약은 하지 않는다.
+// "12월 달라지는 제도"를 앞에서부터 깎으면 "12월"까지 떨어져 구멍 키워드가 되살아난다.
+// 1층으로 채택한 말은 어떤 경우에도 버리지 않는다.
+async function probe(seed, anchor) {
   const w = seed.trim().split(/\s+/);
+  const keeps = (q) => !anchor || norm(q).includes(norm(anchor));
   const try1 = async (q) => {
+    if (!keeps(q)) return null;
     const [nv, gg] = await Promise.all([naver(q), google(q)]);
     if (nv === null && gg === null) return { q, nv: [], gg: [], failed: true };
     const a = nv || [], b = gg || [];
@@ -122,7 +159,7 @@ async function probe(seed) {
     if (r) return r;
     await sleep(100);
   }
-  return { q: seed, nv: [], gg: [] };
+  return { q: anchor || seed, nv: [], gg: [] };
 }
 
 // 라인업 파일에서 주제명을 긁는다.
@@ -169,7 +206,15 @@ function fromLineup(file) {
 
   const result = [];
   for (const [i, it] of items.entries()) {
-    const seeds = it.seeds || (FLAT ? [it.topic] : ladder(it.topic));
+    let seeds, noSeed = false, tried = null;
+    if (it.seeds) seeds = it.seeds;                 // 라인업에 직접 적은 씨앗이 최우선
+    else if (FLAT) seeds = [it.topic];
+    else {
+      const r = await pickHead(it.topic);
+      tried = r.tried;
+      if (r.pick) seeds = [...new Set([r.pick.q, it.topic])];
+      else { seeds = [it.topic]; noSeed = true; }   // 자격 있는 후보가 없다 = 주제명을 다시 지어야 한다
+    }
 
     const score = {};      // 키워드 → 점수
     const origin = {};     // 키워드 → 어느 씨앗에서 나왔나
@@ -177,8 +222,9 @@ function fromLineup(file) {
     const hits = [];
 
     let dropped = 0, failed = 0;
-    for (const sd of seeds) {
-      const h = await probe(sd);
+    // 1층은 자유롭게, 2층부터는 1층을 닻으로 걸어 축약이 구멍으로 새는 걸 막는다
+    for (const [si, sd] of seeds.entries()) {
+      const h = await probe(sd, si === 0 ? null : hits[0]);
       if (h.failed) failed++;
       hits.push(h.q);
       const nv = h.nv.filter((k) => onTopic(k, h.q));
@@ -227,6 +273,9 @@ function fromLineup(file) {
       // 1층 씨앗이 뱉은 원본으로 판정한다 (필터·점수 반영 전)
       fit: verdictOf(Object.values(byseed)[0] ? [...Object.values(byseed)[0].naver, ...Object.values(byseed)[0].google] : []),
       bySeedGiven: !!it.seeds,
+      noSeed,
+      // 왜 그 1층을 골랐는지 남긴다. 나중에 씨앗을 의심할 때 근거가 된다
+      tried: tried ? tried.map((x) => ({ q: x.q, n: x.n, info: +(x.info).toFixed(2) })) : null,
     });
     console.log(`${String(i + 1).padStart(3)}/${items.length}  ${it.topic}  [씨앗 ${hits.length}]  ${ranked.length}개  →  ${ranked.slice(0, 4).map((x) => x[0]).join(' | ') || '(응답 없음)'}`);
   }
@@ -257,6 +306,15 @@ function fromLineup(file) {
   console.log(`통신: 성공 ${net.ok} · 실패 ${net.fail} · 재시도 ${net.retry}` +
     `  (네이버 ${net.bySource.naver.ok}/${net.bySource.naver.ok + net.bySource.naver.fail}` +
     ` · 구글 ${net.bySource.google.ok}/${net.bySource.google.ok + net.bySource.google.fail})`);
+  // 씨앗 후보가 전부 자격 미달 = 주제명 자체에 검색되는 주어가 없다.
+  const nos = result.filter((r) => r.noSeed);
+  if (nos.length) {
+    console.log(`\n  ✗ 씨앗 없음 ${nos.length}개 — 주제명을 다시 지으세요 (검색되는 주어가 없습니다)`);
+    nos.forEach((r) => {
+      const best = (r.tried || []).slice().sort((a, b) => b.n - a.n)[0];
+      console.log(`      ${r.topic}   최선 후보 [${best ? best.q + ' n=' + best.n + ' 정보 ' + (best.info * 100).toFixed(0) + '%' : '없음'}]`);
+    });
+  }
   if (unfit.length) {
     console.log(`  ⚠ 씨앗 재선정 필요 ${unfit.length}개 (주제층 3개 미만)`);
     unfit.forEach((r) => console.log(`      ${r.topic}   [씨앗 ${r.seeds.join(' → ')}]  주제층 ${r.longtail.length}개`));
