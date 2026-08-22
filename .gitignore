@@ -18,3 +18,8 @@ node_modules/
 !2026/*/tc-beolcho.png
 !2026/*/tc-ansangho.png
 !2026/*/tc-charye.png
+
+# 구글 서비스 계정 키 — 이 레포는 공개다
+gsc-key.json
+*-key.json
+*.credentials.json
