@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #fff; }
+  #art {
+    width: 800px; height: 800px; padding: 74px 64px;
+    background: linear-gradient(160deg, #e2e8f0, #374151);
+    font-family: 'Pretendard', 'Malgun Gothic', sans-serif;
+    display: flex; flex-direction: column; justify-content: center; position: relative;
+  }
+  .badge {
+    position: absolute; top: 62px; right: 64px;
+    background: rgba(255,255,255,.92); border-radius: 20px;
+    padding: 16px 24px; text-align: center; color: #374151;
+    font-size: 38px; font-weight: 800; line-height: 1.1;
+  }
+  .badge small { display: block; font-size: 15px; font-weight: 700; letter-spacing: .06em; opacity: .7; }
+  .tag {
+    display: inline-block; align-self: flex-start;
+    background: rgba(255,255,255,.85); color: #374151;
+    font-size: 20px; font-weight: 800; letter-spacing: .02em;
+    padding: 10px 20px; border-radius: 999px; margin-bottom: 26px;
+  }
+  h1 { font-size: 74px; font-weight: 900; line-height: 1.22; color: #111827; letter-spacing: -.03em; }
+  h1 .hl { color: #fff; }
+  .sub { margin-top: 24px; font-size: 27px; font-weight: 600; color: #1f2937; line-height: 1.5; }
+  /* 칩 줄과 겹치지 않게 오른쪽 아래 구석에 둔다 (푸터는 왼쪽이라 안 부딪힌다) */
+  .ico { position: absolute; right: 58px; bottom: 52px; opacity: .42; }
+  .chips { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 38px; }
+  .chips div {
+    background: rgba(17,24,39,.35); color: #fff;
+    font-size: 21px; font-weight: 700; padding: 11px 20px; border-radius: 10px;
+  }
+  .foot {
+    position: absolute; left: 64px; bottom: 54px;
+    font-size: 20px; font-weight: 700; color: rgba(255,255,255,.85); letter-spacing: .04em;
+  }
+</style>
+<div id="art">
+  <div class="badge"><small>방치하면</small>10배</div>
+  <div class="tag">생활 규정 · IT</div>
+  <h1>하이패스 미납<br /><span class="hl">부가통행료가 붙는다</span></h1>
+  <p class="sub">미납은 그냥 요금이 아닙니다.<br />기간이 지나면 배수로 늘어납니다</p>
+  <div class="chips"><div>미납 조회</div><div>납부 방법</div><div>고지서</div><div>편의점 납부</div></div>
+  <svg class="ico" width="122" height="122" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 18V9l9-5 9 5v9" /><path d="M3 18h18" /><path d="M8 18v-5h8v5" /><path d="M12 4v5" />
+  </svg>
+  <div class="foot">heelovee.tistory.com</div>
+</div>

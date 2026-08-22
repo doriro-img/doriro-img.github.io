@@ -1,0 +1,249 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 30일 07:42
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260830_0742]_국가건강검진_대상자\
+   ├── 📄 [원고 파일]: [20260830_0742]_국가건강검진_대상자_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-checkup.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260830_0742]_국가건강검진_대상자_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-checkup.html
+
+■ 제목: 국가건강검진 대상자 조회와 검진 항목. 출생연도로 갈리는 이유와 안 받으면
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 국가건강검진, 국가건강검진대상자, 건강검진대상자조회, 일반건강검진, 국가암검진, 건강검진항목, 국민건강보험공단, 건강검진비용, 검진기관찾기
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>국가건강검진 대상자 조회와 검진 항목. 출생연도로 갈리는 이유와 안 받으면</p>
+
+<h2>연말에 몰리면 예약 자체가 안 됩니다</h2>
+
+<p>국가건강검진은 그해 12월 31일까지 받아야 합니다. 그래서 <b>11월과 12월에 예약이 전부 막혀요</b>. 8월 말인 지금이 자리를 잡기 제일 좋은 시기입니다.</p>
+
+<p>저희도 작년에 미루다가 12월에 전화를 돌렸는데 한 군데도 안 되더라고요.</p>
+
+<p>결국 그해는 그냥 넘겼다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M3 10h18M8 3v4M16 3v4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">주기</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">2년에 한 번이 기본</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">출생연도의 짝수·홀수에 맞춰 해가 정해집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V9l8-6 8 6v12" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">예외</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">비사무직은 매년</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">직종에 따라 해마다 받아야 하는 경우가 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">12월 31일까지</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">다음 해로 넘어가지 않습니다. 그해 안에 끝내야 합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>2년에 한 번</b> 출생연도의 짝수·홀수에 맞춰 검진 해가 정해집니다</li>
+<li><b>비사무직은 매년</b> 직종에 따라 해마다 받아야 하는 경우가 있습니다</li>
+<li><b>12월 31일까지</b> 다음 해로 이월되지 않으니 그해 안에 끝내야 합니다</li>
+</ul>
+
+<h2>대상자 조회는 어떻게 하나요?</h2>
+
+<p>출생연도만으로 짐작하지 말고 직접 확인하는 게 확실합니다. 암검진은 나이 기준이 따로 있거든요.</p>
+
+<h3>조회 창구</h3>
+
+<p>국민건강보험공단 홈페이지와 The건강보험 앱에서 봅니다. 로그인하면 올해 받을 수 있는 항목이 전부 나옵니다.</p>
+
+<p>공단 고객센터로 물어봐도 됩니다. 검진표를 못 받았어도 대상이면 검진은 받을 수 있어요.</p>
+
+<blockquote>검진표는 안내용입니다. 없어도 신분증만 있으면 검진기관에서 확인이 됩니다.</blockquote>
+
+<h2>검진 항목은 무엇을 보나요?</h2>
+
+<p>일반건강검진과 암검진이 따로 있습니다. 같은 날 같이 받는 경우가 많아요.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#1e3a8a;color:#fff;">
+<th style="padding:12px;text-align:left;">구분</th>
+<th style="padding:12px;text-align:left;">주요 항목</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">기본</td><td style="padding:12px;">신체계측, 혈압, 시력과 청력, 흉부 엑스레이</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">혈액·소변</td><td style="padding:12px;">빈혈, 혈당, 간기능, 신장기능, 요단백</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">주기 항목</td><td style="padding:12px;">이상지질혈증은 몇 년에 한 번씩만 들어갑니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">연령별 추가</td><td style="padding:12px;">우울증 검사, 인지기능 검사, 골밀도 검사</td></tr>
+<tr><td style="padding:12px;background:#eff6ff;font-weight:700;">구강</td><td style="padding:12px;">치과 검진이 별도로 포함됩니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>기본 항목</b> 신체계측과 혈압, 흉부 엑스레이가 들어갑니다</li>
+<li><b>혈액과 소변</b> 빈혈·혈당·간기능·신장기능을 봅니다</li>
+<li><b>연령별 추가</b> 우울증, 인지기능, 골밀도 검사가 특정 나이에 붙습니다</li>
+</ul>
+
+<h3>암검진은 나이별로 갈립니다</h3>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M8 3c-2 2-3 4-3 7 0 5 3 11 7 11s7-6 7-11c0-3-1-5-3-7" /><path d="M8 3h8" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">위·대장</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">내시경과 분변검사</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대장은 분변검사에서 이상이 나오면 내시경으로 넘어갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 8h4l2 8 3-12 2 6h5" /><rect x="2" y="4" width="20" height="16" rx="2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">고위험군은 더 자주</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">간염 보유자나 간경변 환자는 짧은 주기로 받습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><circle cx="12" cy="12" r="4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">유방·자궁</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">여성 대상 검진</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">시작 나이가 서로 달라서 각각 확인해야 합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3v6M9 9c-3 1-5 4-5 7 0 3 2 5 4 5 1.5 0 2.5-1 3-3 .5 2 1.5 3 3 3 2 0 4-2 4-5 0-3-2-6-5-7z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">폐</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">흡연 이력 기준</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">일정 연령대의 장기 흡연자가 대상입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>위와 대장</b> 대장은 분변검사에서 이상이 나오면 내시경으로 이어집니다</li>
+<li><b>간</b> 간염 보유자나 간경변 환자는 짧은 주기로 받습니다</li>
+<li><b>폐</b> 일정 연령대의 장기 흡연자가 대상이 됩니다</li>
+</ul>
+
+<h2>예약과 준비는 어떻게 하나요?</h2>
+
+<p>검진기관을 먼저 고르고 전화로 예약합니다. 공단 홈페이지에서 집 근처 기관을 검색할 수 있어요.</p>
+
+<h3>기관을 고를 때 볼 것</h3>
+
+<p>같은 국가검진이라도 기관마다 장비와 대기 시간이 다릅니다. 위내시경을 수면으로 할 수 있는지도 미리 물어보세요.</p>
+
+<p>회사 근처보다 집 근처가 낫습니다. 결과가 이상하게 나오면 다시 가야 하니까요.</p>
+
+<h3>전날 준비</h3>
+
+<p>혈액검사가 있어서 금식이 필요합니다. 보통 검사 전날 저녁부터 물 말고는 안 먹습니다.</p>
+
+<p>복용 중인 약이 있으면 미리 알려야 합니다. 끊지 말아야 할 약도 있어서 임의로 판단하면 안 됩니다.</p>
+
+<blockquote>대장암 분변검사는 집에서 채취해서 가져갑니다. 검진 당일에 갑자기 하려면 곤란해집니다.</blockquote>
+
+<h2>비용은 얼마나 드나요?</h2>
+
+<p>일반건강검진은 본인 부담이 없습니다. 암검진은 항목에 따라 일부를 냅니다.</p>
+
+<p>의료급여수급권자와 건강보험료가 낮은 구간은 암검진도 부담이 없어요. 이건 공단이 미리 판정해둡니다.</p>
+
+<h2>안 받으면 어떻게 되나요?</h2>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">직장가입자는 과태료가 있습니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>사업주</b> 근로자 건강진단을 시행하지 않으면 과태료 대상이 됩니다</div>
+    <div style="margin-bottom:8px;"><b>근로자</b> 회사가 기회를 줬는데 받지 않으면 본인도 대상이 될 수 있습니다</div>
+    <div><b>지역가입자</b> 과태료는 없지만 그해 검진 기회가 그대로 사라집니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>사업주</b> 근로자 건강진단을 시행하지 않으면 과태료 대상입니다</li>
+<li><b>근로자</b> 회사가 기회를 줬는데 안 받으면 본인도 대상이 될 수 있습니다</li>
+<li><b>지역가입자</b> 과태료는 없지만 그해 검진 기회가 사라집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>공단 앱에서 대상 여부부터 확인하고 지금 예약을 잡으세요. 12월에는 자리가 없습니다.</p>
+
+<p>저희는 이제 여름 끝날 때 아내랑 같이 예약합니다. 같은 날 잡아두면 서로 안 미루게 되더라고요... 금식이 힘들긴 하지만요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국가건강검진은 국민건강보험공단이 시행합니다
+ · 일반건강검진은 2년에 한 번이 기본이고 출생연도의 짝수·홀수로 검진 해가 나뉩니다
+ · 비사무직 근로자는 매년 대상이 됩니다
+ · 검진 기한은 해당 연도 12월 31일이고 다음 해로 이월되지 않습니다
+ · 대상자 조회는 공단 홈페이지와 The건강보험 앱에서 합니다
+ · 검진표가 없어도 신분증으로 검진을 받을 수 있습니다
+ · 일반건강검진은 본인 부담이 없고 암검진은 일부 본인부담이 있습니다
+ · 의료급여수급권자와 보험료 하위 구간은 암검진 부담이 면제됩니다
+ · 근로자 건강진단 미실시는 사업주 과태료 대상입니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 일반건강검진 대상이 되는 출생연도
+ · 암 종류별 검진 시작 연령과 검진 주기
+ · 이상지질혈증 등 주기 항목의 정확한 검사 간격
+ · 우울증·인지기능·골밀도 검사가 붙는 연령
+ · 암검진 본인부담 비율과 면제 기준이 되는 보험료 구간
+ · 건강진단 미실시 과태료 금액
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "작년에 미루다가 12월에 전화를 돌렸는데 한 군데도 안 되더라고요"
+ · "이제 여름 끝날 때 아내랑 같이 예약합니다"

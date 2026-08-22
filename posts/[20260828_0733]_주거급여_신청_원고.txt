@@ -1,0 +1,236 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 28일 07:33
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260828_0733]_주거급여_신청\
+   ├── 📄 [원고 파일]: [20260828_0733]_주거급여_신청_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-housingaid.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260828_0733]_주거급여_신청_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-housingaid.html
+
+■ 제목: 주거급여 신청자격과 필요 서류. 자녀 소득을 안 보는 이유와 결과까지 걸리는 기간
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 주거급여, 주거급여신청, 주거급여신청자격, 주거급여서류, 부양의무자기준, 기준임대료, 수선유지급여, 청년주거급여분리지급, 소득인정액
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주거급여 신청자격과 필요 서류. 자녀 소득을 안 보는 이유와 결과까지 걸리는 기간</p>
+
+<h2>자식이 벌어도 받을 수 있습니다</h2>
+
+<p>주거급여를 포기하는 가장 흔한 이유가 이겁니다. 자녀가 소득이 있으니 안 될 거라고 지레 접는 거예요. 주거급여는 <b>부양의무자 기준이 없습니다</b>.</p>
+
+<p>다른 급여와 헷갈려서 생기는 오해입니다. 주거급여만 따로 떼어놓고 보면 본인 가구의 소득과 재산만 봅니다.</p>
+
+<p>이 하나만 알아도 신청할 사람이 꽤 늘어난다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="9" cy="8" r="3" /><circle cx="17" cy="10" r="2.2" /><path d="M3 20c0-3.3 2.7-5 6-5s6 1.7 6 5" /><path d="M2 3l20 18" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">핵심</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부양의무자 기준 없음</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">자녀나 부모의 소득을 따지지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="8" width="18" height="12" rx="2" /><path d="M7 8V6a5 5 0 0 1 10 0v2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">임차가구</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">월세를 보태줍니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지역과 가구원 수로 정해진 한도 안에서 지원합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M14 6l4 4-9 9H5v-4z" /><path d="M17 3l4 4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">자가가구</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">집을 고쳐줍니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내 집이 있어도 됩니다. 수선유지급여로 보수를 지원합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>부양의무자 기준 없음</b> 자녀나 부모의 소득을 따지지 않습니다</li>
+<li><b>임차가구</b> 지역과 가구원 수로 정해진 한도 안에서 월세를 지원합니다</li>
+<li><b>자가가구</b> 집이 있어도 대상이며 수선유지급여로 보수를 지원합니다</li>
+</ul>
+
+<h2>신청자격은 어떻게 되나요?</h2>
+
+<p>소득인정액이 기준 아래여야 합니다. 소득만 보는 게 아니라 재산까지 환산해서 더한 금액이에요.</p>
+
+<h3>소득인정액이 무엇인가</h3>
+
+<p>가구의 실제 소득에 재산을 소득으로 바꾼 값을 더합니다. 여기서 부채와 기본재산액을 빼고 계산해요.</p>
+
+<p>자동차가 특히 크게 잡힙니다. 차량 가액이 높으면 소득이 적어도 넘어가는 경우가 생기더라고요.</p>
+
+<h3>가구는 누구까지인가</h3>
+
+<p>주민등록상 같이 사는 세대원이 기본입니다. 배우자와 미혼 자녀는 따로 살아도 같은 가구로 볼 수 있습니다.</p>
+
+<blockquote>부양의무자 기준이 없다는 건 따로 사는 자녀의 소득을 안 본다는 뜻입니다. 같이 사는 가족은 당연히 봅니다.</blockquote>
+
+<h2>얼마를 받나요?</h2>
+
+<p>기준임대료라는 한도가 있습니다. 지역 급지와 가구원 수로 정해집니다.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#1e3a8a;color:#fff;">
+<th style="padding:12px;text-align:left;">구분</th>
+<th style="padding:12px;text-align:left;">지원 방식</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">생계급여 기준 이하</td><td style="padding:12px;">기준임대료 한도 안에서 실제 임차료를 지원합니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">그보다 소득이 높으면</td><td style="padding:12px;">소득에 비례해 일부를 차감하고 지급합니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">실제 월세가 적으면</td><td style="padding:12px;">한도가 아니라 실제 낸 금액까지만 나옵니다</td></tr>
+<tr><td style="padding:12px;background:#eff6ff;font-weight:700;">보증금만 있는 경우</td><td style="padding:12px;">보증금을 월세로 환산해 계산합니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>기준임대료 한도</b> 지역 급지와 가구원 수로 상한이 정해져 있습니다</li>
+<li><b>실제 임차료까지만</b> 한도보다 적게 내고 있으면 낸 만큼만 나옵니다</li>
+<li><b>보증금도 반영</b> 전세처럼 보증금만 있는 경우 월세로 환산해 계산합니다</li>
+</ul>
+
+<h3>청년은 따로 받을 수 있습니다</h3>
+
+<p>부모가 주거급여를 받고 있고 자녀가 따로 나와 사는 경우입니다. 청년 주거급여 분리지급이라고 해요.</p>
+
+<p>부모 몫과 별개로 청년 몫이 따로 나갑니다. 대학이나 취업 때문에 다른 지역에 사는 미혼 청년이 대상입니다.</p>
+
+<h2>신청 방법과 필요 서류</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V9l8-6 8 6v12" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">주소지 행정복지센터</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">복지로 온라인 신청도 됩니다. 가구주 명의로 넣습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z" /><path d="M14 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">임대차계약서</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">계약서가 없으면 사용대차 확인서로 대신합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><rect x="3" y="4" width="18" height="17" rx="2" /><path d="M8 2v4M16 2v4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">금융정보 제공동의서</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">가구원 전원이 서명해야 조사가 진행됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7" /><path d="M20 20l-3.5-3.5" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">주택조사</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">조사원이 집을 직접 보러 옵니다. 날짜를 미리 연락합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>행정복지센터 또는 복지로</b> 가구주 명의로 신청합니다</li>
+<li><b>임대차계약서</b> 계약서가 없으면 사용대차 확인서로 대신할 수 있습니다</li>
+<li><b>주택조사</b> 조사원이 실제로 집을 보러 오는 절차가 있습니다</li>
+</ul>
+
+<h2>결과까지 얼마나 걸리나요?</h2>
+
+<p>소득·재산 조사와 주택조사를 다 거쳐야 해서 시간이 좀 걸립니다. 보통 한 달 안팎을 봅니다.</p>
+
+<p>서류가 빠지면 그만큼 늘어납니다. 특히 금융정보 제공동의서에 가구원 한 명이라도 서명이 없으면 그 자리에서 멈춰요.</p>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">여기서 지연되거나 탈락합니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>자동차</b> 차량 가액이 재산으로 크게 잡혀 기준을 넘기는 경우가 많습니다</div>
+    <div style="margin-bottom:8px;"><b>가구원 서명 누락</b> 한 명만 빠져도 조사가 시작되지 않습니다</div>
+    <div><b>계약서와 실제가 다름</b> 계약서 금액과 실제 이체 금액이 어긋나면 확인이 길어집니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>자동차</b> 차량 가액이 재산으로 크게 잡혀 기준을 넘기는 경우가 많습니다</li>
+<li><b>가구원 서명 누락</b> 한 명만 빠져도 조사 자체가 시작되지 않습니다</li>
+<li><b>계약서와 실제 금액</b> 어긋나면 확인 절차가 길어집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>자녀 소득 때문에 안 될 거라고 미리 접지 마세요. 주거급여는 부양의무자 기준이 없습니다.</p>
+
+<p>저희 부모님도 안 되는 줄 알고 계셨습니다. 동에 가서 물어보니 되는 거였더라고요... 물어보는 게 제일 빠릅니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 주거급여는 국민기초생활보장제도의 급여 중 하나이고 국토교통부가 담당합니다
+ · 주거급여에는 부양의무자 기준이 적용되지 않습니다
+ · 임차가구는 기준임대료 한도 안에서 실제 임차료를 지원받습니다
+ · 자가가구는 주택 수선유지급여로 보수를 지원받습니다
+ · 선정 기준은 가구의 소득인정액이며 소득과 재산 환산액을 합산해 산정합니다
+ · 청년 주거급여 분리지급 제도로 부모와 떨어져 사는 미혼 청년이 따로 받을 수 있습니다
+ · 신청 창구는 주소지 행정복지센터와 복지로입니다
+ · 신청 후 소득·재산 조사와 주택조사를 거쳐 결정됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 주거급여 선정 기준이 되는 기준 중위소득 비율
+ · 지역 급지별·가구원 수별 기준임대료 금액
+ · 수선유지급여의 경보수·중보수·대보수 지원 금액과 주기
+ · 자동차 재산 환산율과 기본재산액 공제 기준
+ · 청년 주거급여 분리지급의 연령 상한
+ · 신청부터 결정 통지까지의 법정 처리 기간
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 부모님도 안 되는 줄 알고 계셨습니다" 이하 동 주민센터 문의 일화

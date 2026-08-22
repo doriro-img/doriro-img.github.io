@@ -1,0 +1,237 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 23일 12:37
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260823_1237]_주민세_납부\
+   ├── 📄 [원고 파일]: [20260823_1237]_주민세_납부_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-residenttax.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260823_1237]_주민세_납부_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-residenttax.html
+
+■ 제목: 주민세 납부기간 8월 31일 마감. 개인분 납부 대상자 기준과 안 내면 붙는 가산금
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 주민세, 주민세납부, 주민세납부기간, 주민세개인분, 주민세조회, 위택스, 지방세, 주민세납부대상, 납부지연가산세
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>주민세 납부기간 8월 31일 마감. 개인분 납부 대상자 기준과 안 내면 붙는 가산금</p>
+
+<h2>올해는 8월 31일이 월요일이라 연장이 없습니다</h2>
+
+<p>주민세 개인분 납부기간은 <b>8월 16일부터 8월 31일까지</b>입니다. 마감일이 토요일이나 일요일이면 다음 평일까지 밀리는데 2026년 8월 31일은 월요일이에요. 하루도 안 밀린다는 뜻입니다.</p>
+
+<p>금액이 작아서 그냥 넘기는 분이 정말 많더라고요. 저도 몇 해 전에 고지서를 광고 우편 사이에 끼워둔 채로 잊어버렸습니다.</p>
+
+<p>나중에 가산금 붙은 걸 보고 아 이거 이렇게 되는구나 했다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M3 10h18M8 3v4M16 3v4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">납부 기간</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">8월 16일 ~ 8월 31일</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">해마다 8월에 딱 보름 열립니다. 올해 마감은 월요일입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V9l8-6 8 6v12" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">과세 기준일</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">7월 1일 주소지 기준</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">7월 1일에 살던 곳의 지자체가 매깁니다. 그 뒤 이사는 상관없습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v10M9.5 9.5h5M9.5 14.5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부과 단위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사람이 아니라 세대</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">세대주 한 명에게만 나옵니다. 세대원은 따로 안 냅니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>8월 16일 ~ 8월 31일</b> 해마다 8월에 보름만 열리고 올해 마감은 월요일이라 연장이 없습니다</li>
+<li><b>7월 1일 주소지 기준</b> 그날 살던 곳의 지자체가 매기고 그 뒤 이사는 영향이 없습니다</li>
+<li><b>사람이 아니라 세대</b> 세대주 한 명에게만 나오고 세대원은 따로 내지 않습니다</li>
+</ul>
+
+<h2>주민세 개인분, 누가 납부 대상자인가요?</h2>
+
+<p>주민세는 세 갈래로 나뉩니다. 8월에 집으로 오는 건 그중 개인분이에요.</p>
+
+<h3>개인분과 사업소분은 완전히 다릅니다</h3>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#047857;color:#fff;">
+<th style="padding:12px;text-align:left;">구분</th>
+<th style="padding:12px;text-align:left;">내는 사람</th>
+<th style="padding:12px;text-align:left;">납기</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">개인분</td><td style="padding:12px;">7월 1일 기준 그 지역에 주소를 둔 세대주</td><td style="padding:12px;">8월 16일 ~ 31일</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">사업소분</td><td style="padding:12px;">사업소를 둔 개인사업자와 법인</td><td style="padding:12px;">8월 1일 ~ 31일 신고납부</td></tr>
+<tr><td style="padding:12px;background:#ecfdf5;font-weight:700;">종업원분</td><td style="padding:12px;">종업원 급여총액이 기준을 넘는 사업주</td><td style="padding:12px;">매월 신고납부</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>개인분</b> 7월 1일 기준 그 지역에 주소를 둔 세대주가 8월에 냅니다</li>
+<li><b>사업소분</b> 사업소를 둔 개인사업자와 법인이 8월에 스스로 신고해서 냅니다</li>
+<li><b>종업원분</b> 급여총액이 기준을 넘는 사업주가 매달 신고합니다</li>
+</ul>
+
+<h3>세대주가 아니면 안 나옵니다</h3>
+
+<p>같은 집에 살아도 고지서는 세대주 앞으로만 갑니다. 부부라도 세대주가 아닌 쪽에는 안 나와요.</p>
+
+<p>외국인도 대상입니다. 체류 자격을 갖추고 주소를 둔 세대주면 똑같이 부과됩니다.</p>
+
+<p>다만 기초생활수급자나 일부 감면 대상은 조례로 빠집니다. 지자체마다 조례가 달라서 이 부분은 관할 시군구에 물어봐야 해요.</p>
+
+<h2>세액은 왜 지역마다 다른가요?</h2>
+
+<p>주민세 개인분은 지방세법이 상한만 정해두고 실제 금액은 지방자치단체 조례로 정합니다. 그래서 시군구마다 액수가 다릅니다.</p>
+
+<p>고지서에 찍힌 금액이 딱 떨어지지 않는 것도 이유가 있습니다. 주민세 본세에 <b>지방교육세가 얹혀서</b> 같이 나오기 때문이에요.</p>
+
+<blockquote>고지서 총액 = 주민세 개인분 본세 + 지방교육세. 두 줄이 합쳐진 금액입니다.</blockquote>
+
+<p>저희 집 고지서도 두 줄로 나뉘어 찍혀 있더라고요. 처음엔 왜 두 개인가 싶었습니다.</p>
+
+<h2>납부 방법은 어떤 게 편한가요?</h2>
+
+<p>고지서를 잃어버렸어도 낼 수 있습니다. 전자납부번호만 있으면 되는데 그것도 조회가 됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="4" width="18" height="13" rx="2" /><path d="M8 21h8M12 17v4M7 9h10M7 12h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방법 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">위택스</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지방세 통합 창구입니다. 조회부터 납부까지 한 번에 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="2" y="6" width="20" height="12" rx="2" /><path d="M2 10h20M6 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방법 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">카드 납부</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지방세는 카드 수수료를 납세자가 따로 물지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M5 3h9l5 5v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z" /><path d="M14 3v5h5M8 13h8M8 17h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방법 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">은행 ATM·가상계좌</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">고지서에 붙은 전용 가상계좌로 이체해도 처리됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2 4.2 2 2 0 0 1 4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.9 2.1z" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">방법 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">ARS 전화 납부</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">인터넷이 어려우면 전자납부번호로 전화 납부가 됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>위택스</b> 지방세 통합 창구라 조회와 납부가 한 화면에서 끝납니다</li>
+<li><b>카드 납부</b> 지방세는 카드 수수료를 납세자가 따로 물지 않습니다</li>
+<li><b>ATM·가상계좌·ARS</b> 고지서 전용 가상계좌 이체나 전자납부번호 전화 납부도 됩니다</li>
+</ul>
+
+<h2>안 내면 얼마나 붙나요?</h2>
+
+<p>납기가 지나면 <b>납부지연가산세</b>가 붙습니다. 지방세는 기한을 넘긴 순간 정해진 비율이 먼저 얹힙니다. 그 뒤로는 시간이 갈수록 더 늘어나는 구조예요.</p>
+
+<p>금액 자체가 크지 않아서 가산세도 몇백 원 수준입니다. 문제는 그게 아니에요.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">체납으로 남으면 이게 걸립니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>지방세 완납증명서</b> 발급이 막힙니다. 관공서 입찰이나 인허가에서 요구하는 서류입니다</div>
+    <div style="margin-bottom:8px;"><b>다른 지방세와 합산</b>되어 체납 이력으로 남습니다. 금액이 작아도 이력은 이력입니다</div>
+    <div><b>독촉과 압류 절차</b>가 정해진 순서대로 진행됩니다. 소액이라고 그냥 넘어가지 않습니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>지방세 완납증명서</b> 체납이 남아 있으면 발급이 막힙니다</li>
+<li><b>체납 이력</b> 금액이 작아도 다른 지방세와 합산되어 기록으로 남습니다</li>
+<li><b>독촉과 압류</b> 소액이라고 넘어가지 않고 정해진 절차대로 갑니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>7월 1일 기준 세대주에게 8월에 나오고 8월 31일에 끝납니다. 올해는 그날이 월요일이라 하루도 안 밀려요. 금액이 작으니 위택스에서 이름만 넣고 조회해서 오늘 끝내는 게 낫습니다.</p>
+
+<p>저는 이제 8월 되면 아내가 먼저 물어봅니다. 그거 냈냐고... 한 번 가산세 물어보면 그렇게 되더라고요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 주민세 개인분 납부기간은 8월 16일부터 8월 31일까지입니다
+ · 2026년 8월 31일은 월요일입니다 (node로 요일 확인)
+ · 과세기준일은 매년 7월 1일이고 그날 주소지 지자체가 부과합니다
+ · 주민세는 개인분·사업소분·종업원분 세 갈래로 나뉩니다
+ · 개인분은 세대주에게만 부과되고 세대원은 별도로 내지 않습니다
+ · 고지서 금액은 주민세 본세와 지방교육세가 합쳐진 것입니다
+ · 세액은 지방세법이 상한을 두고 지방자치단체 조례로 정합니다
+ · 납부 창구는 위택스·카드·은행 ATM·가상계좌·ARS입니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 시군구별 주민세 개인분 세액 (조례로 정해져 지역마다 다릅니다)
+ · 지방교육세 부가 비율과 합산 후 최종 고지 금액
+ · 납부지연가산세율과 중가산금 적용 기준·한도
+ · 기초생활수급자 등 감면 대상 범위 (지자체 조례에 따라 다릅니다)
+ · 외국인 세대주 부과 요건의 세부 체류 자격 기준
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "고지서를 광고 우편 사이에 끼워둔 채로 잊어버렸습니다"
+ · "저희 집 고지서도 두 줄로 나뉘어 찍혀 있더라고요"
+ · "8월 되면 아내가 먼저 물어봅니다"

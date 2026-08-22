@@ -1,0 +1,240 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 26일 12:41
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260826_1241]_신용점수_올리는_법\
+   ├── 📄 [원고 파일]: [20260826_1241]_신용점수_올리는_법_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-scoreup.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260826_1241]_신용점수_올리는_법_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-scoreup.html
+
+■ 제목: 신용점수 올리는법 정리. 통신비 제출로 오르는 이유와 반영까지 걸리는 기간
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 신용점수, 신용점수올리는법, 비금융정보제출, 나이스지키미, 올크레딧, 체크카드실적, 신용카드사용률, 연체기록, 신용점수조회
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>신용점수 올리는법 정리. 통신비 제출로 오르는 이유와 반영까지 걸리는 기간</p>
+
+<h2>없던 정보를 새로 넣는 게 제일 빠릅니다</h2>
+
+<p>신용점수를 올리는 방법은 크게 두 갈래입니다. 하나는 안 좋은 기록을 지우는 것이고 다른 하나는 <b>원래 안 잡히던 좋은 기록을 내가 직접 넣는 것</b>이에요. 두 번째가 훨씬 빠릅니다.</p>
+
+<p>통신비나 건강보험료를 몇 년째 성실히 냈어도 평가사는 그걸 모릅니다. 금융거래가 아니라서 자동으로 안 넘어가거든요.</p>
+
+<p>그냥 두면 아무도 안 알아준다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="6" y="2" width="12" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제출 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">통신요금 납부 내역</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">휴대폰 요금을 오래 밀리지 않고 냈다면 가점 자료가 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 3v6c0 4.5-3.2 8.2-8 9-4.8-.8-8-4.5-8-9V6l8-3z" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제출 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">건강보험료·국민연금</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">공단 납부 기록으로 소득 안정성을 보여줍니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V9l8-6 8 6v12" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">제출 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">공과금 납부 내역</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전기·도시가스·수도 요금도 성실납부 자료로 씁니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>통신요금 납부 내역</b> 휴대폰 요금을 밀리지 않고 냈다면 그대로 가점 자료가 됩니다</li>
+<li><b>건강보험료와 국민연금</b> 공단 납부 기록으로 소득 안정성을 보여줍니다</li>
+<li><b>공과금</b> 전기·도시가스·수도 요금도 성실납부 자료로 인정됩니다</li>
+</ul>
+
+<h2>제출은 어디서 하나요?</h2>
+
+<p>신용평가사 두 곳에 각각 넣어야 합니다. 한 곳에 냈다고 다른 곳에 자동으로 가지 않아요.</p>
+
+<p>나이스지키미와 올크레딧 앱에서 비금융정보 제출 메뉴를 찾으면 됩니다. 자료는 대부분 자동 연동으로 가져옵니다.</p>
+
+<blockquote>제출 자체는 무료입니다. 돈을 받는 대행 서비스는 쓸 이유가 없습니다.</blockquote>
+
+<h2>점수가 오르는 데 걸리는 기간은 얼마인가요?</h2>
+
+<p>제출한 다음 날 바로 바뀌지는 않습니다. 평가사 점수는 보통 월 단위로 다시 계산돼요.</p>
+
+<p>비금융정보는 납부 이력이 길수록 점수가 큽니다. 6개월치보다 3년치가 훨씬 세게 반영됩니다.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#047857;color:#fff;">
+<th style="padding:12px;text-align:left;">행동</th>
+<th style="padding:12px;text-align:left;">반영 속도</th>
+<th style="padding:12px;text-align:left;">지속성</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">비금융정보 제출</td><td style="padding:12px;">비교적 빠릅니다</td><td style="padding:12px;">이력이 쌓일수록 커집니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">체크카드 꾸준한 사용</td><td style="padding:12px;">몇 달 뒤부터</td><td style="padding:12px;">유지해야 남습니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">카드 사용률 낮추기</td><td style="padding:12px;">다음 산정 주기</td><td style="padding:12px;">다시 올리면 되돌아갑니다</td></tr>
+<tr><td style="padding:12px;background:#ecfdf5;font-weight:700;">연체 해소</td><td style="padding:12px;">즉시 반영되지 않습니다</td><td style="padding:12px;">기록이 상당 기간 남습니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>비금융정보 제출</b> 반영이 비교적 빠르고 이력이 길수록 효과가 큽니다</li>
+<li><b>체크카드 사용</b> 몇 달은 꾸준히 써야 실적으로 잡힙니다</li>
+<li><b>연체 해소</b> 갚아도 기록 자체는 상당 기간 남습니다</li>
+</ul>
+
+<h2>점수를 깎아먹는 것들</h2>
+
+<p>올리는 것보다 안 깎이는 게 먼저입니다. 한 번 떨어지면 회복이 오래 걸려요.</p>
+
+<h3>소액 연체가 제일 무섭습니다</h3>
+
+<p>금액이 작아도 일정 기간을 넘기면 연체로 기록됩니다. 통신비 몇만 원이 몇십 점을 깎기도 해요.</p>
+
+<p>저도 자동이체 계좌를 바꾸다가 한 달 걸린 적이 있습니다. 그때 점수가 확 내려가서 놀랐더라고요.</p>
+
+<h3>현금서비스와 카드론</h3>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">감점 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">현금서비스 이용</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">금액이 작아도 자금 사정이 급하다는 신호로 읽힙니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="2" y="6" width="20" height="12" rx="2" /><path d="M2 10h20M6 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">감점 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">한도를 꽉 채워 쓰기</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">한도 대비 사용 비율이 높으면 위험 신호로 봅니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">감점 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">짧은 기간에 여러 건 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대출을 이곳저곳 알아본 기록이 몰리면 불리해집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><circle cx="12" cy="12" r="9" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">오해</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">조회는 안 깎입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">본인 점수를 확인하는 조회는 점수에 영향을 주지 않습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>현금서비스</b> 금액이 작아도 자금 사정이 급하다는 신호로 읽힙니다</li>
+<li><b>한도를 꽉 채워 쓰기</b> 한도 대비 사용 비율이 높으면 위험 신호가 됩니다</li>
+<li><b>조회는 무관</b> 본인 신용점수를 확인하는 조회는 점수를 깎지 않습니다</li>
+</ul>
+
+<h2>체크카드는 정말 도움이 되나요?</h2>
+
+<p>됩니다. 다만 조건이 있어요.</p>
+
+<p>일정 금액 이상을 여러 달 꾸준히 써야 실적으로 잡힙니다. 한 달 몰아 쓰고 마는 건 의미가 없어요.</p>
+
+<p>신용카드를 아예 안 만드는 것도 정답은 아닙니다. 거래 이력 자체가 없으면 판단할 자료가 없거든요.</p>
+
+<h2>점수가 낮을 때 쓸 수 있는 제도</h2>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3a9 9 0 0 1 9 9v6a2 2 0 0 1-2 2h-2v-6h4" /><path d="M12 3a9 9 0 0 0-9 9v6a2 2 0 0 0 2 2h2v-6H3" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">혼자 버티지 않아도 됩니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>서민금융진흥원 상담</b> 소득과 상황에 맞는 제도를 안내받을 수 있습니다</div>
+    <div style="margin-bottom:8px;"><b>신용회복위원회 채무조정</b> 이미 연체가 길어졌다면 여기가 먼저입니다</div>
+    <div><b>성실상환 이력</b> 조정 후 꾸준히 갚으면 그것도 이력으로 남습니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>서민금융진흥원</b> 소득과 상황에 맞는 제도를 상담받을 수 있습니다</li>
+<li><b>신용회복위원회</b> 연체가 이미 길어졌다면 채무조정을 먼저 알아봅니다</li>
+<li><b>성실상환도 이력</b> 조정 이후 꾸준히 갚은 기록도 평가에 반영됩니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>오늘 당장 할 수 있는 건 비금융정보 제출입니다. 나이스지키미와 올크레딧 두 곳에 각각 넣으세요.</p>
+
+<p>저희도 몇 년 전에 통신비랑 건보료를 넣어봤는데 생각보다 올라가더라고요... 무료인데 안 할 이유가 없어요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 국내 개인 신용평가사는 나이스평가정보(나이스지키미)와 코리아크레딧뷰로(올크레딧)입니다
+ · 비금융정보는 통신요금, 건강보험료, 국민연금, 전기·도시가스·수도 요금 납부 내역을 씁니다
+ · 비금융정보 제출은 각 평가사에 따로 해야 하고 무료입니다
+ · 본인 신용점수 조회는 점수에 영향을 주지 않습니다
+ · 현금서비스와 카드론 이용은 평가에 불리하게 반영됩니다
+ · 신용카드 한도 대비 사용 비율이 높으면 위험 신호로 봅니다
+ · 연체는 해소해도 기록이 일정 기간 남습니다
+ · 채무조정 상담 창구는 서민금융진흥원과 신용회복위원회입니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 비금융정보 제출로 오르는 점수 폭 (개인 상황에 따라 다릅니다)
+ · 연체로 기록되는 최소 금액과 최소 일수
+ · 연체 기록이 남는 기간
+ · 체크카드 실적으로 인정되는 월 사용액과 기간
+ · 신용카드 한도 대비 권장 사용률
+ · 평가사별 점수 산정 주기와 반영 시차
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "자동이체 계좌를 바꾸다가 한 달 걸린 적이 있습니다"
+ · "몇 년 전에 통신비랑 건보료를 넣어봤는데 생각보다 올라가더라고요"

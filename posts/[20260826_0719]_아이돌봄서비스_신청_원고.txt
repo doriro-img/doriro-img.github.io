@@ -1,0 +1,255 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 26일 07:19
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260826_0719]_아이돌봄서비스_신청\
+   ├── 📄 [원고 파일]: [20260826_0719]_아이돌봄서비스_신청_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-childcare.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260826_0719]_아이돌봄서비스_신청_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-childcare.html
+
+■ 제목: 아이돌봄서비스 신청방법과 소득 기준. 대기가 긴 이유와 필요 서류 정리
+■ 카테고리: 정부 정책 및 지원금
+■ 태그: 아이돌봄서비스, 아이돌봄서비스신청, 아이돌봄서비스소득기준, 아이돌봄서비스비용, 시간제아이돌봄, 영아종일제, 국민행복카드, 아이돌봄앱, 양육공백
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>아이돌봄서비스 신청방법과 소득 기준. 대기가 긴 이유와 필요 서류 정리</p>
+
+<h2>자격보다 순번이 더 어렵습니다</h2>
+
+<p>아이돌봄서비스에서 진짜 관문은 소득 기준이 아닙니다. <b>돌보미를 배정받는 대기</b>예요. 신청은 하루면 끝나는데 연계까지는 몇 달이 걸리기도 합니다.</p>
+
+<p>2학기 개학 무렵에 신청이 몰리는 것도 그래서입니다. 방학이 끝나면서 하원 시간이 바뀌거든요.</p>
+
+<p>그러니까 필요해지기 전에 걸어둬야 한다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">시간제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">필요한 시간만 씁니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">등하원과 놀이 돌봄이 기본입니다. 가사는 안 됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M12 21s-7-4.4-7-9.5A4 4 0 0 1 12 8a4 4 0 0 1 7 3.5C19 16.6 12 21 12 21z" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">영아종일제</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">어린 아기 전용</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">이유식과 목욕 같은 종일 돌봄까지 들어갑니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M4 8h4l2 8 3-12 2 6h5" /><rect x="2" y="4" width="20" height="16" rx="2" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">질병감염</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">등원 못 할 때</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">전염병으로 어린이집을 못 갈 때 쓰는 유형이 따로 있습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>시간제</b> 등하원과 놀이 돌봄이 기본이고 집안일은 대상이 아닙니다</li>
+<li><b>영아종일제</b> 어린 아기 대상으로 이유식과 목욕까지 포함됩니다</li>
+<li><b>질병감염아동지원</b> 전염병으로 등원을 못 할 때 쓰는 별도 유형입니다</li>
+</ul>
+
+<h2>누가 신청할 수 있나요?</h2>
+
+<p>만 12세 이하 아동을 키우면서 양육공백이 있는 가정이 대상입니다. 양육공백을 어떻게 보는지가 관건이에요.</p>
+
+<h3>양육공백으로 인정되는 상황</h3>
+
+<p>맞벌이는 기본이고 한부모나 다자녀, 부모의 장애나 질병도 들어갑니다. 취업 준비 중인 경우도 인정되는 유형이 있어요.</p>
+
+<p>전업주부만 있는 가정은 원칙적으로 우선순위에서 밀립니다. 다만 지역 사정에 따라 다르게 운영되기도 합니다.</p>
+
+<h2>소득 기준은 어떻게 나뉘나요?</h2>
+
+<p>기준 중위소득으로 네 유형을 나눕니다. 유형이 낮을수록 정부지원 비율이 큽니다.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#1e3a8a;color:#fff;">
+<th style="padding:12px;text-align:left;">유형</th>
+<th style="padding:12px;text-align:left;">소득 구간</th>
+<th style="padding:12px;text-align:left;">부담</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">가형</td><td style="padding:12px;">중위소득이 가장 낮은 구간</td><td style="padding:12px;">정부지원 비율이 가장 큽니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">나형</td><td style="padding:12px;">그다음 구간</td><td style="padding:12px;">일부를 본인이 부담합니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#eff6ff;font-weight:700;">다형</td><td style="padding:12px;">중간 구간</td><td style="padding:12px;">본인 부담 비중이 더 큽니다</td></tr>
+<tr><td style="padding:12px;background:#eff6ff;font-weight:700;">라형</td><td style="padding:12px;">기준을 넘는 구간</td><td style="padding:12px;">정부지원 없이 전액 본인 부담입니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>가형에서 라형까지</b> 기준 중위소득으로 네 구간을 나눕니다</li>
+<li><b>라형도 이용은 됩니다</b> 정부지원이 없을 뿐 서비스 자체는 신청할 수 있습니다</li>
+<li><b>소득만 보지 않습니다</b> 재산도 함께 반영해 소득인정액으로 판단합니다</li>
+</ul>
+
+<h2>신청 방법과 필요 서류는 무엇인가요?</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="4" width="18" height="13" rx="2" /><path d="M8 21h8M12 17v4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">복지로에서 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">행정복지센터 방문도 됩니다. 소득 판정을 먼저 받습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <rect x="2" y="5" width="20" height="14" rx="2" /><path d="M2 10h20M6 15h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">국민행복카드 발급</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">정부지원금이 이 카드로 들어옵니다. 미리 만들어두면 좋습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z" /><path d="M14 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">서류 제출</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">재직증명서나 사업자등록증으로 맞벌이를 증명합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #1e3a8a;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><circle cx="12" cy="12" r="9" />
+      </svg>
+      <span style="background:#eff6ff;color:#1e3a8a;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">돌보미 연계 신청</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">아이돌봄 앱이나 지역 서비스제공기관에서 매칭을 겁니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>복지로 또는 행정복지센터</b> 여기서 소득 판정을 먼저 받습니다</li>
+<li><b>국민행복카드</b> 정부지원금이 이 카드로 들어오니 미리 발급해둡니다</li>
+<li><b>돌보미 연계</b> 판정이 끝나면 앱이나 서비스제공기관에서 매칭을 신청합니다</li>
+</ul>
+
+<h2>대기가 왜 이렇게 긴가요?</h2>
+
+<p>돌보미 수가 지역마다 정해져 있기 때문입니다. 특히 등하원 시간대에 신청이 겹쳐요.</p>
+
+<blockquote>소득 판정과 돌보미 연계는 별개입니다. 판정이 끝나도 매칭이 안 되면 서비스는 시작되지 않습니다.</blockquote>
+
+<p>그래서 판정만 받아두고 기다리는 집이 많더라고요. 저희 이웃도 두 달 넘게 기다렸다고 했습니다.</p>
+
+<h2>돌보미가 하는 일과 안 하는 일</h2>
+
+<p>여기서 마찰이 제일 많이 생깁니다. 범위를 미리 알고 시작하는 게 서로 편해요.</p>
+
+<h3>하는 일</h3>
+
+<p>아이 등하원과 놀이, 식사 챙기기, 숙제 봐주기까지가 기본입니다. 아이와 관련된 간단한 정리도 들어갑니다.</p>
+
+<p>영아종일제는 범위가 더 넓습니다. 이유식과 목욕, 낮잠 재우기 같은 돌봄이 포함돼요.</p>
+
+<h3>안 하는 일</h3>
+
+<p>어른 식사 준비나 집안 청소는 대상이 아닙니다. 아이와 무관한 심부름도 마찬가지예요.</p>
+
+<p>학습지 교사처럼 정식으로 가르치는 일도 범위 밖입니다. 숙제를 옆에서 봐주는 정도까지입니다.</p>
+
+<h2>결제와 정산은 어떻게 되나요?</h2>
+
+<p>이용한 시간만큼 정산합니다. 정부지원금은 국민행복카드로 결제되고 본인 부담분은 따로 나갑니다.</p>
+
+<p>서비스 시작과 종료를 앱으로 찍는 방식이라 기록이 남습니다. 실제로 온 시간과 결제 시간이 어긋나면 나중에 정정이 어려워요.</p>
+
+<blockquote>정부지원 시간에는 연간 한도가 있습니다. 한도를 넘겨 쓰면 그 시간은 전액 본인 부담이 됩니다.</blockquote>
+
+<h2>대기를 줄이는 방법</h2>
+
+<div style="background:#eff6ff;border-left:5px solid #1e3a8a;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#1e3a8a" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+    </svg>
+    <strong style="font-size:16px;color:#1e3a8a;">순번을 앞당기는 현실적인 방법</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>시간대를 넓게 적습니다</b> 특정 한 시간만 고집하면 매칭이 잘 안 됩니다</div>
+    <div style="margin-bottom:8px;"><b>필요해지기 전에 신청</b> 소득 판정만 먼저 받아두면 나중에 바로 연계로 넘어갑니다</div>
+    <div><b>제공기관에 직접 문의</b> 앱에만 걸어두지 말고 지역 기관에 상황을 알려둡니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>시간대를 넓게</b> 특정 한 시간만 고집하면 매칭 확률이 떨어집니다</li>
+<li><b>미리 판정받기</b> 소득 판정을 먼저 끝내두면 필요할 때 바로 연계로 갑니다</li>
+<li><b>제공기관에 직접 문의</b> 앱에만 맡기지 말고 지역 기관에 상황을 알려둡니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>소득 판정과 돌보미 연계는 따로 굴러갑니다. 지금 당장 필요하지 않아도 판정은 미리 받아두는 게 낫습니다.</p>
+
+<p>저희는 아직 아이가 없어서 옆에서 듣기만 했습니다. 다들 대기 이야기를 제일 많이 하더라고요... 제도보다 사람이 부족한 거였어요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 아이돌봄서비스는 아이돌봄지원법에 근거한 여성가족부 사업입니다
+ · 유형은 시간제, 영아종일제, 질병감염아동지원, 기관연계로 나뉩니다
+ · 대상은 만 12세 이하 아동을 둔 양육공백 가정입니다
+ · 소득 구간은 기준 중위소득에 따라 가형·나형·다형·라형으로 나뉩니다
+ · 라형은 정부지원 없이 전액 본인 부담으로 이용합니다
+ · 신청 창구는 복지로 온라인과 행정복지센터입니다
+ · 정부지원금은 국민행복카드로 지급됩니다
+ · 소득 판정과 돌보미 연계는 별도 절차입니다
+ · 시간제 서비스에 가사 노동은 포함되지 않습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 2026년 가형·나형·다형의 기준 중위소득 비율
+ · 유형별 시간당 이용요금과 정부지원 비율
+ · 연간 정부지원 시간 한도
+ · 영아종일제 대상 아동의 월령 상한
+ · 지역별 돌보미 수급 상황과 평균 대기 기간
+ · 전업주부 가정의 이용 가능 범위 (지자체 운영 방식에 따라 다릅니다)
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희 이웃도 두 달 넘게 기다렸다고 했습니다"
+ · "아직 아이가 없어서 옆에서 듣기만 했는데"

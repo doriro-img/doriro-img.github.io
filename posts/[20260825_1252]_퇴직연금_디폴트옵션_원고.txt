@@ -1,0 +1,229 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 25일 12:52
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260825_1252]_퇴직연금_디폴트옵션\
+   ├── 📄 [원고 파일]: [20260825_1252]_퇴직연금_디폴트옵션_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-default.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260825_1252]_퇴직연금_디폴트옵션_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-default.html
+
+■ 제목: 퇴직연금 디폴트옵션 설정과 변경 방법. 안 하면 생기는 일과 상품 고르는 기준
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 퇴직연금디폴트옵션, 디폴트옵션설정, 디폴트옵션변경, 사전지정운용제도, DC형퇴직연금, TDF, 디폴트옵션단점, 퇴직연금운용지시, 디폴트옵션상품
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>퇴직연금 디폴트옵션 설정과 변경 방법. 안 하면 생기는 일과 상품 고르는 기준</p>
+
+<h2>지정만 해두고 잊어버린 사람이 제일 많습니다</h2>
+
+<p>퇴직연금 디폴트옵션은 정식 명칭이 <b>사전지정운용제도</b>입니다. 내가 운용 지시를 안 하고 있을 때 미리 정해둔 상품으로 굴러가게 하는 장치예요. 방치된 적립금이 이자도 거의 없이 잠겨 있던 문제를 고치려고 나왔습니다.</p>
+
+<p>저도 회사에서 서류 돌릴 때 대충 골라놓고 몇 년을 잊고 있었더라고요.</p>
+
+<p>그게 제일 흔한 실수다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">대상 제도</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">DC형과 IRP</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">회사가 운용하는 DB형은 해당하지 않습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 20h16" /><path d="M7 20V11M12 20V6M17 20v-6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">작동 방식</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">지시가 없을 때만 발동</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">내가 직접 운용 지시를 하면 그쪽이 우선합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3l8 3v6c0 4.5-3.2 8.2-8 9-4.8-.8-8-4.5-8-9V6l8-3z" /><path d="M9 12l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">상품 범위</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">승인된 상품군에서만</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">아무 상품이나 되는 게 아니라 심의를 거친 포트폴리오입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>DC형과 IRP</b> 가입자가 직접 굴리는 제도만 해당하고 DB형은 빠집니다</li>
+<li><b>지시가 없을 때만 발동</b> 내가 직접 운용 지시를 하면 그쪽이 우선합니다</li>
+<li><b>승인된 상품군</b> 심의를 거친 포트폴리오 안에서만 고를 수 있습니다</li>
+</ul>
+
+<h2>디폴트옵션을 안 하면 어떻게 되나요?</h2>
+
+<p>돈이 사라지지는 않습니다. 대신 아무 데도 안 굴러갑니다.</p>
+
+<p>운용 지시도 없고 디폴트옵션 지정도 없으면 적립금이 대기성 자금으로 남습니다. 이자가 거의 붙지 않는 상태로 해가 지나가는 거예요.</p>
+
+<h3>발동은 단번에 되지 않습니다</h3>
+
+<p>지정만 해뒀다고 바로 매수되는 게 아닙니다. 운용 지시가 없는 상태가 일정 기간 이어지고 통지 절차를 거친 뒤에 자동으로 편입됩니다.</p>
+
+<blockquote>디폴트옵션은 마지막 안전망입니다. 스스로 굴릴 생각이면 지정해두고 직접 지시하는 게 낫습니다.</blockquote>
+
+<h2>상품은 어떤 기준으로 고르나요?</h2>
+
+<p>사업자마다 위험도별로 상품군을 갖춰두고 있습니다. 크게 네 단계로 나뉩니다.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#047857;color:#fff;">
+<th style="padding:12px;text-align:left;">위험 등급</th>
+<th style="padding:12px;text-align:left;">주로 담기는 것</th>
+<th style="padding:12px;text-align:left;">맞는 사람</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">초저위험</td><td style="padding:12px;">원리금보장 상품 위주</td><td style="padding:12px;">은퇴가 코앞이라 원금이 우선인 경우</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">저위험</td><td style="padding:12px;">채권형 비중이 큰 혼합</td><td style="padding:12px;">변동을 크게 겪고 싶지 않은 경우</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">중위험</td><td style="padding:12px;">주식과 채권을 섞은 밸런스드</td><td style="padding:12px;">은퇴까지 10년 이상 남은 경우</td></tr>
+<tr><td style="padding:12px;background:#ecfdf5;font-weight:700;">고위험</td><td style="padding:12px;">주식 비중이 높은 TDF·펀드</td><td style="padding:12px;">기간이 길고 변동을 견딜 수 있는 경우</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>초저위험</b> 원리금보장 위주라 은퇴가 가까운 사람에게 맞습니다</li>
+<li><b>중위험</b> 주식과 채권을 섞은 형태로 은퇴까지 10년 이상 남았을 때 봅니다</li>
+<li><b>고위험</b> 주식 비중이 높아 기간이 길고 변동을 견딜 수 있어야 합니다</li>
+</ul>
+
+<h3>TDF는 숫자를 먼저 봅니다</h3>
+
+<p>TDF 이름 뒤에 붙은 숫자는 은퇴 예상 시점입니다. 2045라면 그 무렵 은퇴한다고 보고 위험을 줄여가는 구조예요.</p>
+
+<p>내 은퇴 시점보다 훨씬 이른 숫자를 고르면 필요 이상으로 보수적으로 굴러갑니다. 반대로 너무 먼 숫자면 은퇴 직전까지 주식 비중이 높게 남습니다.</p>
+
+<h2>설정과 변경은 어디서 하나요?</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="4" width="18" height="13" rx="2" /><path d="M8 21h8M12 17v4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">사업자 앱 접속</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">퇴직연금을 맡긴 은행·증권·보험사 앱에서 처리합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><rect x="3" y="4" width="18" height="17" rx="2" /><path d="M8 2v4M16 2v4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">투자성향 진단</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">진단 결과보다 위험한 상품은 선택이 막힙니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z" /><path d="M14 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상품 지정</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">하나만 고를 수 있습니다. 여러 개를 섞어 담지 못합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 12a9 9 0 0 1 15-6.7L21 8" /><path d="M21 3v5h-5" /><path d="M21 12a9 9 0 0 1-15 6.7L3 16" /><path d="M3 21v-5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">변경은 언제든</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">횟수 제한이 없습니다. 상황이 바뀌면 다시 고르면 됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>사업자 앱에서 처리</b> 퇴직연금을 맡긴 금융회사 앱이나 홈페이지에서 합니다</li>
+<li><b>투자성향 진단이 먼저</b> 진단 결과보다 위험한 상품은 선택 자체가 막힙니다</li>
+<li><b>변경은 횟수 제한 없음</b> 상황이 바뀌면 언제든 다시 고를 수 있습니다</li>
+</ul>
+
+<h2>많이 하는 실수 세 가지</h2>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">여기서 손해가 납니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>무조건 초저위험 선택</b> 원금은 지키지만 물가만큼도 못 따라가는 경우가 생깁니다</div>
+    <div style="margin-bottom:8px;"><b>지정만 하고 방치</b> 은퇴가 가까워졌는데 고위험으로 계속 굴러갑니다</div>
+    <div><b>수수료 확인 안 함</b> 같은 유형이라도 총보수가 다릅니다. 오래 굴릴수록 차이가 커집니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>무조건 초저위험</b> 원금은 지키지만 물가 상승을 못 따라가는 경우가 생깁니다</li>
+<li><b>지정만 하고 방치</b> 은퇴가 가까워졌는데 고위험 상품으로 계속 굴러갑니다</li>
+<li><b>수수료 미확인</b> 같은 유형이라도 총보수가 달라 오래 굴릴수록 차이가 커집니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>디폴트옵션은 안 굴러가는 돈을 막아주는 장치이지 알아서 불려주는 장치가 아닙니다. 지정해두고 일 년에 한 번은 열어보세요.</p>
+
+<p>저희도 작년에 아내 계좌를 같이 열어봤는데 몇 년째 초저위험에 그대로 있더라고요... 그날 바로 바꿨습니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 디폴트옵션의 정식 명칭은 사전지정운용제도입니다
+ · 적용 대상은 DC형 퇴직연금과 IRP이고 DB형은 대상이 아닙니다
+ · 가입자가 직접 운용 지시를 하면 디폴트옵션보다 우선합니다
+ · 상품은 승인된 포트폴리오 안에서 하나만 지정할 수 있습니다
+ · 위험 등급은 초저위험·저위험·중위험·고위험으로 나뉩니다
+ · TDF 이름 뒤 숫자는 은퇴 예상 시점을 뜻하고 시간이 갈수록 위험자산 비중을 줄입니다
+ · 디폴트옵션 지정 상품은 횟수 제한 없이 변경할 수 있습니다
+ · 투자성향 진단 결과보다 위험한 상품은 선택이 제한됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 운용 지시가 없을 때 디폴트옵션이 발동하기까지의 정확한 대기 기간과 통지 절차 일수
+ · 사업자별 승인 상품 목록과 각 상품의 총보수
+ · 위험 등급별 과거 수익률
+ · 디폴트옵션 편입 이후 중도 매도 시 발생하는 비용
+ · 원리금보장 상품의 적용 금리
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "회사에서 서류 돌릴 때 대충 골라놓고 몇 년을 잊고 있었더라고요"
+ · "작년에 아내 계좌를 같이 열어봤는데 몇 년째 초저위험에 그대로 있더라고요"

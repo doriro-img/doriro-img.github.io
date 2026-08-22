@@ -1,0 +1,258 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 27일 12:18
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260827_1218]_대환대출_갈아타기\
+   ├── 📄 [원고 파일]: [20260827_1218]_대환대출_갈아타기_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-swaploan.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260827_1218]_대환대출_갈아타기_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-swaploan.html
+
+■ 제목: 대출 갈아타기 조건과 단점 정리. 금리만 보고 옮기면 손해 보는 이유
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 대환대출, 대출갈아타기, 신용대출갈아타기, 주택담보대출갈아타기, 전세대출갈아타기, 중도상환수수료, 대환대출인프라, DSR, 대출조건
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>대출 갈아타기 조건과 단점 정리. 금리만 보고 옮기면 손해 보는 이유</p>
+
+<h2>금리 차이보다 먼저 볼 숫자가 있습니다</h2>
+
+<p>대출 갈아타기는 앱에서 몇 분이면 끝납니다. 그래서 <b>0.3%포인트 낮다고 바로 옮기는</b> 경우가 많아요. 그런데 이자만 계산하면 절반만 본 겁니다.</p>
+
+<p>옮기는 데도 돈이 듭니다. 중도상환수수료와 부대비용을 빼고 나면 남는 게 없는 경우가 생기더라고요.</p>
+
+<p>계산을 안 하면 그냥 갈아탄 기분만 남는다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M3 8h14l-3-3M21 16H7l3 3" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">계산 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">아끼는 이자</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">남은 기간과 남은 원금을 곱해야 실제 금액이 나옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M8 12h8" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">계산 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">중도상환수수료</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">대출을 받은 지 얼마 안 됐을수록 많이 붙습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z" /><path d="M14 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">계산 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">부대비용</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">담보대출은 근저당 설정과 인지세가 따라옵니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>아끼는 이자</b> 금리 차이에 남은 원금과 남은 기간을 곱해야 실제 금액이 나옵니다</li>
+<li><b>중도상환수수료</b> 대출 실행 후 얼마 안 됐을수록 많이 붙습니다</li>
+<li><b>부대비용</b> 담보대출은 근저당 설정 비용과 인지세가 따라붙습니다</li>
+</ul>
+
+<h2>신용대출 갈아타기 조건은 어떻게 되나요?</h2>
+
+<p>대환대출 인프라를 통하면 앱 안에서 비교하고 옮길 수 있습니다. 다만 아무 때나 되는 건 아니에요.</p>
+
+<h3>기간 제한이 붙습니다</h3>
+
+<p>대출을 실행하고 일정 기간이 지나야 갈아타기가 열립니다. 받자마자 옮기는 건 막혀 있어요.</p>
+
+<p>한 번 갈아탄 뒤에도 같은 제한이 다시 적용됩니다. 금리가 계속 내려간다고 매달 옮길 수는 없습니다.</p>
+
+<h3>연체가 있으면 안 됩니다</h3>
+
+<p>진행 중인 연체가 있으면 심사에서 막힙니다. 갈아타기는 새 대출을 받는 절차라서 그렇습니다.</p>
+
+<p>소득 서류도 다시 봅니다. 처음 대출받을 때보다 소득이 줄었으면 한도가 깎일 수 있어요.</p>
+
+<h2>주택담보대출은 조건이 더 까다롭습니다</h2>
+
+<p>담보를 다시 평가하고 지금 규제를 새로 적용합니다. 예전 조건이 그대로 넘어가지 않아요.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#047857;color:#fff;">
+<th style="padding:12px;text-align:left;">확인 항목</th>
+<th style="padding:12px;text-align:left;">왜 문제가 되나</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">담보 재평가</td><td style="padding:12px;">집값이 내렸으면 빌릴 수 있는 금액이 줄어듭니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">현행 규제 적용</td><td style="padding:12px;">지금 기준의 소득 대비 상환 한도를 다시 계산합니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">정책대출 여부</td><td style="padding:12px;">디딤돌이나 특례 상품은 대환 대상에서 빠지는 경우가 있습니다</td></tr>
+<tr><td style="padding:12px;background:#ecfdf5;font-weight:700;">조건부 금리</td><td style="padding:12px;">급여이체나 카드 실적을 유지해야 그 금리가 유지됩니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>담보 재평가</b> 집값이 내렸으면 빌릴 수 있는 금액 자체가 줄어듭니다</li>
+<li><b>현행 규제 적용</b> 지금 기준으로 소득 대비 상환 한도를 다시 계산합니다</li>
+<li><b>조건부 금리</b> 급여이체나 카드 실적을 유지해야 그 금리가 유지됩니다</li>
+</ul>
+
+<h2>전세대출은 시점이 정해져 있습니다</h2>
+
+<p>전세대출 갈아타기는 계약과 묶여 있습니다. 아무 때나 옮기는 구조가 아니에요.</p>
+
+<p>보통 계약 기간의 특정 구간에서만 열립니다. 갱신 시점이 다가올 때 미리 알아보는 게 맞습니다.</p>
+
+<blockquote>보증기관이 붙는 상품이라 보증 조건까지 새로 봅니다. 금리만 낮다고 실행되지 않습니다.</blockquote>
+
+<h2>손익분기는 어떻게 잡나요?</h2>
+
+<p>단순합니다. 옮기는 데 드는 돈을 매달 아끼는 금액으로 나누면 됩니다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 20h16" /><path d="M7 20V11M12 20V6M17 20v-6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">월 절감액을 구합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">기존 상환액에서 새 상환액을 뺀 금액입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v10M9.5 9.5h5M9.5 14.5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">비용을 다 더합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">중도상환수수료와 인지세, 설정 비용을 합칩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">몇 달 만에 회수되나</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">비용을 월 절감액으로 나누면 회수 개월이 나옵니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><circle cx="12" cy="12" r="9" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">남은 기간과 비교</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">회수 개월이 남은 기간보다 짧아야 이득입니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>월 절감액</b> 기존 상환액에서 새 상환액을 뺀 금액을 먼저 구합니다</li>
+<li><b>비용 합계</b> 중도상환수수료와 인지세, 설정 비용을 전부 더합니다</li>
+<li><b>회수 개월과 남은 기간</b> 회수 개월이 남은 기간보다 짧아야 실제 이득입니다</li>
+</ul>
+
+<h2>신용점수에는 영향이 없나요?</h2>
+
+<p>갈아타기는 새 대출을 실행하고 기존 대출을 갚는 절차입니다. 그래서 대출 신청 기록이 남습니다.</p>
+
+<p>한두 번은 큰 문제가 아닙니다. 짧은 기간에 여러 곳을 돌면서 실행까지 반복하면 그때 불리해집니다.</p>
+
+<p>비교만 하는 조회는 다릅니다. 대환 앱에서 조건을 보는 단계는 점수에 영향을 주지 않습니다.</p>
+
+<h3>총부채가 줄어드는 건 아닙니다</h3>
+
+<p>갈아타기는 빚을 옮기는 것이지 줄이는 게 아닙니다. 원금이 그대로면 부채 규모도 그대로예요.</p>
+
+<p>여러 건을 하나로 묶는 통합 상품이라면 이야기가 조금 달라집니다. 건수가 줄면 관리가 쉬워지고 평가에서도 정리된 형태로 보입니다.</p>
+
+<h2>중도상환수수료를 아끼는 법</h2>
+
+<p>수수료는 대출을 받은 지 오래될수록 줄어듭니다. 보통 일정 기간이 지나면 아예 없어져요.</p>
+
+<p>그래서 면제 시점이 두세 달 앞이라면 그때까지 기다리는 게 이득인 경우가 많습니다. 조급하게 옮길 이유가 없습니다.</p>
+
+<blockquote>수수료 면제 시점은 대출 약정서에 적혀 있습니다. 앱 조회로도 남은 기간이 나옵니다.</blockquote>
+
+<h2>갈아타기의 단점</h2>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">옮기고 나서 알게 되는 것들</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>한도가 줄 수 있습니다</b> 지금 규제로 다시 계산해서 기존보다 적게 나오기도 합니다</div>
+    <div style="margin-bottom:8px;"><b>우대 조건 유지 부담</b> 급여이체와 카드 실적을 못 채우면 금리가 올라갑니다</div>
+    <div><b>기존 혜택 상실</b> 예전 상품에만 있던 조건은 다시 못 받습니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>한도 축소</b> 현행 규제로 다시 계산하면 기존보다 적게 나오기도 합니다</li>
+<li><b>우대 조건 유지 부담</b> 실적을 못 채우면 낮게 시작한 금리가 올라갑니다</li>
+<li><b>기존 혜택 상실</b> 예전 상품에만 있던 조건은 되돌릴 수 없습니다</li>
+</ul>
+
+<h2>정리하면</h2>
+
+<p>금리 차이만 보지 말고 비용을 나눠서 회수 개월을 구하세요. 남은 기간이 짧으면 안 옮기는 게 낫습니다.</p>
+
+<p>저희도 주담대를 한 번 알아봤다가 그냥 뒀습니다. 한도가 오히려 줄어드는 계산이 나오더라고요... 앱에서 비교만 해봐도 도움이 됩니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 온라인·원스톱 대환대출 인프라로 신용대출·주택담보대출·전세대출을 앱에서 갈아탈 수 있습니다
+ · 대출 실행 후 일정 기간이 지나야 갈아타기가 가능하고 갈아탄 뒤에도 같은 제한이 적용됩니다
+ · 진행 중인 연체가 있으면 심사에서 막힙니다
+ · 주택담보대출은 담보를 다시 평가하고 현행 규제를 새로 적용합니다
+ · 정책성 대출은 대환 대상에서 제외되는 경우가 있습니다
+ · 전세대출 갈아타기는 임대차 계약 기간의 특정 구간에서만 가능합니다
+ · 갈아타기 비용에는 중도상환수수료, 인지세, 근저당 설정 비용이 포함됩니다
+ · 조건부 우대금리는 급여이체나 카드 실적을 유지해야 적용됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 대출 실행 후 갈아타기가 가능해지는 정확한 경과 기간
+ · 중도상환수수료율과 계산 방식
+ · 현행 소득 대비 상환 한도 규제의 적용 비율
+ · 전세대출 갈아타기가 열리는 계약 기간 구간
+ · 대환 대상에서 제외되는 정책대출 목록
+ · 인지세와 근저당 설정 비용의 부담 주체
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "주담대를 한 번 알아봤다가 그냥 뒀습니다. 한도가 오히려 줄어드는 계산이 나오더라고요"

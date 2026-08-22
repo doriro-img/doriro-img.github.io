@@ -1,0 +1,256 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 8월 31일 12:39
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202608\[20260831_1239]_소액생계비대출\
+   ├── 📄 [원고 파일]: [20260831_1239]_소액생계비대출_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-smallloan.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260831_1239]_소액생계비대출_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-smallloan.html
+
+■ 제목: 소액생계비대출 신청 자격과 조건. 성실 상환하면 금리가 내려가는 구조와 부결 사유
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 소액생계비대출, 소액생계비대출신청, 소액생계비대출자격, 소액생계비대출조건, 서민금융진흥원, 서민금융통합지원센터, 금리인하, 부결사유, 재대출
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>소액생계비대출 신청 자격과 조건. 성실 상환하면 금리가 내려가는 구조와 부결 사유</p>
+
+<h2>싼 대출이 아니라 마지막 방어선입니다</h2>
+
+<p>소액생계비대출을 저금리 상품으로 소개하는 글이 많습니다. 정확하지 않아요. 시작 금리는 <b>결코 낮지 않습니다</b>.</p>
+
+<p>이 제도의 목적은 금리를 깎아주는 게 아닙니다. 불법 사금융으로 넘어가기 직전인 사람을 붙잡는 쪽이에요.</p>
+
+<p>그 차이를 알고 써야 한다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="9" /><path d="M12 7v10M9.5 9.5h5M9.5 14.5h5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">한도</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">처음엔 소액만</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">용도를 증빙하면 조금 더 나오는 구조입니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 18h16" /><path d="M20 6l-6 6-4-4-6 6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">금리</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">갚을수록 내려갑니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">성실상환과 금융교육 이수로 단계적으로 인하됩니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <circle cx="9" cy="8" r="3" /><circle cx="17" cy="10" r="2.2" /><path d="M3 20c0-3.3 2.7-5 6-5s6 1.7 6 5" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">절차</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">상담이 먼저입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">첫 이용은 대면 상담을 거쳐야 합니다. 예약이 필요합니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>처음엔 소액만</b> 자금 용도를 증빙하면 한도가 조금 더 나옵니다</li>
+<li><b>갚을수록 금리 인하</b> 성실상환과 금융교육 이수로 단계적으로 내려갑니다</li>
+<li><b>상담이 먼저</b> 첫 이용은 대면 상담을 거쳐야 하고 예약이 필요합니다</li>
+</ul>
+
+<h2>신청 자격과 조건은 어떻게 되나요?</h2>
+
+<p>소득이 적고 신용점수가 낮은 쪽을 위한 제도입니다. 조건이 반대로 걸린다는 게 특징이에요.</p>
+
+<h3>소득과 신용점수를 같이 봅니다</h3>
+
+<p>연소득이 정해진 기준 아래여야 하고 신용평점도 하위 구간이어야 합니다. 신용이 좋으면 오히려 대상이 아니에요.</p>
+
+<p>일반 대출은 신용이 좋아야 되는데 여기는 반대입니다. 이미 다른 데서 빌릴 수 있는 사람은 이 제도를 쓸 이유가 없다고 보는 거예요.</p>
+
+<h3>연체 중이어도 신청은 됩니다</h3>
+
+<p>연체가 있다고 무조건 막히지는 않습니다. 상담 과정에서 채무조정 쪽으로 연계되는 경우가 많아요.</p>
+
+<blockquote>이 제도의 진짜 기능은 상담입니다. 대출이 안 되더라도 다른 제도를 안내받고 나옵니다.</blockquote>
+
+<h2>금리는 어떻게 내려가나요?</h2>
+
+<p>처음 받을 때 금리가 가장 높습니다. 거기서 조건을 채울 때마다 깎입니다.</p>
+
+<div style="width:100%;overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:14px;">
+<thead>
+<tr style="background:#047857;color:#fff;">
+<th style="padding:12px;text-align:left;">조건</th>
+<th style="padding:12px;text-align:left;">효과</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">성실상환</td><td style="padding:12px;">일정 기간 밀리지 않고 갚으면 금리가 내려갑니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">금융교육 이수</td><td style="padding:12px;">온라인 교육을 들으면 추가로 인하됩니다</td></tr>
+<tr style="border-bottom:1px solid #e9ecef;"><td style="padding:12px;background:#ecfdf5;font-weight:700;">누적 적용</td><td style="padding:12px;">조건을 계속 채우면 단계적으로 더 내려갑니다</td></tr>
+<tr><td style="padding:12px;background:#ecfdf5;font-weight:700;">연체</td><td style="padding:12px;">한 번 밀리면 인하 실적이 끊깁니다</td></tr>
+</tbody>
+</table>
+</div>
+
+<ul>
+<li><b>성실상환</b> 일정 기간 밀리지 않고 갚으면 금리가 내려갑니다</li>
+<li><b>금융교육 이수</b> 온라인 교육을 들으면 추가 인하가 붙습니다</li>
+<li><b>연체하면</b> 인하 실적이 끊기고 재대출도 막힙니다</li>
+</ul>
+
+<h2>신청 방법은 어떻게 되나요?</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="4" width="18" height="13" rx="2" /><path d="M8 21h8M12 17v4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 01</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">앱에서 예약</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">서민금융진흥원 앱에서 상담 예약을 먼저 잡습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 21V9l8-6 8 6v12" /><path d="M9 21v-7h6v7" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 02</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">통합지원센터 방문</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">예약한 날짜에 가서 상담을 받습니다. 예약 없이는 어렵습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z" /><path d="M14 3v5h5M9 13h6M9 17h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 03</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">서류 준비</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신분증과 소득 증빙, 용도 증빙 서류를 챙깁니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M9 12l2 2 4-4" /><circle cx="12" cy="12" r="9" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">STEP 04</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">당일 입금</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">승인되면 그 자리에서 계좌로 들어오는 경우가 많습니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>앱에서 예약</b> 서민금융진흥원 앱으로 상담 예약을 먼저 잡습니다</li>
+<li><b>통합지원센터 방문</b> 예약한 날짜에 가서 대면 상담을 받습니다</li>
+<li><b>서류 준비</b> 신분증과 소득 증빙, 자금 용도 증빙을 챙겨 갑니다</li>
+</ul>
+
+<h3>재대출은 비대면으로도 됩니다</h3>
+
+<p>처음 한 번은 반드시 방문해야 합니다. 그 뒤에 성실하게 갚은 이력이 쌓이면 앱으로 재신청이 열려요.</p>
+
+<h2>부결되는 이유는 무엇인가요?</h2>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">여기서 막힙니다</strong>
+  </div>
+  <div style="font-size:14px;color:#374151;line-height:1.7;">
+    <div style="margin-bottom:8px;"><b>소득이나 신용점수가 기준을 벗어남</b> 위든 아래든 구간을 벗어나면 대상이 아닙니다</div>
+    <div style="margin-bottom:8px;"><b>이미 이용 중</b> 기존 대출을 다 갚지 않았다면 추가는 제한됩니다</div>
+    <div style="margin-bottom:8px;"><b>다른 정책자금 연체</b> 서민금융 상품을 연체 중이면 심사가 어려워집니다</div>
+    <div><b>용도 증빙 미비</b> 한도를 늘리려면 의료비나 주거비 증빙이 필요합니다</div>
+  </div>
+</div>
+
+<ul>
+<li><b>기준 구간을 벗어남</b> 소득이나 신용점수가 위든 아래든 벗어나면 대상이 아닙니다</li>
+<li><b>이미 이용 중</b> 기존 대출을 다 갚지 않았다면 추가는 제한됩니다</li>
+<li><b>용도 증빙 미비</b> 한도를 늘리려면 의료비나 주거비 증빙이 필요합니다</li>
+</ul>
+
+<h2>다른 서민금융 상품과 무엇이 다른가요?</h2>
+
+<p>서민금융진흥원이 다루는 상품이 여러 개입니다. 소액생계비대출은 그중 가장 문턱이 낮은 자리예요.</p>
+
+<h3>햇살론과 비교하면</h3>
+
+<p>햇살론 계열은 금액이 더 크고 소득 증빙 요건도 까다롭습니다. 직장이 있고 소득이 확인되는 사람에게 맞아요.</p>
+
+<p>소액생계비대출은 반대입니다. 금액이 작은 대신 소득이 불안정해도 상담으로 길을 찾습니다.</p>
+
+<h3>먼저 확인해볼 것</h3>
+
+<p>서민금융진흥원 앱에서 맞춤대출 조회를 돌려보세요. 조건에 맞는 상품이 한 번에 나옵니다.</p>
+
+<p>더 낮은 금리 상품이 걸리면 그쪽이 먼저입니다. 소액생계비대출은 다른 게 다 안 될 때 보는 자리라고 생각하는 게 맞더라고요.</p>
+
+<h2>갚기 어려워졌다면</h2>
+
+<p>연체를 방치하는 게 가장 나쁩니다. 이 제도는 상환이 어려워졌을 때 연계할 창구가 붙어 있어요.</p>
+
+<p>같은 기관에서 채무조정 상담을 받을 수 있습니다. 신용회복위원회로 넘어가는 길도 안내해줍니다.</p>
+
+<p>저희도 이런 제도가 있다는 걸 몇 해 전에 알았습니다. 급할 때 어디로 가야 하는지 아는 것만으로도 다르더라고요.</p>
+
+<h2>정리하면</h2>
+
+<p>금리가 싼 상품이 아니라 사금융을 막는 제도입니다. 다른 곳에서 빌릴 수 있다면 그쪽을 먼저 보세요.</p>
+
+<p>대신 갈 데가 없을 때는 여기가 맞습니다. 상담만 받아도 다른 제도를 안내받을 수 있어요... 혼자 알아보는 것보다 훨씬 빠릅니다 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 소액생계비대출은 서민금융진흥원이 운영하는 정책 서민금융 상품입니다
+ · 대상은 연소득과 신용평점이 정해진 기준 구간에 드는 사람입니다
+ · 신용이 좋으면 대상이 아니며 다른 제도로 안내됩니다
+ · 최초 한도는 소액이고 의료비·주거비 등 용도를 증빙하면 한도가 늘어납니다
+ · 첫 이용은 서민금융통합지원센터 대면 상담을 거쳐야 하고 예약이 필요합니다
+ · 성실상환 실적과 금융교육 이수로 금리가 단계적으로 인하됩니다
+ · 연체하면 금리 인하 실적이 끊기고 재대출이 제한됩니다
+ · 성실상환 이력이 쌓이면 재대출을 비대면으로 신청할 수 있습니다
+ · 상환이 어려워지면 같은 기관에서 채무조정 상담으로 연계됩니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 신청 자격이 되는 연소득 상한과 신용평점 구간
+ · 최초 대출 한도와 용도 증빙 시 최대 한도
+ · 최초 적용 금리와 인하 후 최저 금리
+ · 금리 인하에 필요한 성실상환 기간
+ · 대출 만기와 거치 기간
+ · 재대출 신청이 가능해지는 상환 실적 기준
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 이런 제도가 있다는 걸 몇 해 전에 알았습니다"
