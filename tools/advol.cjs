@@ -111,9 +111,15 @@ async function volume(keywords, { onProgress } = {}) {
           pc: cnt(row.monthlyPcQcCnt),
           mo: cnt(row.monthlyMobileQcCnt),
           comp: row.compIdx || '',
+          // 광고 클릭수. 애드센스 수익은 노출이 아니라 클릭에서 나온다.
+          clk: (parseFloat(row.monthlyAveMobileClkCnt) || 0) + (parseFloat(row.monthlyAvePcClkCnt) || 0),
           depth: row.plAvgDepth ?? null,
         };
         rec.total = rec.pc + rec.mo;
+        // CTR 은 총클릭 / 총검색이다. PC CTR 과 모바일 CTR 을 더하면 이중계산이 된다.
+        // 검색량이 "< 10"으로 가려진 키워드는 분모가 가짜라 CTR 이 100%% 를 넘어버린다.
+        // 표본이 작으면 아예 판정하지 않는다.
+        rec.ctr = rec.total >= 100 ? (rec.clk / rec.total) * 100 : null;
         raw.set(n, rec);
         if (want.has(n)) out.set(want.get(n), rec);
       }

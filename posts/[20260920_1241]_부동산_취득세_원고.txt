@@ -1,0 +1,279 @@
+════════════════════════════════════════════════════════════
+ 티스토리 [HTML] 모드에 통째로 붙여넣기 — 도식까지 한 번에
+════════════════════════════════════════════════════════════
+
+■ 예약 발행 일시: 2026년 9월 20일 12:41
+
+📂 [다운로드 업로드 폴더]: C:\Users\park-\Downloads\블로그원고_202609\[20260920_1241]_부동산_취득세\
+   ├── 📄 [원고 파일]: [20260920_1241]_부동산_취득세_원고.txt
+   └── 🖼️ [썸네일 매칭]: tc-acqtax.png
+
+💾 [깃 레포 백업/빌드 경로]
+   ├── 📄 원고 백업: C:\dev\blog-cdn\posts\[20260920_1241]_부동산_취득세_원고.txt
+   └── 🌐 썸네일 소스: C:\dev\blog-cdn\art\tc-acqtax.html
+
+■ 제목: 부동산 취득세율 구간과 납부기한. 생애최초 감면과 카드 납부 정리
+■ 카테고리: 금융 및 생활 경제
+■ 태그: 부동산취득세, 부동산취득세율, 부동산취득세감면, 부동산취득세계산기, 생애최초취득세, 취득세납부기한, 위택스, 농특세, 지방교육세
+
+────────────────────────────────────────────────────────────
+▼▼▼ 여기서부터 복사 ▼▼▼
+
+<p>부동산 취득세율 구간과 납부기한. 생애최초 감면과 카드 납부 정리</p>
+
+<h2>등기하려면 먼저 내야 합니다</h2>
+
+<p>부동산 취득세는 집이나 땅을 산 뒤 60일 안에 내는 지방세입니다. 답부터 적으면 이 세금을 안 내면 소유권 이전 등기가 안 됩니다. 잔금 치르고 등기까지 가는 길에 반드시 거치는 관문이에요.</p>
+
+<p>저희도 이사하면서 이 절차를 밟았는데요. 법무사가 대행해줘서 흐름을 잘 모르고 지나갔더라고요.</p>
+
+<p>알고 보니 세금이 세 개나 붙었다.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="5" width="18" height="16" rx="2" /><path d="M8 3v4M16 3v4M3 11h18" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">기 한</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">취득일부터 60일입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">잔금을 치른 날이나 등기일 중 빠른 날부터 셉니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 2v20M17 6H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">세 율</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">가격과 주택 수로 갈립니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">주택 가격 구간과 보유 주택 수에 따라 세율이 달라집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 13h6" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">부 가 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">세 가지가 함께 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">취득세에 지방교육세와 농어촌특별세가 더해집니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M12 3 2 20h20L12 3z" /><path d="M12 10v4M12 17h.01" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">가 산 세</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">늦으면 가산세가 붙습니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신고와 납부를 모두 늦추면 두 가지 가산세가 함께 나옵니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>납부 기한</b> 잔금일과 등기일 중 빠른 날부터 60일입니다</li>
+<li><b>세율</b> 주택 가격 구간과 보유 주택 수에 따라 달라집니다</li>
+<li><b>부가되는 세금</b> 지방교육세와 농어촌특별세가 함께 붙습니다</li>
+<li><b>가산세</b> 신고와 납부가 늦으면 두 가지 가산세가 나옵니다</li>
+</ul>
+
+<h2>부동산 취득세율은 어떻게 정해집니까?</h2>
+
+<p>사는 대상과 사는 사람의 상황을 같이 봅니다. 같은 집이어도 사람마다 세금이 달라져요.</p>
+
+<h3>주택은 가격 구간으로 나뉩니다</h3>
+
+<p>1주택자가 사는 주택은 가격이 낮을수록 세율이 낮습니다. 구간 사이는 계단이 아니라 완만하게 이어지는 구조예요.</p>
+
+<p>일정 가격을 넘으면 상한 세율이 그대로 적용됩니다. 그 위로는 더 올라가지 않습니다.</p>
+
+<h3>다주택과 법인은 중과됩니다</h3>
+
+<p>이미 집이 있는 상태에서 또 사면 세율이 크게 올라갑니다. 조정대상지역인지도 함께 봅니다.</p>
+
+<p>법인이 주택을 사면 별도 중과세율이 적용됩니다. 개인과 계산이 완전히 달라요.</p>
+
+<div style="overflow-x:auto;margin:24px 0;">
+<table style="width:100%;border-collapse:collapse;font-size:15px;">
+  <thead>
+    <tr style="background:#047857;color:#fff;">
+      <th style="padding:12px;text-align:left;">취득 원인</th>
+      <th style="padding:12px;text-align:left;">특징</th>
+      <th style="padding:12px;text-align:left;">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매매</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">가격과 주택 수로 결정</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">가장 흔한 경우</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">상속</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">별도 세율 적용</td>
+      <td style="padding:12px;border-bottom:1px solid #e9ecef;">무주택 감면 있음</td>
+    </tr>
+    <tr style="background:#ecfdf5;">
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">증여</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">매매보다 높음</td>
+      <td style="padding:12px;border-bottom:1px solid #d1fae5;">조정지역 중과</td>
+    </tr>
+    <tr>
+      <td style="padding:12px;">원시취득</td>
+      <td style="padding:12px;">신축 건물</td>
+      <td style="padding:12px;">별도 세율</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<ul>
+<li><b>매매</b> 주택 가격과 보유 주택 수로 세율이 결정됩니다</li>
+<li><b>상속</b> 별도 세율이 적용되고 무주택자 감면이 있습니다</li>
+<li><b>증여</b> 매매보다 세율이 높고 조정대상지역은 중과됩니다</li>
+</ul>
+
+<blockquote>주택 수를 셀 때 분양권과 입주권, 주거용 오피스텔이 포함되는 경우가 있습니다. 계약 전에 확인하세요.</blockquote>
+
+<h2>부동산 취득세 감면은 누가 받습니까</h2>
+
+<p>생애최초로 집을 사는 경우가 대표적입니다. 조건이 붙습니다.</p>
+
+<p>본인과 배우자가 모두 주택을 소유한 적이 없어야 합니다. 취득하는 주택의 가격 상한도 있어요.</p>
+
+<div style="background:#ecfdf5;border-left:5px solid #047857;border-radius:0 12px 12px 0;padding:20px 22px;margin:24px 0;">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+      <circle cx="12" cy="12" r="9" /><path d="M12 8h.01M11 12h1v4h1" />
+    </svg>
+    <strong style="font-size:16px;color:#047857;">감면받고 팔면 추징됩니다</strong>
+  </div>
+  <p style="margin:0;font-size:15px;color:#374151;line-height:1.6;">생애최초 감면에는 실거주 의무가 붙습니다. 정해진 기간 안에 입주하지 않거나 팔아버리면 감면받은 세액을 다시 내야 합니다.</p>
+</div>
+
+<h3>출산과 신혼부부 감면도 있습니다</h3>
+
+<p>아이를 낳은 가구가 집을 사면 감면을 받는 제도가 있습니다. 지자체 조례로 운영되기도 해요.</p>
+
+<p>중복 적용은 대개 안 됩니다. 유리한 하나를 골라야 합니다.</p>
+
+<h3>과세표준은 실거래가입니다</h3>
+
+<p>예전에는 시가표준액으로 계산하던 시절이 있었습니다. 지금은 실제로 주고받은 금액이 기준이에요.</p>
+
+<p>증여는 시가인정액을 씁니다. 매매 사례가나 감정가액을 참고해 정합니다.</p>
+
+<p>상속은 시가표준액을 쓰는 경우가 남아 있습니다. 취득 원인마다 기준이 달라 헷갈리기 쉽습니다.</p>
+
+<h3>부담부증여는 둘로 나눠 계산합니다</h3>
+
+<p>빚을 같이 넘기는 증여를 부담부증여라고 합니다. 빚만큼은 매매로 보고 나머지는 증여로 봅니다.</p>
+
+<p>두 부분에 각각 다른 세율이 적용됩니다. 계산이 복잡해 전문가 상담이 필요할 수 있어요.</p>
+
+<h2>납부는 어떻게 합니까</h2>
+
+<p>위택스나 지자체 세무과에서 신고하고 냅니다. 법무사가 대행하는 경우가 많아요.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;width:100%;margin:24px 0;">
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="5" y="2" width="14" height="20" rx="2" /><path d="M10 18h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">신 고</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">신고와 납부가 한 세트입니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">신고서를 내고 고지된 금액을 기한 안에 납부합니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <rect x="3" y="6" width="18" height="13" rx="2" /><path d="M3 10h18M7 15h4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">카 드</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">카드 납부가 됩니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">지방세라 수수료가 없고 할부도 이용할 수 있습니다</p>
+  </div>
+
+  <div style="background:#f8f9fa;border:1px solid #e9ecef;border-top:4px solid #047857;border-radius:12px;padding:20px;">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round">
+        <path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2z" /><path d="M15 3v5h5M9 14l2 2 4-4" />
+      </svg>
+      <span style="background:#ecfdf5;color:#047857;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;">영 수 증</span>
+    </div>
+    <strong style="display:block;font-size:16px;color:#212529;margin-bottom:8px;">등기에 필요합니다</strong>
+    <p style="margin:0;font-size:14px;color:#495057;line-height:1.5;">납부확인서가 있어야 소유권 이전 등기가 진행됩니다</p>
+  </div>
+
+</div>
+
+<ul>
+<li><b>신고와 납부</b> 신고서를 내고 기한 안에 고지 금액을 납부합니다</li>
+<li><b>카드 납부</b> 지방세라 수수료가 없고 할부도 가능합니다</li>
+<li><b>납부확인서</b> 소유권 이전 등기에 필요한 서류입니다</li>
+</ul>
+
+<p>정확한 금액은 위택스 지방세 미리계산에서 확인할 수 있습니다. 계약서 금액을 넣으면 바로 나옵니다.</p>
+
+<p>잘못 낸 세금은 돌려받을 수 있습니다. 감면 요건을 뒤늦게 알았다면 경정청구를 하면 됩니다.</p>
+
+<p>다만 청구 기한이 정해져 있습니다. 오래 지나면 돌려받을 길이 막히니 서둘러 확인하세요.</p>
+
+<p>중도금이나 계약금 단계에서는 취득세가 나오지 않습니다. 잔금을 치른 시점부터 의무가 생깁니다.</p>
+
+<blockquote>취득가액을 실제보다 낮춰 신고하면 가산세와 함께 다른 세금까지 문제가 됩니다. 실거래가로 신고하세요.</blockquote>
+
+<h2>정리하면</h2>
+
+<p>잔금일부터 60일 안에 신고하고 납부하면 됩니다. 생애최초라면 감면 요건을 먼저 확인하고 실거주 의무도 같이 보세요.</p>
+
+<p>저는 법무사에게 맡기고 금액만 봤는데 항목을 뜯어보니 세 가지가 붙어 있더라고요... 위택스로 미리 계산해보세요 ㅎㅎ</p>
+
+<p>오늘도 긴 글 읽어주셔서 감사합니다. ^^</p>
+
+▲▲▲ 여기까지 ▲▲▲
+────────────────────────────────────────────────────────────
+
+■ 숫자·사실 출처 (작성일 기준 정리)
+ · 부동산 취득세는 지방세로 취득일부터 60일 이내에 신고 납부합니다
+ · 취득일은 잔금 지급일과 등기일 중 빠른 날을 기준으로 합니다
+ · 취득세를 납부해야 소유권 이전 등기가 가능합니다
+ · 주택 취득세율은 주택 가격 구간과 보유 주택 수에 따라 달라집니다
+ · 일정 가격 구간 사이에서는 세율이 완만하게 이어지는 구조가 적용됩니다
+ · 다주택자와 법인의 주택 취득에는 중과세율이 적용됩니다
+ · 조정대상지역 여부가 세율에 영향을 줍니다
+ · 취득세에 지방교육세와 농어촌특별세가 함께 부과됩니다
+ · 신고와 납부가 모두 늦으면 신고불성실 가산세와 납부지연 가산세가 부과됩니다
+ · 매매 상속 증여 원시취득에 따라 세율 체계가 다릅니다
+ · 주택 수 계산에 분양권 입주권 주거용 오피스텔이 포함될 수 있습니다
+ · 생애최초 주택 구입자는 취득세 감면을 받을 수 있습니다
+ · 생애최초 감면에는 실거주 의무가 있으며 위반 시 추징됩니다
+ · 출산 가구와 신혼부부 대상 감면 제도가 별도로 운영됩니다
+ · 지방세는 카드로 납부해도 수수료가 없습니다
+ · 위택스 지방세 미리계산으로 예상 세액을 확인할 수 있습니다
+
+■ 확인 필요 (본문에서 단정하지 않은 것)
+ · 주택 가격 구간별 취득세율 수치
+ · 다주택자와 법인의 중과세율
+ · 지방교육세와 농어촌특별세의 세율
+ · 생애최초 감면의 주택가액 상한과 감면 한도
+ · 생애최초 감면의 실거주 의무 기간
+ · 출산 가구 감면의 요건과 감면액
+ · 신고불성실과 납부지연 가산세의 요율
+
+■ 개인 경험 부분 (사실 확인 필요)
+ · "저희도 이사하면서 이 절차를 밟았는데요"
+ · "법무사가 대행해줘서 흐름을 잘 모르고 지나갔더라고요"
+ · "저는 법무사에게 맡기고 금액만 봤는데 항목을 뜯어보니 세 가지가 붙어 있더라고요"
