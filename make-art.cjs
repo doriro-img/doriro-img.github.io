@@ -35,7 +35,14 @@ const OUT = path.join(ROOT, String(now.getFullYear()), String(now.getMonth() + 1
     executablePath: CHROME,
     headless: 'new',
     args: ['--no-first-run', '--disable-extensions'],
-    defaultViewport: { width: 900, height: 600, deviceScaleFactor: 2 },
+    // 썸네일은 800x800 이면 충분하다. 티스토리 목록 썸네일이 300px 남짓이다.
+    // 2배로 구우면 1600x1600 · 평균 502KB 가 되는데 그만큼 쓸 데가 없다.
+    // 90편이면 44MB/월 이고 12개월이면 529MB — GitHub Pages 1GB 한도에 2년이면 닿는다.
+    //
+    // ★ 옛 본문 도식(b02-trend.png 같은)은 본문 폭 860~1100px 로 들어가므로 2배가 필요하다.
+    //   지금은 도식을 인라인 CSS 로 그리므로 해당 없다. 도식을 다시 만들 일이 생기면
+    //   이 값을 되돌리거나 썸네일 전용 옵션을 따로 둔다.
+    defaultViewport: { width: 900, height: 600, deviceScaleFactor: 1 },
   });
   const page = await browser.newPage();
 

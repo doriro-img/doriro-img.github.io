@@ -5,3 +5,16 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# 썸네일 PNG 는 티스토리에 직접 업로드하므로 CDN 서빙 대상이 아니다.
+# 대표이미지는 티스토리가 자기 서버에 올라온 이미지만 후보로 잡기 때문이다.
+# art/*.html + tools/tc_*.json 으로 언제든 재생성된다 (mk-tc.cjs → make-art.cjs).
+2026/*/tc-*.png
+2027/*/tc-*.png
+2028/*/tc-*.png
+
+# 예외 — 옛 원고가 CDN 주소로 직접 부르는 4장. 빼면 발행된 글의 이미지가 깨진다.
+!2026/*/tc-aircon.png
+!2026/*/tc-beolcho.png
+!2026/*/tc-ansangho.png
+!2026/*/tc-charye.png
